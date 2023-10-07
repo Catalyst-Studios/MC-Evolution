@@ -1,0 +1,10 @@
+ItemEvents.tooltip(event => {
+    event.add('forcecraft:time_torch', [Text.of('Disabled').red()])
+    event.add('ae2:spatial_anchor', [Text.of('Disabled').red()])
+    event.add('easy_villagers:auto_trader', [Text.of('Disabled').red()])
+    event.add('easy_villagers:iron_farm', [Text.of('Disabled').red()])
+    event.add('reliquary:alkahestry_tome', [Text.of('Disabled').red()])
+    event.add('energizedpower:time_controller', [Text.of('Disabled').red()])
+    event.add('energizedpower:weather_controller', [Text.of('Disabled').red()])
+    event.add('twilightforest:uncrafting_table', [Text.of('Disabled').red()])
+})

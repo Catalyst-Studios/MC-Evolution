@@ -11,8 +11,7 @@ WorldgenEvents.remove(event => {
       "railcraft:silver_ore",
       "railcraft:deepslate_silver_ore",
       "railcraft:zinc_ore",
-      "railcraft:deepslate_zinc_ore",
-
+      "railcraft:deepslate_zinc_ore"
     ];
   });
 });

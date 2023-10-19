@@ -8,10 +8,6 @@ WorldgenEvents.remove(event => {
       "railcraft:deepslate_tin_ore",
       "railcraft:zinc_ore",
       "railcraft:deepslate_zinc_ore"
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
-    ];
-  });
-});
+    ]
+  })
+})

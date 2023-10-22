@@ -1,0 +1,33 @@
+{
+  "type": "jamd:mining",
+  "generator": {
+    "type": "jamd:mining",
+    "settings": {
+      "biome": "jamd:mining",
+      "lakes": false,
+      "features": true,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:deepslate",
+          "height": 128
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 128
+        },
+        {
+          "block": "minecraft:dirt",
+          "height": 3
+        },
+        {
+          "block": "minecraft:grass_block",
+          "height": 1
+        }
+      ]
+    }
+  }
+}

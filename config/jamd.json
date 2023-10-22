@@ -1,0 +1,35 @@
+{
+  "general": {
+    "dynamicoreaddition": true,
+    "blacklistedores": [
+      "minecraft:ore_gold_deltas",
+      "minecraft:ore_infested",
+      "minecraft:ore_magma",
+      "minecraft:ore_gravel",
+      "minecraft:ore_soul_sand",
+      "minecraft:ore_gold_extra",
+      "minecraft:ore_gold_nether",
+      "minecraft:ore_quartz_deltas",
+      "minecraft:ore_gravel_nether",
+      "minecraft:ore_dirt",
+      "minecraft:ore_blackstone",
+      "minecraft:ore_andesite_upper",
+      "minecraft:ore_clay",
+      "enlightened_end:.*"
+    ],
+    "additionalores": [
+      "mekanism:osmium_ore",
+      "mekanism:fluorite_ore",
+      "forcecraft:power_ore",
+      "rftoolsbase:dimensionalshard_overworld",
+      "xycraft_world:kivi",
+      "xycraft_world:xychorium_ore_stone_blue",
+      "xycraft_world:xychorium_ore_stone_green",
+      "xycraft_world:xychorium_ore_stone_red",
+      "xycraft_world:xychorium_ore_stone_dark",
+      "xycraft_world:xychorium_ore_stone_light",
+      "xycraft_world:aluminum_ore_stone",
+      "ae2:sky_stone_block"
+    ]
+  }
+}

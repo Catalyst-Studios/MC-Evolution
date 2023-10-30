@@ -1,10 +1,10 @@
 ServerEvents.recipes( event => {
 // Action sheet
 	event.shapeless(
-		Item.of('action_packed_armor:action_sheet'),
+		Item.of('action_packed:action_sheet'),
 		[
 			'#forge:tools/hammers',
-			'2x action_packed_armor:action_ingot'
+			'2x action_packed:action_ingot'
 		])
 
 // Action ingot
@@ -16,11 +16,11 @@ ServerEvents.recipes( event => {
 		},
 		itemInput:{
 		  ingredient: {
-			item: 'action_packed_armor:action_dust'
+			item: 'action_packed:action_dust'
 		  }
 		},
 		output:{
-		  item: 'action_packed_armor:action_ingot'
+		  item: 'action_packed:action_ingot'
 		}
 	  });
 
@@ -33,7 +33,7 @@ ServerEvents.recipes( event => {
 			Ingredient.of('minecraft:lapis_block')
 		],
 		energy: '50000',
-		result: Item.of('action_packed_armor:action_dust')
+		result: Item.of('action_packed:action_dust')
 	  })
 // Action Dust infusion (though I don't really like it...too cheap)
 /*	  event.custom({
@@ -48,54 +48,54 @@ ServerEvents.recipes( event => {
 			}
 		},
 		output: {
-			item: 'action_packed_armor:action_dust'
+			item: 'action_packed:action_dust'
 		}
 	  })
 */
 
 // Armors
 	  event.shaped(
-		Item.of('action_packed_armor:aps_armor_helmet'),
+		Item.of('action_packed:aps_armor_helmet'),
 		[
 			'AAA',
 			'A A',
 			'   '
 		],
 		{
-			A: 'action_packed_armor:action_sheet'
+			A: 'action_packed:action_sheet'
 		}
 	  )
 	  event.shaped(
-		Item.of('action_packed_armor:aps_armor_chestplate'),
+		Item.of('action_packed:aps_armor_chestplate'),
 		[
 			'A A',
 			'AAA',
 			'AAA'
 		],
 		{
-			A: 'action_packed_armor:action_sheet'
+			A: 'action_packed:action_sheet'
 		}
 	  )
 	  event.shaped(
-		Item.of('action_packed_armor:aps_armor_leggings'),
+		Item.of('action_packed:aps_armor_leggings'),
 		[
 			'AAA',
 			'A A',
 			'A A'
 		],
 		{
-			A: 'action_packed_armor:action_sheet'
+			A: 'action_packed:action_sheet'
 		}
 	  )
 	  event.shaped(
-		Item.of('action_packed_armor:aps_armor_boots'),
+		Item.of('action_packed:aps_armor_boots'),
 		[
 			'   ',
 			'A A',
 			'A A'
 		],
 		{
-			A: 'action_packed_armor:action_sheet'
+			A: 'action_packed:action_sheet'
 		}
 	  )
 

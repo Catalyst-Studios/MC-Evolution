@@ -35,4 +35,14 @@ ServerEvents.recipes( event => {
 		energy: '2700000',
 		result: Item.of('powah:niotic_crystal_block')
 	}).id(`kubejs:energizing/niotic_crystal_block`)
+
+// Spirited Crystal Block
+	event.custom({
+		type: 'powah:energizing',
+		ingredients: [
+			Ingredient.of('minecraft:emerald_block')
+		],
+		energy: '9000000',
+		result: Item.of('powah:spirited_crystal_block')
+	}).id(`kubejs:energizing/spirited_crystal_block`)
 })

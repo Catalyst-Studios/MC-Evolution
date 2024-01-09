@@ -1,12 +1,12 @@
 ServerEvents.recipes((event) => {
   // 8x logs -> 4x chests through shaped crafting
   event.shaped("4x minecraft:chest", ["XXX", "X X", "XXX"], {
-    X: "#minecraft:logs",
+    X: "#minecraft:logs"
   });
   // 2x logs and 5x Iron Ingots -> 1x hopper through shaped crafting
   event.shaped("minecraft:hopper", ["TXT", "TXT", " T "], {
     T: "#forge:ingots/iron",
-    X: "#minecraft:logs",
+    X: "#minecraft:logs"
   });
   // 2x slabs -> 1x plank through shaped crafting
   event.forEachRecipe(

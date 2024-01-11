@@ -120,9 +120,25 @@
 			"item": "powah:uraninite_block"
 		}
 	},
-	"mysticalagriculture:nether_star": {
+	"mysticalagradditions:nether_star": {
 		"ingredient": {
 			"item": "compressedblocks:crated_nether_star"
 		}
+	},
+	"mysticalagriculture:manasteel": {
+		"ingredient": {
+			"item": "botania:manasteel_block"
+		}
+	},
+	"mysticalagriculture:elementium": {
+		"ingredient": {
+			"item": "botania:elementium_block"
+		}
+	},
+	"mysticalagradditions:gaia_spirit": {
+		"ingredient": {
+			"item": "mysticalagradditions:gaia_spirit_crux"
+		},
+		"crux": "mysticalagradditions:gaia_spirit_crux"
 	}
 }

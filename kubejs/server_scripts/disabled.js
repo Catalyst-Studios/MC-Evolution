@@ -1,0 +1,15 @@
+ServerEvents.recipes(catalyst => {
+    //catalyst.remove('forcecraft:infuser/convert_time_torch')
+    catalyst.remove('ae2:network/blocks/spatial_anchor')
+    catalyst.remove('easy_villagers:auto_trader')
+    catalyst.remove('easy_villagers:iron_farm')
+    //catalyst.remove('reliquary:alkahestry_tome')
+    catalyst.remove('energizedpower:crafting/time_controller')
+    catalyst.remove('energizedpower:crafting/weather_controller')
+    /*catalyst.remove('extradisks:disk/shaped/infinite_storage_disk')
+    catalyst.remove('extradisks:blocks/infinite_storage_block')
+    catalyst.remove('extradisks:part/infinite_storage_part')
+    catalyst.remove('extradisks:disk/shaped/infinite_fluid_storage_disk')
+    catalyst.remove('extradisks:part/infinite_fluid_storage_part')
+    catalyst.remove('extradisks:blocks/infinite_fluid_storage_block')*/
+})

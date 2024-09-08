@@ -3,7 +3,8 @@
     "minecraft",
     "kubejs",
     "mekanism",
-    "railcraft"
+    "railcraft",
+    "forcecraft"
   ],
   "priority_overrides": {},
   "stone_variants": [

@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mekanism_equipment_and_extras"
+	group: "799C57E4146F24A8"
+	id: "191CE144B7A053FF"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

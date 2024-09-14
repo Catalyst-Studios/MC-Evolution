@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "productive_bees"
+	group: "44E753EB6A5C541F"
+	id: "6C942D6BA7090A71"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

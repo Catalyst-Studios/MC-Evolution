@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "theurgy"
+	group: "7DB43C7557896446"
+	id: "6E7DE3824D41BB16"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

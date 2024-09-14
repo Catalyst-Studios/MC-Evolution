@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "evilcraft"
+	group: "7DB43C7557896446"
+	id: "79AD8C81D25E35E2"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

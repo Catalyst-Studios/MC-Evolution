@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "energized_power"
+	group: "799C57E4146F24A8"
+	id: "558E65AB78354674"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

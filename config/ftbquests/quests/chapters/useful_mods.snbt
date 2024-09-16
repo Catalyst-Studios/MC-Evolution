@@ -9,24 +9,6 @@
 	id: "4A53A54E581CD0B3"
 	images: [
 		{
-			color: 170
-			height: 6.0d
-			image: "tombstone:particle/casting"
-			rotation: 45.0d
-			width: 6.0d
-			x: -1.0d
-			y: -1.5d
-		}
-		{
-			color: 170
-			height: 6.0d
-			image: "tombstone:particle/casting"
-			rotation: 180.0d
-			width: 6.0d
-			x: -1.0d
-			y: -1.5d
-		}
-		{
 			height: 4.0d
 			image: "catalyst:textures/quest_images/useful_mods.png"
 			rotation: 0.0d
@@ -35,137 +17,116 @@
 			y: -7.0d
 		}
 		{
-			color: 16733525
+			color: 4849994
+			height: 9.0d
+			image: "xycraft_machines:textures/particles/soft.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			color: 6291808
 			height: 6.0d
-			image: "tombstone:particle/casting"
-			rotation: 45.0d
+			image: "xycraft_machines:textures/particles/soft.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			color: 2752554
+			height: 4.0d
+			image: "xycraft_machines:textures/particles/soft.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			color: 4194566
+			height: 9.0d
+			image: "xycraft_machines:textures/particles/soft.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			color: 6947338
+			height: 6.0d
+			image: "xycraft_machines:textures/particles/soft.png"
+			rotation: 0.0d
 			width: 6.0d
 			x: 6.0d
 			y: -1.5d
 		}
 		{
-			color: 43520
-			height: 6.0d
-			image: "tombstone:particle/casting"
-			rotation: 45.0d
-			width: 6.0d
-			x: -8.0d
+			color: 2490628
+			height: 4.0d
+			image: "xycraft_machines:textures/particles/soft.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 6.0d
 			y: -1.5d
 		}
 		{
-			color: 3408385
+			color: 66100
+			height: 9.0d
+			image: "xycraft_machines:textures/particles/soft.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			color: 132190
+			height: 6.0d
+			image: "xycraft_machines:textures/particles/soft.png"
+			order: 1
+			rotation: 0.0d
+			width: 6.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			color: 65832
 			height: 4.0d
-			image: "justdirethings:textures/entity/vortex1.png"
+			image: "xycraft_machines:textures/particles/soft.png"
 			order: 2
 			rotation: 0.0d
 			width: 4.0d
-			x: 6.0d
+			x: -1.0d
 			y: -1.5d
 		}
 		{
-			color: 2954550
-			height: 4.0d
-			image: "justdirethings:textures/entity/vortex1.png"
-			order: 2
-			rotation: 90.0d
-			width: 4.0d
-			x: -1.0d
-			y: 5.5d
+			color: 10754
+			height: 9.0d
+			image: "xycraft_machines:textures/particles/soft.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: -8.0d
+			y: -1.5d
 		}
 		{
-			color: 16712965
-			height: 5.0d
-			image: "tombstone:particle/soul"
+			color: 14851
+			height: 6.0d
+			image: "xycraft_machines:textures/particles/soft.png"
 			order: 1
 			rotation: 0.0d
-			width: 5.0d
-			x: 6.0d
-			y: -1.5d
-		}
-		{
-			color: 16733525
-			height: 6.0d
-			image: "tombstone:particle/casting"
-			rotation: 180.0d
-			width: 6.0d
-			x: 6.0d
-			y: -1.5d
-		}
-		{
-			color: 16057343
-			height: 6.0d
-			image: "tombstone:particle/casting"
-			rotation: 180.0d
-			width: 6.0d
-			x: -1.0d
-			y: 5.5d
-		}
-		{
-			color: 43520
-			height: 6.0d
-			image: "tombstone:particle/casting"
-			rotation: 180.0d
 			width: 6.0d
 			x: -8.0d
 			y: -1.5d
 		}
 		{
-			color: 2209025
-			height: 5.0d
-			image: "tombstone:particle/soul"
-			order: 1
-			rotation: 0.0d
-			width: 5.0d
-			x: -8.0d
-			y: -1.5d
-		}
-		{
-			height: 5.0d
-			image: "tombstone:particle/soul"
-			order: 1
-			rotation: 0.0d
-			width: 5.0d
-			x: -1.0d
-			y: -1.5d
-		}
-		{
-			color: 10240
+			color: 6657
 			height: 4.0d
-			image: "justdirethings:textures/entity/vortex1.png"
+			image: "xycraft_machines:textures/particles/soft.png"
 			order: 2
 			rotation: 0.0d
 			width: 4.0d
 			x: -8.0d
 			y: -1.5d
-		}
-		{
-			color: 82
-			height: 4.0d
-			image: "justdirethings:textures/entity/vortex1.png"
-			order: 5
-			rotation: 0.0d
-			width: 4.0d
-			x: -1.0d
-			y: -1.5d
-		}
-		{
-			color: 8454273
-			height: 5.0d
-			image: "tombstone:particle/soul"
-			order: 1
-			rotation: 0.0d
-			width: 5.0d
-			x: -1.0d
-			y: 5.5d
-		}
-		{
-			color: 16057343
-			height: 6.0d
-			image: "tombstone:particle/casting"
-			rotation: 45.0d
-			width: 6.0d
-			x: -1.0d
-			y: 5.5d
 		}
 	]
 	order_index: 1
@@ -912,7 +873,32 @@
 		}
 		{
 			dependencies: ["07B077F7F5D09FDF"]
+			icon: {
+				id: "torchmaster:megatorch"
+			}
 			id: "1D53BBEB966BAE77"
+			rewards: [{
+				id: "3DAED2CC53B433A3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "11BA8747685BCC62"
+					item: { count: 1, id: "torchmaster:megatorch" }
+					type: "item"
+				}
+				{
+					id: "00E96B1BF256D429"
+					item: { count: 1, id: "torchmaster:dreadlamp" }
+					type: "item"
+				}
+				{
+					id: "6FE8C0B114BBC8A5"
+					item: { count: 1, id: "torchmaster:feral_flare_lantern" }
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: -4.0d
 		}
@@ -1181,9 +1167,14 @@
 				id: "usefulslime:slime_chestplate"
 			}
 			id: "20AC765EB929F9F4"
+			rewards: [{
+				id: "5F56DFE7B557F175"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
-				id: "2D9CE61FC32E229B"
-				item: { components: { "ftbfiltersystem:filter": "mod(usefulslime)or(item(usefulslime:slime_helmet)item(usefulslime:slime_chestplate)item(usefulslime:slime_leggings)item(usefulslime:slime_boots))", "minecraft:custom_name": "\"Slime Armor\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "44E745BB1999710E"
+				item: { count: 1, id: "usefulslime:slime_boots" }
 				type: "item"
 			}]
 			x: -3.5d
@@ -1223,6 +1214,22 @@
 			}]
 			x: 2.0d
 			y: 5.5d
+		}
+		{
+			dependencies: ["3BB9BFE92909D42F"]
+			id: "622DB8CA3BE8663C"
+			rewards: [{
+				id: "4C256AEDA1124912"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5ABC59AD30FEFCF2"
+				item: { components: { "pocketstorage:psu_uuid": [I; 494458995, 1007177039, -1335550882, 1417591742 ] }, count: 1, id: "pocketstorage:psu_1" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
 		}
 	]
 }

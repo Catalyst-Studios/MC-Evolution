@@ -56,6 +56,8 @@
 	quest.0781A4C9B5ED15F5.title: "&3&lTool Belt"
 	quest.07B077F7F5D09FDF.quest_desc: ["In this section, we will talk about some &eblocks&r that will surely bring us joy when we craft them."]
 	quest.07B077F7F5D09FDF.title: "&l&eAmazing Blocks"
+	quest.09846E3BA8A6FF77.quest_subtitle: "abilities in the form of totems"
+	quest.09846E3BA8A6FF77.title: "&lEverlasting Abilities"
 	quest.0BB636E9C6105134.quest_desc: ["W.I.P"]
 	quest.0BB636E9C6105134.quest_subtitle: "Easy travel"
 	quest.0BB636E9C6105134.title: "&l&dWaystones"
@@ -156,7 +158,7 @@
 	quest.2B2C28707D222C78.quest_desc: [
 		"Moving items, fluids, gasses and energy is important. We have quite a variety of mods to ease this task."
 		""
-		"&ePipez&r, &aLaserio&r, &3AE2&r, &8Mekanism&r, &9Integrated Dynamics&r, &dModern Dynamics&r, &5Modular Routers&r and &cEnergized Power&r."
+		"&ePipez&r, &aLaserio&r, &3AE2&r, &8Mekanism&r, &4Super Factory Manager&r &9Integrated Dynamics&r, &dModern Dynamics&r, &5Modular Routers&r and &cEnergized Power&r."
 		""
 		"No matter which mod we use to move these things around, sometimes it will be important to filter which things we want to move."
 		""
@@ -164,7 +166,21 @@
 	]
 	quest.2B2C28707D222C78.quest_subtitle: "why move items manually?"
 	quest.2B2C28707D222C78.title: "&lLogistics"
-	quest.2C4B98E6014AC2DE.quest_desc: ["W.I.P"]
+	quest.2C4B98E6014AC2DE.quest_desc: [
+		"Trash cans for everything... Now we can start deleting everything we want!"
+		""
+		"Trash Cans mod will surely help us when doing mob farms, due to it's nature of &cvoiding&r everything it enters in it. Another thing to note, is that we can set a whitlist and blacklist of items and fluids to bin. I truly advise on you filtering this trash cans, things can take a bad turn if we don't set these correctly..."
+		""
+		"- &eItem Trash Can&r: As the name suggests, it can void any type of item without problem."
+		""
+		"- &bFluid Trash Can&r: Perfect to void any type of annoying fluid out of our storage and tanks!"
+		""
+		"- &cEnergy Trash Can&r: Voids any type of energy it enters, it should void RF, FE, Joules and EU, without any problem. Only use this trash can if necessary."
+		""
+		"And theres also an &dUltimate Trash Can&r, but I only use that one to flex for a while..."
+		""
+		"Mod created by: &bSuperMartijn642"
+	]
 	quest.2C4B98E6014AC2DE.quest_subtitle: "Don't bin System32 tho"
 	quest.2C4B98E6014AC2DE.title: "&l&4Trash Cans"
 	quest.2D31A67A30DD06D6.quest_desc: [
@@ -312,18 +328,20 @@
 	]
 	quest.3F7B44EB0D6342F7.quest_subtitle: "Tp, Homes and Mo'"
 	quest.3F7B44EB0D6342F7.title: "&lUseful Commands and Others"
+	quest.3FD7266D9F52DA0E.quest_subtitle: "Not an item importer"
+	quest.3FD7266D9F52DA0E.title: "&l&3Fluid Pumps"
 	quest.4364D54A37B97D40.quest_desc: [
 		"Resource generation is vital for this type of Modpacks."
 		""
 		"More important, without these we will not achieve our goal, even worse, fall into the pit of &cdespair&r..."
 		""
-		"But don't fret yet, we have &l&d2&r of the best mods to generate those materials easily and without much effort, so to speak."
+		"But don't fret yet, we have &l&d3&r of the best mods to generate those materials easily and without much effort, so to speak."
 		""
-		"&l&2Mystical Agriculture&r and &l&6Productive Bees&r!"
+		"&l&2Mystical Agriculture&r, &l&dHostile Neural Networks&r and &l&6Productive Bees&r!"
 		""
-		"Both mods are incredible, and i truly suggest you to do both mods if you don't want to suffer with very specific items."
+		"These mods are incredible, and i truly suggest you to do all of them if you don't want to suffer with very specific items."
 		""
-		"Which to choose early? I leave that up to &l&eyou&r my dearest player. Both options are recommended to achieve our goal quickly."
+		"Which to choose early? I leave that up to &l&eyou&r my dearest player. We have plenty options that are recommended to achieve our goal quickly."
 	]
 	quest.4364D54A37B97D40.quest_subtitle: "no more manual resource collection!"
 	quest.4364D54A37B97D40.title: "&lResource Generation"
@@ -426,6 +444,18 @@
 	]
 	quest.5F29A3544EF83EDC.quest_subtitle: "Building, but easy"
 	quest.5F29A3544EF83EDC.title: "&b&lBuilding Gadgets"
+	quest.604CB2266FDF4098.quest_desc: [
+		"Every single time I read and say the name &dEnderIO&r it brings me back so many good memories..."
+		""
+		"This mod is one of the classics by excellence."
+		""
+		"&lEnderIO&r mod adds a lot of new machines and stuff for us to unravel, but theres one item thats so coveted amongts it's many items... And thats the &6Staff of Travelling&r."
+		""
+		"This staff let's you travel short distances by only using it, but if we combine it with the &aTravel Anchors&r, we can teleport throughout our base in one of the easiest ways possible."
+		""
+		"Mod created by: &dCrazypants_Mc_The_Second"
+	]
+	quest.604CB2266FDF4098.title: "&l&dEnderIO"
 	quest.613B94C20D7E7072.quest_desc: [
 		"The mod &aUseful Slime&r adds very useful items, the &eSlime Sling&r being one of them."
 		""
@@ -441,6 +471,8 @@
 	]
 	quest.613B94C20D7E7072.quest_subtitle: "watch out for that tree..."
 	quest.613B94C20D7E7072.title: "&l&aUseful Slime"
+	quest.619DAE1E67930A91.quest_subtitle: "Travelling long distances"
+	quest.619DAE1E67930A91.title: "&l&dWaystones"
 	quest.622DB8CA3BE8663C.quest_desc: [
 		"The mod &6Pocket Storage&r will surely help us a lot when mining."
 		""
@@ -540,6 +572,8 @@
 	]
 	quest.69D6ACCAC3B91456.quest_subtitle: "In Need for Speed"
 	quest.69D6ACCAC3B91456.title: "&l&eTime In a Bottle"
+	quest.6A1F6F3694025B4A.quest_subtitle: "tiniest of all coals"
+	quest.6A1F6F3694025B4A.title: "&lTiny (Char)Coal"
 	quest.6B5295ABF1D7D71D.quest_desc: [
 		"Are you tired of getting &ccurse of vanishing&r or any other annoying enchantment on your equipment and tools?"
 		""
@@ -555,6 +589,22 @@
 	]
 	quest.6B5295ABF1D7D71D.quest_subtitle: "Disenchanting at it's finest!"
 	quest.6B5295ABF1D7D71D.title: "&5&lDis-Enchanting Table"
+	quest.75566B910945A58D.quest_desc: [
+		"Every single time I read and say the name &dEnderIO&r it brings me back so many good memories..."
+		""
+		"This mod is one of the classics by excellence."
+		""
+		"&lEnderIO&r mod adds a lot of new machines and stuff for us to unravel, but theres one item thats so coveted amongts it's many items... And thats the &6Staff of Travelling&r."
+		""
+		"This staff let's you travel short distances by only using it, but if we combine it with the &aTravel Anchors&r, we can teleport throughout our base in one of the easiest ways possible."
+		""
+		""
+		"{ \"text\": \"Heres the Travel Anchor Quest\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"604CB2266FDF4098\" } }"
+		""
+		"Mod created by: &dCrazypants_Mc_The_Second"
+	]
+	quest.75566B910945A58D.quest_subtitle: "Teleport back and forth"
+	quest.75566B910945A58D.title: "&l&3EnderIO"
 	quest.75A4C6008C48EA66.quest_desc: ["Welcome to &9Evolution&f from &4Catalyst Studios&f! This is just the beginning and very much a WIP."]
 	quest.75A4C6008C48EA66.title: "Welcome to Evolution!"
 	quest.77E4F1F6EEB85DBA.quest_desc: [
@@ -575,6 +625,8 @@
 		"And even better, you can add a &l&ekeybind&r for you to open it inmediately!"
 		""
 		"Need a portable &5Smithing Table&r for the time you find ancient debri and smithing templates? No problem!"
+		""
+		"&e&lNote&r: The anvil on a stick will act as a normal an anvil and it will get damaged."
 		""
 		"Mod created by: &2OfekN_"
 	]
@@ -612,15 +664,19 @@
 	quest.7ED1D7F512275FAF.title: "&l&9Sophisticated Backpacks"
 	task.05001251EFC0420F.title: "Click if you agree"
 	task.060E3DA4CBADE3A5.title: "Can it be done?"
+	task.0AE87F3B61FE986E.title: "&6Rechiseled&r mod was created by: &bSuperMartijn642&r"
 	task.0BD21E54C240DF55.title: "Any Waystone"
+	task.0FB415644DDFE671.title: "Click Here if you want OP stuff"
 	task.10F64B1DF8F5EAEB.title: "Welcome"
 	task.111AAFA4BDCD1C7C.title: "Any Wrench"
 	task.2697C0ACC15CD67E.title: "Don't forget about these!"
+	task.2BA2DDA7A593DB10.title: "Any Tiny (Char)Coal"
 	task.2BC517B8D6DB8E58.title: "Any Sleeping Bag"
 	task.37245969B8BF18C4.title: "Check Please!"
 	task.39001B6D46A193DF.title: "Placeholder"
 	task.41C0455F2876E6BB.title: "Mod created by: &3DireWolf20"
 	task.42F282D144BDE847.title: "Storage!"
+	task.43A963B1CF474EE6.title: "Any Fluid Pump"
 	task.43CB1C4E1E8F0D33.title: "Build that spaghetti!"
 	task.4B95D6163A48C9E4.title: "Any Elevator"
 	task.4EC999DC78E9CD60.title: "Mod created by: &6Soaryn"
@@ -628,4 +684,5 @@
 	task.542A0A5934FF7AE3.title: "Any #curios:crafting_on_a_stick"
 	task.6ADD8CA326D91C66.title: "Any Hammock"
 	task.73F2DC67AACAE16C.title: "Mod created by: &bSuperMartijn642"
+	task.76EE390FF80FA6E2.title: "&aChisel Reborn&r mod was created by: &eSlaincow"
 }

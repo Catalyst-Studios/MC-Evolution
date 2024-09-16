@@ -836,6 +836,11 @@
 					item: { count: 1, id: "minecraft:honeycomb" }
 					type: "item"
 				}
+				{
+					id: "6801522C0A07C657"
+					item: { count: 1, id: "hostilenetworks:blank_data_model" }
+					type: "item"
+				}
 			]
 			x: 0.5d
 			y: -1.5d
@@ -945,11 +950,6 @@
 					item: { count: 1, id: "waystones:warp_plate" }
 					type: "item"
 				}
-				{
-					id: "329BDBFA9D2C16D0"
-					item: { count: 1, id: "waystones:warp_stone" }
-					type: "item"
-				}
 			]
 			x: 4.5d
 			y: -3.0d
@@ -960,19 +960,24 @@
 				id: "trashcans:item_trash_can"
 			}
 			id: "2C4B98E6014AC2DE"
+			rewards: [{
+				id: "0171038129E22E60"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [
-				{
-					id: "5DA917E8E800AC9B"
-					item: { count: 1, id: "trashcans:item_trash_can" }
-					type: "item"
-				}
 				{
 					id: "6351052F4115092B"
 					item: { count: 1, id: "trashcans:energy_trash_can" }
 					type: "item"
 				}
 				{
-					id: "0101E178352B25B3"
+					id: "32A361AFC13F33A0"
+					item: { count: 1, id: "trashcans:item_trash_can" }
+					type: "item"
+				}
+				{
+					id: "2356F57FC7959770"
 					item: { count: 1, id: "trashcans:liquid_trash_can" }
 					type: "item"
 				}
@@ -1201,17 +1206,31 @@
 		}
 		{
 			dependencies: ["16CB243E5678D282"]
+			icon: {
+				components: {
+					"ironjetpacks:jetpack_id": "ironjetpacks:creative"
+					"minecraft:rarity": "epic"
+				}
+				id: "ironjetpacks:jetpack"
+			}
 			id: "166ACB8E71DFAC31"
 			rewards: [{
 				id: "58F6308BFF91DEA1"
 				type: "xp"
 				xp: 100
 			}]
-			tasks: [{
-				id: "2ED36935EC5C9C93"
-				item: { count: 1, id: "mekanism:jetpack" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2ED36935EC5C9C93"
+					item: { count: 1, id: "mekanism:jetpack" }
+					type: "item"
+				}
+				{
+					id: "3DCB79DCF0D46FCA"
+					item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:wood" }, count: 1, id: "ironjetpacks:jetpack" }
+					type: "item"
+				}
+			]
 			x: 2.0d
 			y: 5.5d
 		}
@@ -1229,6 +1248,107 @@
 				type: "item"
 			}]
 			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["07B077F7F5D09FDF"]
+			icon: {
+				id: "xycraft_machines:hydro_pump"
+			}
+			id: "3FD7266D9F52DA0E"
+			rewards: [{
+				id: "0EE286A9E8FB8CDE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "43A963B1CF474EE6"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:block/fluidpump)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3BB9BFE92909D42F"]
+			id: "75566B910945A58D"
+			rewards: [{
+				id: "40772A8927C22D01"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4AA4976DA144DDFE"
+				item: { count: 1, id: "enderio:staff_of_travelling" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["07B077F7F5D09FDF"]
+			id: "604CB2266FDF4098"
+			rewards: [{
+				id: "1747FD36A21C3D6D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1407C89A5223819E"
+				item: { count: 1, id: "enderio:travel_anchor" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3BB9BFE92909D42F"]
+			id: "619DAE1E67930A91"
+			tasks: [{
+				id: "465E6B3A7B946711"
+				item: { count: 1, id: "waystones:warp_stone" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["77E4F1F6EEB85DBA"]
+			hide_dependency_lines: true
+			icon: {
+				id: "everlastingabilities:ability_bottle"
+			}
+			id: "09846E3BA8A6FF77"
+			rewards: [{
+				id: "2515563CE3A1FCA5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0FB415644DDFE671"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["77E4F1F6EEB85DBA"]
+			hide_dependency_lines: true
+			icon: {
+				id: "kubejs:tiny_coal"
+			}
+			id: "6A1F6F3694025B4A"
+			rewards: [{
+				id: "2C7A28D26C6B5928"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2BA2DDA7A593DB10"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:fueltype/tinycoals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
 			y: -0.5d
 		}
 	]

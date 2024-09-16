@@ -6,4 +6,6 @@ StartupEvents.registry('item', catalyst => {
     catalyst.create('growth_catalyst').displayName('Growth Catalyst').texture('catalyst:item/growth_catalyst')
     catalyst.create('power_catalyst').displayName('Power Catalyst').texture('catalyst:item/power_catalyst')
     catalyst.create('magic_catalyst').displayName('Magic Catalyst').texture('catalyst:item/magic_catalyst')
+    catalyst.create('tiny_charcoal').burnTime(200)
+    catalyst.create('tiny_coal').burnTime(200)
 })

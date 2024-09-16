@@ -1,0 +1,13 @@
+{
+  "clientId": 1284996585176043632,
+  "enabled": true,
+  "screenEvent": true,
+  "clientJoinEvent": false,
+  "logState": true,
+  "buttons": [
+    {
+      "label": "Download Via CurseForge",
+      "url": "https://www.curseforge.com/minecraft/modpacks/the-evolution-pack/install/5720900"
+    }
+  ]
+}

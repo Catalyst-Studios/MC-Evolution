@@ -543,6 +543,22 @@
 		""
 		"Mod created by: &dP3pp3rF1y"
 	]
+
+	quest.0FC61B8C2897894F.quest_subtitle: "Other machines that cant be tiered up"
+	quest.2F2BDCEC57D9B5E2.quest_desc: ["Your trusty electric multi-breaking tool with configurable speed"]
+	quest.409765A69704F17F.title: "Thermodynamic Conductors"
+	quest.4167A2FBDD13CB74.quest_desc: ["Mention reactors"]
+	quest.464BC0090CE0ACFB.quest_desc: [
+		"(talk about the \"basic and useful tools you need\")"
+		""
+		"Check out Mekanism: Equiment chapter for more usefull equipment (insert chapter link)"
+	]
+	quest.49B70C55F7B97EF6.quest_desc: [
+		"Add link to Dynamic Tank -> Fluids / Gases"
+		"Add link to Induction Matrix -> Power"
+	]
+	quest.55C9E890DC67ABE5.quest_subtitle: "Machines that can be tiered up"
+
 	quest.7ED1D7F512275FAF.quest_subtitle: "Perfect for our Adventures"
 	quest.7ED1D7F512275FAF.title: "&l&9Sophisticated Backpacks"
 	task.05001251EFC0420F.title: "Click if you agree"

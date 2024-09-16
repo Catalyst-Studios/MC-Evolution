@@ -1,16 +1,57 @@
 {
-	file.0000000000000001.title: "Evolution"
 	chapter.0701BDFECC9EA8CD.title: "Welcome!"
-	task.10F64B1DF8F5EAEB.title: "Welcome"
-	quest.75A4C6008C48EA66.title: "Welcome to Evolution!"
-	quest.75A4C6008C48EA66.quest_desc: ["Welcome to &9Evolution&f from &4Catalyst Studios&f! This is just the beginning and very much a WIP."]
-
-
+	chapter.092F58C698EEBA75.title: "PneumaticCraft"
+	chapter.1287AC579F7832FE.title: "Occultism"
+	chapter.160BB09BD6B3B0E2.title: "Xycraft: Machines"
+	chapter.191CE144B7A053FF.title: "Mekanism: Equipment and Extras"
+	chapter.1EF1D97907B804FF.title: "Integrated Dynamics"
+	chapter.315076A74ED3C0B4.title: "Ars Nouveau"
 	chapter.4A53A54E581CD0B3.title: "&a&lUseful&f Mods"
+	chapter.4BF27D0A53F14584.title: "Mekanism: The Basics"
+	chapter.4E8B9F24557935B3.title: "Apotheosis"
+	chapter.558E65AB78354674.title: "Energized Power"
+	chapter.661254AE0EBD66A8.title: "All of Macaw's Decorations"
+	chapter.6C942D6BA7090A71.title: "Productive Bees"
+	chapter.6E7DE3824D41BB16.title: "Theurgy"
+	chapter.707DFCF38F8333D4.title: "Just Dire Things"
+	chapter.731F653DF0327C9D.title: "Mekanism: Going Nuclear"
+	chapter.772F9D23E72DBD20.title: "Decoration mods"
+	chapter.79AD8C81D25E35E2.title: "Evilcraft"
+	chapter.7B0281FA3D163FD2.title: "Powah"
+	chapter.7D0096384EB81C5A.title: "Applied Energistics 2"
 	chapter_group.0B97DBA0432ACE7B.title: "Getting started"
+	chapter_group.1624E0136E971599.title: "Exploration"
+	chapter_group.18780F4E46895DDF.title: "Usefull / Decoration"
+	chapter_group.44E753EB6A5C541F.title: "Resource Generation"
+	chapter_group.799C57E4146F24A8.title: "Technology"
+	chapter_group.7DB43C7557896446.title: "Magic"
+	file.0000000000000001.title: "Evolution"
+	quest.036C58E2C3423F58.quest_desc: [
+		"&dArs Nouveau&r has to be one of the best magic mods Modded Minecraft has recieved over the years. We will not talk about much of the mod in this section, due to there being a &lwhole questline&r for it."
+		""
+		"We will talk about one of it's armors, the &5Arcanist Set&r."
+		""
+		"In ars nouveau we will use a new type of mana called &esource&r, which will be used a lot in this mod when casting spells. This armor set gives us a bit of mana regen and more mana for us to use."
+		""
+		"And the best thing about ars nouveau armors, is that we can &dD&by&ae&r them."
+		""
+		"This being so useful on early ars nouveau, it was worth mentioning it."
+		""
+		"Mod created by: &dBaileyholl2"
+	]
 	quest.036C58E2C3423F58.quest_subtitle: "You're a wizard harry..."
 	quest.036C58E2C3423F58.title: "&l&dArs Nouveau"
-	quest.0781A4C9B5ED15F5.quest_desc: ["W.I.P"]
+	quest.0781A4C9B5ED15F5.quest_desc: [
+		"Are you feeling tired of using all of your &ehotbar&r to store all of your tools?"
+		""
+		"The &dTool Belt&r is your saviour..."
+		""
+		"With this tool belt you can store all of those useful tools and weapons to clear out a bit of your hotbar and have more room for other type of items."
+		""
+		"We can upgrade our tool belt by crafting &6belt pouches&r to store more of our tools, to do this, simply combine your tool belt and the belt pouch inside an anvil and it will use a bit of your experience to upgrade it."
+		""
+		"Mod created by: &3Gigaherz"
+	]
 	quest.0781A4C9B5ED15F5.quest_subtitle: "Need more space for tool?"
 	quest.0781A4C9B5ED15F5.title: "&3&lTool Belt"
 	quest.07B077F7F5D09FDF.quest_desc: ["In this section, we will talk about some &eblocks&r that will surely bring us joy when we craft them."]
@@ -50,6 +91,17 @@
 	quest.1F9DD8905A302496.quest_desc: ["W.I.P"]
 	quest.1F9DD8905A302496.quest_subtitle: "Powerful Curio"
 	quest.1F9DD8905A302496.title: "&l&6Relics"
+	quest.20AC765EB929F9F4.quest_desc: [
+		"Tired of recieveing fall damage when building your house?"
+		""
+		"The &aSlime Boots&r will help us end this nightmare!"
+		""
+		"The &6full&r slime armor is recommended if you are using any type of &belytra&r. Instead of doing an epic facepalm with that stone wall, you will bounce like a soccer ball without recieving any &cdamage&r."
+		""
+		"Unsure on how to get slime balls? I suggest you do a mob farm, slime seeds, the slimy bee or use the Metallurgic Infuser with some bio fuel and clay to get them easily. Or you can try to find a slime chunk, but this is modded mc, we want everything automated..."
+		""
+		"Mod created by: &2MinecraftEinstein"
+	]
 	quest.20AC765EB929F9F4.quest_subtitle: "Inmunity to fall damage"
 	quest.20AC765EB929F9F4.title: "&l&aUseful Slime"
 	quest.2164219E306DCCEA.quest_desc: [
@@ -345,7 +397,7 @@
 		""
 		"And by any magnet I say every single magnet avaible in this modpack!"
 		""
-		"The &eBasic Demagnetization Coil&r might have a very small range, but don't let it trick, any item thats inside it's range will not be attracted to you. Perfect for mob farms, auto seed farms and more."
+		"The &eBasic Demagnetization Coil&r might have a very small range, but don't let it trick you, any item thats inside it's range will not be attracted to you. Perfect for mob farms, auto seed farms and more."
 		""
 		"Mod created by: &bSuperMartijn642"
 	]
@@ -383,12 +435,25 @@
 		""
 		"Like we stated before, \"&ladds very useful items&r\", theres a slime armor (the slime boots being the one that will cancel fall damage) that is quite cheap do."
 		""
-		"{ \"text\": \"This is the quest that talks about this armor\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"20AC765EB929F9F4\" } }"
+		"{ \"text\": \"This is the quest that talks about this armor.\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"20AC765EB929F9F4\" } }"
 		""
 		"Mod created by: &2MinecraftEinstein"
 	]
 	quest.613B94C20D7E7072.quest_subtitle: "watch out for that tree..."
 	quest.613B94C20D7E7072.title: "&l&aUseful Slime"
+	quest.622DB8CA3BE8663C.quest_desc: [
+		"The mod &6Pocket Storage&r will surely help us a lot when mining."
+		""
+		"This acts like a little and tiny chest to store items automatically, it can and will &cvoid&r the excess of items if it's completely full."
+		""
+		"This amazing tool has some of it's info on it's description. ( &lShift&r ) key."
+		""
+		"And the best of part of it, is that it has another &a3&r tiers, which can store more items inside."
+		""
+		"Mod created by: &dFlanks225"
+	]
+	quest.622DB8CA3BE8663C.quest_subtitle: "A Gameboy, but for storage"
+	quest.622DB8CA3BE8663C.title: "&l&5Pocket Storage"
 	quest.642651867EA91259.quest_desc: [
 		"The mod &6Easy Villagers&r adds a new and unique way to handle those annoying villagers..."
 		""
@@ -467,7 +532,7 @@
 		""
 		"Yeah, you read that correctly. Time in a bottle mod stores IRL time on it for us to use later on. It is recommended to craft it and leave it on your inventory while you do different tasks."
 		""
-		"&lIT DOES NOT STORE TIME IF IT'S INSIDE A BACKPACK&r."
+		"&lIT DOES NOT STORE TIME IF IT'S INSIDE A BACKPACK NOR THE TOOL BELT&r."
 		""
 		"&5Note&r: I truly advise on NOT using it on mobs. This will impact tps in a bad way and it can cause FPS issues or worse, crash your game!"
 		""
@@ -543,32 +608,17 @@
 		""
 		"Mod created by: &dP3pp3rF1y"
 	]
-
-	quest.0FC61B8C2897894F.quest_subtitle: "Other machines that cant be tiered up"
-	quest.2F2BDCEC57D9B5E2.quest_desc: ["Your trusty electric multi-breaking tool with configurable speed"]
-	quest.409765A69704F17F.title: "Thermodynamic Conductors"
-	quest.4167A2FBDD13CB74.quest_desc: ["Mention reactors"]
-	quest.464BC0090CE0ACFB.quest_desc: [
-		"(talk about the \"basic and useful tools you need\")"
-		""
-		"Check out Mekanism: Equiment chapter for more usefull equipment (insert chapter link)"
-	]
-	quest.49B70C55F7B97EF6.quest_desc: [
-		"Add link to Dynamic Tank -> Fluids / Gases"
-		"Add link to Induction Matrix -> Power"
-	]
-	quest.55C9E890DC67ABE5.quest_subtitle: "Machines that can be tiered up"
-
 	quest.7ED1D7F512275FAF.quest_subtitle: "Perfect for our Adventures"
 	quest.7ED1D7F512275FAF.title: "&l&9Sophisticated Backpacks"
 	task.05001251EFC0420F.title: "Click if you agree"
 	task.060E3DA4CBADE3A5.title: "Can it be done?"
 	task.0BD21E54C240DF55.title: "Any Waystone"
 	task.10F64B1DF8F5EAEB.title: "Welcome"
-	task.111AAFA4BDCD1C7C.title: "Any #c:tools/wrench"
+	task.111AAFA4BDCD1C7C.title: "Any Wrench"
 	task.2697C0ACC15CD67E.title: "Don't forget about these!"
 	task.2BC517B8D6DB8E58.title: "Any Sleeping Bag"
 	task.37245969B8BF18C4.title: "Check Please!"
+	task.39001B6D46A193DF.title: "Placeholder"
 	task.41C0455F2876E6BB.title: "Mod created by: &3DireWolf20"
 	task.42F282D144BDE847.title: "Storage!"
 	task.43CB1C4E1E8F0D33.title: "Build that spaghetti!"
@@ -578,32 +628,4 @@
 	task.542A0A5934FF7AE3.title: "Any #curios:crafting_on_a_stick"
 	task.6ADD8CA326D91C66.title: "Any Hammock"
 	task.73F2DC67AACAE16C.title: "Mod created by: &bSuperMartijn642"
-	
-	chapter.092F58C698EEBA75.title: "PneumaticCraft"
-	chapter.1287AC579F7832FE.title: "Occultism"
-	chapter.160BB09BD6B3B0E2.title: "Xycraft: Machines"
-	chapter.191CE144B7A053FF.title: "Mekanism: Equipment and Extras"
-	chapter.1EF1D97907B804FF.title: "Integrated Dynamics"
-	chapter.315076A74ED3C0B4.title: "Ars Nouveau"
-	chapter.4BF27D0A53F14584.title: "Mekanism: The Basics"
-	chapter.4E8B9F24557935B3.title: "Apotheosis"
-	chapter.558E65AB78354674.title: "Energized Power"
-	chapter.661254AE0EBD66A8.title: "All of Macaw's Decorations"
-	chapter.6C942D6BA7090A71.title: "Productive Bees"
-	chapter.6E7DE3824D41BB16.title: "Theurgy"
-	chapter.707DFCF38F8333D4.title: "Just Dire Things"
-	chapter.731F653DF0327C9D.title: "Mekanism: Going Nuclear"
-	chapter.772F9D23E72DBD20.title: "Decoration mods"
-	chapter.79AD8C81D25E35E2.title: "Evilcraft"
-	chapter.7B0281FA3D163FD2.title: "Powah"
-	chapter.7D0096384EB81C5A.title: "Applied Energistics 2"
-	chapter_group.0B97DBA0432ACE7B.title: "Getting started"
-	chapter_group.1624E0136E971599.title: "Exploration"
-	chapter_group.18780F4E46895DDF.title: "Usefull / Decoration"
-	chapter_group.44E753EB6A5C541F.title: "Resource Generation"
-	chapter_group.799C57E4146F24A8.title: "Technology"
-	chapter_group.7DB43C7557896446.title: "Magic"
-	task.39001B6D46A193DF.title: "Placeholder"
-
-	
 }

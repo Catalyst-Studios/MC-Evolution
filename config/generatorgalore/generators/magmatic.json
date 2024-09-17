@@ -1,0 +1,9 @@
+{
+  "generationRate": 100,
+  "transferRate": 512,
+  "consumptionRate": 0.4,
+  "previousTier": "iron",
+  "bufferCapacity": 500000,
+  "fuelType": "FLUID",
+  "fuelTag": "minecraft:lava"
+}

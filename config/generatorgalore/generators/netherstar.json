@@ -1,0 +1,9 @@
+{
+  "generationRate": 4092,
+  "transferRate": 16384,
+  "consumptionRate": 2400,
+  "previousTier": "iron",
+  "bufferCapacity": 9800000,
+  "fuelType": "SOLID",
+  "fuelTag": "c:nether_stars"
+}

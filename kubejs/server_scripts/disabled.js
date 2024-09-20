@@ -1,9 +1,14 @@
+/* 
+This script is property of Catalyst Studios for use in the modpack Evolution. It is under the All Rights Reserved license.
+It cannot be used or modified outside of Catalyst Studios without explicit permission from Catalyst Studios.
+*/
+
 ServerEvents.recipes(catalyst => {
-    //catalyst.remove('forcecraft:infuser/convert_time_torch')
+    catalyst.remove('forcecraft:infuser/convert_time_torch')
     catalyst.remove('ae2:network/blocks/spatial_anchor')
     catalyst.remove('easy_villagers:auto_trader')
     catalyst.remove('easy_villagers:iron_farm')
-    //catalyst.remove('reliquary:alkahestry_tome')
+    catalyst.remove('reliquary:alkahestry_tome')
     catalyst.remove('energizedpower:crafting/time_controller')
     catalyst.remove('energizedpower:crafting/weather_controller')
     /*catalyst.remove('extradisks:disk/shaped/infinite_storage_disk')
@@ -13,3 +18,8 @@ ServerEvents.recipes(catalyst => {
     catalyst.remove('extradisks:part/infinite_fluid_storage_part')
     catalyst.remove('extradisks:blocks/infinite_fluid_storage_block')*/
 })
+
+/* 
+This script is property of Catalyst Studios for use in the modpack Evolution. It is under the All Rights Reserved license.
+It cannot be used or modified outside of Catalyst Studios without explicit permission from Catalyst Studios.
+*/

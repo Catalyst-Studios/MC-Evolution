@@ -8,9 +8,9 @@
         ],
         "rootDir": ".",
         "typeRoots": [
-            "../../.probe/client/probe-types"
+            "../../.probe/startup/probe-types"
         ],
-        "baseUrl": "../../.probe/client/probe-types",
+        "baseUrl": "../../.probe/startup/probe-types",
         "skipLibCheck": true
     },
     "include": [

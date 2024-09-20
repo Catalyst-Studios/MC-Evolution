@@ -1,7 +1,7 @@
 version:3955
 ao:true
 biomeBlendRadius:2
-enableVsync:true
+enableVsync:false
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
@@ -16,7 +16,7 @@ fullscreen:false
 gamma:0.5
 graphicsMode:1
 guiScale:2
-maxFps:120
+maxFps:260
 mipmapLevels:4
 narrator:0
 particles:2
@@ -36,7 +36,7 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 showSubtitles:false
-directionalAudio:false
+directionalAudio:true
 touchscreen:false
 bobView:true
 toggleCrouch:false
@@ -87,6 +87,20 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:5
+soundCategory_master:1.0
+soundCategory_music:0.0
+soundCategory_record:1.0
+soundCategory_weather:1.0
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_ambient:1.0
+soundCategory_voice:1.0
+modelPart_cape:true
+modelPart_jacket:true
+modelPart_left_sleeve:true
+modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true

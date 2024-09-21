@@ -55,10 +55,53 @@
 	quest.0781A4C9B5ED15F5.quest_subtitle: "Need more space for tool?"
 	quest.0781A4C9B5ED15F5.title: "&3&lTool Belt"
 	quest.07B077F7F5D09FDF.quest_desc: ["In this section, we will talk about some &eblocks&r that will surely bring us joy when we craft them."]
-	quest.07B077F7F5D09FDF.title: "&l&eAmazing Blocks"
+	quest.07B077F7F5D09FDF.title: "&l&e&nAmazing Blocks"
+	quest.09846E3BA8A6FF77.quest_desc: [
+		"This mod is one of the many definitions of pure &cRNG&r. Why? Simple, &eEverlasting Abilities&r mod adds a lot of &bTotems&r that have 1 ability each."
+		""
+		"After creating our world, we will be greeted by some books and the &3Ability Bottle&r, which will have 1 ability (depending on your luck) that can equiped by using some of your experience."
+		""
+		"Some players had the &5Night Vision&r effect on it from the &lstart&r!"
+		"{@pagebreak}"
+		"Sometimes some mobs will have some weird and strange &aparticles&r over them, that meaning, that those mobs have a totem which you can get by slaying the mob."
+		""
+		"Knowing this, we can hunt some mobs down or do a mob farm, you can choose the easiest way or the painful way."
+		""
+		"These are non stackable, you can use the stack upgrade from sophisticated backpacks or storage to stack them up. But remember to &4bin&r the ones you don't want."
+		""
+		"Mod created by: &cKroeser"
+	]
 	quest.09846E3BA8A6FF77.quest_subtitle: "abilities in the form of totems"
 	quest.09846E3BA8A6FF77.title: "&lEverlasting Abilities"
-	quest.0BB636E9C6105134.quest_desc: ["W.I.P"]
+	quest.0BB636E9C6105134.quest_desc: [
+		"&dWaystones&r mod adds multiple yet useful blocks for us to use!"
+		""
+		"Probably you've only heard about the waystones and warpstones... But there are other incredible ways to move around with this mod."
+		""
+		"- The &dWaystone&r is one of the most used blocks of this mod, due to it enabling the travel through dimensions in an easier way without waiting for those portals to end their animations."
+		""
+		"Simply by clicking and done!"
+		"{@pagebreak}"
+		"- The &6Warp Plates&r enable the travel from point A to point B. How can i set my warp plates correctly? Some changes were done from 1.20.1 to 1.21.1. "
+		""
+		"But it's quite simple, we only need to place &awarp plate A&r and right click it to get it's &cattuned shard&r, and with this new shard, i suggest you place warp plate B, repeat the same step as plate A with plate B, but with the attuned shard we got from plate A we should right click it with it's shard to attune it. "
+		""
+		"I advise on repeating this very same step to attune both plates so we can travel from A to B and from B to A."
+		""
+		"This however, can only be done in the same dimension."
+		"{@pagebreak}"
+		"- The &aShareStones&r are almost the same as the waystones, but the only change here is that we cannot travel through other sharestones &c&l'if'&r they are not from the same color..."
+		""
+		"If we try to use &bSharestone&r when having &dSharestone&r we cannot travel through them."
+		""
+		"We can only travel through &bSharestone&r if we have another &bSharestone&r, we can set multiple of these without problem."
+		"{@pagebreak}"
+		"- The &9Portstone&r acts like a Terminal for &esharestones&r and &dwaystones&r, we cannot teleport to this one, but we can use it to travel to other points. "
+		""
+		"One thing to note, is that if we set a color for it, it will only show the sharestones we have with the very same color."
+		""
+		"But if we don't add a color to it, we can teleport to normal waystones."
+	]
 	quest.0BB636E9C6105134.quest_subtitle: "Easy travel"
 	quest.0BB636E9C6105134.title: "&l&dWaystones"
 	quest.0C513C2290CB94DA.quest_desc: [
@@ -81,13 +124,24 @@
 	quest.0C7FFA80C1B2836F.quest_desc: ["W.I.P"]
 	quest.0C7FFA80C1B2836F.quest_subtitle: "Free loot"
 	quest.0C7FFA80C1B2836F.title: "&lGateways to Eternity"
+	quest.1169C4B8130911F8.quest_desc: ["These amazing quests where made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."]
 	quest.116C52D690CC1551.quest_subtitle: "Pretty op stuff..."
 	quest.116C52D690CC1551.title: "&l&4Apotheosis"
 	quest.166ACB8E71DFAC31.quest_subtitle: "Jetpack Joyride anybody?"
 	quest.166ACB8E71DFAC31.title: "&lJetpacks"
 	quest.16CB243E5678D282.quest_desc: ["In this section we will talk about &eEquipment&r that will make us more powerful... Can we achieve &cgodhood&r? Can't tell, but I'm sure they will help you on your adventure!"]
-	quest.16CB243E5678D282.title: "&l&eAmazing Equipment"
-	quest.1D53BBEB966BAE77.quest_desc: ["W.I.P"]
+	quest.16CB243E5678D282.title: "&l&e&nAmazing Equipment"
+	quest.1D53BBEB966BAE77.quest_desc: [
+		"&6Torchmaster&r mod is the true definition of &lDon't Spawn&r."
+		""
+		"This mod adds 3 new '&elanterns&r', 2 of them prevent &cmob spawns&r and the third one helps a lot to &billuminate&r large areas."
+		""
+		"Fortunately, every single block this mod adds tell's us what they do."
+		""
+		"And they are quite cheap to do."
+		""
+		"Mod created by: &5Xalcon"
+	]
 	quest.1D53BBEB966BAE77.quest_subtitle: "Preventing Mob Spawns"
 	quest.1D53BBEB966BAE77.title: "&l&bTorch Master"
 	quest.1F9DD8905A302496.quest_desc: ["W.I.P"]
@@ -117,9 +171,25 @@
 	]
 	quest.2164219E306DCCEA.quest_subtitle: "Structure compass"
 	quest.2164219E306DCCEA.title: "&l&7Explorer's Compass"
-	quest.21E082550A327335.quest_desc: ["W.I.P"]
+	quest.21E082550A327335.quest_desc: [
+		"Looking to increase your machine collection?"
+		""
+		"&6Additional Enchanted Miner&r mod is based on &dQuarry Plus&r mod made by Yogpstop's, that adds a couple of new machines to mine automatically. This being said, we can now stop doing a lot of tunnels to mine our ores!"
+		""
+		"This machines need &cenergy&r to function!"
+		"{@pagebreak}"
+		"- &6Quarry Plus&r: This machine by default can mine a &a11x11&r area. But it can be configured using some markers."
+		""
+		"To make this machine work properly we need any &cenergy input&r on one of it's sides and any type of &estorage&r on top of it, like it's shown in the image below."
+		""
+		"{image:catalyst:textures/quest_images/useful_mods/quarry0.png width:100 height:100 align:center}"
+		"{@pagebreak}"
+		"This is still a W.I.P, due to the mod not having everything it adds, but once they get added this quest will be updated!"
+		""
+		"Mod created by: &dKotori316"
+	]
 	quest.21E082550A327335.quest_subtitle: "Mining, but with a machine"
-	quest.21E082550A327335.title: "&l&8Quarry Plus"
+	quest.21E082550A327335.title: "&l&8Additional Enchanted Miner"
 	quest.2438C51737F1817B.quest_desc: [
 		"The Shrink mod adds the amazing &n&dShrinking Device&r, which will let you... SHRINK!"
 		""
@@ -204,7 +274,34 @@
 	]
 	quest.2D31A67A30DD06D6.quest_subtitle: "in the form of blocks!"
 	quest.2D31A67A30DD06D6.title: "&l&1Infinite Water Sources"
-	quest.2DB9DE148A6A3E1F.quest_desc: ["W.I.P"]
+	quest.2D989ED723D100D3.quest_desc: [
+		"Ever wondered... Is there a pocket dimension similar to a &6Compact Machine&r?"
+		""
+		"The answer is &l&eyes&r!"
+		""
+		"Hyperbox mod only adds this new pocket dimensions for us to build inside of it."
+		""
+		"Hyperboxes have a &d16x16x16&r size by default, almost the size of a chunk. Might be more than enough, but like we mentioned before, we can build up more if needed."
+		""
+		"I tend to build the fission reactor inside this pocket dimension, or other setups to save up some space in my base. But you can use them for anything you want and need."
+		""
+		"Mod created by: &aCommoble"
+	]
+	quest.2D989ED723D100D3.quest_subtitle: "A pocket dimension"
+	quest.2D989ED723D100D3.title: "&l&eHyperbox"
+	quest.2DB9DE148A6A3E1F.quest_desc: [
+		"Tired of ruining the &aoverworld&r using auto miners like the quarry?"
+		""
+		"You can now destroy these new dimensions to get our resources!"
+		""
+		"&eJust Another Mining Dimension&r or &eJAMD&r (abreviated) adds 3 dimensions for each vanilla dimension, giving us the opportunity to mine without setting the overworld on fire."
+		""
+		"And also, &dJust Another Void Dimension&r adds a &0void&r dimension for us to build our base without changing the whole landscape of the beautiful overworld."
+		""
+		"Note: Being a void dimension, means you can &cfall&r into your doom, so i suggest you find a way of &5creative flight&r."
+		""
+		"Mods created by: &2UnRealDinnerone"
+	]
 	quest.2DB9DE148A6A3E1F.quest_subtitle: "it also has a void world!"
 	quest.2DB9DE148A6A3E1F.title: "&lJust Another Mining Dimension"
 	quest.2E4461B571572B25.quest_desc: [
@@ -212,7 +309,7 @@
 		""
 		"Fortunately we have 3 mods that will help us to prevent this issue."
 		""
-		"The Item collectors from; &3Just Dire Things&r, &dItem Collectors&r and &aXycraft/Machines&r will aid us on this job. They will pick the items without any problem. However they still can affect tps if used in abundance."
+		"The Item collectors from; &3Just Dire Things&r, &dItem Collectors&r and &aXycraft/Machines&r mods will aid us on this job. They will pick the items without any problem. However they still can affect tps if used in abundance."
 		""
 		"Once we have any of these collectors, we should place them above any kind of storage to store our items without any problem!"
 		""
@@ -223,7 +320,7 @@
 	quest.2E4461B571572B25.quest_subtitle: "Magnets, but in the form of blocks!"
 	quest.2E4461B571572B25.title: "&l&eItem Collectors"
 	quest.318263781167A26D.quest_desc: [
-		"These amazing quests where made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
+		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
 		""
 		"Useful Mods Questline made by: &aRadz&8Ratz&r"
 		""
@@ -287,7 +384,7 @@
 	quest.3A911DEE451C256F.quest_subtitle: "smolest of tips"
 	quest.3A911DEE451C256F.title: "&lSmol tip'"
 	quest.3BB9BFE92909D42F.quest_desc: ["In this section we will talk about &eTools&r to make our experience on a game about cubes more entretaining!"]
-	quest.3BB9BFE92909D42F.title: "&l&eAmazing Tools"
+	quest.3BB9BFE92909D42F.title: "&l&e&nAmazing Tools"
 	quest.3F7B44EB0D6342F7.quest_desc: [
 		"In this modpack, we have plenty of stuff to do, but there are quite a few things like &l&acommands&r and &l&6quality of life&r keybinds that will ease certain tasks..."
 		""
@@ -328,6 +425,37 @@
 	]
 	quest.3F7B44EB0D6342F7.quest_subtitle: "Tp, Homes and Mo'"
 	quest.3F7B44EB0D6342F7.title: "&lUseful Commands and Others"
+	quest.3FD7266D9F52DA0E.quest_desc: [
+		"There are multiple ways to get &b'infinite' water&r, using pumps is one of those ways."
+		""
+		"Why use these instead of the &bwater cell&r from ae2, the &6sink&r from cooking for blockheads or the &deternal water&r block from evilcraft?"
+		""
+		"This quest was made to show an alternative to generate this resource, sometimes we want to use other methods instead of using the same thing over and over again."
+		"{@pagebreak}"
+		"The &dElectric Pump&r from mekanism is incredibly useful, due to it not deleting the water block thats below it. It's also used to generate &3Heavy Water&r which can be separated to get &cDeuterium&r."
+		""
+		"This machine needs to be on top of the water source and energy to work!"
+		"{image:catalyst:textures/quest_images/useful_mods/waterpump1.png width:100 height:100 align:center}"
+		"{@pagebreak}"
+		"The &bHydro Pump&r from Xycraft Machines it's quite simple to craft and to setup. We only need this water pump and a tank connected into it, like it's shown in the image below."
+		""
+		"Same as the Electric pump, it can be above the water to work, and the best part of it, it doesn't need energy to work!"
+		"{image:catalyst:textures/quest_images/useful_mods/waterpump4.png width:100 height:200 align:center}"
+		"{@pagebreak}"
+		"The &bPump&r from Pump mod is quite simple to use as well, but there is one thing to keep in mind. While it extracts water, it places a stone block where it extracted water from. Like it's shown in the image below."
+		""
+		"It's somewhat of an &cinfinite&r extraction of water, but it works wonders if we want to fill up a hole that has a ton of water!"
+		""
+		"Same as the Electric pump, it can be above the water to work, but i do suggest on placing it inside where the water is! We also need a fluid pipe to extract the water."
+		""
+		"This machine needs a fluid pipe to extract the water from it and an energy source."
+		"{image:catalyst:textures/quest_images/useful_mods/waterpump3.png width:100 height:100 align:center}"
+		"{@pagebreak}"
+		"The &bFluid Pump&r from Energized Power mod works similar to the one from pump mod. But it needs some cobblestone blocks inside of it to replace those water blocks with some sweet cobblestone! We also need a fluid pipe to extract the water."
+		""
+		"Same as the Electric pump, it can be above the water to work and it needs energy to work!"
+		"{image:catalyst:textures/quest_images/useful_mods/waterpump2.png width:100 height:100 align:center}"
+	]
 	quest.3FD7266D9F52DA0E.quest_subtitle: "Not an item importer"
 	quest.3FD7266D9F52DA0E.title: "&l&3Fluid Pumps"
 	quest.4364D54A37B97D40.quest_desc: [
@@ -358,7 +486,23 @@
 	]
 	quest.44D5D328F4A7375B.quest_subtitle: "Cool Looking Blocks!"
 	quest.44D5D328F4A7375B.title: "&l&cChisels"
-	quest.4615D71D0264C714.quest_desc: ["W.I.P"]
+	quest.4615D71D0264C714.quest_desc: [
+		"Resource generation tends to get out of hand quickly... Some mods do &eingots&r instantly and others give &braw ores&r."
+		""
+		"And unfortunately we need more furnaces... &lBut&r, we have one of the best mods that add more furnaces and thats &6Iron Furnaces&r Mod!"
+		""
+		"This mod adds over &e8&r new furnaces to speed up things. &8(they can lag if used constantly so.. keep that in mind)&r"
+		""
+		"The &dNetherite Furnace&r being the best one!"
+		""
+		"&lNote&r: We can upgrade these furnaces by using the current tier for the new one or by simply using them upgrades!"
+		""
+		"Keep in mind that if we want to upgrade our &l&7Iron Furnace&r to a &e&lGold Furnace&r, we need the correct upgrade."
+		""
+		"We also can use some &caugments&r for these furnaces. I suggest you check the questline for Iron Furnaces mod."
+		""
+		"Mod created by: &3XenoMustache"
+	]
 	quest.4615D71D0264C714.quest_subtitle: "Better furnaces"
 	quest.4615D71D0264C714.title: "&l&7Iron Furnaces"
 	quest.49EF86015BB0874E.quest_desc: [
@@ -372,10 +516,59 @@
 	]
 	quest.49EF86015BB0874E.quest_subtitle: "no joke!"
 	quest.49EF86015BB0874E.title: "&lThe Most Useful of All Tools"
-	quest.4C1C8F2BD7478657.quest_desc: ["W.I.P"]
+	quest.4B80401F8F05318D.quest_desc: [
+		"One of the &lmost&r needed things around technological mods is the energy."
+		""
+		"We got plenty of mods to generate this new type resource, in the beginning this energy gens will be somewhat bad... Fortunately, the more we unravel these mods, the more energy we will be generating."
+		""
+		"We have the &apassive&r generators that will generate power without needing any type of fuel."
+		""
+		"The other type of generators do require a type of &cfuel&r. They can use fluid fuels or solid fuels. The &8coal&r is commonly used over these type of generators, i do recommend using &6charcoal&r in case you haven't found any coal ores."
+		""
+		"Which mod to use to generate this energy? We got a variety of mods, &3Mekanism&r being of the best ones, due to it having the &eFusion Reactor&r, that can generate &4200MFE&r/t."
+		""
+		"Some mods will use different types of energy. And yes, you read that right."
+		""
+		"RF being the most used (&cRedstone Flux&r) or FE (&cForge Energy&r) that is basically the same."
+		""
+		"But mods like mekanism uses &dJoules&r instead of FE, but don't worry, mekanism can use RF/FE without making use of an energy convertor."
+	]
+	quest.4B80401F8F05318D.quest_subtitle: "infinite... POWER!!!"
+	quest.4B80401F8F05318D.title: "&lPower Generation"
+	quest.4C1C8F2BD7478657.quest_desc: [
+		"Honestly, after i found out about this mod i stopped using stairs... Don't judge me! After you try these blocks out, you'll know what i mean."
+		""
+		"&6Elevators&r mod adds a single block to... you know... to move around our base easily."
+		""
+		"No matter which &6c&bo&3l&co&ar&5e&2d&r elevator we do, they all work the same!"
+		""
+		"Using &lshift&r let's us go down into another elevator and by pressing &lspace&r we can go up."
+		""
+		"Keep in mind that the elevators need to be &calligned&r to travel through them."
+		""
+		"Best part is that we can hide the elevator block to match the blocks we used for our base."
+		""
+		"Simply by using the block we want, we will right click the elevator block and it should transform into the block we are holding."
+		""
+		"Mod created by: &eVsngarcia"
+	]
 	quest.4C1C8F2BD7478657.quest_subtitle: "Up and Down"
 	quest.4C1C8F2BD7478657.title: "&l&aElevators"
-	quest.53B3F4366891C8E4.quest_desc: ["W.I.P"]
+	quest.53B3F4366891C8E4.quest_desc: [
+		"We got a variety of mods to store our &eitems&r and &bfluids&r, but we might resort on doing a bunch of chests in most cases..."
+		""
+		"&6Functional Storage&r and &6Sophisticated Storage&r mods are our way to go in those cases!"
+		""
+		"- &aFunctional Storage&r drawers are really good. So good that they can store quite a lot of &eitems&r in them and also &bfluids&r. A single 1x1 drawer can hold up to &b2048&r items in total, but if we upgrade them, they can hold even &lmore&r, void stuff. Same thing applies to the fluid drawers. And theres other types of upgrades for us to try."
+		""
+		"- &bSophisticated Storage&r barrels and chests are incredibly good too. We can upgrade them from &l&6Copper&f/&7Iron&r tiers to &5Netherite&r tier for more slots! And we can add some upgrades to them to store more items, void specific items, compact certain items and more!"
+		""
+		"Both options are recommended and can be used in any type of setup we need!"
+		""
+		"Functional Storage mod created by: &aBuuz135&r"
+		""
+		"Sophisticated Storage mod created by: &dP3pp3rF1y"
+	]
 	quest.53B3F4366891C8E4.quest_subtitle: "Perfect for Early Game"
 	quest.53B3F4366891C8E4.title: "&l&9Functional Storage&r and &l&9Sophisticated Storage"
 	quest.540545114AE23AD9.quest_desc: [
@@ -445,16 +638,17 @@
 	quest.5F29A3544EF83EDC.quest_subtitle: "Building, but easy"
 	quest.5F29A3544EF83EDC.title: "&b&lBuilding Gadgets"
 	quest.604CB2266FDF4098.quest_desc: [
-		"Every single time I read and say the name &dEnderIO&r it brings me back so many good memories..."
+		"Being a modpack with so many mods, we might've had the thought of doing different areas for each mod."
 		""
-		"This mod is one of the classics by excellence."
+		"But walking can be an exhausting task, and here is where the &dTravel Anchor&r from &3EnderIO&r comes into play!"
 		""
-		"&lEnderIO&r mod adds a lot of new machines and stuff for us to unravel, but theres one item thats so coveted amongts it's many items... And thats the &6Staff of Travelling&r."
+		"This item, alongside the coveted &aStaff of Travelling&r will ease the task on moving throughout our base in the most of easiest ways."
 		""
-		"This staff let's you travel short distances by only using it, but if we combine it with the &aTravel Anchors&r, we can teleport throughout our base in one of the easiest ways possible."
+		"We can even set a name and an icon for each separate area or anchor we do. Simply by clicking &lRMB&r on this block, it will open a new GUI where we can name our areas easy and to set an icon we only need the item/block we want in our inventory and place it on the slot thats next to where we wrote the name."
 		""
 		"Mod created by: &dCrazypants_Mc_The_Second"
 	]
+	quest.604CB2266FDF4098.quest_subtitle: "Teleportation at it's finest"
 	quest.604CB2266FDF4098.title: "&l&dEnderIO"
 	quest.613B94C20D7E7072.quest_desc: [
 		"The mod &aUseful Slime&r adds very useful items, the &eSlime Sling&r being one of them."
@@ -471,6 +665,19 @@
 	]
 	quest.613B94C20D7E7072.quest_subtitle: "watch out for that tree..."
 	quest.613B94C20D7E7072.title: "&l&aUseful Slime"
+	quest.619DAE1E67930A91.quest_desc: [
+		"We have to admit one thing, travelling through dimensions sometimes might be annoying."
+		""
+		"But what if used that stone for them waystones to travel through these worlds..."
+		""
+		"Wait... we actually can! One thing that was decided, was disabling the experience cost for the &dwaystones&r mod. By using the &6warp stone&r you will be shown all of the waystones you've activated throughout your adventure, simplifying our travels through dimensions."
+		""
+		"Once used, it's durability will deplete... But it will not dissapear! Instead it will take a bit of time to charge it's energy back so we can use it again and again."
+		""
+		"Literally a waystone, but portable."
+		""
+		"Mod created by: &aBlayTheNinth"
+	]
 	quest.619DAE1E67930A91.quest_subtitle: "Travelling long distances"
 	quest.619DAE1E67930A91.title: "&l&dWaystones"
 	quest.622DB8CA3BE8663C.quest_desc: [
@@ -491,7 +698,7 @@
 		""
 		"Are you tired of moving those villagers with boats and using the nether to shorten the distances between your base and that sweet village? I got the solution!"
 		""
-		"Simply by pressins &lshift + rmb&r will pick the villagers up. I'm not kidding... Try it!"
+		"Simply by pressing &lshift + rmb&r will pick the villagers up. I'm not kidding... Try it!"
 		""
 		"You can even create the &eTrader&r to trade with any villager or set their jobs more easily. To add the job block for the villager, simply right click the trader with the wanted block, this also works for modded villager jobs."
 		""
@@ -501,7 +708,21 @@
 	]
 	quest.642651867EA91259.quest_subtitle: "easier than vanilla"
 	quest.642651867EA91259.title: "&lEasy Villagers"
-	quest.64B596DC5392EE3A.quest_desc: ["W.I.P"]
+	quest.64B596DC5392EE3A.quest_desc: [
+		"Throughout our adventures, we might've stayed up so late that mobs began to spawn."
+		""
+		"Causing problems and making us run for our lives... Ever dreamt of having a bed to sleep without re-setting your spawn point? Well, let me tell you that you can now!"
+		""
+		"Thanks to the mod &aComforts&r, we can rest without setting a new spawn point."
+		""
+		"We can sleep through the &dnight&r and the &eday&r with this amazing mod."
+		""
+		"The &dSleeping Bag&r will let us sleep while it's night time without setting a new spawn point."
+		""
+		"The &eHammock&r will let us sleep while it's daytime."
+		""
+		"Mod created by: &3TheIllusiveC4"
+	]
 	quest.64B596DC5392EE3A.quest_subtitle: "doesn't set a spawnpoint"
 	quest.64B596DC5392EE3A.title: "&l&2Comforts"
 	quest.653EC56F9635F000.quest_desc: [
@@ -554,7 +775,15 @@
 	]
 	quest.67123063EB5567FC.quest_subtitle: "the best of the best!"
 	quest.67123063EB5567FC.title: "&lStorage Options"
-	quest.68C25AACF9C16819.quest_desc: ["W.I.P"]
+	quest.68C25AACF9C16819.quest_desc: [
+		"Villagers always find a way to &8&msteal&r &lmake us&r buy from them..."
+		""
+		"However, the &amarket&r from &6Cooking For Blockheads&r will surely help us when doing some groceries."
+		""
+		"We can only buy some saplings, seeds and some vegetables in this market. But on early stages of the game it's quite useful!"
+		""
+		"Mod created by: &aBlayTheNinth"
+	]
 	quest.68C25AACF9C16819.quest_subtitle: "More like the emerald eater..."
 	quest.68C25AACF9C16819.title: "&l&3Farming with Blockheads"
 	quest.69D6ACCAC3B91456.quest_desc: [
@@ -572,6 +801,19 @@
 	]
 	quest.69D6ACCAC3B91456.quest_subtitle: "In Need for Speed"
 	quest.69D6ACCAC3B91456.title: "&l&eTime In a Bottle"
+	quest.6A1F6F3694025B4A.quest_desc: [
+		"Are you tired of using 1 piece of coal for a single item and it just burns out without any other item to smelt?"
+		""
+		"Here's where the &dTiny Coal&r and &dCharcoal&r will aid on that matter."
+		""
+		"Let's remember that 1 piece of coal or charcoal will smelt 8 items in total. Which is in total 80s and if we are speaking in ticks 1600t."
+		""
+		"1 second = 20 ticks"
+		""
+		"Instead of using 1 coal for a single item, we can use these tiny coals, which 1 tiny coal = 1 item."
+		""
+		"Saving up some coal in the process."
+	]
 	quest.6A1F6F3694025B4A.quest_subtitle: "tiniest of all coals"
 	quest.6A1F6F3694025B4A.title: "&lTiny (Char)Coal"
 	quest.6B5295ABF1D7D71D.quest_desc: [
@@ -615,7 +857,7 @@
 		"We got plenty of &l&aIncredible&f&r mods to talk about, so let us begin!"
 	]
 	quest.77E4F1F6EEB85DBA.quest_subtitle: "and useful tips!"
-	quest.77E4F1F6EEB85DBA.title: "Welcome to &6Useful&f Mods"
+	quest.77E4F1F6EEB85DBA.title: "Welcome to &6&nUseful&r Mods"
 	quest.7855BF00C8A4A7F2.quest_desc: ["W.I.P"]
 	quest.7855BF00C8A4A7F2.quest_subtitle: "In a dire need for equipment?"
 	quest.7855BF00C8A4A7F2.title: "&l&1Just Dire Things"
@@ -665,8 +907,8 @@
 	task.05001251EFC0420F.title: "Click if you agree"
 	task.060E3DA4CBADE3A5.title: "Can it be done?"
 	task.0AE87F3B61FE986E.title: "&6Rechiseled&r mod was created by: &bSuperMartijn642&r"
-	task.0BD21E54C240DF55.title: "Any Waystone"
 	task.0FB415644DDFE671.title: "Click Here if you want OP stuff"
+	task.10A460C2DED7364D.title: "What have i done.."
 	task.10F64B1DF8F5EAEB.title: "Welcome"
 	task.111AAFA4BDCD1C7C.title: "Any Wrench"
 	task.2697C0ACC15CD67E.title: "Don't forget about these!"
@@ -682,6 +924,7 @@
 	task.4EC999DC78E9CD60.title: "Mod created by: &6Soaryn"
 	task.525E3F6850DF6FB5.title: "&lClick Me! I dare you!"
 	task.542A0A5934FF7AE3.title: "Any #curios:crafting_on_a_stick"
+	task.5E3DB1BC6B461008.title: "Mod created by: &aBlayTheNinth"
 	task.6ADD8CA326D91C66.title: "Any Hammock"
 	task.73F2DC67AACAE16C.title: "Mod created by: &bSuperMartijn642"
 	task.76EE390FF80FA6E2.title: "&aChisel Reborn&r mod was created by: &eSlaincow"

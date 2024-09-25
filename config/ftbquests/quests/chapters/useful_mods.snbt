@@ -4,13 +4,17 @@
 	filename: "useful_mods"
 	group: ""
 	icon: {
-		id: "waystones:warp_stone"
+		components: {
+			"ftbquests:icon": "minecraft:textures/gui/sprites/hud/heart/full.png"
+		}
+		id: "ftbquests:custom_icon"
 	}
 	id: "4A53A54E581CD0B3"
 	images: [
 		{
 			height: 4.0d
 			image: "catalyst:textures/quest_images/useful_mods.png"
+			order: 1
 			rotation: 0.0d
 			width: 16.0d
 			x: -0.5d
@@ -20,6 +24,7 @@
 			color: 4849994
 			height: 9.0d
 			image: "xycraft_machines:textures/particles/soft.png"
+			order: 2
 			rotation: 0.0d
 			width: 9.0d
 			x: -1.0d
@@ -38,6 +43,7 @@
 			color: 2752554
 			height: 4.0d
 			image: "xycraft_machines:textures/particles/soft.png"
+			order: 3
 			rotation: 0.0d
 			width: 4.0d
 			x: -1.0d
@@ -47,6 +53,7 @@
 			color: 4194566
 			height: 9.0d
 			image: "xycraft_machines:textures/particles/soft.png"
+			order: 2
 			rotation: 0.0d
 			width: 9.0d
 			x: 6.0d
@@ -56,6 +63,7 @@
 			color: 6947338
 			height: 6.0d
 			image: "xycraft_machines:textures/particles/soft.png"
+			order: 3
 			rotation: 0.0d
 			width: 6.0d
 			x: 6.0d
@@ -71,9 +79,10 @@
 			y: -1.5d
 		}
 		{
-			color: 66100
+			color: 66374
 			height: 9.0d
 			image: "xycraft_machines:textures/particles/soft.png"
+			order: 2
 			rotation: 0.0d
 			width: 9.0d
 			x: -1.0d
@@ -83,7 +92,7 @@
 			color: 132190
 			height: 6.0d
 			image: "xycraft_machines:textures/particles/soft.png"
-			order: 1
+			order: 2
 			rotation: 0.0d
 			width: 6.0d
 			x: -1.0d
@@ -93,7 +102,7 @@
 			color: 65832
 			height: 4.0d
 			image: "xycraft_machines:textures/particles/soft.png"
-			order: 2
+			order: 3
 			rotation: 0.0d
 			width: 4.0d
 			x: -1.0d
@@ -103,6 +112,7 @@
 			color: 10754
 			height: 9.0d
 			image: "xycraft_machines:textures/particles/soft.png"
+			order: 2
 			rotation: 0.0d
 			width: 9.0d
 			x: -8.0d
@@ -112,7 +122,7 @@
 			color: 14851
 			height: 6.0d
 			image: "xycraft_machines:textures/particles/soft.png"
-			order: 1
+			order: 3
 			rotation: 0.0d
 			width: 6.0d
 			x: -8.0d
@@ -134,7 +144,10 @@
 	quests: [
 		{
 			icon: {
-				id: "minecraft:book"
+				components: {
+					"ftbquests:icon": "ftbchunks:textures/waypoint_home.png"
+				}
+				id: "ftbquests:custom_icon"
 			}
 			id: "77E4F1F6EEB85DBA"
 			rewards: [{
@@ -154,6 +167,12 @@
 		{
 			dependencies: ["77E4F1F6EEB85DBA"]
 			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "sfm:item/network_tool"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "3BB9BFE92909D42F"
 			shape: "hexagon"
 			size: 1.5d
@@ -355,6 +374,12 @@
 		{
 			dependencies: ["77E4F1F6EEB85DBA"]
 			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/gui/sprites/hud/armor_full.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "16CB243E5678D282"
 			shape: "hexagon"
 			size: 1.5d
@@ -462,6 +487,12 @@
 		{
 			dependencies: ["77E4F1F6EEB85DBA"]
 			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "integrateddynamics:aspect/read/block"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "07B077F7F5D09FDF"
 			size: 1.5d
 			tasks: [{
@@ -548,6 +579,11 @@
 				id: "comforts:sleeping_bag_white"
 			}
 			id: "64B596DC5392EE3A"
+			rewards: [{
+				id: "7D05E9D7DD7643EB"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [
 				{
 					id: "2BC517B8D6DB8E58"
@@ -632,6 +668,11 @@
 		{
 			dependencies: ["07B077F7F5D09FDF"]
 			id: "68C25AACF9C16819"
+			rewards: [{
+				id: "2F83AF7191391FC8"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "4D7DB3442E9D76FC"
 				item: { count: 1, id: "farmingforblockheads:market" }
@@ -665,6 +706,11 @@
 				id: "ironfurnaces:iron_furnace"
 			}
 			id: "4615D71D0264C714"
+			rewards: [{
+				id: "695AD539C98FCDDD"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "0388D8D0E0D3573F"
 				item: { components: { "ftbfiltersystem:filter": "or(item(ironfurnaces:iron_furnace)item(ironfurnaces:gold_furnace)item(ironfurnaces:diamond_furnace)item(ironfurnaces:emerald_furnace)item(ironfurnaces:obsidian_furnace)item(ironfurnaces:crystal_furnace)item(ironfurnaces:netherite_furnace)item(ironfurnaces:copper_furnace)item(ironfurnaces:silver_furnace))mod(ironfurnaces)", "minecraft:custom_name": "\"Any Upgradeable Furnace\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -714,6 +760,11 @@
 				id: "elevatorid:elevator_white"
 			}
 			id: "4C1C8F2BD7478657"
+			rewards: [{
+				id: "175C5B4174408F36"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "4B95D6163A48C9E4"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(elevatorid:elevators)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -804,6 +855,11 @@
 				id: "sophisticatedstorage:diamond_chest"
 			}
 			id: "53B3F4366891C8E4"
+			rewards: [{
+				id: "56FFCBAE1B529534"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "07797890E24BE153"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(functionalstorage:drawer)item_tag(functionalstorage:drawer_1x2)item_tag(functionalstorage:drawer_2x2)item_tag(sophisticatedstorage:base_tier_wooden_storage))", "minecraft:custom_name": "\"Types of Storages\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -848,6 +904,11 @@
 		{
 			dependencies: ["07B077F7F5D09FDF"]
 			id: "21E082550A327335"
+			rewards: [{
+				id: "4281F0BDBEAB1964"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "1B97D687A05BFF10"
 				item: { count: 1, id: "quarryplus:quarry" }
@@ -937,20 +998,15 @@
 				id: "waystones:warp_scroll"
 			}
 			id: "0BB636E9C6105134"
-			tasks: [
-				{
-					count: 2L
-					id: "0BD21E54C240DF55"
-					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(waystones:waystones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					type: "item"
-				}
-				{
-					count: 2L
-					id: "377C24EC2EC73BBC"
-					item: { count: 1, id: "waystones:warp_plate" }
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "49BBEF57EF6E37B4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5E3DB1BC6B461008"
+				type: "checkmark"
+			}]
 			x: 4.5d
 			y: -3.0d
 		}
@@ -1090,6 +1146,11 @@
 				id: "minecraft:diamond_pickaxe"
 			}
 			id: "2DB9DE148A6A3E1F"
+			rewards: [{
+				id: "58B2FBFD29250DC2"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [
 				{
 					id: "05D7342EB6F1265B"
@@ -1119,7 +1180,10 @@
 			dependencies: ["77E4F1F6EEB85DBA"]
 			hide_dependency_lines: true
 			icon: {
-				id: "mekanism:hdpe_stick"
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/online"
+				}
+				id: "ftbquests:custom_icon"
 			}
 			id: "3F7B44EB0D6342F7"
 			optional: true
@@ -1304,6 +1368,11 @@
 		{
 			dependencies: ["3BB9BFE92909D42F"]
 			id: "619DAE1E67930A91"
+			rewards: [{
+				id: "55B9F7CB16121677"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "465E6B3A7B946711"
 				item: { count: 1, id: "waystones:warp_stone" }
@@ -1319,6 +1388,7 @@
 				id: "everlastingabilities:ability_bottle"
 			}
 			id: "09846E3BA8A6FF77"
+			optional: true
 			rewards: [{
 				id: "2515563CE3A1FCA5"
 				type: "xp"
@@ -1338,6 +1408,7 @@
 				id: "kubejs:tiny_coal"
 			}
 			id: "6A1F6F3694025B4A"
+			optional: true
 			rewards: [{
 				id: "2C7A28D26C6B5928"
 				type: "xp"
@@ -1349,6 +1420,45 @@
 				type: "item"
 			}]
 			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["77E4F1F6EEB85DBA"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "energizedpower:textures/gui/book_icons/comparator_mode_energy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4B80401F8F05318D"
+			optional: true
+			rewards: [{
+				id: "75126220776C0C39"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "10A460C2DED7364D"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["07B077F7F5D09FDF"]
+			id: "2D989ED723D100D3"
+			rewards: [{
+				id: "7ECEEDAE5A4F448C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "19B6BA05C38FE224"
+				item: { count: 1, id: "hyperbox:hyperbox" }
+				type: "item"
+			}]
+			x: 6.5d
 			y: -0.5d
 		}
 	]

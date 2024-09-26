@@ -19,6 +19,10 @@ ServerEvents.tags('item', catalyst => {
     catalyst.add('c:fueltype/tinycoals', 'kubejs:tiny_charcoal')
     catalyst.add('c:fueltype/tinycoals', 'kubejs:tiny_coal')
 
+    //Jetpacks
+    catalyst.add('c:creativeflytype/jetpack', 'mekanism:jetpack')
+    catalyst.add('c:creativeflytype/jetpack', 'ironjetpacks:jetpack')
+    
 })
 
 /* 

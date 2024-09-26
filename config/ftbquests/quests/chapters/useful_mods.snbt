@@ -398,18 +398,27 @@
 						abilities: {
 							abilities: {
 								dissection: {
-									cooldown: 0
-									cooldownCap: 0
+									extender: {
+										cooldown: 0
+										cooldownCap: 0
+										ticking: 0b
+									}
+									lock: {
+										breaks: 5
+									}
 									points: 0
+									research: {
+										links: { }
+										researched: 0b
+									}
 									stats: {
 										distance: {
-											initialValue: 24.16219d
+											initialValue: 29.38186d
 										}
 										time: {
-											initialValue: 6.78592d
+											initialValue: 7.89114d
 										}
 									}
-									ticking: 0b
 								}
 							}
 						}
@@ -424,6 +433,11 @@
 				id: "relics:space_dissector"
 			}
 			id: "1F9DD8905A302496"
+			rewards: [{
+				id: "603AAFBB59264EBF"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "0632E133685DC06C"
 				item: { components: { "ftbfiltersystem:filter": "mod(relics)or(item(relics:reflection_necklace)item(relics:magma_walker)item(relics:aqua_walker)item(relics:midnight_robe)item(relics:drowned_belt)item(relics:jellyfish_necklace)item(relics:hunter_belt)item(relics:rage_glove)item(relics:ice_skates)item(relics:bastion_ring)item(relics:chorus_inhibitor)item(relics:holy_locket)item(relics:enders_hand)item(relics:elytra_booster)item(relics:ice_breaker)item(relics:spore_sack)item(relics:roller_skates)item(relics:leather_belt)item(relics:wool_mitten)item(relics:amphibian_boot))", "minecraft:custom_name": "\"Any Relic Curio\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -508,9 +522,15 @@
 				id: "apothic_enchanting:draconic_endshelf"
 			}
 			id: "116C52D690CC1551"
+			rewards: [{
+				id: "374E1D0799C06C99"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
-				id: "32F89E40686BF049"
-				type: "checkmark"
+				id: "7830EB2F1F46EF21"
+				item: { count: 1, id: "minecraft:bookshelf" }
+				type: "item"
 			}]
 			x: 0.0d
 			y: 8.0d
@@ -547,6 +567,11 @@
 				id: "justdirethings:eclipsealloy_helmet"
 			}
 			id: "7855BF00C8A4A7F2"
+			rewards: [{
+				id: "1254F0BDB75090C7"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "3B75BD518D17E850"
 				type: "checkmark"
@@ -1283,18 +1308,11 @@
 				type: "xp"
 				xp: 100
 			}]
-			tasks: [
-				{
-					id: "2ED36935EC5C9C93"
-					item: { count: 1, id: "mekanism:jetpack" }
-					type: "item"
-				}
-				{
-					id: "3DCB79DCF0D46FCA"
-					item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:wood" }, count: 1, id: "ironjetpacks:jetpack" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "2ED36935EC5C9C93"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:creativeflytype/jetpack)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
 			x: 2.0d
 			y: 5.5d
 		}

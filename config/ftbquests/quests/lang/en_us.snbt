@@ -26,6 +26,27 @@
 	chapter_group.799C57E4146F24A8.title: "Technology"
 	chapter_group.7DB43C7557896446.title: "Magic"
 	file.0000000000000001.title: "Evolution"
+	quest.00BD7B649DA51BB1.quest_desc: ["functions like a normal relay but has a lot higher throughput and can send to multiple locations"]
+	quest.00BD7B649DA51BB1.quest_subtitle: "multitasking"
+	quest.00ED21DA1BCBEC5A.quest_desc: [
+		"Will generate source form corps and trees growing in a  15 block range aka ( 31x31x31 area centered on link)."
+		""
+		"It will generate extra Source from plants/trees from Ars nouveau."
+		""
+		"For crops the source is generated from the plant growing and will not keep making source when fully mature."
+		""
+		"&eNOTE: will not generate source from crops that are bone mealed will not contribute Source but other kinds of growth acell still works, bonemealed trees will still contribute.&r"
+	]
+	quest.02E409957CF1A24F.quest_desc: [
+		"Creating source gems isn't the only thing the imbuement chamber is used for."
+		""
+		"It is also for turning Source Gems into various essences, however to do this it requires 3 catalysts which depend on which essence you are trying to craft."
+		""
+		"These catalysts are not consumed and stay on their pedestals"
+		""
+		"&eThese pedestals can be placed anywhere within a 1 block range including diagonals AKA (3x3x3 centered on chamber)&r"
+	]
+	quest.02E409957CF1A24F.title: "Essence Crafting"
 	quest.036C58E2C3423F58.quest_desc: [
 		"&dArs Nouveau&r has to be one of the best magic mods Modded Minecraft has recieved over the years. We will not talk about much of the mod in this section, due to there being a &lwhole questline&r for it."
 		""
@@ -41,6 +62,41 @@
 	]
 	quest.036C58E2C3423F58.quest_subtitle: "You're a wizard harry..."
 	quest.036C58E2C3423F58.title: "&l&dArs Nouveau"
+	quest.04BA44C84D598B0C.quest_desc: [
+		"The divination rod makes the process of finding Iesnium significantly easier."
+		""
+		"In order to attune it to Iesnium you simply shift right click any netherrack and it will be attuned."
+		""
+		"You can now use right click and it should shoot out a pink particle stream to the closest Iesnium."
+		""
+		"if for some reason this doesn't work the rod animation will operate like a game of hot and cold."
+	]
+	quest.04BA44C84D598B0C.quest_subtitle: "prospecting"
+	quest.062FB5E168C9D41E.quest_desc: [
+		"To set up a henge place an inventory and a source jar adjacent to the henge then spawn in your Drygmys then place your jarred mobs inside a 10 block range of the henge."
+		""
+		"by shift clicking the henge with dominion wand you can set it to only accept drops from jars"
+		""
+		"page 2 is info dump for Drygmy happiness modifier (speed)"
+		" "
+		"{@pagebreak}"
+		"[drygmy_production]"
+		"#How much source Drygmys consume per generation"
+		"#Range: 0 ~ 10000"
+		"drygmyManaCost = 1000"
+		"#How many channels must occur before a Drygmy produces loot"
+		"#Range: 0 ~ 300"
+		"drygmyMaxProgress = 20"
+		"#Bonus number of items a Drygmy produces per unique mob"
+		"#Range: 0 ~ 300"
+		"drygmyUniqueBonus = 2"
+		"#Base number of items a Drygmy produces per cycle before bonuses."
+		"#Range: > -2147483648"
+		"drygmyBaseItems = 1"
+		"#Max Bonus number of items a Drygmy produces from nearby entities. Each entity equals 1 item."
+		"#Range: 0 ~ 300"
+		"drygmyQuantityCap = 5"
+	]
 	quest.0781A4C9B5ED15F5.quest_desc: [
 		"Are you feeling tired of using all of your &ehotbar&r to store all of your tools?"
 		""
@@ -56,6 +112,16 @@
 	]
 	quest.0781A4C9B5ED15F5.quest_subtitle: "Need more space for tool?"
 	quest.0781A4C9B5ED15F5.title: "&3&lTool Belt"
+	quest.078639E7470871B6.quest_desc: [
+		"If you are tired of seeing this world in normal colors then these are the glasses for you they will add a pink tint to your vision."
+		""
+		"&4They do have the side effect of giving you the third eye effect.&r"
+		""
+		"This allows you to interact with Otherstone and otherworld trees without ingesting the demon's dream."
+		"however there is still a ressource left which requires stronger means in order to be brought back home to our world"
+	]
+	quest.078639E7470871B6.quest_subtitle: "Pink glasses"
+	quest.078639E7470871B6.title: "special glasses"
 	quest.07B077F7F5D09FDF.quest_desc: ["In this section, we will talk about some &eblocks&r that will surely bring us joy when we craft them."]
 	quest.07B077F7F5D09FDF.title: "&l&e&nAmazing Blocks"
 	quest.09846E3BA8A6FF77.quest_desc: [
@@ -75,6 +141,14 @@
 	]
 	quest.09846E3BA8A6FF77.quest_subtitle: "abilities in the form of totems"
 	quest.09846E3BA8A6FF77.title: "&lEverlasting Abilities"
+	quest.09AA28D69D0D696E.quest_desc: ["Candles are used in most if not all rituals"]
+	quest.09AA28D69D0D696E.title: "Organic candles"
+	quest.0AE1D9E720C989FD.quest_desc: [
+		"The satchels are a way of storing all your ritual materials. There are 3 tiers where each brings an increasing level of functionality."
+		""
+		"The first tier however is purely just storage."
+	]
+	quest.0AE1D9E720C989FD.quest_subtitle: "Too much chalk?"
 	quest.0BB636E9C6105134.quest_desc: [
 		"&dWaystones&r mod adds multiple yet useful blocks for us to use!"
 		""
@@ -126,6 +200,25 @@
 	quest.0C7FFA80C1B2836F.quest_desc: ["W.I.P"]
 	quest.0C7FFA80C1B2836F.quest_subtitle: "Free loot"
 	quest.0C7FFA80C1B2836F.title: "&lGateways to Eternity"
+	quest.0CF08FDDD9D56E04.quest_desc: ["This satchel much like it previous tier allows you to store all your ritual materials this one however allows you to click on the ritual preview you place with the book and the satchel will place the right candle skull chalk or crystal."]
+	quest.0DF3C82DFF5E308A.quest_desc: [
+		"To get started  with Ars Nouveau you are going to need to get your hands on some Archwood planks."
+		""
+		"Archwood trees spawn rarely across the map, but also abundantly in the biome: Archwood forests."
+		""
+		"Right now the type of tree doesn't matter and later you will be able to transmute one tree sapling to another."
+		""
+		"&4note! If you find fruit growing on these trees make sure to bring some with you as these may be useful later.&r"
+		"&4The fruits can be farmed just like cocoa beans and each tree type has their own variant.&r"
+	]
+	quest.0DF3C82DFF5E308A.quest_subtitle: "Elemental Lumber"
+	quest.10E0774B22AC1D58.quest_desc: [
+		"The Enchanting Apparatus is a structure consisting of an Enchanting Apparatus placed on top of an Arcane core."
+		""
+		"This block is used for various things like crafting and enchanting (check uses in jei/emi for recipes)"
+		""
+		"The arcane platforms can be placed anywhere in a 7x7x7 area centered on the enchant apparatus"
+	]
 	quest.1169C4B8130911F8.quest_desc: ["These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."]
 	quest.116C52D690CC1551.quest_desc: [
 		"&4Apotheosis&r mod adds quite a lot of new features. This mod is incredibly broken in the best of ways to achieve godhood, but just as everything in modded mc, we have to find our way!"
@@ -150,6 +243,43 @@
 	]
 	quest.116C52D690CC1551.quest_subtitle: "Pretty op stuff..."
 	quest.116C52D690CC1551.title: "&l&4Apotheosis"
+	quest.11AD62DE17CEDB14.quest_desc: [
+		"Otherworld logs are required for making chalk."
+		""
+		"To be able to get this log you first need to get other world trees. To do this you need to toss an oak sapling in a spirit fire and grow it."
+		""
+		"Once the tree is grown it will look like a regular oak tree till you enter the demon dream state (Third eye) by eating a demon's dream seed or fruit."
+		""
+		"&4NOTE! (other world logs will only drop while the third eye status is active) &r"
+	]
+	quest.11AD62DE17CEDB14.quest_subtitle: "Oak but different"
+	quest.11AD62DE17CEDB14.title: "Otherwood"
+	quest.125887AC0E0F7B9C.quest_desc: [
+		"The ritual brazier allows you to do rituals."
+		""
+		"Rituals that require Source will pull from a nearby jar if one is present."
+		""
+		"You start by clicking the ritual tablet on the brazier where it will light and be in a ready state, this is when you are able to add augments which can be seen on the item description."
+		""
+		"When you are done with whatever augments you want you click the brazier again to start the ritual."
+	]
+	quest.12CAFBD9C7290E95.quest_desc: ["created by tossing andesite in the spirit fire"]
+	quest.12CAFBD9C7290E95.quest_subtitle: "Smells burnt"
+	quest.1480A8DAFC82ADD5.quest_desc: [
+		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
+		""
+		"Useful Mods Questline made by: &aApexSlayer&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.1480A8DAFC82ADD5.title: "&l&4Catalyst Studios Quests"
+	quest.151BBAA83E037C27.quest_desc: [
+		"If there is something that the quests do not cover that you wonder about you might find it here"
+		""
+		"If you have the Book in your inventory you are able to hover over an item and hold Ctrl and it will take you directly to the pages regarding the item of choice."
+	]
+	quest.151BBAA83E037C27.quest_subtitle: "I know you won't bother opening the book"
+	quest.151BBAA83E037C27.title: "Arcane Study"
 	quest.166ACB8E71DFAC31.quest_desc: [
 		"We got plenty of ways to achieve &5creative fly&r without much effort."
 		""
@@ -169,6 +299,65 @@
 	quest.166ACB8E71DFAC31.title: "&lJetpacks"
 	quest.16CB243E5678D282.quest_desc: ["In this section we will talk about &eEquipment&r that will make us more powerful... Can we achieve &cgodhood&r? Can't tell, but I'm sure they will help you on your adventure!"]
 	quest.16CB243E5678D282.title: "&l&e&nAmazing Equipment"
+	quest.16E0FC5E39897FD2.quest_desc: [
+		"This setup uses redstone emitters with crafting cards set to emit to craft this replaces pattern and will show up as a craft in your system."
+		""
+		"The export buses have redstone cards in them and are set to work with redstone."
+		""
+		"The import buses are set with a invers card to blacklist source gems."
+		"{image:kubejs:textures/quest_images/ars_nouveau/immbument_chamber_automation.png width:150 height:100 align:center}"
+		"{image:kubejs:textures/quest_images/ars_nouveau/immbument_chamber_automation2.png width:150 height:100 align:center}"
+		"Example of a setup with 8 chambers."
+		"{image:kubejs:textures/quest_images/ars_nouveau/immbument_8_cell.png width:150 height:100 align:center}"
+	]
+	quest.16E0FC5E39897FD2.title: "Auto transmutation"
+	quest.1967006A4AFEE71C.quest_desc: ["The upcoming creatures need to be created with the tablet of awakening."]
+	quest.1967006A4AFEE71C.quest_subtitle: "Expanding the labor force"
+	quest.199EE3B22FAFAC74.quest_desc: [
+		"Will generate Source from potions in potion jars close by."
+		""
+		"The source generated depends on the potions complexity and duration."
+		""
+		"See book for more info."
+	]
+	quest.199EE3B22FAFAC74.quest_subtitle: "Today, we cook"
+	quest.1AD0B6FC4101DE41.quest_desc: ["This item acts like a remote terminal and allows you to access your storage from anywhere in your world."]
+	quest.1AD0B6FC4101DE41.title: "Remote Access"
+	quest.1D15906567D49376.quest_desc: [
+		"The rituals can be a bit more tricky to automate than the fire but it is not all that hard."
+		""
+		"The normal sacrificial bowls can be piped into; they only hold a single item each so you don't need to worry about  items bunching up."
+		""
+		"The golden bowl however needs to have its item clicked on after the other items have been piped in. for this you can use a router or player sim ect."
+		""
+		"If you are utilizing AE system for these crafts or similar you may or may not encounter a nbt issue with the books where it does not recognise the book if this is the case the book can be bound on site with something like a Rft crafter or similar."
+		""
+		"If you are using a subnet to deliver the items, putting the provider in block mode should be sufficient if not it's advised to utilize locking mode till the result has been returned."
+		""
+		"note the pattern provider respects item order in pattern so you can use this to your advantage to make sure items go inn in the right order (book being last) you can read more about this in ae section"
+		""
+		"Lastly the item will be dropped when finished so an item collector can be used to collect the result."
+		"{@pagebreak}"
+		""
+		"The ritual that's used in the example is a crusher summoning ritual but is applicable to any ritual granted larger rituals may require you to use a controller on the subnet"
+		"example setup:"
+		"{image:kubejs:textures/quest_images/occultism/ritual_automation_front.png width:100 height:100 align:center}"
+		"Simple subnetwork with interface on the provider don't forget the quartz fiber for power more info check ae quests."
+		"&4Make sure you enable block or lock mode in the pattern provider&r"
+		"{image:kubejs:textures/quest_images/occultism/ritual_automation_side.png width:100 height:100 align:center}"
+		"The storage bus on the chest is set to lower priority and has a blacklist for the ritual items you may try to do a whitelist although nbt data might make that difficult alternatively a tag or mod storage bus could work."
+		"{image:kubejs:textures/quest_images/occultism/ritual_automation_storage_bus_pri.png width:100 height:100 align:center}"
+		"{image:kubejs:textures/quest_images/occultism/ritual_automation_player_sim_config.png width:100 height:100 align:center}"
+		"The player simulator requires no programing or configuring however if you want it placed remotely like in the example you need part enhancement:offset to upgrade the player sim range and set the location in the menu thats marked"
+		"{image:kubejs:textures/quest_images/occultism/ritual_automation_player_sim_visualiser.png width:100 height:100 align:center}"
+		"The Integrated dynamics wrench allows you to see the location that the simulator is working on."
+		"&4If you haven't already make sure to enable fake players in ftb teams.&r"
+		"{image:kubejs:textures/quest_images/occultism/ritual_automation_pattern.png width:150 height:100 align:center}"
+		"Lastly the ae patterns respect the order you put the items in priority: left->right top->bottom so when using a low priority bus you want the book last."
+		"&6If you experience nbt issues with the books you can replace the book with a unbound on and replace the chest with something like a Rft crafter set to bind the books.&r"
+	]
+	quest.1D15906567D49376.quest_subtitle: "MRI Machine ritual Interface"
+	quest.1D15906567D49376.title: "Auto Rituals"
 	quest.1D53BBEB966BAE77.quest_desc: [
 		"&6Torchmaster&r mod is the true definition of &lDon't Spawn&r."
 		""
@@ -199,6 +388,16 @@
 	]
 	quest.1F9DD8905A302496.quest_subtitle: "Powerful Curio"
 	quest.1F9DD8905A302496.title: "&l&6Relics"
+	quest.20164587736CBE5B.quest_desc: ["The Arcane Core is used under the Enchanting Apparatus and is the work site for the Shady Wizard."]
+	quest.20A79BCC4B9EC78B.quest_desc: [
+		"Spirit Attuned gems are made by tossing a diamond into a spirit fire."
+		""
+		"The crystal is made by combining 4 in a crafting grid"
+		""
+		"these are used in some of the rituals"
+	]
+	quest.20A79BCC4B9EC78B.quest_subtitle: "shiny"
+	quest.20A79BCC4B9EC78B.title: "Spirit attuned Crystal"
 	quest.20AC765EB929F9F4.quest_desc: [
 		"Tired of receiving fall damage when building your house?"
 		""
@@ -242,6 +441,10 @@
 	]
 	quest.21E082550A327335.quest_subtitle: "Mining, but with a machine"
 	quest.21E082550A327335.title: "&l&8Additional Enchanted Miner"
+	quest.2281F1237556660F.quest_desc: ["When looking at a ritual in the spirite guide book the preview will have a small eye icon in the bottom left corner which you can click to enable in world preview for you to follow"]
+	quest.2281F1237556660F.quest_subtitle: "This is where you messed up"
+	quest.2281F1237556660F.title: "3d projector"
+	quest.234A684181B4B277.quest_desc: ["This is the highes tier of satchel and will construct the entire ritual if you click on the preview it will also allow you to instantly clean up the ritual by clicking on the ritual bowl"]
 	quest.2438C51737F1817B.quest_desc: [
 		"The Shrink mod adds the amazing &n&dShrinking Device&r, which will let you... SHRINK!"
 		""
@@ -255,6 +458,13 @@
 	]
 	quest.2438C51737F1817B.quest_subtitle: "Honey, I shrunk the kids!"
 	quest.2438C51737F1817B.title: "&l&2Shrink"
+	quest.253D4934AE39B4DA.quest_desc: [
+		"This pack has Ars Nouveau Occultism integration meaning you can put some spirits in jars instead of having them in world as entities"
+		"read ars nouveau worn notebook under ars Ocultas for more info"
+	]
+	quest.253D4934AE39B4DA.title: "Bottled Demons"
+	quest.2577E2D827AC5D6C.quest_desc: ["Will generate source from Mob deaths, Breading and passively of baby animals as well as acell their growth"]
+	quest.2577E2D827AC5D6C.quest_subtitle: "in Life and Death "
 	quest.273CC4D59C0D8731.quest_desc: [
 		"The mod &n&l&6Only Hammers&r adds a variety of hammers for us to mine big areas quickly!"
 		""
@@ -288,6 +498,11 @@
 	]
 	quest.2B2C28707D222C78.quest_subtitle: "why move items manually?"
 	quest.2B2C28707D222C78.title: "&lLogistics"
+	quest.2BFA19AD4DCEC687.quest_desc: [
+		"Books of binding are used as the final ingredient in a ritual."
+		""
+		"However for the book to be functional you first need to bind it to a spirit by crafting it with a spirit guide book."
+	]
 	quest.2C4B98E6014AC2DE.quest_desc: [
 		"Trash cans for everything... Now we can start deleting everything we want!"
 		""
@@ -371,6 +586,40 @@
 	]
 	quest.2E4461B571572B25.quest_subtitle: "Magnets, but in the form of blocks!"
 	quest.2E4461B571572B25.title: "&l&eItem Collectors"
+	quest.2F30EBDF5D92F364.quest_desc: [
+		"If you got emeralds to spend and like gambling the shady wizard is the thing for you."
+		""
+		"He will trade for various useful items he will select 2 trades from the list bellow per tier"
+		""
+		"&eJourneyman&r"
+		"GivenReceived"
+		"4x Emerald1x Any Ritual Tablet"
+		"&aExpert&r"
+		"GivenReceived"
+		"20x Emerald1x Any Summoning Shard"
+		"&bMaster&r"
+		"GivenReceived"
+		"4x Emerald1x Sourceberry Pie"
+		"48x Emerald1x Any Rare Ars Dungeon Loot2"
+	]
+	quest.2F30EBDF5D92F364.quest_subtitle: "Magic Bypass"
+	quest.3031D9996B7B1DDD.quest_desc: [
+		"In order to generate Source you need some kind of Sourcelink  which there are several kinds for you to choose from."
+		""
+		"all these Sourcelinks will deposit its source to any Source Jar in a 5 Block radius AKA (11x11x11 area centered on the link)"
+	]
+	quest.3031D9996B7B1DDD.title: "Generating Source"
+	quest.30C2B61E8C36B57E.quest_desc: [
+		"Will Generate Source from food items the more saturation they provide the more source they will produce."
+		""
+		"Magical foods will produce extra Source."
+		""
+		"It will over time convert dirt in a 3x3 area below it into mycelium and grow mushrooms on it."
+		""
+		"Will take food from arcane pedestals placed in a 3x3x3 area centered on the link."
+	]
+	quest.3171E159C4D05AD4.quest_desc: ["Creating spirit fire is as simple as tossing a Demon's Dream Fruit on the ground and lighting it on fire"]
+	quest.3171E159C4D05AD4.title: "Creating Demonic fire"
 	quest.318263781167A26D.quest_desc: [
 		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
 		""
@@ -381,6 +630,13 @@
 	quest.318263781167A26D.title: "&l&4Catalyst Studios Quests"
 	quest.341860979C6FB8C6.quest_desc: ["this image was set as a Placeholder for another one."]
 	quest.341860979C6FB8C6.title: "Placeholder"
+	quest.34C914F96A3A1A27.quest_desc: [
+		"This relay functions much like a splitter in that it can send to multiple locations."
+		""
+		"However this one can send source over an endless distance as long as it's to another warp relay there may be some source loss at distances greater than 30 blocks."
+		""
+		"Can not send source to other dims."
+	]
 	quest.35C209E20C000AA5.quest_desc: [
 		"The mod &l&bHydro&cphobe&r adds &e2&r new blocks that will make things easier when dealing with &bwater&r and &clava&r."
 		""
@@ -394,6 +650,25 @@
 	]
 	quest.35C209E20C000AA5.quest_subtitle: "hydrophobia, but in blocks"
 	quest.35C209E20C000AA5.title: "&l&bHydro&cphobe"
+	quest.35F498CAE76F3C31.quest_desc: [
+		"Occultism is based around doing rituals and summoning these rituals can be found in the spirit guide and provide a build guide for you to follow."
+		""
+		"These rituals must contain one golden sacrificial bowl and however many sacrificial bowls your ritual requires."
+		""
+		"Golden sacrificial bowl always goes in the middle while the normal bowls can go everywhere within a 8 block radius of the center (13x13 area)"
+		""
+		"If your ritual requires a sacrifice, it is performed after the book is placed in the bowl."
+	]
+	quest.35F498CAE76F3C31.quest_subtitle: "No turning back"
+	quest.35F498CAE76F3C31.title: "Rituals for beginners"
+	quest.3668E80AA1D94548.quest_desc: [
+		"Created by surrounding a source gem with stone."
+		""
+		"Used in some blocks like arcane pedestals ect."
+	]
+	quest.3668E80AA1D94548.quest_subtitle: "Magic Rock"
+	quest.384A953CD384DC50.quest_desc: ["These 2 relays have the ability to respectively collect and deposit source from and to source jars they will automatically work with jars within a 5 block range AKA (11x11x11 area)"]
+	quest.384A953CD384DC50.title: "Withdraw and Deposit"
 	quest.394D5F2C08A05B50.quest_desc: [
 		"The mod &l&6Mekanism&r adds a lot of new machines and some really good equipment."
 		""
@@ -409,6 +684,14 @@
 	]
 	quest.394D5F2C08A05B50.quest_subtitle: "It's not only about machine..."
 	quest.394D5F2C08A05B50.title: "&l&8Mekanism Tools"
+	quest.39621342A2F96DF9.quest_desc: [
+		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
+		""
+		"Useful Mods Questline made by: &aApexSlayer&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.39621342A2F96DF9.title: "&l&4Catalyst Studios Quests"
 	quest.3A1325AD7235B004.quest_desc: [
 		"The mod &6Connected Pipes&r is a QOL mod to &nconnect&r our pipes easily!"
 		""
@@ -437,6 +720,21 @@
 	quest.3A911DEE451C256F.title: "&lSmol tip'"
 	quest.3BB9BFE92909D42F.quest_desc: ["In this section we will talk about &eTools&r to make our experience on a game about cubes more entretaining!"]
 	quest.3BB9BFE92909D42F.title: "&l&e&nAmazing Tools"
+	quest.3DFD32A1A229E04F.quest_desc: [
+		"One of the kinds of candles you can use in Occultism is the tallow candle."
+		""
+		"Tallow is procured by killing cows, pigs, horses, lamas or sheep with a butchers knife"
+	]
+	quest.3DFD32A1A229E04F.quest_subtitle: "now where did that trader go"
+	quest.3DFD32A1A229E04F.title: "local butcher"
+	quest.3E884D06714017F1.quest_desc: [
+		"The crushers are used for ore multiplication."
+		""
+		"The most basic crusher makes 2 dust per raw ore and improves per rank going all the way up to 6 per raw ore for the Marid."
+		""
+		"The lifespan and speed of the demons also increase with the tier where the Marid will last forever."
+	]
+	quest.3E884D06714017F1.quest_subtitle: "Ore multiplication"
 	quest.3F7B44EB0D6342F7.quest_desc: [
 		"In this modpack, we have plenty of stuff to do, but there are quite a few things like &l&acommands&r and &l&6quality of life&r keybinds that will ease certain tasks..."
 		""
@@ -510,6 +808,26 @@
 	]
 	quest.3FD7266D9F52DA0E.quest_subtitle: "Not an item importer"
 	quest.3FD7266D9F52DA0E.title: "&l&3Fluid Pumps"
+	quest.4055D1BC0E7E2C21.quest_desc: [
+		"This setup \"Should™\" work for any recipe in the enchanting apparatus."
+		""
+		"It uses a subnet with a high priority storage bus on the router which makes sure that the item going to the center always gets sent there."
+		""
+		"&6for this to work you need to have the item going to the apparatus first in the pattern (top left slot) which is usually the default recipe that gets imported in the pattern config terminal.&r"
+		""
+		"&6block or lock mode is required for this setup. &r"
+		""
+		"The router clicks the item off the apparatus when it's finished crafting which allows the collector to pick it up."
+		""
+		"For more info on subnet check ae quests."
+		"{image:kubejs:textures/quest_images/ars_nouveau/enchanting_apparatus_auto.png width:100 height:150 align:center}"
+	]
+	quest.4055D1BC0E7E2C21.title: "Auto Enchanter"
+	quest.41B3A0FD5859D510.quest_desc: [
+		"The amethyst golem is a creature that will go around harvesting fully grown amethyst normally they will break the buds however in a claimed area they won't break them, but will still harvest them making them work significantly faster."
+		""
+		"Amethyst golems will also create budding amethyst from normal amethyst"
+	]
 	quest.4364D54A37B97D40.quest_desc: [
 		"Resource generation is vital for this type of Modpacks."
 		""
@@ -525,6 +843,7 @@
 	]
 	quest.4364D54A37B97D40.quest_subtitle: "No more manual resource collection!"
 	quest.4364D54A37B97D40.title: "&lResource Generation"
+	quest.44884F0AE8219EAB.quest_desc: ["The Arcane Pedestal is used to hold items for the essence crafting with the imbuement Chamber, for use with the Enchanting Apparatus. "]
 	quest.44D5D328F4A7375B.quest_desc: [
 		"We have some of the best mods to decorate our bases, but in here we are taking a look at &6Rechiseled&r and &aChisel Reborn&r mods."
 		""
@@ -557,6 +876,8 @@
 	]
 	quest.4615D71D0264C714.quest_subtitle: "Better furnaces"
 	quest.4615D71D0264C714.title: "&l&7Iron Furnaces"
+	quest.4821A8015B2F5FA1.quest_desc: ["One of the 4 chalks used in rituals."]
+	quest.48A0DC661D3F37C7.quest_desc: ["Alternatively candles can be made with wax or comb from bees "]
 	quest.49EF86015BB0874E.quest_desc: [
 		"In this &l&9Modpack&r, we have plenty of tools to work on, but there is one or may I say '&nmultiple&r' tools of the same type."
 		""
@@ -587,6 +908,19 @@
 	]
 	quest.4B80401F8F05318D.quest_subtitle: "infinite... POWER!!!"
 	quest.4B80401F8F05318D.title: "&lPower Generation"
+	quest.4B97F49BBDDB049A.quest_desc: [
+		"Whilst not strictly needed for Drygmys to operate you will likely want to jar the mobs you want to generate loot from with the Drygmys as it reduces entities in the world and increases safety for your fragile Drygmys."
+		""
+		"Outside of Drygmys the jars can have some special interactions see book page for more info."
+	]
+	quest.4B97F49BBDDB049A.quest_subtitle: "I would like a canned dragon please"
+	quest.4BE9FE70FD274586.quest_desc: [
+		"Automatic way of gathering ores from nothing see jei/emi for ressources higher tiers have better ores and the top tier can even get Iesnium."
+		""
+		"The lamps function off of a loot pool where it will randomly generate ores based on their weight."
+		""
+		"Automatic repair of the miner lamp can be done with something capable of reading durability like integrated dynamics."
+	]
 	quest.4C1C8F2BD7478657.quest_desc: [
 		"Honestly, after i found out about this mod i stopped using stairs... Don't judge me! After you try these blocks out, you'll know what i mean."
 		""
@@ -606,6 +940,16 @@
 	]
 	quest.4C1C8F2BD7478657.quest_subtitle: "Up and Down"
 	quest.4C1C8F2BD7478657.title: "&l&aElevators"
+	quest.4C3233E2F465F5C7.quest_desc: ["One of the 4 chalks used in rituals"]
+	quest.4C3233E2F465F5C7.quest_subtitle: "its Gold"
+	quest.4DA0BC20061D0D9A.quest_desc: ["Where the lamp does its work"]
+	quest.4E27F22442362105.quest_desc: ["Used to Store Source will keep its stored Source if broken and moved."]
+	quest.4EB2763EB94E73AB.quest_desc: [
+		"This pickaxe is required in order to be able to mine Iesnium."
+		""
+		"Your regular hallucinations just aren't enough anymore."
+	]
+	quest.4EB2763EB94E73AB.title: "Fragile extraction"
 	quest.53B3F4366891C8E4.quest_desc: [
 		"We got a variety of mods to store our &eitems&r and &bfluids&r, but we might resort on doing a bunch of chests in most cases..."
 		""
@@ -638,6 +982,21 @@
 	]
 	quest.540545114AE23AD9.quest_subtitle: "doesn't attract love... :c"
 	quest.540545114AE23AD9.title: "&l&5Simple Magnets"
+	quest.551E66F2334C99EE.quest_desc: ["Used for auto crafting and auto brewing see book for more info."]
+	quest.55E80745788D5977.quest_desc: [
+		"The Starbuncle is capable of gathering items on the ground and harvesting berries."
+		""
+		"Useful for an agronomic   Source berry Sourcefarm."
+		""
+		"Use a dominion wand to set the drop off location."
+	]
+	quest.5604B8154E8EF7CE.quest_desc: ["Since summoning a demon for the single purpose of making a single crushed end stone is no fun let's do a trade and skip the middle demon."]
+	quest.5604B8154E8EF7CE.title: "Backroom deal"
+	quest.562FCF662B270719.quest_desc: [
+		"This pack has Ars Nouveau Occultism integration meaning you can put some spirits in jars instead of having them in world as entities"
+		"read ars nouveau worn notebook under ars Ocultas for more info"
+	]
+	quest.562FCF662B270719.title: "Bottled Demons"
 	quest.563E95F9315B21CA.quest_desc: [
 		"Most of the time we will be &cimporting&r and &aexporting&r items, fluids, energy and gasses..."
 		""
@@ -655,6 +1014,13 @@
 	]
 	quest.563E95F9315B21CA.quest_subtitle: "no need for a storage system"
 	quest.563E95F9315B21CA.title: "&lWireless Transfer"
+	quest.5A83782E4EB80DB5.quest_desc: [
+		"The Spiritual Guide book is both a keeper of knowledge and a tool to bind spirits to your binding books."
+		""
+		"It can be created by combining a Demon's Dream Seed and a book "
+	]
+	quest.5A83782E4EB80DB5.quest_subtitle: "Forbidden knowledge"
+	quest.5A83782E4EB80DB5.title: "Spiritual Guide"
 	quest.5CD80EF9FD85D823.quest_desc: [
 		"The mod &6Simple Magnets&r not only adds magnets... It also adds a very useful block to prevent us from picking blocks on it's range with any magnet!"
 		""
@@ -666,6 +1032,14 @@
 	]
 	quest.5CD80EF9FD85D823.quest_subtitle: "Demagnetazing Areas!"
 	quest.5CD80EF9FD85D823.title: "&l&cSimple Magnets"
+	quest.5D6F17D952C6BAEB.quest_desc: [
+		"Now that you have the otherworld glasses and the infused pickaxe you can get your hands on some Iesnium which is a material that is required for the most end game rituals this mod has to offer."
+		""
+		"It is recommended that you use the divination for this though it is not strictly required."
+	]
+	quest.5D6F17D952C6BAEB.title: "strange metal"
+	quest.5E01C4D06EB98F26.quest_desc: ["This block acts like a terminal and can be placed anywhere to allow you to access your network."]
+	quest.5E01C4D06EB98F26.title: "terminals"
 	quest.5F29A3544EF83EDC.quest_desc: [
 		"The Mod &l&aBuilding Gadgets&r will aid on your task of building!"
 		""
@@ -689,6 +1063,21 @@
 	]
 	quest.5F29A3544EF83EDC.quest_subtitle: "Building, but easy"
 	quest.5F29A3544EF83EDC.title: "&b&lBuilding Gadgets"
+	quest.5F4141ED4F80C8B6.quest_desc: [
+		"Components for chalk"
+		""
+		"Otherworld ashes created by tossing other world logs into spirit fire"
+		""
+		"Burnt Otherstone created by smelting Otherstone"
+	]
+	quest.5F74C9140032D5A8.quest_desc: ["This section will explain how you may automate Ars Nouveau"]
+	quest.5F74C9140032D5A8.title: "Autocrafting Ars"
+	quest.6004B74F4D8E5E7F.quest_desc: [
+		"These Golems are created in much the same way as the regular Amethyst Golems but with their own respective buds."
+		""
+		"They work almost the same way the normal ones does and will only work on their own buds, however these will not generate new buds from normal crystals"
+	]
+	quest.6004B74F4D8E5E7F.title: "GeOre"
 	quest.604CB2266FDF4098.quest_desc: [
 		"Being a modpack with so many mods, we might've had the thought of doing different areas for each mod."
 		""
@@ -702,6 +1091,9 @@
 	]
 	quest.604CB2266FDF4098.quest_subtitle: "Teleportation at it's finest"
 	quest.604CB2266FDF4098.title: "&l&dEnderIO"
+	quest.610462533974587C.quest_desc: ["This section will explain how you may automate your forbidden arts"]
+	quest.610462533974587C.quest_subtitle: "For those allergic to manual labor"
+	quest.610462533974587C.title: "Autocrafting"
 	quest.613B94C20D7E7072.quest_desc: [
 		"The mod &aUseful Slime&r adds very useful items, the &eSlime Sling&r being one of them."
 		""
@@ -745,6 +1137,16 @@
 	]
 	quest.622DB8CA3BE8663C.quest_subtitle: "A Gameboy, but for storage"
 	quest.622DB8CA3BE8663C.title: "&l&5Pocket Storage"
+	quest.639CBD91D151E14B.quest_desc: ["Will add more possible bound inventories to a storage lectern check book for more information on bookwyrm and storage lectern."]
+	quest.64185463F33F5F35.quest_desc: [
+		"White Chalk the most basic and fundamental of the 4 functional chalks."
+		"The White Chalk is used in most of the rituals this mod has to offer."
+		""
+		"All chalk is purified in the spirit fire"
+		""
+		"Chalk can be enchanted to extend life"
+	]
+	quest.64185463F33F5F35.quest_subtitle: "Novice Occultist"
 	quest.642651867EA91259.quest_desc: [
 		"The mod &6Easy Villagers&r adds a new and unique way to handle those annoying villagers..."
 		""
@@ -762,6 +1164,14 @@
 	]
 	quest.642651867EA91259.quest_subtitle: "easier than vanilla"
 	quest.642651867EA91259.title: "&lEasy Villagers"
+	quest.648EA810839EEB7F.quest_desc: [
+		"If you want to do rituals containing red runes you need to fight afrit"
+		""
+		"afrit can be summoned using the Abras open conjur"
+		""
+		"Look up ritual in spirit guide book"
+	]
+	quest.648EA810839EEB7F.title: "summoning Afrit"
 	quest.64B596DC5392EE3A.quest_desc: [
 		"Throughout our adventures, we might've stayed up so late that mobs began to spawn."
 		""
@@ -793,6 +1203,7 @@
 	]
 	quest.653EC56F9635F000.quest_subtitle: "Laser go brrr~"
 	quest.653EC56F9635F000.title: "&l&3Mining Gadgets"
+	quest.6546B04F35C96692.quest_desc: ["Can be used to transfer source from one point to another"]
 	quest.6547327236A3C8E1.quest_desc: [
 		"The mod &n&l&6Only Excavators&r adds a variety of Excavators for us to clear out big areas quickly!"
 		""
@@ -804,6 +1215,13 @@
 	]
 	quest.6547327236A3C8E1.quest_subtitle: "No mo' annoying dirt!"
 	quest.6547327236A3C8E1.title: "&l&dOnly Excavators"
+	quest.65C2489369AE9D84.quest_desc: [
+		"Much like a Drygmy the Whirlspring will generate drops from things around it, in this case plants."
+		""
+		"The Whirlspring charm can be used on any flower to create its home and you need to place a source jar and chest adjacent to its home for it to produce, look in the book for more info."
+	]
+	quest.6609A4E0D6EE9C8D.quest_desc: ["useful for removing chalk"]
+	quest.6609A4E0D6EE9C8D.quest_subtitle: "Get scrubbing"
 	quest.67123063EB5567FC.quest_desc: [
 		"In this modpack we have plenty of storages for us to use."
 		""
@@ -829,6 +1247,21 @@
 	]
 	quest.67123063EB5567FC.quest_subtitle: "the best of the best!"
 	quest.67123063EB5567FC.title: "&lStorage Options"
+	quest.6727FA53D3ECEBBB.quest_desc: ["These tablets grants you complete control of the day/night cycle and the weather."]
+	quest.6727FA53D3ECEBBB.title: "Celestial Manipulation"
+	quest.678FF7F7514DDAC4.quest_desc: [
+		"The imbuement chamber is crucial in Ars as it is used to make the most fundamental resource in the mod known as source gems."
+		""
+		"You will also be able to use this chamber to create various essences later on that are used in various recipes and rituals."
+		""
+		"The chamber runs on source and while you are not at the moment capable of producing your own source there is source in the air the chamber is capable of utilizing."
+		""
+		"&eThis process is going to be rather slow and can be significantly sped up later with source from source jars or delivered by relay.&r"
+		""
+		"&eThe Imbuement Chamber will accept source from Source jars in a 2 block range AKA (5x5x5 area centered on the Chamber)&r"
+	]
+	quest.678FF7F7514DDAC4.quest_subtitle: "Latent source"
+	quest.678FF7F7514DDAC4.title: "Magical conversion"
 	quest.68C25AACF9C16819.quest_desc: [
 		"Villagers always find a way to &8&msteal&r &lmake us&r buy from them..."
 		""
@@ -885,6 +1318,26 @@
 	]
 	quest.6B5295ABF1D7D71D.quest_subtitle: "Disenchanting at it's finest!"
 	quest.6B5295ABF1D7D71D.title: "&5&lDis-Enchanting Table"
+	quest.6E829868DFC46DB8.quest_desc: [
+		"The spirit fire can be automated simply by putting a chute, open crate, or formation plane subnetwork on the side of your pattern provider and an item collector to bring the  items back."
+		""
+		"automation example:"
+		"{image:kubejs:textures/quest_images/occultism/automation_spirit_fire.png width:100 height:100 align:center}"
+	]
+	quest.6E829868DFC46DB8.title: "Auto Fire"
+	quest.6EBB0FDF36D7CC3A.quest_desc: [
+		"Occultism comes with its very own storage system."
+		""
+		"This block allows you to store a large amount of items and comes with a crafting grid and can later on be remotely accessed through the stable wormholes or storage accsessor."
+		""
+		"for more info on function and upgrading see dictionary of spirits."
+	]
+	quest.70D11E8D3C62E581.quest_desc: [
+		"The Dominion Wand is used for connecting Source Relays together and to give commands to the forest creatures you so kindly enslaved to do your bidding."
+		""
+		"First right click on relay or creature then right click wherever you want it to send/deposit its items/source"
+	]
+	quest.70D11E8D3C62E581.quest_subtitle: "Simon Says"
 	quest.75566B910945A58D.quest_desc: [
 		"Every single time I read and say the name &dEnderIO&r it brings me back so many good memories..."
 		""
@@ -903,6 +1356,25 @@
 	quest.75566B910945A58D.title: "&l&3EnderIO"
 	quest.75A4C6008C48EA66.quest_desc: ["Welcome to &9Evolution&f from &4Catalyst Studios&f! This is just the beginning and very much a WIP."]
 	quest.75A4C6008C48EA66.title: "Welcome to Evolution!"
+	quest.75AA4C3AD7901E39.quest_desc: [
+		"For those of you who want to get right to the point the book has a button on the top right side where you can mark all open tabs as read."
+		""
+		"shift click to unlock the entire book."
+	]
+	quest.75AA4C3AD7901E39.quest_subtitle: "No time to waste"
+	quest.75AA4C3AD7901E39.title: "Skip ahead"
+	quest.75FC5528B0125083.quest_desc: [
+		"Generates Source from burning fuels."
+		""
+		"if placed above stone or magma it will convert it to lava over time."
+	]
+	quest.75FC5528B0125083.quest_subtitle: "its hot"
+	quest.7684CDDD0DE803EA.quest_desc: [
+		"Summoning Shards can be gotten in 2 ways for the regular way see tooltip on the shard you want."
+		""
+		"The other is trading with the shady wizard as explained later on."
+	]
+	quest.7684CDDD0DE803EA.title: "summoning shards"
 	quest.77E4F1F6EEB85DBA.quest_desc: [
 		"In this quest section, we will talk about &ecertain&f modded items for you to achieve your goal."
 		""
@@ -912,6 +1384,8 @@
 	]
 	quest.77E4F1F6EEB85DBA.quest_subtitle: "and useful tips!"
 	quest.77E4F1F6EEB85DBA.title: "Welcome to &6&nUseful&r Mods"
+	quest.781D98EE5538B3F8.quest_desc: ["you now possess all the chalks necessary for the rituals in Occultism"]
+	quest.781D98EE5538B3F8.title: "Master Occultist"
 	quest.7855BF00C8A4A7F2.quest_desc: [
 		"&9Just Dire Things&r adds quite a lot of stuff for us to try out."
 		""
@@ -927,6 +1401,16 @@
 	]
 	quest.7855BF00C8A4A7F2.quest_subtitle: "In a dire need for equipment?"
 	quest.7855BF00C8A4A7F2.title: "&l&1Just Dire Things"
+	quest.7903FA4DBF99A4D6.quest_desc: ["More robust version of the infused pickaxe"]
+	quest.7ACE109B69EDE436.quest_desc: [
+		"The Demon`s Dream Fruit is essential for starting off occultism."
+		""
+		"It allows you to interact with the Otherworld at the most basic level."
+		""
+		"Its seed can be acquired through breaking grass."
+	]
+	quest.7ACE109B69EDE436.quest_subtitle: "Unholy influence"
+	quest.7ACE109B69EDE436.title: "Entering the Demon Dream"
 	quest.7BE6E09B682F621E.quest_desc: [
 		"The mod &l&6Crafting on a Stick&r not only adds a crafting table on a stick, it comes with multiple of our favorite tables... The best part of this is that they can go into a curio slot for us to save up more space in our inventory!"
 		""
@@ -955,6 +1439,19 @@
 	]
 	quest.7C5CDB6AFDD1BA91.quest_subtitle: "The word 'Useful' but in a mod"
 	quest.7C5CDB6AFDD1BA91.title: "&l&6Utilitarian"
+	quest.7D9A534A53DB60E2.quest_desc: [
+		"If you don't already have all the different saplings you can make them using another sapling and a manipulation essence."
+		""
+		"Sadly this cannot be done for the fruits"
+	]
+	quest.7D9A534A53DB60E2.title: "Transmutation"
+	quest.7E8ACAFE301CF54C.quest_desc: [
+		"The source gem is a cornerstone resource in ars and is used in most things in some way or another."
+		""
+		"These gems can be created by putting lapis or amethyst in the imbuement chamber."
+		""
+		"There is also a craft for amethyst blocks into source gem blocks."
+	]
 	quest.7ED1D7F512275FAF.quest_desc: [
 		"As an Adventurer, you will find quite a lot of loot in dungeons, structures and villages."
 		""

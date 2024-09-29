@@ -121,7 +121,7 @@
 		""
 		"Mod created by: &cKroeser"
 	]
-	quest.0C513C2290CB94DA.quest_subtitle: "in the form of a bucket!"
+	quest.0C513C2290CB94DA.quest_subtitle: "In the form of a bucket!"
 	quest.0C513C2290CB94DA.title: "&l&1Infinite Water"
 	quest.0C7FFA80C1B2836F.quest_desc: ["W.I.P"]
 	quest.0C7FFA80C1B2836F.quest_subtitle: "Free loot"
@@ -200,7 +200,7 @@
 	quest.1F9DD8905A302496.quest_subtitle: "Powerful Curio"
 	quest.1F9DD8905A302496.title: "&l&6Relics"
 	quest.20AC765EB929F9F4.quest_desc: [
-		"Tired of recieveing fall damage when building your house?"
+		"Tired of receiving fall damage when building your house?"
 		""
 		"The &aSlime Boots&r will help us end this nightmare!"
 		""
@@ -210,7 +210,7 @@
 		""
 		"Mod created by: &2MinecraftEinstein"
 	]
-	quest.20AC765EB929F9F4.quest_subtitle: "Inmunity to fall damage"
+	quest.20AC765EB929F9F4.quest_subtitle: "Immunity to fall damage"
 	quest.20AC765EB929F9F4.title: "&l&aUseful Slime"
 	quest.2164219E306DCCEA.quest_desc: [
 		"The mod &l&1Explorer's Compass&r will aid us our search for &dStructures&r or &6Dungeons&f, it can even locate the new 1.21 structure... The Trail Ruins easily"
@@ -253,7 +253,7 @@
 		""
 		"Mod created by: &aGigabit101"
 	]
-	quest.2438C51737F1817B.quest_subtitle: "I may or may not shrunk maself..."
+	quest.2438C51737F1817B.quest_subtitle: "Honey, I shrunk the kids!"
 	quest.2438C51737F1817B.title: "&l&2Shrink"
 	quest.273CC4D59C0D8731.quest_desc: [
 		"The mod &n&l&6Only Hammers&r adds a variety of hammers for us to mine big areas quickly!"
@@ -262,7 +262,7 @@
 		""
 		"These new tools will grant us the ability to mine &l&d3x3&r areas without any effort!"
 		""
-		"Mod Created by; &6Block_Legend001"
+		"Mod created by: &6Block_Legend001"
 	]
 	quest.273CC4D59C0D8731.quest_subtitle: "Mining, but easy"
 	quest.273CC4D59C0D8731.title: "&9&lOnly Hammers"
@@ -324,7 +324,7 @@
 		""
 		"&2Cooking For Blockheads&r mod created by: &aBlayTheNinth"
 	]
-	quest.2D31A67A30DD06D6.quest_subtitle: "in the form of blocks!"
+	quest.2D31A67A30DD06D6.quest_subtitle: "In the form of blocks!"
 	quest.2D31A67A30DD06D6.title: "&l&1Infinite Water Sources"
 	quest.2D989ED723D100D3.quest_desc: [
 		"Ever wondered... Is there a pocket dimension similar to a &6Compact Machine&r?"
@@ -407,7 +407,7 @@
 		""
 		"Mod created by: &bBradyaidanc"
 	]
-	quest.394D5F2C08A05B50.quest_subtitle: "it's not only about machine..."
+	quest.394D5F2C08A05B50.quest_subtitle: "It's not only about machine..."
 	quest.394D5F2C08A05B50.title: "&l&8Mekanism Tools"
 	quest.3A1325AD7235B004.quest_desc: [
 		"The mod &6Connected Pipes&r is a QOL mod to &nconnect&r our pipes easily!"
@@ -418,7 +418,7 @@
 		""
 		"Mod created by: &aHeaser"
 	]
-	quest.3A1325AD7235B004.quest_subtitle: "placing pipes, but easy"
+	quest.3A1325AD7235B004.quest_subtitle: "Placing pipes, but easy"
 	quest.3A1325AD7235B004.title: "&l&ePipe Connector"
 	quest.3A911DEE451C256F.quest_desc: [
 		"Are you tired of using (CTRL + Mouse Wheel) to zoom in/out from the quests?"
@@ -523,7 +523,7 @@
 		""
 		"Which to choose early? I leave that up to &l&eyou&r my dearest player. We have plenty options that are recommended to achieve our goal quickly."
 	]
-	quest.4364D54A37B97D40.quest_subtitle: "no more manual resource collection!"
+	quest.4364D54A37B97D40.quest_subtitle: "No more manual resource collection!"
 	quest.4364D54A37B97D40.title: "&lResource Generation"
 	quest.44D5D328F4A7375B.quest_desc: [
 		"We have some of the best mods to decorate our bases, but in here we are taking a look at &6Rechiseled&r and &aChisel Reborn&r mods."
@@ -536,7 +536,7 @@
 		""
 		"&aChisel Reborn&r mod was created by: &eSlaincow"
 	]
-	quest.44D5D328F4A7375B.quest_subtitle: "Cool Looking Blocks!"
+	quest.44D5D328F4A7375B.quest_subtitle: "Cool looking blocks!"
 	quest.44D5D328F4A7375B.title: "&l&cChisels"
 	quest.4615D71D0264C714.quest_desc: [
 		"Resource generation tends to get out of hand quickly... Some mods do &eingots&r instantly and others give &braw ores&r."
@@ -566,7 +566,7 @@
 		""
 		"They all work the same, but have different models/textures."
 	]
-	quest.49EF86015BB0874E.quest_subtitle: "no joke!"
+	quest.49EF86015BB0874E.quest_subtitle: "No joke!"
 	quest.49EF86015BB0874E.title: "&lThe Most Useful of All Tools"
 	quest.4B80401F8F05318D.quest_desc: [
 		"One of the &lmost&r needed things around technological mods is the energy."
@@ -715,7 +715,7 @@
 		""
 		"Mod created by: &2MinecraftEinstein"
 	]
-	quest.613B94C20D7E7072.quest_subtitle: "watch out for that tree..."
+	quest.613B94C20D7E7072.quest_subtitle: "Watch out for that tree..."
 	quest.613B94C20D7E7072.title: "&l&aUseful Slime"
 	quest.619DAE1E67930A91.quest_desc: [
 		"We have to admit one thing, travelling through dimensions sometimes might be annoying."
@@ -800,7 +800,7 @@
 		""
 		"These new tools will grant us the ability to mine &l&d3x3&r areas without any effort!"
 		""
-		"Mod Created by; &6Block_Legend001"
+		"Mod Created by: &6Block_Legend001"
 	]
 	quest.6547327236A3C8E1.quest_subtitle: "No mo' annoying dirt!"
 	quest.6547327236A3C8E1.title: "&l&dOnly Excavators"
@@ -938,7 +938,7 @@
 		""
 		"Mod created by: &2OfekN_"
 	]
-	quest.7BE6E09B682F621E.quest_subtitle: "no more crafting on a block"
+	quest.7BE6E09B682F621E.quest_subtitle: "No more crafting on a block"
 	quest.7BE6E09B682F621E.title: "&l&6Crafting on a Stick"
 	quest.7C5CDB6AFDD1BA91.quest_desc: [
 		"The mod &6Utilitarian&r adds a lot of blocks for us to craft and try."

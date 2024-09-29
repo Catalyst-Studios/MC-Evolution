@@ -5,24 +5,24 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 
 ServerEvents.recipes( catalyst => {
 	catalyst.shapeless(
-		Item.of('kubejs:tiny_coal', 8),
+		Item.of('catalyst:tiny_coal', 8),
 		[
 			'minecraft:coal'
 		])
 	catalyst.shapeless(
-		Item.of('kubejs:tiny_charcoal', 8),
+		Item.of('catalyst:tiny_charcoal', 8),
 		[
 			'minecraft:charcoal'
 		])
 	catalyst.shapeless(
 		Item.of('minecraft:coal', 1),
 		[
-			'8x kubejs:tiny_coal'
+			'8x catalyst:tiny_coal'
 		])
 	catalyst.shapeless(
 		Item.of('minecraft:charcoal', 1),
 		[
-			'8x kubejs:tiny_charcoal'
+			'8x catalyst:tiny_charcoal'
 		])
 })
 

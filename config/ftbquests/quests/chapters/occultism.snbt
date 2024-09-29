@@ -3,10 +3,131 @@
 	default_quest_shape: ""
 	filename: "occultism"
 	group: "7DB43C7557896446"
+	hide_quest_until_deps_complete: true
 	icon: {
 		id: "occultism:spirit_fire"
 	}
 	id: "1287AC579F7832FE"
+	images: [
+		{
+			dependency: "3171E159C4D05AD4"
+			height: 8.0d
+			image: "occultism:textures/gui/book/pentagram_rose.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -40.0d
+			y: -3.0d
+		}
+		{
+			dependency: "781D98EE5538B3F8"
+			height: 25.0d
+			image: "kubejs:textures/quest_images/occultism/sigil2.png"
+			order: -6
+			rotation: 0.0d
+			width: 25.0d
+			x: -40.125000000000014d
+			y: -3.357142857142854d
+		}
+		{
+			height: 5.419664268585132d
+			image: "kubejs:textures/quest_images/occultism/logo.png"
+			order: 2
+			rotation: 0.0d
+			width: 20.0d
+			x: -40.0d
+			y: -9.0d
+		}
+		{
+			color: 11141290
+			dependency: "4821A8015B2F5FA1"
+			height: 3.0d
+			image: "occultism:block/chalk_glyph/11"
+			rotation: 0.0d
+			width: 3.0d
+			x: -27.5d
+			y: -3.5d
+		}
+		{
+			color: 11141290
+			dependency: "648EA810839EEB7F"
+			height: 3.0d
+			image: "occultism:block/chalk_glyph/9"
+			rotation: 0.0d
+			width: 3.0d
+			x: -52.5d
+			y: -3.5d
+		}
+		{
+			color: 10852358
+			dependency: "09AA28D69D0D696E"
+			height: 3.0d
+			image: "occultism:block/chalk_glyph/0"
+			rotation: 0.0d
+			width: 3.0d
+			x: -49.0d
+			y: -12.5d
+		}
+		{
+			color: 11141290
+			dependency: "64185463F33F5F35"
+			height: 3.0d
+			image: "occultism:block/chalk_glyph/1"
+			rotation: 0.0d
+			width: 3.0d
+			x: -40.0d
+			y: -15.5d
+		}
+		{
+			color: 10852358
+			dependency: "078639E7470871B6"
+			height: 3.0d
+			image: "occultism:block/chalk_glyph/10"
+			rotation: 0.0d
+			width: 3.0d
+			x: -49.0d
+			y: 5.5d
+		}
+		{
+			color: 11141290
+			dependency: "5D6F17D952C6BAEB"
+			height: 3.0d
+			image: "occultism:block/chalk_glyph/6"
+			rotation: 0.0d
+			width: 3.0d
+			x: -40.0d
+			y: 9.0d
+		}
+		{
+			color: 10852358
+			dependency: "4EB2763EB94E73AB"
+			height: 3.0d
+			image: "occultism:block/chalk_glyph/5"
+			rotation: 0.0d
+			width: 3.0d
+			x: -31.0d
+			y: 5.5d
+		}
+		{
+			color: 10852358
+			dependency: "4C3233E2F465F5C7"
+			height: 3.0d
+			image: "occultism:block/chalk_glyph/3"
+			rotation: 0.0d
+			width: 3.0d
+			x: -31.0d
+			y: -12.5d
+		}
+		{
+			dependency: "781D98EE5538B3F8"
+			height: 25.0d
+			image: "kubejs:textures/quest_images/occultism/sigil2.png"
+			order: -6
+			rotation: 180.0d
+			width: 25.0d
+			x: -39.91666666666664d
+			y: -3.1547619047619477d
+		}
+	]
 	order_index: 3
 	quest_links: [ ]
 	quests: [
@@ -33,8 +154,8 @@
 					type: "item"
 				}
 			]
-			x: -44.5d
-			y: -3.0d
+			x: -39.982142857142854d
+			y: -3.1785714285714235d
 		}
 		{
 			dependencies: ["7ACE109B69EDE436"]
@@ -49,8 +170,8 @@
 				to_observe: "occultism:spirit_fire"
 				type: "observation"
 			}]
-			x: -44.5d
-			y: -6.5d
+			x: -40.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["7ACE109B69EDE436"]
@@ -60,8 +181,8 @@
 				item: { components: { "modonomicon:book_id": "occultism:dictionary_of_spirits" }, count: 1, id: "occultism:dictionary_of_spirits" }
 				type: "item"
 			}]
-			x: -44.5d
-			y: 1.0d
+			x: -43.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["5A83782E4EB80DB5"]
@@ -70,8 +191,8 @@
 				id: "12021EF4B34BFF68"
 				type: "checkmark"
 			}]
-			x: -47.5d
-			y: -0.5d
+			x: -43.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["5F4141ED4F80C8B6"]
@@ -92,10 +213,11 @@
 					type: "item"
 				}
 			]
-			x: -36.0d
-			y: -3.0d
+			x: -40.0d
+			y: 4.0d
 		}
 		{
+			dependencies: ["6587F4163EB2244F"]
 			id: "5F4141ED4F80C8B6"
 			shape: "diamond"
 			tasks: [
@@ -110,8 +232,8 @@
 					type: "item"
 				}
 			]
-			x: -37.5d
-			y: -3.0d
+			x: -40.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["3171E159C4D05AD4"]
@@ -121,8 +243,8 @@
 				item: { count: 1, id: "occultism:otherstone" }
 				type: "item"
 			}]
-			x: -41.5d
-			y: -5.5d
+			x: -38.0d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -145,14 +267,14 @@
 					type: "item"
 				}
 			]
-			x: -48.0d
-			y: -5.5d
+			x: -42.0d
+			y: -6.0d
 		}
 		{
-			dependencies: [
-				"64185463F33F5F35"
-				"4821A8015B2F5FA1"
-			]
+			dependencies: ["4821A8015B2F5FA1"]
+			icon: {
+				id: "occultism:afrit_essence"
+			}
 			id: "648EA810839EEB7F"
 			tasks: [
 				{
@@ -167,8 +289,8 @@
 					type: "item"
 				}
 			]
-			x: -34.0d
-			y: -3.0d
+			x: -46.51785714285713d
+			y: 3.2142857142857224d
 		}
 		{
 			dependencies: ["5A83782E4EB80DB5"]
@@ -177,8 +299,8 @@
 				id: "3CB8D717694FFA45"
 				type: "checkmark"
 			}]
-			x: -48.5d
-			y: -3.0d
+			x: -41.66071428571428d
+			y: -0.8928571428571388d
 		}
 		{
 			dependencies: [
@@ -203,8 +325,8 @@
 					type: "item"
 				}
 			]
-			x: -41.0d
-			y: -3.0d
+			x: -37.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["5A83782E4EB80DB5"]
@@ -235,8 +357,8 @@
 					type: "item"
 				}
 			]
-			x: -42.0d
-			y: -0.5d
+			x: -40.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["64185463F33F5F35"]
@@ -246,8 +368,8 @@
 				item: { count: 1, id: "occultism:chalk_gold" }
 				type: "item"
 			}]
-			x: -34.0d
-			y: -4.5d
+			x: -33.55357142857142d
+			y: 3.250000000000007d
 		}
 		{
 			dependencies: ["4C3233E2F465F5C7"]
@@ -274,8 +396,8 @@
 					type: "item"
 				}
 			]
-			x: -29.5d
-			y: -4.5d
+			x: -32.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["3171E159C4D05AD4"]
@@ -295,14 +417,15 @@
 					type: "item"
 				}
 			]
-			x: -44.5d
-			y: -8.5d
+			x: -40.0d
+			y: -6.5d
 		}
 		{
 			icon: {
 				id: "occultism:tallow"
 			}
 			id: "3DFD32A1A229E04F"
+			shape: "diamond"
 			tasks: [
 				{
 					id: "0CE847662AE9A1DA"
@@ -315,8 +438,8 @@
 					type: "item"
 				}
 			]
-			x: -38.5d
-			y: -9.5d
+			x: -48.5d
+			y: -7.0d
 		}
 		{
 			dependencies: [
@@ -339,12 +462,13 @@
 					type: "item"
 				}
 			]
-			x: -37.5d
-			y: -6.5d
+			x: -46.51785714285713d
+			y: -9.749999999999986d
 		}
 		{
 			dependency_requirement: "one_completed"
 			id: "48A0DC661D3F37C7"
+			shape: "diamond"
 			tasks: [
 				{
 					id: "2D216C10EAFF3335"
@@ -359,8 +483,8 @@
 					type: "item"
 				}
 			]
-			x: -36.5d
-			y: -9.5d
+			x: -44.0d
+			y: -11.5d
 		}
 		{
 			dependencies: ["5604B8154E8EF7CE"]
@@ -370,8 +494,8 @@
 				item: { count: 1, id: "occultism:chalk_purple" }
 				type: "item"
 			}]
-			x: -34.0d
-			y: -1.5d
+			x: -43.58928571428571d
+			y: 4.857142857142868d
 		}
 		{
 			dependencies: [
@@ -379,14 +503,16 @@
 				"4C3233E2F465F5C7"
 				"4821A8015B2F5FA1"
 				"6C8F0815DBC0859B"
+				"648EA810839EEB7F"
 			]
+			hide_dependent_lines: true
 			id: "781D98EE5538B3F8"
 			tasks: [{
 				id: "4BFA076B0E4E19E4"
 				type: "checkmark"
 			}]
-			x: -31.5d
-			y: -3.0d
+			x: -40.0d
+			y: 2.5d
 		}
 		{
 			icon: {
@@ -398,8 +524,8 @@
 				id: "50C6AD324731490C"
 				type: "checkmark"
 			}]
-			x: -37.5d
-			y: -0.5d
+			x: -49.19642857142856d
+			y: -3.2857142857142847d
 		}
 		{
 			dependencies: ["610462533974587C"]
@@ -412,8 +538,8 @@
 				id: "4E510660F3C918D9"
 				type: "checkmark"
 			}]
-			x: -38.5d
-			y: 1.5d
+			x: -49.16071428571428d
+			y: -1.8214285714285623d
 		}
 		{
 			dependencies: ["610462533974587C"]
@@ -426,8 +552,8 @@
 				id: "32730484AFBCC93B"
 				type: "checkmark"
 			}]
-			x: -36.5d
-			y: 1.5d
+			x: -49.26785714285713d
+			y: -4.964285714285701d
 		}
 		{
 			dependencies: [
@@ -441,8 +567,8 @@
 				item: { count: 1, id: "occultism:infused_pickaxe" }
 				type: "item"
 			}]
-			x: -29.5d
-			y: -3.0d
+			x: -30.8392857142857d
+			y: -3.249999999999986d
 		}
 		{
 			dependencies: [
@@ -458,10 +584,11 @@
 				item: { count: 1, id: "occultism:raw_iesnium" }
 				type: "item"
 			}]
-			x: -27.5d
-			y: -3.0d
+			x: -33.5d
+			y: -9.5d
 		}
 		{
+			dependencies: ["4B83E0187F676F54"]
 			icon: {
 				id: "occultism:divination_rod"
 			}
@@ -470,8 +597,8 @@
 				id: "02ACB82EA1C7DC0E"
 				type: "checkmark"
 			}]
-			x: -29.5d
-			y: -1.5d
+			x: -34.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["5D6F17D952C6BAEB"]
@@ -481,8 +608,8 @@
 				item: { count: 1, id: "occultism:iesnium_pickaxe" }
 				type: "item"
 			}]
-			x: -25.5d
-			y: -1.5d
+			x: -34.624999999999964d
+			y: -8.642857142857132d
 		}
 		{
 			dependencies: ["5D6F17D952C6BAEB"]
@@ -490,10 +617,11 @@
 			tasks: [{
 				id: "007828AA38F4ECE4"
 				item: { components: { "occultism:max_mining_time": 100, "occultism:rolls_per_operation": 1 }, count: 1, id: "occultism:miner_marid_master" }
+				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: -25.5d
-			y: -3.0d
+			x: -36.0d
+			y: -12.5d
 		}
 		{
 			dependencies: ["64185463F33F5F35"]
@@ -503,8 +631,8 @@
 				item: { count: 1, id: "occultism:brush" }
 				type: "item"
 			}]
-			x: -37.5d
-			y: -4.5d
+			x: -38.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["4BE9FE70FD274586"]
@@ -514,8 +642,8 @@
 				item: { count: 1, id: "occultism:dimensional_mineshaft" }
 				type: "item"
 			}]
-			x: -23.0d
-			y: -3.0d
+			x: -38.5d
+			y: -13.0d
 		}
 		{
 			dependencies: ["5D6F17D952C6BAEB"]
@@ -527,8 +655,8 @@
 				id: "341834F950F31947"
 				type: "checkmark"
 			}]
-			x: -25.5d
-			y: -4.5d
+			x: -40.01785714285714d
+			y: -12.464285714285701d
 		}
 		{
 			can_repeat: true
@@ -548,8 +676,94 @@
 				item: { count: 1, id: "minecraft:end_stone" }
 				type: "item"
 			}]
-			x: -35.0d
-			y: -2.0d
+			x: -42.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["35F498CAE76F3C31"]
+			id: "0AE1D9E720C989FD"
+			tasks: [{
+				id: "4880C89FB38A0E3D"
+				item: { count: 1, id: "occultism:satchel" }
+				type: "item"
+			}]
+			x: -35.70238095238091d
+			y: -3.2023809523809845d
+		}
+		{
+			dependencies: ["0AE1D9E720C989FD"]
+			id: "0CF08FDDD9D56E04"
+			tasks: [{
+				id: "24701BD45882BEF5"
+				item: { count: 1, id: "occultism:ritual_satchel_t1" }
+				type: "item"
+			}]
+			x: -34.46428571428569d
+			y: -3.2023809523809845d
+		}
+		{
+			dependencies: ["0CF08FDDD9D56E04"]
+			id: "234A684181B4B277"
+			tasks: [{
+				id: "35417AB3964FECE8"
+				item: { count: 1, id: "occultism:ritual_satchel_t2" }
+				type: "item"
+			}]
+			x: -33.1785714285714d
+			y: -3.2023809523809845d
+		}
+		{
+			id: "6EBB0FDF36D7CC3A"
+			shape: "diamond"
+			tasks: [{
+				id: "61067CFD2F52B3F0"
+				item: { count: 1, id: "occultism:storage_controller" }
+				type: "item"
+			}]
+			x: -45.5833333333333d
+			y: -3.2976190476190723d
+		}
+		{
+			dependencies: ["6EBB0FDF36D7CC3A"]
+			icon: {
+				id: "occultism:stable_wormhole"
+			}
+			id: "5E01C4D06EB98F26"
+			tasks: [{
+				id: "60E78EA658505B39"
+				type: "checkmark"
+			}]
+			x: -45.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6EBB0FDF36D7CC3A"]
+			icon: {
+				id: "occultism:storage_remote_inert"
+			}
+			id: "1AD0B6FC4101DE41"
+			tasks: [{
+				id: "7E436CE2B926AB2E"
+				type: "checkmark"
+			}]
+			x: -45.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"4B97F49BBDDB049A"
+				"35F498CAE76F3C31"
+			]
+			icon: {
+				id: "occultism:ritual_dummy/summon_marid_crusher"
+			}
+			id: "562FCF662B270719"
+			tasks: [{
+				id: "664893D49D853EFD"
+				type: "checkmark"
+			}]
+			x: -35.5d
+			y: -0.5d
 		}
 	]
 }

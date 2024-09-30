@@ -1,0 +1,518 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6solarr_generation"
+	group: "799C57E4146F24A8"
+	icon: {
+		id: "solargeneration:solar_panel_ultimate"
+	}
+	id: "6D1B091BA4B10868"
+	images: [
+		{
+			color: 6296088
+			height: 4.0d
+			image: "solargeneration:item/solar_core_advanced"
+			order: 3
+			rotation: 45.0d
+			width: 4.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			color: 200000
+			height: 5.0d
+			image: "solargeneration:item/photovoltaic_cell"
+			order: 2
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 10.0d
+			image: "solargeneration:item/photovoltaic_cell"
+			rotation: 45.0d
+			width: 10.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 5.0d
+			image: "productivetrees:block/leaves/flickering_sun"
+			order: 1
+			rotation: 45.0d
+			width: 5.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "catalyst:textures/quest_images/solar_generation/solar_generation_logo.png"
+			rotation: 0.0d
+			width: 14.0d
+			x: 0.0d
+			y: -6.5d
+		}
+	]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:block/sunflower_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5E635799470EEF47"
+			rewards: [{
+				id: "05EB2480903842E3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "1DDB30F15F7C098D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["72E024F538AAFA84"]
+			id: "6CBD797B715195F9"
+			rewards: [
+				{
+					count: 3
+					id: "300F1BF942A88CB1"
+					item: {
+						count: 1
+						id: "solargeneration:photovoltaic_cell"
+					}
+					type: "item"
+				}
+				{
+					id: "194FA585DDE58177"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "63A442B2A0B0AB58"
+				item: { count: 1, id: "solargeneration:solar_panel_leadstone" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6CBD797B715195F9"]
+			id: "1DB14DCD4CD04E24"
+			rewards: [
+				{
+					count: 3
+					id: "7922F3C05FFEA162"
+					item: {
+						count: 1
+						id: "solargeneration:solar_core_leadstone"
+					}
+					type: "item"
+				}
+				{
+					id: "44091143AD86A955"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "3BA9B596CD284189"
+				item: { count: 1, id: "solargeneration:solar_panel_hardened" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1DB14DCD4CD04E24"]
+			id: "00BBFAADA2C905D4"
+			rewards: [
+				{
+					count: 3
+					id: "003D01624DE3FE2D"
+					item: {
+						count: 1
+						id: "solargeneration:solar_core_hardened"
+					}
+					type: "item"
+				}
+				{
+					id: "0A93E91E1BEDF0E0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "09E8ECA35FDB519C"
+				item: { count: 1, id: "solargeneration:solar_panel_redstone" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["00BBFAADA2C905D4"]
+			id: "3822CD1546F0BC9B"
+			rewards: [
+				{
+					count: 3
+					id: "188AA71D9A113FA7"
+					item: {
+						count: 1
+						id: "solargeneration:solar_core_redstone"
+					}
+					type: "item"
+				}
+				{
+					id: "47C8C9A7E15F9922"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "4C325F60860E1A24"
+				item: { count: 1, id: "solargeneration:solar_panel_signalum" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3822CD1546F0BC9B"]
+			id: "15BA38377EA9D7A2"
+			rewards: [
+				{
+					count: 3
+					id: "4F6738C3C01455F1"
+					item: {
+						count: 1
+						id: "solargeneration:solar_core_signalum"
+					}
+					type: "item"
+				}
+				{
+					id: "73AEB6B880C0308B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0B2A2A65F5F6FC6A"
+				item: { count: 1, id: "solargeneration:solar_panel_resonant" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["15BA38377EA9D7A2"]
+			id: "4BF589FF795C4125"
+			rewards: [
+				{
+					count: 3
+					id: "1AC34A4EB2681D5E"
+					item: {
+						count: 1
+						id: "solargeneration:solar_core_resonant"
+					}
+					type: "item"
+				}
+				{
+					id: "5974B05164FD7A19"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "33F584349192292B"
+				item: { count: 1, id: "solargeneration:solar_panel_advanced" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4BF589FF795C4125"]
+			id: "4CDF67A932172054"
+			rewards: [
+				{
+					count: 3
+					id: "4F97B8C18FE5A67B"
+					item: {
+						count: 1
+						id: "solargeneration:solar_core_advanced"
+					}
+					type: "item"
+				}
+				{
+					id: "08FB7CF302BD39E9"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "2666B4F4C252F042"
+				item: { count: 1, id: "solargeneration:solar_panel_ultimate" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5E635799470EEF47"]
+			icon: {
+				id: "solargeneration:solar_core_ultimate"
+			}
+			id: "72E024F538AAFA84"
+			rewards: [{
+				id: "5658C74B20B742F4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "6ED62A04C1B5FCDA"
+					item: { count: 1, id: "solargeneration:lapis_shard" }
+					type: "item"
+				}
+				{
+					id: "68AADE3FDC37230B"
+					item: { count: 1, id: "solargeneration:solar_core_leadstone" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "7B045F427881B9C6"
+					item: { count: 1, id: "solargeneration:photovoltaic_cell" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6CBD797B715195F9"]
+			id: "269D02D4BFFC0190"
+			optional: true
+			rewards: [
+				{
+					id: "6B92080CFA97CBD4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "5BE9187E19A12F71"
+					item: {
+						count: 1
+						id: "solargeneration:solar_panel_leadstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1F16EC416E370F1D"
+				item: { count: 1, id: "solargeneration:solar_helmet_leadstone" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"1DB14DCD4CD04E24"
+				"269D02D4BFFC0190"
+			]
+			id: "6D36292892EA5781"
+			optional: true
+			rewards: [
+				{
+					id: "3808F75F69B5EF37"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "4CD86B78054A23F4"
+					item: {
+						count: 1
+						id: "solargeneration:solar_panel_hardened"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "38625ECF261853A6"
+				item: { count: 1, id: "solargeneration:solar_helmet_hardened" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"00BBFAADA2C905D4"
+				"6D36292892EA5781"
+			]
+			id: "64363D9756720A6B"
+			optional: true
+			rewards: [
+				{
+					id: "1248575C3A2CEDDC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "2CF62DDFC5F1CF01"
+					item: {
+						count: 1
+						id: "solargeneration:solar_panel_redstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "53F52DCA82C6A3C0"
+				item: { count: 1, id: "solargeneration:solar_helmet_redstone" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3822CD1546F0BC9B"]
+			id: "3E24D52CA683A3F1"
+			optional: true
+			rewards: [
+				{
+					id: "2A1265FE3FCEEF1A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "72B8889524DDD632"
+					item: {
+						count: 1
+						id: "solargeneration:solar_panel_signalum"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0D7BBDDEED8DC946"
+				item: { count: 1, id: "solargeneration:solar_helmet_signalum" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["15BA38377EA9D7A2"]
+			id: "6F365DC5EC358354"
+			optional: true
+			rewards: [
+				{
+					id: "0A241618DBC3FE4D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "03504E3FA76EBD67"
+					item: {
+						count: 1
+						id: "solargeneration:solar_panel_resonant"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5D359016037DBE8A"
+				item: { count: 1, id: "solargeneration:solar_helmet_resonant" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4BF589FF795C4125"]
+			id: "6069D3860B38504C"
+			optional: true
+			rewards: [
+				{
+					id: "17425E6542410A36"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "56254EAF8AEC7940"
+					item: {
+						count: 1
+						id: "solargeneration:solar_panel_advanced"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3A77CB0CBC787BEB"
+				item: { count: 1, id: "solargeneration:solar_helmet_advanced" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4CDF67A932172054"]
+			id: "0EB614A5D08D59BD"
+			optional: true
+			rewards: [
+				{
+					id: "7FC30E40EC7B6B9C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "1E645BC482257997"
+					item: {
+						count: 1
+						id: "solargeneration:solar_panel_ultimate"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "093FD32F22BA5E17"
+				item: { count: 1, id: "solargeneration:solar_helmet_ultimate" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5E635799470EEF47"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "pneumaticcraft:textures/gui/icon/gui_warning.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "62F972854AA43136"
+			invisible: true
+			optional: true
+			tasks: [{
+				id: "1E564EB1A21CA8FC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+	]
+}

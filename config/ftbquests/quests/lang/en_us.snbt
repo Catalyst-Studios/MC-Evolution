@@ -12,7 +12,6 @@
 	chapter.558E65AB78354674.title: "Energized Power"
 	chapter.661254AE0EBD66A8.title: "All of Macaw's Decorations"
 	chapter.6C942D6BA7090A71.title: "Productive Bees"
-	chapter.6D1B091BA4B10868.title: "&lSolar Generation"
 	chapter.6E7DE3824D41BB16.title: "Theurgy"
 	chapter.707DFCF38F8333D4.title: "Just Dire Things"
 	chapter.731F653DF0327C9D.title: "Mekanism: Going Nuclear"
@@ -22,14 +21,11 @@
 	chapter.7D0096384EB81C5A.title: "Applied Energistics 2"
 	chapter_group.0B97DBA0432ACE7B.title: "Getting started"
 	chapter_group.1624E0136E971599.title: "Exploration"
-	chapter_group.18780F4E46895DDF.title: "Usefull / Decoration"
+	chapter_group.18780F4E46895DDF.title: "Useful / Decoration"
 	chapter_group.44E753EB6A5C541F.title: "Resource Generation"
 	chapter_group.799C57E4146F24A8.title: "Technology"
 	chapter_group.7DB43C7557896446.title: "Magic"
 	file.0000000000000001.title: "Evolution"
-	quest.00BBFAADA2C905D4.quest_desc: ["&e64&r... This thing now generates a whole stack of energy!"]
-	quest.00BBFAADA2C905D4.quest_subtitle: "Not Quite The Redstone Solar Panel"
-	quest.00BBFAADA2C905D4.title: "&l&eRedstone Solar Panel"
 	quest.00BD7B649DA51BB1.quest_desc: ["functions like a normal relay but has a lot higher throughput and can send to multiple locations"]
 	quest.00BD7B649DA51BB1.quest_subtitle: "multitasking"
 	quest.00ED21DA1BCBEC5A.quest_desc: [
@@ -41,6 +37,22 @@
 		""
 		"&eNOTE: will not generate source from crops that are bone mealed will not contribute Source but other kinds of growth acell still works, bonemealed trees will still contribute.&r"
 	]
+	quest.01AC9F09A84155B8.quest_desc: [
+		"This is the basic vacuum pump it will generate suction when hooked up to pressure"
+		""
+		"Vacuum is used for a few things in this mod like making and extracting spawner cores and disenchanting. "
+		""
+		"Applying negative pressure to an air grate will cause it to suck things in instead of blowing them away."
+	]
+	quest.01AC9F09A84155B8.quest_subtitle: "Sucktion"
+	quest.01C22467B074967C.quest_desc: [
+		"The heat frame can be placed on top of any inventory and is used to create obsidian, ice and plastic "
+		""
+		"In order to do this you will need to keep the frame below the solidification temperature of whatever you are trying to make which is explained in the heat quests earlier"
+		""
+		"The pnc tanks are useful for this as they will hold multiple buckets so you don't have to sit there cycling buckets all day."
+	]
+	quest.01C22467B074967C.quest_subtitle: "Ice bath"
 	quest.02E409957CF1A24F.quest_desc: [
 		"Creating source gems isn't the only thing the imbuement chamber is used for."
 		""
@@ -51,8 +63,10 @@
 		"&eThese pedestals can be placed anywhere within a 1 block range including diagonals AKA (3x3x3 centered on chamber)&r"
 	]
 	quest.02E409957CF1A24F.title: "Essence Crafting"
+	quest.0335AE18355F438B.quest_desc: ["Molten plastic is made in the thermopneumatic processing plant and is made with either lpg or biodiesel along with coal."]
+	quest.0335AE18355F438B.quest_subtitle: "Nothing like the smell of burnt plastic in the morning"
 	quest.036C58E2C3423F58.quest_desc: [
-		"&dArs Nouveau&r has to be one of the best magic mods Modded Minecraft has recieved over the years. We will not talk about much of the mod in this section, due to there being a &lwhole questline&r for it."
+		"&dArs Nouveau&r has to be one of the best magic mods Modded Minecraft has received over the years. We will not talk about much of the mod in this section, due to there being a &lwhole questline&r for it."
 		""
 		"We will talk about one of it's armors, the &5Arcanist Set&r."
 		""
@@ -76,8 +90,25 @@
 		"if for some reason this doesn't work the rod animation will operate like a game of hot and cold."
 	]
 	quest.04BA44C84D598B0C.quest_subtitle: "prospecting"
+	quest.057C34F21922414A.quest_desc: [
+		"The uv light box is used to increase the etch success chance on your empty PCBs the longer they stay inn the higher the chance of success"
+		""
+		"The pcb blueprint is traded in the Amadron or from the pnc villiger."
+	]
+	quest.05CBF1076C1E21DF.quest_desc: [
+		"Now if you don't wish to break the chamber open every time you wish to do a craft you are gonna want at least 2 of these."
+		""
+		"These allow you to import and export from the pressure chamber."
+		""
+		"They export or import from the chamber based on which way you place them, the blue side is input and orange side is output &e(when looking at them from the outside)&r."
+		""
+		"They will auto export to an adjacent inventory but they will not pull from adjacent inv and you cannot manually operate them so you gotta pipe/hopper them inn."
+		""
+		"&e(note: every time these open and close you lose a little bit of air to minimize this you can upgrade them with speed upgrades)&r"
+	]
+	quest.05CBF1076C1E21DF.quest_subtitle: "I/O"
 	quest.062FB5E168C9D41E.quest_desc: [
-		"To set up a henge place an inventory and a source jar adjacent to the henge then spawn in your Drygmys then place your jarred mobs inside a 10 block range of the henge."
+		"To set up a Henge place an inventory and a source jar adjacent to the henge then spawn in your Drygmys then place your jarred mobs inside a 10 block range of the henge."
 		""
 		"by shift clicking the henge with dominion wand you can set it to only accept drops from jars"
 		""
@@ -104,17 +135,17 @@
 	quest.0781A4C9B5ED15F5.quest_desc: [
 		"Are you feeling tired of using all of your &ehotbar&r to store all of your tools?"
 		""
-		"The &dTool Belt&r is your saviour..."
+		"The &dTool Belt&r is your savior..."
 		""
-		"With this tool belt you can store all of those useful tools and weapons to clear out a bit of your hotbar and have more room for other type of items."
+		"With this tool belt you can store all of those useful tools and weapons to clear out a bit of your hotbar and have more room for other types of items."
 		""
 		"You can access the Belt GUI by using the ( &lR&r ) by default."
 		""
-		"We can upgrade our tool belt by crafting &6belt pouches&r to store more of our tools, to do this, simply combine your tool belt and the belt pouch inside an anvil and it will use a bit of your experience to upgrade it."
+		"We can upgrade our tool belt by crafting &6belt pouches&r to store more of our tools. To do this, simply combine your tool belt and the belt pouch inside an anvil and it will use a bit of your experience to upgrade it."
 		""
 		"Mod created by: &3Gigaherz"
 	]
-	quest.0781A4C9B5ED15F5.quest_subtitle: "Need more space for tool?"
+	quest.0781A4C9B5ED15F5.quest_subtitle: "Need more space for tools?"
 	quest.0781A4C9B5ED15F5.title: "&3&lTool Belt"
 	quest.078639E7470871B6.quest_desc: [
 		"If you are tired of seeing this world in normal colors then these are the glasses for you they will add a pink tint to your vision."
@@ -128,10 +159,18 @@
 	quest.078639E7470871B6.title: "special glasses"
 	quest.07B077F7F5D09FDF.quest_desc: ["In this section, we will talk about some &eblocks&r that will surely bring us joy when we craft them."]
 	quest.07B077F7F5D09FDF.title: "&l&e&nAmazing Blocks"
+	quest.08F416131D7643D3.quest_desc: [
+		"Are you tired of pipes ruining your clean setup?"
+		""
+		"Then this is the tool for you!"
+		""
+		"The camouflage applicator is able to hide pipes among other things."
+	]
+	quest.08F416131D7643D3.quest_subtitle: "Ugly pipes? fear not"
 	quest.09846E3BA8A6FF77.quest_desc: [
 		"This mod is one of the many definitions of pure &cRNG&r. Why? Simple, &eEverlasting Abilities&r mod adds a lot of &bTotems&r that have 1 ability each."
 		""
-		"After creating our world, we will be greeted by some books and the &3Ability Bottle&r, which will have 1 ability (depending on your luck) that can equiped by using some of your experience."
+		"After creating our world, we will be greeted by some books and the &3Ability Bottle&r, which will have 1 ability (depending on your luck) that can be equipped by using some of your experience."
 		""
 		"Some players had the &5Night Vision&r effect on it from the &lstart&r!"
 		"{@pagebreak}"
@@ -184,6 +223,16 @@
 	]
 	quest.0BB636E9C6105134.quest_subtitle: "Easy travel"
 	quest.0BB636E9C6105134.title: "&l&dWaystones"
+	quest.0C3E31C1CC7C09B1.quest_desc: [
+		"These drones will interact with inventories that has logistics frames on them in a 31x31x31 area centered on where you deployed them."
+		""
+		"Their behavior is based on how you program the frames."
+		""
+		"Once you are able to make a regular all purpose drone you can make a more powerful version of this feature with the logistics widget."
+		""
+		"&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+	]
+	quest.0C3E31C1CC7C09B1.quest_subtitle: "Airborne delivery"
 	quest.0C513C2290CB94DA.quest_desc: [
 		"The mod &cEvilcraft&r brings us a lot of new blocks to craft and &ofind&r..."
 		""
@@ -199,7 +248,7 @@
 		""
 		"Mod created by: &cKroeser"
 	]
-	quest.0C513C2290CB94DA.quest_subtitle: "in the form of a bucket!"
+	quest.0C513C2290CB94DA.quest_subtitle: "In the form of a bucket!"
 	quest.0C513C2290CB94DA.title: "&l&1Infinite Water"
 	quest.0C7FFA80C1B2836F.quest_desc: ["W.I.P"]
 	quest.0C7FFA80C1B2836F.quest_subtitle: "Free loot"
@@ -216,7 +265,71 @@
 		"&4The fruits can be farmed just like cocoa beans and each tree type has their own variant.&r"
 	]
 	quest.0DF3C82DFF5E308A.quest_subtitle: "Elemental Lumber"
-	quest.0EB614A5D08D59BD.title: "Solar Helmet &l&5V7"
+	quest.0EF171C9D1A27B99.quest_desc: [
+		"PNC comes with a handy villiger which trades you everything you could need except for plastic. In fact he is so good that if you have these you don't even need to build a pressure chamber."
+		""
+		"see page 2 for trades."
+		""
+		"{@pagebreak}"
+		""
+		"Info dump villiger trades:"
+		""
+		"COMPRESSED_IRON_BLOCK"
+		"PRESSURE_TUBE"
+		"AIR_CANISTER"
+		" "
+		"&7LOGISTICS_CORE&r"
+		"&7TRANSISTOR&r"
+		"&7CAPACITOR&r"
+		"&7TURBINE_BLADE&r"
+		""
+		""
+		""
+		"&eLOGISTICS_DRONE&r"
+		"&eHARVESTING_DRONE&r"
+		"&eCOLLECTOR_DRONE&r"
+		"&eGUARD_DRONE&r"
+		"&ePNEUMATIC_CYLINDER&r"
+		"&eGUN_AMMO&r"
+		""
+		""
+		"&aGUN_AMMO_FREEZING&r"
+		"&aGUN_AMMO_WEIGHTED&r"
+		"&aGUN_AMMO_AP&r"
+		"&aGUN_AMMO_EXPLOSIVE&r"
+		"&aGUN_AMMO_INCENDIARY&r"
+		"&aPROGRAMMING_PUZZLE&r"
+		"&aNUKE_VIRUS&r"
+		"&aSTOP_WORM&r"
+		""
+		"&bPRINTED_CIRCUIT_BOARD&r"
+		"&bMICROMISSILES&r"
+		"&bDRONE&r"
+	]
+	quest.0EF171C9D1A27B99.quest_subtitle: "Screw this"
+	quest.0EF171C9D1A27B99.title: "Bypass Valve"
+	quest.0F68267B2DC0E06A.quest_desc: [
+		"This is where you can build programs for your drones. You can select between program complexity in the bottom right corner."
+		""
+		"Programs consist of widgets that you snap together and the widget will only accept a widget that fits."
+		""
+		"You start off with the start block then build your program downwards."
+		""
+		"Negative volumes/blacklists ect goes on the left side of the widget and whitelists and volumes goes on the right side of the widgets you can add as many widgets as you like in a row to make more complex filters and volumes (some widgets only accepts cube areas)"
+		""
+		"When you make a program and put it on a drone or api you have to pay with puzzle pieces which can be crafted or traded from villiger."
+		""
+		"The programing system is fairly intuitive and will not dive any deeper into it if you are wondering about a widget see book hold I over it in programmer."
+	]
+	quest.0F68267B2DC0E06A.quest_subtitle: "Piece it together"
+	quest.10B2FF4D07F806B7.quest_desc: [
+		"The pressure tube is used to move and contain your air."
+		""
+		"The most basic tube is capable of handling 5 bars of pressure much more and they will randomly blow up."
+		""
+		"Pressure takes a while to travel so it is advised to keep distances to a minimum in this mode, if you wish these tubes will last you all the way to the highest tier tube."
+	]
+	quest.10B2FF4D07F806B7.quest_subtitle: "Same same but different"
 	quest.10E0774B22AC1D58.quest_desc: [
 		"The Enchanting Apparatus is a structure consisting of an Enchanting Apparatus placed on top of an Arcane core."
 		""
@@ -224,6 +337,16 @@
 		""
 		"The arcane platforms can be placed anywhere in a 7x7x7 area centered on the enchant apparatus"
 	]
+	quest.1144B308B2C7245F.quest_desc: [
+		"When placed on a pipe with at least 3 bars of pressure it will connect to all other logistics modules on the network."
+		""
+		"The network only extends to connected pipes."
+		""
+		"On their own they don't do anything but when facing a logistics frame they will transfer items between the inventories depending on how you have set up your logistics. frames."
+		""
+		"&4(NOTE! the module has to face the logistics frame it can not just be on any face)&r"
+	]
+	quest.1144B308B2C7245F.quest_subtitle: "Piped logistics"
 	quest.1169C4B8130911F8.quest_desc: ["These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."]
 	quest.116C52D690CC1551.quest_desc: [
 		"&4Apotheosis&r mod adds quite a lot of new features. This mod is incredibly broken in the best of ways to achieve godhood, but just as everything in modded mc, we have to find our way!"
@@ -238,7 +361,7 @@
 		""
 		"Adding &6three&r new stats to our enchanting table to max out our enchantments!"
 		""
-		"It also adds quite a few new types of Bookshelf's to seek and collect to max our enchanting setup."
+		"It also adds quite a few new types of Bookshelves to seek and collect to max our enchanting setup."
 		""
 		"And everything starts with the vanilla bookshelf."
 		"{@pagebreak}"
@@ -268,8 +391,21 @@
 		""
 		"When you are done with whatever augments you want you click the brazier again to start the ritual."
 	]
+	quest.1292C85BF4C73D7A.quest_desc: ["This generator makes pressure based on heat differential on opposite sides the bigger the difference the faster it is see heat chapters for more info on heat."]
 	quest.12CAFBD9C7290E95.quest_desc: ["created by tossing andesite in the spirit fire"]
 	quest.12CAFBD9C7290E95.quest_subtitle: "Smells burnt"
+	quest.13060BF8D2D4AB76.quest_desc: [
+		"The spawner extractor is placed onto a spawner you then apply negative pressure to start extracting the core."
+		""
+		"the result will be a core with 100% essence of the spawner type you extracted and an empty spawner which you use to create the pressurized spawner"
+	]
+	quest.13060BF8D2D4AB76.quest_subtitle: "Spawner juice"
+	quest.13647F5B0F6745E5.quest_desc: [
+		"If you want to make custom spawner cores you are going to need this"
+		""
+		"These need to be filled with experience in the thermopneumatic processing plant to be able to be filled with mobs"
+	]
+	quest.13647F5B0F6745E5.quest_subtitle: "Framework"
 	quest.1480A8DAFC82ADD5.quest_desc: [
 		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
 		""
@@ -285,15 +421,12 @@
 	]
 	quest.151BBAA83E037C27.quest_subtitle: "I know you won't bother opening the book"
 	quest.151BBAA83E037C27.title: "Arcane Study"
-	quest.15BA38377EA9D7A2.quest_desc: ["Now that we are generating 4096FE/t we can begin to grow our factory with more machines..."]
-	quest.15BA38377EA9D7A2.quest_subtitle: "I'm Out of Subtitles"
-	quest.15BA38377EA9D7A2.title: "&l&3Resonant Solar Panel"
 	quest.166ACB8E71DFAC31.quest_desc: [
 		"We got plenty of ways to achieve &5creative fly&r without much effort."
 		""
 		"The Jetpacks being one of them."
 		""
-		"&l&aMekanism Jetpack&r: This jetpack is quite easy to craft, but to make it function we need &lHydrogen&r. We can do 2 things with this jetpack, upgrade it to it's reiforced version or create the jetpack module for the MekSuit."
+		"&l&aMekanism Jetpack&r: This jetpack is quite easy to craft, but to make it function we need &lHydrogen&r. We can do 2 things with this jetpack, upgrade it to its reinforced version or create the jetpack module for the MekSuit."
 		""
 		"&lIron Jetpacks&r: This mod adds quite a lot of new jetpacks to try out, we can upgrade them from &8Wood&r Tier to &2Emerald&r Tier. These jetpacks need energy to function and it's recommended to set some keybinds to activate the &dFly Mode&r and the &3Hover Mode&r."
 		""
@@ -329,8 +462,27 @@
 		"See book for more info."
 	]
 	quest.199EE3B22FAFAC74.quest_subtitle: "Today, we cook"
+	quest.1A36052DF194B26A.quest_desc: [
+		"The guard drone will attack mobs in a 31x31 area and 8 up and 5 bellow the inventory its placed on this inventory should contain weapons or minigun ammo if minigun upgrade is installed."
+		""
+		"Do note that these drones have health and can die; there are armor upgrades and regen upgrades for them."
+		""
+		"&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+	]
+	quest.1A36052DF194B26A.quest_subtitle: "Pest control"
 	quest.1AD0B6FC4101DE41.quest_desc: ["This item acts like a remote terminal and allows you to access your storage from anywhere in your world."]
 	quest.1AD0B6FC4101DE41.title: "Remote Access"
+	quest.1B100B1D5C5E7F0B.quest_desc: [
+		"Once you start working with higher pressures you might encounter machines that still require 5 or 10 bar even though you are producing 20 bar."
+		""
+		"For this you can use the regulator to reduce a 20 or 10 line to 5 Bar with the basic version and any pressure you like with the upgraded version."
+		""
+		"you want your pressure source to be on the large side and your output to be on the small side."
+		""
+		"With the upgraded version you can use a redstone signal to regulate how much pressure it lets through."
+		""
+		"&4(NOTE! does not regulate pressure in both ways.)&r"
+	]
 	quest.1D15906567D49376.quest_desc: [
 		"The rituals can be a bit more tricky to automate than the fire but it is not all that hard."
 		""
@@ -366,6 +518,8 @@
 	]
 	quest.1D15906567D49376.quest_subtitle: "MRI Machine ritual Interface"
 	quest.1D15906567D49376.title: "Auto Rituals"
+	quest.1D3E958C900ADD0E.quest_desc: ["made in the thermopneumatic processing plant and allows you to handle 10 bars of pressure"]
+	quest.1D3E958C900ADD0E.quest_subtitle: "10 Bar"
 	quest.1D53BBEB966BAE77.quest_desc: [
 		"&6Torchmaster&r mod is the true definition of &lDon't Spawn&r."
 		""
@@ -379,13 +533,7 @@
 	]
 	quest.1D53BBEB966BAE77.quest_subtitle: "Preventing Mob Spawns"
 	quest.1D53BBEB966BAE77.title: "&l&bTorch Master"
-	quest.1DB14DCD4CD04E24.quest_desc: [
-		"Now we are generating 8FE/t, which is not a lot I know. But it's better than generating 1FE/t."
-		""
-		"But it should be more than enough to sustain at least &d1&r machine."
-	]
-	quest.1DB14DCD4CD04E24.quest_subtitle: "Better Than The Leadstone Solar Panel"
-	quest.1DB14DCD4CD04E24.title: "&l&7Hardened Solar Panel"
+	quest.1EACFBCABFF93EE6.quest_desc: ["If you don't already have another kind of liquid experience to use to fill the spawner cores you can use this item to store experience then use it on a tank to get memory essence."]
 	quest.1F9DD8905A302496.quest_desc: [
 		"Ever wanted to look &l&dfabulous&r yet &c&lPowerful&r when fighting mobs?"
 		""
@@ -414,7 +562,7 @@
 	quest.20A79BCC4B9EC78B.quest_subtitle: "shiny"
 	quest.20A79BCC4B9EC78B.title: "Spirit attuned Crystal"
 	quest.20AC765EB929F9F4.quest_desc: [
-		"Tired of recieveing fall damage when building your house?"
+		"Tired of receiving fall damage when building your house?"
 		""
 		"The &aSlime Boots&r will help us end this nightmare!"
 		""
@@ -424,7 +572,7 @@
 		""
 		"Mod created by: &2MinecraftEinstein"
 	]
-	quest.20AC765EB929F9F4.quest_subtitle: "Inmunity to fall damage"
+	quest.20AC765EB929F9F4.quest_subtitle: "Immunity to fall damage"
 	quest.20AC765EB929F9F4.title: "&l&aUseful Slime"
 	quest.2164219E306DCCEA.quest_desc: [
 		"The mod &l&1Explorer's Compass&r will aid us our search for &dStructures&r or &6Dungeons&f, it can even locate the new 1.21 structure... The Trail Ruins easily"
@@ -437,12 +585,21 @@
 	]
 	quest.2164219E306DCCEA.quest_subtitle: "Structure compass"
 	quest.2164219E306DCCEA.title: "&l&7Explorer's Compass"
+	quest.218624C62F3E436E.quest_desc: [
+		"The Amadron tablet can be used to trade for various useful things like lubricant for speed upgrades and to get the pcb blueprint for producing your very own circuit boards"
+		""
+		""
+		"To use the tablet you first need to charge it in a charging station."
+		" "
+		"Then you select the pickup/drop off location this is where you put your emeralds ect and receive your purchased goods, &eif you want to trade for liquids you need to set a tank as well for pickup/delivery.&r"
+	]
+	quest.218624C62F3E436E.quest_subtitle: "Online shopping"
 	quest.21E082550A327335.quest_desc: [
 		"Looking to increase your machine collection?"
 		""
 		"&6Additional Enchanted Miner&r mod is based on &dQuarry Plus&r mod made by Yogpstop's, that adds a couple of new machines to mine automatically. This being said, we can now stop doing a lot of tunnels to mine our ores!"
 		""
-		"This machines need &cenergy&r to function!"
+		"This machine needs &cenergy&r to function!"
 		"{@pagebreak}"
 		"- &6Quarry Plus&r: This machine by default can mine a &a11x11&r area. But it can be configured using some markers."
 		""
@@ -456,10 +613,19 @@
 	]
 	quest.21E082550A327335.quest_subtitle: "Mining, but with a machine"
 	quest.21E082550A327335.title: "&l&8Additional Enchanted Miner"
-	quest.2281F1237556660F.quest_desc: ["When looking at a ritual in the spirite guide book the preview will have a small eye icon in the bottom left corner which you can click to enable in world preview for you to follow"]
+	quest.2281F1237556660F.quest_desc: ["When looking at a ritual in the spirit guide book the preview will have a small eye icon in the bottom left corner which you can click to enable in world preview for you to follow"]
 	quest.2281F1237556660F.quest_subtitle: "This is where you messed up"
 	quest.2281F1237556660F.title: "3d projector"
-	quest.234A684181B4B277.quest_desc: ["This is the highes tier of satchel and will construct the entire ritual if you click on the preview it will also allow you to instantly clean up the ritual by clicking on the ritual bowl"]
+	quest.232EB86E5AD07B82.quest_desc: [
+		"Will collect items and deposit them to the inventory it was placed on. "
+		""
+		"If it's placed on an inventory with items in it it will filter to the items in the inventory at the time of deployment. The only way to set a new filter is to pick up the drone and place it again."
+		""
+		"Its range is by default 17x17x17 centered on the inv can be upgraded with range augments"
+		""
+		"&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+	]
+	quest.234A684181B4B277.quest_desc: ["This is the highest tier of satchel and will construct the entire ritual if you click on the preview it will also allow you to instantly clean up the ritual by clicking on the ritual bowl"]
 	quest.2438C51737F1817B.quest_desc: [
 		"The Shrink mod adds the amazing &n&dShrinking Device&r, which will let you... SHRINK!"
 		""
@@ -471,8 +637,42 @@
 		""
 		"Mod created by: &aGigabit101"
 	]
-	quest.2438C51737F1817B.quest_subtitle: "I may or may not shrunk maself..."
+	quest.2438C51737F1817B.quest_subtitle: "Honey, I shrunk the kids!"
 	quest.2438C51737F1817B.title: "&l&2Shrink"
+	quest.2489A5EDFFCD05C3.quest_desc: [
+		"Used for setting coordinates in programs among other things."
+		""
+		"Adjust location by holding shift and scrolling while looking in the direction you want to adjust"
+		""
+		"to paste coordinate into program hold the gps over the widget you want to paste to and click it"
+	]
+	quest.24CBEE1570C4CCAD.quest_desc: [
+		"These frames when placed on inventories allow logistics drones/programs/modules to interact with them (explained in next quests)."
+		""
+		"there are 5 types and these will attach to any inventory not just chests"
+		""
+		"&4passive provider: will provide items to requesters that will be prioritized over all other frames.&r"
+		""
+		"&5active provider: will push items into requesters storage and default storage frames if possible.&r"
+		""
+		"&1requester: are able to request items from active providers passive providers storage and default storage.&r"
+		""
+		"&estorage: buffers items from active providers.&r"
+		""
+		"&2default storage: will only be filled if there are no other place to deposit and will be pulled from before storage and sends its items to normal storage frames if possible.&r"
+		""
+		"You can set a minimum transfer in the grid icon in their GUI to make transfer more efficient."
+		""
+		"Works more or less like the logistics system in factorio."
+	]
+	quest.24CBEE1570C4CCAD.quest_subtitle: "Factorio is that you?"
+	quest.25081C81DD7C47E9.quest_desc: [
+		"The spawner core is inserted into the pressurized spawner for it to spawn whatever mobs are in the core."
+		""
+		"Custom ones can be made in the vacuum trap with cores created from scratch."
+		""
+		"The core you got from extracting a spawner can be put back in once you make it into a pressurized spawner if you want that particular mob."
+	]
 	quest.253D4934AE39B4DA.quest_desc: [
 		"This pack has Ars Nouveau Occultism integration meaning you can put some spirits in jars instead of having them in world as entities"
 		"read ars nouveau worn notebook under ars Ocultas for more info"
@@ -480,14 +680,6 @@
 	quest.253D4934AE39B4DA.title: "Bottled Demons"
 	quest.2577E2D827AC5D6C.quest_desc: ["Will generate source from Mob deaths, Breading and passively of baby animals as well as acell their growth"]
 	quest.2577E2D827AC5D6C.quest_subtitle: "in Life and Death "
-	quest.269D02D4BFFC0190.quest_desc: [
-		"If you thought this mod only added solar panels... then you are correct..."
-		""
-		"But we can flex a bit walking down the streets with this helmet to generate power while we recieve the &m&8deadly&r &llovely&r laser beams of our sun."
-		""
-		"Honestly, i suggest you forget about sunbathing and become a sentient walking being that generates &l&cenergy&r!"
-	]
-	quest.269D02D4BFFC0190.title: "Solar Helmet &lV1"
 	quest.273CC4D59C0D8731.quest_desc: [
 		"The mod &n&l&6Only Hammers&r adds a variety of hammers for us to mine big areas quickly!"
 		""
@@ -495,14 +687,16 @@
 		""
 		"These new tools will grant us the ability to mine &l&d3x3&r areas without any effort!"
 		""
-		"Mod Created by; &6Block_Legend001"
+		"Mod created by: &6Block_Legend001"
 	]
 	quest.273CC4D59C0D8731.quest_subtitle: "Mining, but easy"
 	quest.273CC4D59C0D8731.title: "&9&lOnly Hammers"
+	quest.2794DEFAA6E8DD10.quest_desc: ["Upgraded version this one has 2 coordinates and can even select different shapes."]
+	quest.2794DEFAA6E8DD10.quest_subtitle: "This is getting out of hand now there is two of them"
 	quest.29DD8D76E24CCE26.quest_desc: [
 		"The mod &l&aNature's Compass&r will aid us our search for that incredible &2Biome&r we want our base in..."
 		""
-		"Right click this compass and a new GUI should appear. In this new GUI you can search biomes by mod or by their name! After that, it'll tell you how far is the biome is."
+		"Right click this compass and a new GUI should appear. In this new GUI you can search biomes by mod or by their name! After that, it'll tell you how far the biome is."
 		""
 		"Works similar as the &7Explorer's Compass&r, but with biomes"
 		""
@@ -521,6 +715,27 @@
 	]
 	quest.2B2C28707D222C78.quest_subtitle: "why move items manually?"
 	quest.2B2C28707D222C78.title: "&lLogistics"
+	quest.2BA4BE93A61B7015.quest_desc: [
+		"pnc introduces heat. Heat is able to be transmitted through heat cables, compressed iron blocks and machines that generate/require heat."
+		""
+		"Sometimes you need to generate heat which can be done with by placing hot blocks like lava or magma blocks beside the machine or compressed iron blocks attached to the machine but these will lose heat over time and eventually convert to other materials so this is not to be advised as it's really inefficient."
+		""
+		"The alternative is using a vortex tube these will use pressure to create a hot side (the red side) and a cold side (the blue side)"
+		""
+		"Getting rid of heat"
+		"If you need to get rid of heat you can use the block method just with cold stuff like ice ect. or you can use the cold side of a vortex tube or the cheapest and easiest method is the heatsink."
+		""
+		"all blocks that can hold/transfer heat will naturally lose heat through any open side that isn't covered by a block or thermal lagging but placing a heatsink on there will greatly speed up this process"
+	]
+	quest.2BA4BE93A61B7015.quest_subtitle: "Getting hot in here"
+	quest.2BA4BE93A61B7015.title: "Heat 101"
+	quest.2BA68052B62D7EBF.quest_desc: [
+		"The pressurized spawner is a powerful spawner that rivals the Apothic Spawner."
+		""
+		"once fully upgraded and running on 20 bar this spawner will run at similar rates to that of Apoth spawner and is able to contain a core with a large amount of different mobs in just a single spawner"
+		""
+		"&4(NOTE! minimum operating pressure for the spawner is 10 Bar use with care.)&r"
+	]
 	quest.2BFA19AD4DCEC687.quest_desc: [
 		"Books of binding are used as the final ingredient in a ritual."
 		""
@@ -529,7 +744,7 @@
 	quest.2C4B98E6014AC2DE.quest_desc: [
 		"Trash cans for everything... Now we can start deleting everything we want!"
 		""
-		"Trash Cans mod will surely help us when doing mob farms, due to it's nature of &cvoiding&r everything it enters in it. Another thing to note, is that we can set a whitlist and blacklist of items and fluids to bin. I truly advise on you filtering this trash cans, things can take a bad turn if we don't set these correctly..."
+		"Trash Cans mod will surely help us when doing mob farms, due to it's nature of &cvoiding&r everything it enters in it. Another thing to note, is that we can set a whitelist and blacklist of items and fluids to bin. I truly advise on you filtering this trash cans, things can take a bad turn if we don't set these correctly..."
 		""
 		"- &eItem Trash Can&r: As the name suggests, it can void any type of item without problem."
 		""
@@ -562,7 +777,7 @@
 		""
 		"&2Cooking For Blockheads&r mod created by: &aBlayTheNinth"
 	]
-	quest.2D31A67A30DD06D6.quest_subtitle: "in the form of blocks!"
+	quest.2D31A67A30DD06D6.quest_subtitle: "In the form of blocks!"
 	quest.2D31A67A30DD06D6.title: "&l&1Infinite Water Sources"
 	quest.2D989ED723D100D3.quest_desc: [
 		"Ever wondered... Is there a pocket dimension similar to a &6Compact Machine&r?"
@@ -609,10 +824,11 @@
 	]
 	quest.2E4461B571572B25.quest_subtitle: "Magnets, but in the form of blocks!"
 	quest.2E4461B571572B25.title: "&l&eItem Collectors"
+	quest.2E6E63F5C8849B56.quest_subtitle: "Organic"
 	quest.2F30EBDF5D92F364.quest_desc: [
 		"If you got emeralds to spend and like gambling the shady wizard is the thing for you."
 		""
-		"He will trade for various useful items he will select 2 trades from the list bellow per tier"
+		"He will trade for various useful items he will select 2 trades from the list below per tier"
 		""
 		"&eJourneyman&r"
 		"GivenReceived"
@@ -651,6 +867,14 @@
 		"If you are seeing this, it means you are in editing mode."
 	]
 	quest.318263781167A26D.title: "&l&4Catalyst Studios Quests"
+	quest.31A03D303C9D7543.quest_desc: [
+		"This is the block that you use to charge your equipment in PNC."
+		"It is also used to charge drones if you got a dispenser upgrade in it."
+	]
+	quest.3232A5D2408F36A7.quest_desc: ["Used to interact with logistics frames"]
+	quest.32CA71F95A2FE5D3.quest_desc: ["These bricks are used in various blocks in this mod like compressors and chargers etc."]
+	quest.32CA71F95A2FE5D3.quest_subtitle: "Though rock"
+	quest.32CA71F95A2FE5D3.title: "Reinforced stone"
 	quest.341860979C6FB8C6.quest_desc: ["this image was set as a Placeholder for another one."]
 	quest.341860979C6FB8C6.title: "Placeholder"
 	quest.34C914F96A3A1A27.quest_desc: [
@@ -684,21 +908,44 @@
 	]
 	quest.35F498CAE76F3C31.quest_subtitle: "No turning back"
 	quest.35F498CAE76F3C31.title: "Rituals for beginners"
+	quest.35F5804D9B6BB176.quest_desc: [
+		"The Thermopneumatic processing plant is one of the structures that requires heat as well as pressure to operate."
+		""
+		"It is used in various places along the plastic production line as well as oil cracking."
+	]
 	quest.3668E80AA1D94548.quest_desc: [
 		"Created by surrounding a source gem with stone."
 		""
 		"Used in some blocks like arcane pedestals ect."
 	]
 	quest.3668E80AA1D94548.quest_subtitle: "Magic Rock"
-	quest.3822CD1546F0BC9B.quest_desc: [
-		"This is more than enough to start charging &djetpacks&r, &6gadgets&r and even sustain 2 or 4 machines!"
-		""
-		"Depending if the machine has energy/speed upgrades of course..."
-	]
-	quest.3822CD1546F0BC9B.quest_subtitle: "Now We Are Talking"
-	quest.3822CD1546F0BC9B.title: "&l&cSignalum Solar Panel"
 	quest.384A953CD384DC50.quest_desc: ["These 2 relays have the ability to respectively collect and deposit source from and to source jars they will automatically work with jars within a 5 block range AKA (11x11x11 area)"]
 	quest.384A953CD384DC50.title: "Withdraw and Deposit"
+	quest.386792182535EFAE.quest_desc: [
+		"This module is placed onto your pipes in order to keep them safe; they will vent pressure at 4.9Bar on a basic and reinforced tube and 19.9 on an advanced tube."
+		""
+		"If you want to set your own thresholds you can use a module expansion card on it later on."
+		""
+		"The upgraded version can regulate its threshold based on redstone level."
+		""
+		"&4(NOTE! these are able to be overpowered if fed to much pressure)&r"
+	]
+	quest.386792182535EFAE.quest_subtitle: "Whistle blower"
+	quest.387749084DD040D9.quest_desc: [
+		"In PNC most if not all items have useful tooltips which will generally explain pretty well what the different things do."
+		""
+		"This is also where you can see the rated pressures of machines."
+	]
+	quest.39182BE15900BF10.quest_desc: [
+		"To use the vacuum trap simply apply negative pressure, insert the empty spawner core and shift click the block to open it."
+		""
+		"&4(NOTE! will not overwrite stored essence so you need to insert a core that isn't already full.)&r"
+		""
+		"Here is an example of what you can do with the custom cores."
+		"every time it tries to spawn mobs it will pick randomly from the ones on the tag."
+		"{image:kubejs:textures/quest_images/pneumaticcraft_repressurized/spawner_core.png width:100 height:200 align:center}"
+	]
+	quest.39182BE15900BF10.quest_subtitle: "Ghostbusters"
 	quest.394D5F2C08A05B50.quest_desc: [
 		"The mod &l&6Mekanism&r adds a lot of new machines and some really good equipment."
 		""
@@ -712,7 +959,7 @@
 		""
 		"Mod created by: &bBradyaidanc"
 	]
-	quest.394D5F2C08A05B50.quest_subtitle: "it's not only about machine..."
+	quest.394D5F2C08A05B50.quest_subtitle: "It's not only about machine..."
 	quest.394D5F2C08A05B50.title: "&l&8Mekanism Tools"
 	quest.39621342A2F96DF9.quest_desc: [
 		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
@@ -722,6 +969,13 @@
 		"If you are seeing this, it means you are in editing mode."
 	]
 	quest.39621342A2F96DF9.title: "&l&4Catalyst Studios Quests"
+	quest.398B22B8D9E1149A.quest_desc: [
+		"works in a 17x17x17 area will harvest any fully grown crop if placed on an inventory and a hoe is placed in that inv it will replant the crops."
+		""
+		"&4(will not collect items)&r"
+		""
+		"&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+	]
 	quest.3A1325AD7235B004.quest_desc: [
 		"The mod &6Connected Pipes&r is a QOL mod to &nconnect&r our pipes easily!"
 		""
@@ -731,12 +985,14 @@
 		""
 		"Mod created by: &aHeaser"
 	]
-	quest.3A1325AD7235B004.quest_subtitle: "placing pipes, but easy"
+	quest.3A1325AD7235B004.quest_subtitle: "Placing pipes, but easy"
 	quest.3A1325AD7235B004.title: "&l&ePipe Connector"
+	quest.3A25C866395DB478.quest_desc: ["Your first pcb it is advice to use your first PCBs on the assembly multiblock as it allows you to make PCBs a lot easier"]
+	quest.3A25C866395DB478.quest_subtitle: "Thinking rock"
 	quest.3A911DEE451C256F.quest_desc: [
 		"Are you tired of using (CTRL + Mouse Wheel) to zoom in/out from the quests?"
 		""
-		"Fear not, theres an easy solution for that matter..."
+		"Fear not, there's an easy solution for that matter..."
 		""
 		"On any questline like this, there should be a '&nSteve Head&r' on the bottom right corner."
 		""
@@ -748,8 +1004,17 @@
 	]
 	quest.3A911DEE451C256F.quest_subtitle: "smolest of tips"
 	quest.3A911DEE451C256F.title: "&lSmol tip'"
-	quest.3BB9BFE92909D42F.quest_desc: ["In this section we will talk about &eTools&r to make our experience on a game about cubes more entretaining!"]
+	quest.3BB9BFE92909D42F.quest_desc: ["In this section we will talk about &eTools&r to make our experience on a game about cubes more entertaining!"]
 	quest.3BB9BFE92909D42F.title: "&l&e&nAmazing Tools"
+	quest.3C99340DB19C8333.quest_desc: [
+		"The aerial interface allows for interaction with your inventory; this can be auto restocking charging of gear with rf as well not just air and you can even pump exp into and out of your player."
+		""
+		""
+		"example of auto charging PNC suit"
+		"{image:kubejs:textures/quest_images/pneumaticcraft_repressurized/autocharging.png width:100 height:100 align:center}"
+		""
+		"{image:kubejs:textures/quest_images/pneumaticcraft_repressurized/autocharging2.png width:120 height:100 align:center}"
+	]
 	quest.3DFD32A1A229E04F.quest_desc: [
 		"One of the kinds of candles you can use in Occultism is the tallow candle."
 		""
@@ -757,7 +1022,6 @@
 	]
 	quest.3DFD32A1A229E04F.quest_subtitle: "now where did that trader go"
 	quest.3DFD32A1A229E04F.title: "local butcher"
-	quest.3E24D52CA683A3F1.title: "Solar Helmet &l&cV4"
 	quest.3E884D06714017F1.quest_desc: [
 		"The crushers are used for ore multiplication."
 		""
@@ -766,21 +1030,38 @@
 		"The lifespan and speed of the demons also increase with the tier where the Marid will last forever."
 	]
 	quest.3E884D06714017F1.quest_subtitle: "Ore multiplication"
+	quest.3F160D913BA62B9B.quest_desc: [
+		"This will likely be your first way of generating pressure quick and dirty pressure gen."
+		""
+		"It burns any material with a fuel value like coal planks ect and can be regulated with redstone."
+		""
+		"&4(NOTE! This compressor will continue generating pressure till it's currently burning fuel is finished even when disabled by redstone so it's advised to use a fuel with a low fuel value like tiny coal.)&r"
+	]
+	quest.3F160D913BA62B9B.quest_subtitle: "you will prob blow a few of these"
+	quest.3F417D2CB3BBBC04.quest_desc: [
+		"This is a very niche compressor that uses lightning to generate pressure see book for info on how to set up."
+		""
+		"&e(note: artificial lightning will not work the generator will randomly summon lightning based on the weather and the setup you have)&r"
+	]
+	quest.3F417D2CB3BBBC04.quest_subtitle: "exciting"
+	quest.3F502A343332B9DB.quest_desc: ["Plastic is used in various components and blocks in pnc like circuit boards and various machines "]
+	quest.3F502A343332B9DB.quest_subtitle: "Time for lego"
+	quest.3F6C63BFB8373722.quest_desc: ["Component used in logistics items"]
 	quest.3F7B44EB0D6342F7.quest_desc: [
 		"In this modpack, we have plenty of stuff to do, but there are quite a few things like &l&acommands&r and &l&6quality of life&r keybinds that will ease certain tasks..."
 		""
-		"Another sweet tip due to there being 4 extra pages, use your &lLeft&r and &lRight&r arrow keys to navigate through this pages easily!"
+		"Another sweet tip due to there being 4 extra pages, use your &lLeft&r and &lRight&r arrow keys to navigate through these pages easily!"
 		"{@pagebreak}"
 		"- &9FTB Chunks&r: With this mod, you can claim big areas for your base! This with FTB Teams will work wonders together! Why? by claiming chunks not a single soul (except you and your team of course) can break your base blocks! This will prevent bases from being raided by others or to simply stop mob and player base griefing."
 		""
-		"To add a chunk into your claims simply press ( M ) key by default, to open up the FTB chunks map. After that at the very upper left corner there will 3 new buttons, the option we are looking for is this one."
+		"To add a chunk into your claims simply press ( M ) key by default, to open up the FTB chunks map. After that at the very upper left corner there will be 3 new buttons, the option we are looking for is this one."
 		"{image:catalyst:textures/quest_images/useful_mods/chunks0.png width:200 height:75 align:center}"
 		""
 		"Once that we are inside it's new menu, we can start claiming chunks! To add new chunks simply do &e&lLMB&r and you can even select as many as you want!"
 		""
 		"To forceload those chunks to keep any machine running or anything else inside of it, do &l&eShift + LMB&r to forceload those chunks. To remove a chunk from your claims, press &e&lRMB&r to remove them."
 		""
-		"Note: By default, 20 chunks are only avaible but this can be edited with commands. You'll also need Admin perms to do so."
+		"Note: By default, 20 chunks are only available but this can be edited with commands. You'll also need Admin perms to do so."
 		""
 		"{@pagebreak}"
 		"- &6FTB Teams&r: Will give you the opportunity to create a team with your friends! To create a team you will search for this option on the upper left corner of your inventory screen "
@@ -790,7 +1071,7 @@
 		""
 		"{image:catalyst:textures/quest_images/useful_mods/party1.png width:200 height:75 align:center}"
 		""
-		"After that you can create a team with any name you want! (remember to be respectul to others by doing a custom team name and description)"
+		"After that you can create a team with any name you want! (remember to be respectful to others by doing a custom team name and description)"
 		"{image:catalyst:textures/quest_images/useful_mods/party2.png width:200 height:100 align:center}"
 		""
 		"{@pagebreak}"
@@ -844,7 +1125,7 @@
 		""
 		"It uses a subnet with a high priority storage bus on the router which makes sure that the item going to the center always gets sent there."
 		""
-		"&6for this to work you need to have the item going to the apparatus first in the pattern (top left slot) which is usually the default recipe that gets imported in the pattern config terminal.&r"
+		"&6For this to work you need to have the item going to the apparatus first in the pattern (top left slot) which is usually the default recipe that gets imported in the pattern config terminal.&r"
 		""
 		"&6block or lock mode is required for this setup. &r"
 		""
@@ -854,6 +1135,18 @@
 		"{image:kubejs:textures/quest_images/ars_nouveau/enchanting_apparatus_auto.png width:100 height:150 align:center}"
 	]
 	quest.4055D1BC0E7E2C21.title: "Auto Enchanter"
+	quest.40FF3CEA25F2CB54.quest_desc: [
+		"The pressure chamber the centerpiece of pnc,"
+		""
+		"Not only does it allow you to make compressed iron at a 1:1 ratio unlike explosive compression, but also allows you to make various useful components needed in this mod."
+		""
+		"Granted you didn't go the villager route in which case you don't need it at all...."
+		""
+		"The chamber comes in 3 sizes 3x3x3 4x4x4 and 5x5x5."
+		""
+		"You can replace any blocks in the walls with valves and ports or windows or pressure chamber interfaces &4except for the outer edges and corners.&r"
+	]
+	quest.40FF3CEA25F2CB54.title: "pressure chamber"
 	quest.41B3A0FD5859D510.quest_desc: [
 		"The amethyst golem is a creature that will go around harvesting fully grown amethyst normally they will break the buds however in a claimed area they won't break them, but will still harvest them making them work significantly faster."
 		""
@@ -862,7 +1155,7 @@
 	quest.4364D54A37B97D40.quest_desc: [
 		"Resource generation is vital for this type of Modpacks."
 		""
-		"More important, without these we will not achieve our goal, even worse, fall into the pit of &cdespair&r..."
+		"More importantly, without these we will not achieve our goal, even worse, fall into the pit of &cdespair&r..."
 		""
 		"But don't fret yet, we have &l&d3&r of the best mods to generate those materials easily and without much effort, so to speak."
 		""
@@ -872,7 +1165,7 @@
 		""
 		"Which to choose early? I leave that up to &l&eyou&r my dearest player. We have plenty options that are recommended to achieve our goal quickly."
 	]
-	quest.4364D54A37B97D40.quest_subtitle: "no more manual resource collection!"
+	quest.4364D54A37B97D40.quest_subtitle: "No more manual resource collection!"
 	quest.4364D54A37B97D40.title: "&lResource Generation"
 	quest.44884F0AE8219EAB.quest_desc: ["The Arcane Pedestal is used to hold items for the essence crafting with the imbuement Chamber, for use with the Enchanting Apparatus. "]
 	quest.44D5D328F4A7375B.quest_desc: [
@@ -886,8 +1179,24 @@
 		""
 		"&aChisel Reborn&r mod was created by: &eSlaincow"
 	]
-	quest.44D5D328F4A7375B.quest_subtitle: "Cool Looking Blocks!"
+	quest.44D5D328F4A7375B.quest_subtitle: "Cool looking blocks!"
 	quest.44D5D328F4A7375B.title: "&l&cChisels"
+	quest.4611B03649489FE8.quest_desc: [
+		"If you want to make unassembled PCBs from empty PCBs you're going to have to etch them."
+		""
+		"To do this you are gonna need etching acid and an etching tank."
+		"(etching acid is made in the pressure chamber)"
+		""
+		"by default the etching tank does not consume any acid unless you heat it up."
+		""
+		"The hotter the etching tank is the faster it goes but then you also have to refill the acid."
+		""
+		"&e(failed PCBs can be recycled in a furnace)&r"
+		""
+		"&4(NOTE! whether you get a successful etch depends on the etch success chance the chance increase the longer you keep it in the light box)&r"
+	]
+	quest.4611B03649489FE8.quest_subtitle: "Fake vat of acid?"
+	quest.4611B03649489FE8.title: "Etching"
 	quest.4615D71D0264C714.quest_desc: [
 		"Resource generation tends to get out of hand quickly... Some mods do &eingots&r instantly and others give &braw ores&r."
 		""
@@ -909,6 +1218,22 @@
 	quest.4615D71D0264C714.title: "&l&7Iron Furnaces"
 	quest.4821A8015B2F5FA1.quest_desc: ["One of the 4 chalks used in rituals."]
 	quest.48A0DC661D3F37C7.quest_desc: ["Alternatively candles can be made with wax or comb from bees "]
+	quest.495DE286325A307B.quest_desc: [
+		"This multiblock allows you to make advanced pressure tubes and allows you to make empty PCBs a lot easier without the whole light box and etching steps."
+		""
+		"These are all the blocks you need to make a fully functional assembly setup"
+		""
+		"The assembly platform goes in the center."
+		""
+		"The laser and drill have to be touching the assembly station diagonals do not count."
+		""
+		"IO can go in a 3x3 centered on the assembly platform, these will export and import to any inv within a 3x3 centered on themselves this can be a chest or it can be for example a interface."
+		""
+		"Lastly the controller can go anywhere as long as it's touching the rest of the multiblock, this is where you feed pressure and put in your program."
+		""
+		"&4(NOTE! all blocks have to be touching)&r"
+	]
+	quest.495DE286325A307B.title: "Assembly line"
 	quest.49EF86015BB0874E.quest_desc: [
 		"In this &l&9Modpack&r, we have plenty of tools to work on, but there is one or may I say '&nmultiple&r' tools of the same type."
 		""
@@ -918,8 +1243,22 @@
 		""
 		"They all work the same, but have different models/textures."
 	]
-	quest.49EF86015BB0874E.quest_subtitle: "no joke!"
+	quest.49EF86015BB0874E.quest_subtitle: "No joke!"
 	quest.49EF86015BB0874E.title: "&lThe Most Useful of All Tools"
+	quest.4A0234D2BEB10B56.quest_desc: [
+		"These compressors are the upgraded version of the basic version and a new compressor (flux compressor)"
+		"These will generate up to 20 bars of pressure and will do so at great speed when upgraded. Do note that these compressors do generate heat and lose efficiency the hotter they get so a cooling solution is a must."
+		""
+		"Cooling usually comes in the form of either heat sinks or heatsinks with air blowing over them using an air grate."
+	]
+	quest.4AB6901D51226E1B.quest_desc: [
+		"For those who want to do things the hard way"
+		""
+		"Heat will only be transferred to full blocks; heat pipes will only transfer heat from full blocks like machines, compressed iron and heat sinks; they will not connect to liquids for this you need compressed iron."
+	]
+	quest.4AB6901D51226E1B.quest_subtitle: "Don't say i didn't warn you"
+	quest.4AB6901D51226E1B.title: "Heat 103"
+	quest.4B59110691340891.quest_desc: ["primarily used in  the different components for the assembly multiblocks"]
 	quest.4B80401F8F05318D.quest_desc: [
 		"One of the &lmost&r needed things around technological mods is the energy."
 		""
@@ -952,9 +1291,6 @@
 		""
 		"Automatic repair of the miner lamp can be done with something capable of reading durability like integrated dynamics."
 	]
-	quest.4BF589FF795C4125.quest_desc: ["Now this is even better, 32768&rFE/t is a really good amount of FE generation to sustain a large &adigital storage&r!"]
-	quest.4BF589FF795C4125.quest_subtitle: "Almost There!"
-	quest.4BF589FF795C4125.title: "&l&1Advanced Solar Panel"
 	quest.4C1C8F2BD7478657.quest_desc: [
 		"Honestly, after i found out about this mod i stopped using stairs... Don't judge me! After you try these blocks out, you'll know what i mean."
 		""
@@ -976,14 +1312,23 @@
 	quest.4C1C8F2BD7478657.title: "&l&aElevators"
 	quest.4C3233E2F465F5C7.quest_desc: ["One of the 4 chalks used in rituals"]
 	quest.4C3233E2F465F5C7.quest_subtitle: "its Gold"
-	quest.4CDF67A932172054.quest_desc: [
-		"We might've ran into some issues crafting these solar panels, but we finally done it..."
+	quest.4C88E4FACA72A4A0.quest_subtitle: "IT'S ALIVE!"
+	quest.4C89C5F7446C15CD.quest_desc: [
+		"If you haven't already found some as dungeon loot or \"relocated\" a pnc villager to trade with you can make this compressed iron by blowing up iron with tnt."
 		""
-		"              &4262144FE&r/t at last."
+		"Be aware that there will be some losses during this process"
+		""
+		"Both ingots or blocks works for this"
 	]
-	quest.4CDF67A932172054.quest_subtitle: "Unlimited Power..."
-	quest.4CDF67A932172054.title: "&l&5Ultimate Solar Panel"
+	quest.4C89C5F7446C15CD.quest_subtitle: "Explosivo"
+	quest.4C89C5F7446C15CD.title: "Under Pressure"
 	quest.4DA0BC20061D0D9A.quest_desc: ["Where the lamp does its work"]
+	quest.4E23B188C32FFAE5.quest_desc: [
+		"If there is still something you are wondering about that isn't covered in the quests there is always the book."
+		""
+		"If you have the book in your inventory you can hold ctrl over an item to go directly to its page"
+	]
+	quest.4E23B188C32FFAE5.quest_subtitle: "BookWorm"
 	quest.4E27F22442362105.quest_desc: ["Used to Store Source will keep its stored Source if broken and moved."]
 	quest.4EB2763EB94E73AB.quest_desc: [
 		"This pickaxe is required in order to be able to mine Iesnium."
@@ -991,12 +1336,21 @@
 		"Your regular hallucinations just aren't enough anymore."
 	]
 	quest.4EB2763EB94E73AB.title: "Fragile extraction"
+	quest.4FCD069CFF4FA112.quest_desc: [
+		"A programmable drone, this drone can do anything the other drones can and more can be programmed in the programming station and can even run multiple programs with the external program widget and network api"
+		""
+		""
+		"&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+	]
+	quest.4FCD069CFF4FA112.quest_subtitle: "versatile machinery"
+	quest.51A04C8539DD3226.quest_desc: ["These are primarily used in PCBs and can be gotten from the trader, dungeons or be made in the pressure chamber."]
+	quest.51A04C8539DD3226.title: "Electronics"
 	quest.53B3F4366891C8E4.quest_desc: [
 		"We got a variety of mods to store our &eitems&r and &bfluids&r, but we might resort on doing a bunch of chests in most cases..."
 		""
 		"&6Functional Storage&r and &6Sophisticated Storage&r mods are our way to go in those cases!"
 		""
-		"- &aFunctional Storage&r drawers are really good. So good that they can store quite a lot of &eitems&r in them and also &bfluids&r. A single 1x1 drawer can hold up to &b2048&r items in total, but if we upgrade them, they can hold even &lmore&r and they can &0void&r items with it's void upgrade. Same thing applies to the fluid drawers. And theres other types of upgrades for us to try."
+		"- &aFunctional Storage&r drawers are really good. So good that they can store quite a lot of &eitems&r in them and also &bfluids&r. A single 1x1 drawer can hold up to &b2048&r items in total, but if we upgrade them, they can hold even &lmore&r and they can &0void&r items with it's void upgrade. Same thing applies to the fluid drawers. And there's other types of upgrades for us to try."
 		""
 		"- &bSophisticated Storage&r barrels and chests are incredibly good too. We can upgrade them from &l&6Copper&f/&7Iron&r tiers to &5Netherite&r tier for more slots! And we can add some upgrades to them to store more items, void specific items, compact certain items and more!"
 		""
@@ -1013,7 +1367,7 @@
 		""
 		"We will talk about the wonderful &l&7magnets&r this mod brings."
 		""
-		"The magnets will 'attract' any item in it's range! The basic level has a range of &65x5x5&r and the advanced level has a range of &611x11x11&r."
+		"The magnets will 'attract' any item in its range! The basic level has a range of &65x5x5&r and the advanced level has a range of &611x11x11&r."
 		""
 		"To activate them, simply do rmb to make them work."
 		""
@@ -1023,6 +1377,7 @@
 	]
 	quest.540545114AE23AD9.quest_subtitle: "doesn't attract love... :c"
 	quest.540545114AE23AD9.title: "&l&5Simple Magnets"
+	quest.54A1827B28374C2A.quest_desc: ["The result of extracting a spawner with the spawner extractor used in the pressurized spawner"]
 	quest.551E66F2334C99EE.quest_desc: ["Used for auto crafting and auto brewing see book for more info."]
 	quest.55E80745788D5977.quest_desc: [
 		"The Starbuncle is capable of gathering items on the ground and harvesting berries."
@@ -1043,11 +1398,11 @@
 		""
 		"It would be great to transfer stuff &l&dwirelessly&r and through dimensions. But of course, we have plenty of options for that!"
 		""
-		"- &aMekanism&r adds the &6Quantum Entangloporter&r for this task, you can create multiple channels inside it's GUI to divide which channel transfers what. It can transfer &eItems&r, &bFluids&r, &2Gasses&r and &cEnergy&r wirelessly. It can also move these between dimensions."
+		"- &aMekanism&r adds the &6Quantum Entangloporter&r for this task, you can create multiple channels inside its GUI to divide which channel transfers what. It can transfer &eItems&r, &bFluids&r, &2Gasses&r and &cEnergy&r wirelessly. It can also move these between dimensions."
 		""
 		"- &5Powah!&r can also move &l&cEnergy&r wirelessly, however, it needs a complete and different setup to move this energy wirelessly. I suggest you check out the Powah! Questline!"
 		""
-		"- &3Dimensional Storage&r does what it's name says, it moves &l&eItems&r and &l&bFluids&r wirelessly. You only need 2 of each on both sides to move these around. Inside it's GUI it will tell you it's &lfrequency&r, which can be changed to move other types of items and fluids without using the same frequency for everything! Perfect for multiple setups."
+		"- &3Dimensional Storage&r does what its name says, it moves &l&eItems&r and &l&bFluids&r wirelessly. You only need 2 of each on both sides to move these around. Inside its GUI it will tell you it's &lfrequency&r, which can be changed to move other types of items and fluids without using the same frequency for everything! Perfect for multiple setups."
 		"{@pagebreak}"
 		"We also have quite a few other mods that help with this wireless mess."
 		""
@@ -1055,6 +1410,30 @@
 	]
 	quest.563E95F9315B21CA.quest_subtitle: "no need for a storage system"
 	quest.563E95F9315B21CA.title: "&lWireless Transfer"
+	quest.56FA78391A94AFE6.quest_desc: ["made in the assembly multiblock and allows you to handle 20 bars the highest the mod has to offer."]
+	quest.56FA78391A94AFE6.quest_subtitle: "20 Bar"
+	quest.5767DCAD635EB0D5.quest_desc: ["Your first successfully etched PCB all that's missing is the electronics."]
+	quest.5767DCAD635EB0D5.title: "PCB base"
+	quest.57B389A6B2961AC0.quest_desc: [
+		"Drones are a useful and powerful tool that can do a wide variety of tasks."
+		""
+		"all drones can either be made or traded from the pnc villiger."
+		""
+		"All drones will charge at chargers nearby with the dispenser upgrade, this is visualized by the helipad that's added to the model."
+		""
+		"note that all drones have health and can be killed."
+		""
+		"&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+	]
+	quest.57B389A6B2961AC0.title: "Drones"
+	quest.5847A76DAFC0F4C2.quest_desc: ["Powerful sensor that's capable of reading a large variety of different states in the world as well as wireless redstone."]
+	quest.5847A76DAFC0F4C2.quest_subtitle: "I see you"
+	quest.594A88E613C554B4.quest_desc: [
+		"This chest is capable of a wide variety of tasks like pulling and pushing, locking slots to a specific item, locking slots to a specific amount of items, vacuuming, dropping items, and will hold as many stacks as you set it to."
+		""
+		"For how to set slots see the chest GUI on slot interaction on the left side."
+	]
+	quest.594A88E613C554B4.quest_subtitle: "The chest that does it all"
 	quest.5A83782E4EB80DB5.quest_desc: [
 		"The Spiritual Guide book is both a keeper of knowledge and a tool to bind spirits to your binding books."
 		""
@@ -1062,12 +1441,18 @@
 	]
 	quest.5A83782E4EB80DB5.quest_subtitle: "Forbidden knowledge"
 	quest.5A83782E4EB80DB5.title: "Spiritual Guide"
+	quest.5C98018C9726E9D7.quest_desc: [
+		"Oil can be found around the world you have probably spotted these spouts around the maps these can be harvested to get your oil"
+		""
+		"alternatively you can use a fluid laser drill from industrial foregoings to get a infinite supply see Industrial foregoings quest"
+	]
+	quest.5C98018C9726E9D7.quest_subtitle: "Black gold"
 	quest.5CD80EF9FD85D823.quest_desc: [
 		"The mod &6Simple Magnets&r not only adds magnets... It also adds a very useful block to prevent us from picking blocks on it's range with any magnet!"
 		""
-		"And by any magnet I say every single magnet avaible in this modpack!"
+		"And by any magnet I say every single magnet available in this modpack!"
 		""
-		"The &eBasic Demagnetization Coil&r might have a very small range, but don't let it trick you, any item thats inside it's range will not be attracted to you. Perfect for mob farms, auto seed farms and more."
+		"The &eBasic Demagnetization Coil&r might have a very small range, but don't let it trick you, any item that's inside its range will not be attracted to you. Perfect for mob farms, auto seed farms and more."
 		""
 		"Mod created by: &bSuperMartijn642"
 	]
@@ -1081,18 +1466,6 @@
 	quest.5D6F17D952C6BAEB.title: "strange metal"
 	quest.5E01C4D06EB98F26.quest_desc: ["This block acts like a terminal and can be placed anywhere to allow you to access your network."]
 	quest.5E01C4D06EB98F26.title: "terminals"
-	quest.5E635799470EEF47.quest_desc: [
-		"Welcome to &eSolar Generation&r mod where our main objective is generating energy... from the &6&lSUN&r!"
-		""
-		"This incredible mod adds &d7&r new solar panels that need quite a lot of materials to generate lots of energy."
-		""
-		"These generators will recieve the daily those of &cUV&r rays we are supposed to recieve... But, why do everything manually when we can actually use a machine for it?"
-		""
-		"I recommend you start any &aresource&r &egeneration&r mod to craft all of these solar panels."
-		""
-		"Mod created by: &63divad99"
-	]
-	quest.5E635799470EEF47.title: "&l&6Solar Generation"
 	quest.5F29A3544EF83EDC.quest_desc: [
 		"The Mod &l&aBuilding Gadgets&r will aid on your task of building!"
 		""
@@ -1116,6 +1489,19 @@
 	]
 	quest.5F29A3544EF83EDC.quest_subtitle: "Building, but easy"
 	quest.5F29A3544EF83EDC.title: "&b&lBuilding Gadgets"
+	quest.5F3191014DED156F.quest_desc: [
+		"Upgrades are used to augment your machines and generally make them better."
+		""
+		"Starting off the most important upgrade of all the security upgrade"
+		""
+		"This upgrade will make sure your machine doesn't explode in case you put too much pressure through the system."
+		""
+		"You can see which upgrades you can put in the machine and what they do in the GUI on the left side and when you hover over the upgrade you can see which machines take it."
+		""
+		"&4(NOTE! This upgrade is not invisible and if your machine is significantly over its rated pressure when you relog or unload and reload a chunk the machine will still explode. As long as the machine stays loaded it's practically impossible to blow it up with this upgrade installed)&r "
+	]
+	quest.5F3191014DED156F.quest_subtitle: "Safety first"
+	quest.5F3191014DED156F.title: "Upgrades"
 	quest.5F4141ED4F80C8B6.quest_desc: [
 		"Components for chalk"
 		""
@@ -1144,7 +1530,6 @@
 	]
 	quest.604CB2266FDF4098.quest_subtitle: "Teleportation at it's finest"
 	quest.604CB2266FDF4098.title: "&l&dEnderIO"
-	quest.6069D3860B38504C.title: "Solar Helmet &l&1V6"
 	quest.610462533974587C.quest_desc: ["This section will explain how you may automate your forbidden arts"]
 	quest.610462533974587C.quest_subtitle: "For those allergic to manual labor"
 	quest.610462533974587C.title: "Autocrafting"
@@ -1161,16 +1546,16 @@
 		""
 		"Mod created by: &2MinecraftEinstein"
 	]
-	quest.613B94C20D7E7072.quest_subtitle: "watch out for that tree..."
+	quest.613B94C20D7E7072.quest_subtitle: "Watch out for that tree..."
 	quest.613B94C20D7E7072.title: "&l&aUseful Slime"
 	quest.619DAE1E67930A91.quest_desc: [
-		"We have to admit one thing, travelling through dimensions sometimes might be annoying."
+		"We have to admit one thing, traveling through dimensions sometimes might be annoying."
 		""
 		"But what if used that stone for them waystones to travel through these worlds..."
 		""
 		"Wait... we actually can! One thing that was decided, was disabling the experience cost for the &dwaystones&r mod. By using the &6warp stone&r you will be shown all of the waystones you've activated throughout your adventure, simplifying our travels through dimensions."
 		""
-		"Once used, it's durability will deplete... But it will not dissapear! Instead it will take a bit of time to charge it's energy back so we can use it again and again."
+		"Once used, its durability will deplete... But it will not dissapear! Instead it will take a bit of time to charge its energy back so we can use it again and again."
 		""
 		"Literally a waystone, but portable."
 		""
@@ -1191,14 +1576,6 @@
 	]
 	quest.622DB8CA3BE8663C.quest_subtitle: "A Gameboy, but for storage"
 	quest.622DB8CA3BE8663C.title: "&l&5Pocket Storage"
-	quest.62F972854AA43136.quest_desc: [
-		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
-		""
-		"Solar Generation Questline made by: &aRadz&8Ratz&r"
-		""
-		"If you are seeing this, it means you are in editing mode."
-	]
-	quest.62F972854AA43136.title: "&l&4Catalyst Studios Quests"
 	quest.639CBD91D151E14B.quest_desc: ["Will add more possible bound inventories to a storage lectern check book for more information on bookwyrm and storage lectern."]
 	quest.64185463F33F5F35.quest_desc: [
 		"White Chalk the most basic and fundamental of the 4 functional chalks."
@@ -1226,7 +1603,6 @@
 	]
 	quest.642651867EA91259.quest_subtitle: "easier than vanilla"
 	quest.642651867EA91259.title: "&lEasy Villagers"
-	quest.64363D9756720A6B.title: "Solar Helmtet &l&eV3"
 	quest.648EA810839EEB7F.quest_desc: [
 		"If you want to do rituals containing red runes you need to fight afrit"
 		""
@@ -1257,7 +1633,7 @@
 		""
 		"We need energy to use these amazing tools, so go ahead and find a way to generate it!"
 		""
-		"This mod adds 3 different tiers, which are recommended if you are planning on staying with this mod to mine and clear big areas. We can also upgrade these gadgets with multiple 'augments' that requiere quite a lot of mats, but they are incredibly useful on the long run."
+		"This mod adds 3 different tiers, which are recommended if you are planning on staying with this mod to mine and clear big areas. We can also upgrade these gadgets with multiple 'augments' that require quite a lot of mats, but they are incredibly useful on the long run."
 		""
 		"The upgrades comes in various forms like; &l&d3x3/5x5/7x7&r radious upgrade, &l&0void&r upgrade, &l&asilk touch&r upgrade, &6&lfortune&r upgrade and plenty of others. So make sure to check them out!"
 		""
@@ -1274,7 +1650,7 @@
 		""
 		"These new tools will grant us the ability to mine &l&d3x3&r areas without any effort!"
 		""
-		"Mod Created by; &6Block_Legend001"
+		"Mod Created by: &6Block_Legend001"
 	]
 	quest.6547327236A3C8E1.quest_subtitle: "No mo' annoying dirt!"
 	quest.6547327236A3C8E1.title: "&l&dOnly Excavators"
@@ -1325,6 +1701,8 @@
 	]
 	quest.678FF7F7514DDAC4.quest_subtitle: "Latent source"
 	quest.678FF7F7514DDAC4.title: "Magical conversion"
+	quest.679E61DE9A872F6B.quest_desc: ["Used to upgrade modules on pipes to increase speed or control"]
+	quest.679E61DE9A872F6B.quest_subtitle: "Just how i want it"
 	quest.68C25AACF9C16819.quest_desc: [
 		"Villagers always find a way to &8&msteal&r &lmake us&r buy from them..."
 		""
@@ -1381,22 +1759,29 @@
 	]
 	quest.6B5295ABF1D7D71D.quest_subtitle: "Disenchanting at it's finest!"
 	quest.6B5295ABF1D7D71D.title: "&5&lDis-Enchanting Table"
-	quest.6CBD797B715195F9.quest_desc: [
-		"Being our very first solar panel it... will not generate an enormous amount of FE..."
+	quest.6C7CE3884A3A134B.quest_desc: [
+		"The refinery is a multiblock that can have up to 4 refinery outputs."
 		""
-		"                      &4&lBUT!&r"
+		"Place down the controller and ideally 4 outputs on top."
 		""
-		"The further we dig into this mod the energy generation will become better, i promise."
+		"The refinery only requires heat to operate, make sure to cover the open sides with thermal lagging so you don't lose all the heat."
 		""
-		"Somthing important to note, is that the transfer rate will be much higher than the generation rate."
-		""
-		"Another thing to remember, is that these solar panels have an internal energy buffer, which is recommended to leave while it generates more energy!"
-		""
-		"And more important, it needs a clear view of the sun."
+		"&e(any block will work as thermal lagging but they are neater and you can interact with the machine behind them.)&r"
+		" "
 	]
-	quest.6CBD797B715195F9.quest_subtitle: "The Beginning"
-	quest.6CBD797B715195F9.title: "&lLeadstone Solar Panel"
-	quest.6D36292892EA5781.title: "Solar Helmet &l&7V2"
+	quest.6CA72FFE06D0D4A2.quest_desc: [
+		"IF and PNC plastic has been unified this means you can use plastic instead which is way faster and easier to make."
+		""
+		"Plastic is used in various components and blocks in pnc like circuit boards and various machines "
+	]
+	quest.6CA72FFE06D0D4A2.quest_subtitle: "Shortcut"
+	quest.6DA978E4D7B0B5F6.quest_desc: ["Upgraded vacuum pump this pump is a pipe module and will be able to handle as much pressure as the pipe its place onto you can further upgrade the pump with a module expansion card"]
+	quest.6E01662992FF940F.quest_desc: [
+		"You could of course use your handy bucket or a Mekanism tank in bucket mode to collect the oil  but you can also use the gas lift to collect it for you."
+		""
+		"Place it above the reservoir and give it drill pipes and pressure and it should start drilling for oil."
+	]
+	quest.6E01662992FF940F.quest_subtitle: "Turmoil"
 	quest.6E829868DFC46DB8.quest_desc: [
 		"The spirit fire can be automated simply by putting a chute, open crate, or formation plane subnetwork on the side of your pattern provider and an item collector to bring the  items back."
 		""
@@ -1411,29 +1796,36 @@
 		""
 		"for more info on function and upgrading see dictionary of spirits."
 	]
-	quest.6F365DC5EC358354.title: "Solar Helmet &l&3V5"
+	quest.705D0129508997FA.quest_desc: ["Used in plastic production."]
 	quest.70D11E8D3C62E581.quest_desc: [
 		"The Dominion Wand is used for connecting Source Relays together and to give commands to the forest creatures you so kindly enslaved to do your bidding."
 		""
 		"First right click on relay or creature then right click wherever you want it to send/deposit its items/source"
 	]
 	quest.70D11E8D3C62E581.quest_subtitle: "Simon Says"
-	quest.72E024F538AAFA84.quest_desc: [
-		"Before we can start crafting all of our solar panels we need some materials first."
+	quest.7103EE7A674278B7.quest_subtitle: "Moonshine"
+	quest.736D9DEE0F3E836C.quest_desc: [
+		"As mentioned earlier the heatsink is useful for getting rid of heat/cold but for some application even the normal heat sink isn't enough to get rid of all the heat &5(looking at you flux compressor)&r"
 		""
-		"For the first tier of solar panels, &lLeadstone&r Tier, we'll need &9lapis&r for our &dphotovoltaic&r cells, &4redstone&r dust and a &7leadstone&r core to assemble the whole thing!"
-		""
-		"Keep in mind that the very first tier of solar panels need the mentioned materials, where the other solar panels require &n&a8&r solar panels of the &n&cpast&r tier and their respective &n&5core&r. "
-		""
-		"And to upgrade the solar cores we need the past tier core as well."
+		"For applications such as these you can add an air grate to blow air over the sink which will greatly increase its cooling capacity."
 	]
-	quest.72E024F538AAFA84.title: "Needed Items"
+	quest.736D9DEE0F3E836C.quest_subtitle: "Toasty"
+	quest.736D9DEE0F3E836C.title: "heat 102"
+	quest.746ABCD05A10E15A.quest_desc: [
+		"Works similarly to the normal drones excluding a few features see book."
+		""
+		"The benefit of these is they do not require a charger like a regular drone and can be fed directly from a line and the drone is not an actual entity and just a visual representation so no pathfinding involved."
+		""
+		"Will run programs on network apis or drones placed inside it."
+		""
+		"Contains chunk loading capabilities for itself and its drone."
+	]
 	quest.75566B910945A58D.quest_desc: [
 		"Every single time I read and say the name &dEnderIO&r it brings me back so many good memories..."
 		""
 		"This mod is one of the classics by excellence."
 		""
-		"&lEnderIO&r mod adds a lot of new machines and stuff for us to unravel, but theres one item thats so coveted amongts it's many items... And thats the &6Staff of Travelling&r."
+		"&lEnderIO&r mod adds a lot of new machines and stuff for us to unravel, but there's one item that's so coveted amongst its many items... And that's the &6Staff of Travelling&r."
 		""
 		"This staff let's you travel short distances by only using it, but if we combine it with the &aTravel Anchors&r, we can teleport throughout our base in one of the easiest ways possible."
 		""
@@ -1468,7 +1860,7 @@
 	quest.77E4F1F6EEB85DBA.quest_desc: [
 		"In this quest section, we will talk about &ecertain&f modded items for you to achieve your goal."
 		""
-		"And by useful, i mean in terms where you can achieve difficult yet tedious tasks in an easier way."
+		"And by useful, I mean in terms where you can achieve difficult yet tedious tasks in an easier way."
 		""
 		"We got plenty of &l&aIncredible&f&r mods to talk about, so let us begin!"
 	]
@@ -1491,7 +1883,19 @@
 	]
 	quest.7855BF00C8A4A7F2.quest_subtitle: "In a dire need for equipment?"
 	quest.7855BF00C8A4A7F2.title: "&l&1Just Dire Things"
+	quest.78F4BD64456FAC4A.quest_desc: ["Used in the creation of bio diesel only requires pressure "]
 	quest.7903FA4DBF99A4D6.quest_desc: ["More robust version of the infused pickaxe"]
+	quest.795FB25F7FE3F03C.quest_desc: [
+		"The pressure gauge is used to regulate the pressure in your system."
+		"These pipe modules will output a redstone signal based on how much pressure is in the system."
+		""
+		"if you are running compressores that burn fuel you want to stop them before they reach the desired pressure since there is some lag between you giving the stop signal and it actually stopping"
+		""
+		"if you are burning tiny coal a good point to stop is around 6-7 redstone level (6-7 long redstone line alternatively a block that outputs at a specific redstone level)"
+		""
+		"Later on you will be able to set these up as you want when you can upgrade them with module expansion cards but until then they will be at redstone level 0 at 0 bar and redstone level 15 at 8 bar."
+	]
+	quest.795FB25F7FE3F03C.quest_subtitle: "pressure regulation"
 	quest.7ACE109B69EDE436.quest_desc: [
 		"The Demon`s Dream Fruit is essential for starting off occultism."
 		""
@@ -1508,11 +1912,11 @@
 		""
 		"Need a portable &5Smithing Table&r for the time you find ancient debri and smithing templates? No problem!"
 		""
-		"&e&lNote&r: The anvil on a stick will act as a normal an anvil and it will get damaged."
+		"&e&lNote&r: The anvil on a stick will act as a normal anvil and it will get damaged."
 		""
 		"Mod created by: &2OfekN_"
 	]
-	quest.7BE6E09B682F621E.quest_subtitle: "no more crafting on a block"
+	quest.7BE6E09B682F621E.quest_subtitle: "No more crafting on a block"
 	quest.7BE6E09B682F621E.title: "&l&6Crafting on a Stick"
 	quest.7C5CDB6AFDD1BA91.quest_desc: [
 		"The mod &6Utilitarian&r adds a lot of blocks for us to craft and try."
@@ -1529,12 +1933,28 @@
 	]
 	quest.7C5CDB6AFDD1BA91.quest_subtitle: "The word 'Useful' but in a mod"
 	quest.7C5CDB6AFDD1BA91.title: "&l&6Utilitarian"
+	quest.7CC7197C575FF980.quest_desc: [
+		"When using the refinery you are going to be creating byproducts that you don't really need for much; these can all be turned into lpg granted at a 20% loss per step."
+		""
+		"This is done in the thermopneumatic processing plant."
+	]
 	quest.7D9A534A53DB60E2.quest_desc: [
 		"If you don't already have all the different saplings you can make them using another sapling and a manipulation essence."
 		""
 		"Sadly this cannot be done for the fruits"
 	]
 	quest.7D9A534A53DB60E2.title: "Transmutation"
+	quest.7E4F9C92570A846E.quest_desc: [
+		"This suit can be upgraded and allows a wide variety of abilities."
+		""
+		"The suit is generally considered on par with the Mek suit and is relatively easy to make(and doesn't lag nearly as much)."
+		""
+		"See charger GUI and click arrow over charge slot for info on upgrades."
+		""
+		"For auto charging of armor see aerial interface quest"
+	]
+	quest.7E4F9C92570A846E.quest_subtitle: "“Genius, Billionaire, Playboy, Philanthropist.”"
+	quest.7E4F9C92570A846E.title: "Iron man"
 	quest.7E8ACAFE301CF54C.quest_desc: [
 		"The source gem is a cornerstone resource in ars and is used in most things in some way or another."
 		""
@@ -1547,11 +1967,11 @@
 		""
 		"And here's where &6Sophisticated Backpacks&r mod comes into play!"
 		""
-		"With this amazing mod we can now store all that loot and keep our inventory clean in case have want to separate other goodies..."
+		"With this amazing mod we can now store all that loot and keep our inventory clean in case we want to separate other goodies..."
 		""
 		"The best part or the 2 best things about this mod is that 1 - we can change our backpack's &6c&ao&bl&2o&cr&3s&r and 2 - we can upgrade them to &dnetherite&r tier."
 		""
-		"But another cool feature about these backpacks, is that we can add upgrades to store more items, we can use our backpack as a magnet, an auto feeder upgrade and more!"
+		"But another cool feature about these backpacks is that we can add upgrades to store more items, we can use our backpack as a magnet, an auto feeder upgrade and more!"
 		""
 		"Mod created by: &dP3pp3rF1y"
 	]
@@ -1560,12 +1980,11 @@
 	task.05001251EFC0420F.title: "Click if you agree"
 	task.060E3DA4CBADE3A5.title: "Can it be done?"
 	task.0AE87F3B61FE986E.title: "&6Rechiseled&r mod was created by: &bSuperMartijn642&r"
+	task.0D92D306CDD4B4FF.title: "tooltips"
 	task.0FB415644DDFE671.title: "Click Here if you want OP stuff"
 	task.10A460C2DED7364D.title: "What have i done.."
 	task.10F64B1DF8F5EAEB.title: "Welcome"
 	task.111AAFA4BDCD1C7C.title: "Any Wrench"
-	task.1DDB30F15F7C098D.title: "Harness the power of the &6&lsun"
-	task.1E564EB1A21CA8FC.title: "Click if you agree"
 	task.2697C0ACC15CD67E.title: "Don't forget about these!"
 	task.2BA2DDA7A593DB10.title: "Any Tiny (Char)Coal"
 	task.2BC517B8D6DB8E58.title: "Any Sleeping Bag"
@@ -1579,6 +1998,7 @@
 	task.43CB1C4E1E8F0D33.title: "Build that spaghetti!"
 	task.4B95D6163A48C9E4.title: "Any Elevator"
 	task.4EC999DC78E9CD60.title: "Mod created by: &6Soaryn"
+	task.4FB02AD64754C89A.title: "Oil Cracking"
 	task.525E3F6850DF6FB5.title: "&lClick Me! I dare you!"
 	task.542A0A5934FF7AE3.title: "Any #curios:crafting_on_a_stick"
 	task.5E3DB1BC6B461008.title: "Mod created by: &aBlayTheNinth"
@@ -1586,3 +2006,4 @@
 	task.73F2DC67AACAE16C.title: "Mod created by: &bSuperMartijn642"
 	task.76EE390FF80FA6E2.title: "&aChisel Reborn&r mod was created by: &eSlaincow"
 }
+

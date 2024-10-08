@@ -1,10 +1,2295 @@
 {
+	autofocus_id: "66E5109719D45653"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "evilcraft"
 	group: "7DB43C7557896446"
+	hide_quest_details_until_startable: true
+	hide_quest_until_deps_complete: true
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "evilcraft:dark_gem"
+	}
 	id: "79AD8C81D25E35E2"
+	images: [
+		{
+			dependency: "181DFA60A3F29580"
+			height: 2.0d
+			image: "evilcraft:block/blood_stain_0"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.5d
+			y: -11.0d
+		}
+		{
+			color: 4850178
+			dependency: "348C191492897716"
+			height: 3.0d
+			image: "integrateddynamics:valuetype/long"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			color: 4850178
+			dependency: "348C191492897716"
+			height: 3.0d
+			image: "integrateddynamics:valuetype/long"
+			order: 1
+			rotation: 45.0d
+			width: 3.0d
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			color: 4719361
+			dependency: "16359AA62D3FE75B"
+			height: 2.5d
+			image: "integrateddynamics:valuetype/named"
+			order: 1
+			rotation: 0.0d
+			width: 2.5d
+			x: 19.5d
+			y: -13.0d
+		}
+		{
+			color: 6881028
+			dependency: "610C7735CF3C7BF5"
+			height: 2.75d
+			image: "ftbquests:tasks/input_only"
+			order: 1
+			rotation: 45.0d
+			width: 2.75d
+			x: 30.0d
+			y: -17.5d
+		}
+		{
+			color: 6881028
+			dependency: "610C7735CF3C7BF5"
+			height: 2.75d
+			image: "ftbquests:tasks/input_only"
+			order: 1
+			rotation: 0.0d
+			width: 2.75d
+			x: 30.0d
+			y: -17.5d
+		}
+		{
+			dependency: "610C7735CF3C7BF5"
+			height: 2.25d
+			image: "chipped:block/black_glazed_terracotta/black_glazed_terracotta_smooth_tiles"
+			order: 1
+			rotation: 45.0d
+			width: 2.25d
+			x: 30.0d
+			y: -17.5d
+		}
+		{
+			dependency: "610C7735CF3C7BF5"
+			height: 2.25d
+			image: "chipped:block/black_glazed_terracotta/black_glazed_terracotta_smooth_tiles"
+			order: 1
+			rotation: 0.0d
+			width: 2.25d
+			x: 30.0d
+			y: -17.5d
+		}
+		{
+			dependency: "76890D74EE32B4CF"
+			height: 5.0d
+			image: "catalyst:textures/quest_images/evilcraft/evilcraft_quest_logo_oly.png"
+			order: 2
+			rotation: 0.0d
+			width: 20.0d
+			x: 12.5d
+			y: -16.0d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: -16.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.0d
+			y: -16.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.0d
+			y: -16.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.0d
+			y: -16.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 22.0d
+			y: -16.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.0d
+			y: -12.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 22.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 22.0d
+			y: -20.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 22.0d
+			y: -24.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 22.0d
+			y: -28.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.0d
+			y: -28.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 30.0d
+			y: -28.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 34.0d
+			y: -28.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 30.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 34.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 38.0d
+			y: -0.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 38.0d
+			y: -4.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 38.0d
+			y: -8.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.0d
+			y: -16.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 38.0d
+			y: -12.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 38.0d
+			y: -16.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 38.0d
+			y: -20.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 38.0d
+			y: -24.5d
+		}
+		{
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 38.0d
+			y: -28.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 34.0d
+			y: -4.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 30.0d
+			y: -4.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.0d
+			y: -4.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 22.0d
+			y: -4.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.0d
+			y: -4.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.0d
+			y: -4.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: -8.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: -12.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.0d
+			y: -8.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.0d
+			y: -12.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.0d
+			y: -12.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.0d
+			y: -8.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 22.0d
+			y: -12.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 22.0d
+			y: -8.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.0d
+			y: -8.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.0d
+			y: -12.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.0d
+			y: -8.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 30.0d
+			y: -8.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 34.0d
+			y: -8.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 34.0d
+			y: -12.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 34.0d
+			y: -16.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 34.0d
+			y: -20.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 34.0d
+			y: -24.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 30.0d
+			y: -24.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.0d
+			y: -24.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.0d
+			y: -12.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.0d
+			y: -16.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.0d
+			y: -20.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 30.0d
+			y: -12.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 30.0d
+			y: -20.5d
+		}
+		{
+			color: 0
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 30.0d
+			y: -16.5d
+		}
+		{
+			dependency: "75719D26D5D57A77"
+			height: 3.0d
+			image: "evilcraft:item/necromancer_staff"
+			rotation: -45.0d
+			width: 3.0d
+			x: 30.0d
+			y: -24.5d
+		}
+		{
+			dependency: "75719D26D5D57A77"
+			height: 3.0d
+			image: "evilcraft:item/mace_of_destruction"
+			rotation: -45.0d
+			width: 3.0d
+			x: 34.0d
+			y: -23.0d
+		}
+		{
+			dependency: "75719D26D5D57A77"
+			height: 3.0d
+			image: "evilcraft:item/mace_of_distortion"
+			rotation: -45.0d
+			width: 3.0d
+			x: 26.5d
+			y: -23.0d
+		}
+		{
+			dependency: "470B3C3DBE33EBEE"
+			height: 3.0d
+			image: "evilcraft:item/flesh_rejuvenated"
+			rotation: 0.0d
+			width: 3.0d
+			x: 34.0d
+			y: -4.5d
+		}
+		{
+			dependency: "2ABDA47F00454485"
+			height: 3.0d
+			image: "evilcraft:item/piercing_vengeance_focus"
+			rotation: 0.0d
+			width: 3.0d
+			x: 26.0d
+			y: -11.5d
+		}
+		{
+			dependency: "0FB79B7ACDEDBA93"
+			height: 3.0d
+			image: "evilcraft:item/exalted_crafter"
+			rotation: 0.0d
+			width: 3.0d
+			x: 33.5d
+			y: -11.5d
+		}
+		{
+			dependency: "3BEA955788837733"
+			height: 2.0d
+			image: "evilcraft:item/blook"
+			rotation: 0.0d
+			width: 2.0d
+			x: 11.5d
+			y: -13.0d
+		}
+		{
+			dependency: "3BEA955788837733"
+			height: 3.0d
+			image: "evilcraft:block/purifier_top"
+			rotation: 0.0d
+			width: 3.0d
+			x: 11.5d
+			y: -13.0d
+		}
+		{
+			dependency: "369F69559064623C"
+			height: 3.0d
+			image: "evilcraft:item/biome_extract"
+			rotation: 0.0d
+			width: 3.0d
+			x: 26.0d
+			y: -4.5d
+		}
+		{
+			dependency: "295B9BC524CA6E40"
+			height: 3.0d
+			image: "evilcraft:item/burning_gem_stone"
+			rotation: 0.0d
+			width: 3.0d
+			x: 18.0d
+			y: -4.0d
+		}
+		{
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.0d
+			y: -20.5d
+		}
+		{
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.0d
+			y: -24.5d
+		}
+		{
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.0d
+			y: -28.5d
+		}
+		{
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.0d
+			y: -28.5d
+		}
+		{
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.0d
+			y: -28.5d
+		}
+		{
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: -28.5d
+		}
+		{
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_blood_brick_on"
+			order: 1
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.0d
+			y: -28.5d
+		}
+		{
+			color: 0
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: -24.5d
+		}
+		{
+			color: 0
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.0d
+			y: -24.5d
+		}
+		{
+			color: 0
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.0d
+			y: -24.5d
+		}
+		{
+			color: 0
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.0d
+			y: -24.5d
+		}
+		{
+			color: 0
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: -20.5d
+		}
+		{
+			color: 0
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 10.0d
+			y: -20.5d
+		}
+		{
+			color: 0
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 14.0d
+			y: -20.5d
+		}
+		{
+			color: 0
+			dependency: "06FD532ABD84C9EA"
+			height: 5.0d
+			image: "evilcraft:block/dark_inventory"
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.0d
+			y: -20.5d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			icon: {
+				id: "evilcraft:flesh_humanoid"
+			}
+			id: "76890D74EE32B4CF"
+			rewards: [{
+				id: "7A674CE2C97D547D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "5D0957728FA7D785"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["76890D74EE32B4CF"]
+			id: "4B9C8F1028E7BAEB"
+			rewards: [
+				{
+					id: "6B750438390C8343"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "623A27020EE5AD5D"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "54E3C3AE402C71DC"
+				item: { count: 3, id: "evilcraft:dark_gem" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["4B9C8F1028E7BAEB"]
+			hide_dependency_lines: false
+			id: "4C1A7052ABFCCF72"
+			optional: true
+			rewards: [{
+				id: "3306D52000073D74"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "663D05DEF9CB5C9F"
+				item: { count: 1, id: "evilcraft:origins_of_darkness" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["4B9C8F1028E7BAEB"]
+			id: "181DFA60A3F29580"
+			rewards: [
+				{
+					id: "3DF1EA2A9F058DE6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "117774F43932B7AE"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "688390F923E6FEB8"
+				item: { count: 1, id: "evilcraft:blood_extractor" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["4B9C8F1028E7BAEB"]
+			id: "0A691F71CA79DCB0"
+			rewards: [
+				{
+					id: "6FF20D979BE17CED"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "12C6F99D456215E5"
+					item: {
+						components: {
+							"cyclopscore:capacity": 16000
+						}
+						count: 1
+						id: "evilcraft:dark_tank"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6223F681A5CC1A61"
+				item: { components: { "cyclopscore:capacity": 16000 }, count: 1, id: "evilcraft:dark_tank" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["181DFA60A3F29580"]
+			hide_dependency_lines: true
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: true
+			id: "47C942BC0BD3D01E"
+			optional: true
+			rewards: [{
+				id: "0B9822A43509BC74"
+				type: "xp"
+				xp: 100
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "0E6C86F47586779B"
+				type: "checkmark"
+			}]
+			x: 4.75d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"47C942BC0BD3D01E"
+				"688390F923E6FEB8"
+			]
+			icon: {
+				id: "evilcraft:hardened_blood_shard"
+			}
+			id: "0AC4D069AEA88579"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "435C35E091EEDD2E"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+				{
+					id: "2278D7817D2DB223"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					id: "366EA700C0025E97"
+					item: { count: 1, id: "evilcraft:hardened_blood" }
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "53855F28639AEEE5"
+					item: { count: 9, id: "evilcraft:hardened_blood_shard" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0AC4D069AEA88579"]
+			id: "348C191492897716"
+			rewards: [
+				{
+					id: "1F2231482D2E6564"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3A733E0E43D112EC"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				count: 18L
+				id: "3D582F07F0EFB922"
+				item: { count: 1, id: "evilcraft:dark_power_gem" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["348C191492897716"]
+			id: "7D5439BA46732CEB"
+			rewards: [
+				{
+					id: "0946A4C504F0497A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1EDAB5DC2EC4436F"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "02E6EBFE8DB18B42"
+				item: { count: 1, id: "evilcraft:blood_infusion_core" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7D5439BA46732CEB"]
+			id: "725CAFF6779487BC"
+			rewards: [
+				{
+					id: "2E022B4B5BDF6AE6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2B9CAABCFBD9C939"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "5807403A369DE81A"
+				item: { count: 1, id: "evilcraft:blood_infuser" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["7D5439BA46732CEB"]
+			id: "2EBE89C376E89639"
+			rewards: [
+				{
+					id: "6E2287315EEA7BFB"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2EC3270A6EF19ED4"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "3F7CFBE1D4D24EB6"
+				item: { count: 1, id: "evilcraft:blood_chest" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2DF5FEC4EEC8EFA7"]
+			id: "7135BB6943B21402"
+			rewards: [
+				{
+					id: "7866331104425066"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34BB86607E933D91"
+					table_id: 3759069393806334981L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "63BD6D1338BCFCCA"
+					item: { count: 1, id: "evilcraft:colossal_blood_chest" }
+					type: "item"
+				}
+				{
+					count: 25L
+					id: "3F4CF53AE2EC2507"
+					item: { count: 25, id: "evilcraft:reinforced_undead_planks" }
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1A4A8AB28AEE3D91"]
+			icon: {
+				id: "evilcraft:purifier"
+			}
+			id: "3BEA955788837733"
+			rewards: [
+				{
+					id: "4BE81C9AF4F086A0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0A91011C82808DB6"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "547C6085ADE6D239"
+					item: { count: 1, id: "evilcraft:purifier" }
+					type: "item"
+				}
+				{
+					id: "5FFE7A2604EF6E73"
+					item: { count: 1, id: "evilcraft:blook" }
+					type: "item"
+				}
+			]
+			x: 11.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["27E705A8E21A5236"]
+			id: "1A4A8AB28AEE3D91"
+			rewards: [{
+				id: "54B3D26ED9E17F7A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7AB1809940B4B69B"
+				item: { components: { "minecraft:enchantments": { levels: { "evilcraft:vengeance": 3, "minecraft:fortune": 5 } } }, count: 1, id: "evilcraft:vengeance_pickaxe" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["725CAFF6779487BC"]
+			id: "27E705A8E21A5236"
+			rewards: [
+				{
+					id: "37C894945A1EF77D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7987239BA7A3F4EC"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "4A3115A9521586C8"
+				item: { count: 1, id: "evilcraft:promise_tier_1" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["7D5439BA46732CEB"]
+			id: "6A4C0711EE98332C"
+			rewards: [
+				{
+					id: "28165F34F662EC46"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4B0DB7EC9EB709E6"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "3A3658BB7D304F42"
+				item: { count: 1, id: "evilcraft:invigorating_pendant" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["27E705A8E21A5236"]
+			id: "3A5E0A470630131E"
+			optional: true
+			rewards: [{
+				id: "6C3FAD1BE031BCC9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4E096513813E10DD"
+				item: { count: 1, id: "evilcraft:blood_waxed_coal" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["7D5439BA46732CEB"]
+			id: "6CA5C21D757AA820"
+			rewards: [
+				{
+					id: "48471899766C3C36"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "08D69ED6A4FC375C"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "332F68613AA50D92"
+				item: { count: 1, id: "evilcraft:vengeance_ring" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6CA5C21D757AA820"]
+			id: "54EFAC2D8A37689C"
+			rewards: [
+				{
+					id: "6882D4088461863B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7E8D8943D244C428"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "337B78F388379849"
+				item: { count: 1, id: "evilcraft:vengeance_focus" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["27E705A8E21A5236"]
+			id: "01948A35B9155A51"
+			tasks: [{
+				id: "131BAB153F11DA2F"
+				item: { count: 1, id: "evilcraft:blood_orb_filled" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["01948A35B9155A51"]
+			id: "7A3A78C25AC9D033"
+			optional: true
+			rewards: [
+				{
+					id: "538EEE17E2B880EF"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "074CB4DD654C6564"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "4AF004D6DD52C8E8"
+					item: { count: 1, id: "evilcraft:kineticator" }
+					type: "item"
+				}
+				{
+					id: "05A6B4174EADDD51"
+					item: { count: 1, id: "evilcraft:kineticator_repelling" }
+					type: "item"
+				}
+			]
+			x: 17.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2DF5FEC4EEC8EFA7"]
+			id: "53B435B6F12C773E"
+			optional: true
+			rewards: [
+				{
+					id: "283DD0A7D2281AF0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12ABF95ABD810CA6"
+					table_id: 3759069393806334981L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "083D56473CA65132"
+				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:bloody" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"01948A35B9155A51"
+				"337B78F388379849"
+			]
+			id: "62AE066A0F40D92D"
+			tasks: [{
+				id: "705538DA57DD9A8C"
+				item: { count: 1, id: "evilcraft:piercing_vengeance_focus" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["01948A35B9155A51"]
+			id: "1D97AF1C2B29F342"
+			optional: true
+			rewards: [
+				{
+					id: "3062B9D324F7F65D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "448BA482F4FB82C3"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "710E01231974EE7F"
+				item: { count: 1, id: "evilcraft:sceptre_of_thunder" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["27E705A8E21A5236"]
+			id: "2DF5FEC4EEC8EFA7"
+			rewards: [
+				{
+					id: "33ED1222FD70588F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3291F04D3828BAFA"
+					table_id: 3759069393806334981L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "6BE95154D4166AC5"
+				item: { count: 1, id: "evilcraft:promise_tier_2" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"4DC0C27803D50263"
+				"168EED6FD983AC79"
+			]
+			id: "2ABDA47F00454485"
+			tasks: [{
+				id: "10724FCDB0B62CAD"
+				item: { count: 1, id: "evilcraft:vengeance_essence" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: -10.0d
+		}
+		{
+			dependencies: [
+				"1AF45B00853ADE5F"
+				"77BC1DE1D0D6D03B"
+			]
+			icon: {
+				id: "evilcraft:spirit_furnace"
+			}
+			id: "16359AA62D3FE75B"
+			rewards: [
+				{
+					id: "5BA4D4C2F6E9DD21"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "21EFDCB64809EB12"
+					table_id: 3759069393806334981L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "344780D3F2AAD5A8"
+					item: { count: 1, id: "evilcraft:spirit_furnace" }
+					type: "item"
+				}
+				{
+					count: 25L
+					id: "2E1195919577A809"
+					item: { count: 1, id: "evilcraft:dark_blood_brick" }
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: -13.0d
+		}
+		{
+			dependencies: [
+				"705538DA57DD9A8C"
+				"2DF5FEC4EEC8EFA7"
+			]
+			id: "1AF45B00853ADE5F"
+			rewards: [
+				{
+					id: "76378441DEFFB467"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "198FB7FB2A07D774"
+					table_id: 3759069393806334981L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "020EDE1DC3657D4B"
+				item: { count: 1, id: "evilcraft:box_of_eternal_closure" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["2DF5FEC4EEC8EFA7"]
+			icon: {
+				id: "evilcraft:promise_efficiency_0"
+			}
+			id: "0E8C2C8D2D00843A"
+			rewards: [
+				{
+					id: "7CFDCDA3DA5A5FDE"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D5A5E5EE3879228"
+					table_id: 3759069393806334981L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "19591307AD9B3DDD"
+					item: { count: 1, id: "evilcraft:promise_efficiency_0" }
+					type: "item"
+				}
+				{
+					id: "5CFD2BDCCFFD4E19"
+					item: { count: 1, id: "evilcraft:promise_speed_0" }
+					type: "item"
+				}
+			]
+			x: 16.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["2DF5FEC4EEC8EFA7"]
+			id: "77BC1DE1D0D6D03B"
+			rewards: [
+				{
+					id: "2A7A11316FFE23D5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "28C522D6B7A8C828"
+					table_id: 3759069393806334981L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "1F0BA91B0EF43F16"
+				item: { count: 1, id: "evilcraft:spirit_reanimator" }
+				type: "item"
+			}]
+			x: 21.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["0E8C2C8D2D00843A"]
+			id: "4B3625968F4E4331"
+			rewards: [
+				{
+					id: "304405FC2DE8877E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2819879D8EF9263D"
+					table_id: 3759069393806334981L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "02BD6FD7F90B698E"
+				item: { count: 1, id: "evilcraft:effortless_ring" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["2DF5FEC4EEC8EFA7"]
+			id: "4DC0C27803D50263"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "1EFC6A7105D8553C"
+				item: { count: 1, id: "evilcraft:promise_tier_3" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["4DC0C27803D50263"]
+			id: "377ACEE73AB75017"
+			tasks: [{
+				id: "4C6183F5706FFA54"
+				item: { count: 1, id: "evilcraft:corrupted_tear" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"4DC0C27803D50263"
+				"2ABDA47F00454485"
+				"377ACEE73AB75017"
+			]
+			id: "7D6918148F7ABC42"
+			tasks: [{
+				id: "4437BD0126C8FD94"
+				item: { count: 1, id: "evilcraft:vengeance_essence_materialized" }
+				type: "item"
+			}]
+			x: 26.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["4437BD0126C8FD94"]
+			icon: {
+				id: "evilcraft:environmental_accumulator"
+			}
+			id: "5C5BF198EA21687B"
+			tasks: [{
+				id: "0FA390F4541F9D5D"
+				structure: "evilcraft:dark_temple"
+				type: "structure"
+			}]
+			x: 28.0d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"441A4E147ABA2ED2"
+				"5C5BF198EA21687B"
+			]
+			id: "46757A5368C5CA31"
+			tasks: [{
+				id: "093F75D9F21C9A1F"
+				item: { count: 1, id: "evilcraft:sanguinary_environmental_accumulator" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["7D6918148F7ABC42"]
+			id: "441A4E147ABA2ED2"
+			size: 2.0d
+			tasks: [{
+				id: "594951F795F0DC8A"
+				item: { count: 1, id: "evilcraft:garmonbozia" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["441A4E147ABA2ED2"]
+			id: "470B3C3DBE33EBEE"
+			tasks: [{
+				id: "1084EF10C86A452B"
+				item: { count: 1, id: "evilcraft:flesh_rejuvenated" }
+				type: "item"
+			}]
+			x: 33.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["75719D26D5D57A77"]
+			id: "054C46DA47654330"
+			tasks: [{
+				id: "560BEFCF99D1E451"
+				item: { count: 1, id: "evilcraft:mace_of_destruction" }
+				type: "item"
+			}]
+			x: 32.5d
+			y: -20.0d
+		}
+		{
+			dependencies: ["75719D26D5D57A77"]
+			id: "108009151EBF65B5"
+			tasks: [{
+				id: "599963445C8C403C"
+				item: { count: 1, id: "evilcraft:mace_of_distortion" }
+				type: "item"
+			}]
+			x: 27.5d
+			y: -20.0d
+		}
+		{
+			dependencies: ["441A4E147ABA2ED2"]
+			id: "737BD9A02ABD450F"
+			tasks: [{
+				id: "66A76195458E4DB5"
+				item: { count: 1, id: "evilcraft:primed_pendant" }
+				type: "item"
+			}]
+			x: 28.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["441A4E147ABA2ED2"]
+			id: "0120F94F0DB55575"
+			tasks: [{
+				id: "59422F1788E25E24"
+				item: { count: 1, id: "evilcraft:spectral_glasses" }
+				type: "item"
+			}]
+			x: 31.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["46757A5368C5CA31"]
+			id: "165A7D91617BACC0"
+			tasks: [{
+				id: "329273F723CFDDBC"
+				item: { components: { "evilcraft:weather_container_type": "EMPTY" }, count: 1, id: "evilcraft:weather_container" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["165A7D91617BACC0"]
+			id: "7509E3311610BE2B"
+			tasks: [{
+				id: "36BACDC7AB67734A"
+				item: { components: { "evilcraft:weather_container_type": "RAIN", "minecraft:rarity": "uncommon" }, count: 1, id: "evilcraft:weather_container" }
+				type: "item"
+			}]
+			x: 28.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["7509E3311610BE2B"]
+			id: "1E754D15134AC765"
+			tasks: [{
+				id: "30B13C8ED59D27DE"
+				item: { count: 1, id: "evilcraft:eternal_water" }
+				type: "item"
+			}]
+			x: 25.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["7509E3311610BE2B"]
+			id: "40B0C1E43904CCCF"
+			tasks: [{
+				id: "6E3DFA2475723509"
+				item: { count: 1, id: "evilcraft:bucket_eternal_water" }
+				type: "item"
+			}]
+			x: 27.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["165A7D91617BACC0"]
+			id: "21248F5410430924"
+			tasks: [{
+				id: "13DD798395231CB2"
+				item: { components: { "evilcraft:weather_container_type": "LIGHTNING", "minecraft:rarity": "rare" }, count: 1, id: "evilcraft:weather_container" }
+				type: "item"
+			}]
+			x: 31.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["21248F5410430924"]
+			id: "3B33254D6F3E43D4"
+			tasks: [{
+				id: "0B11D750BAE32009"
+				item: { count: 1, id: "evilcraft:lightning_grenade" }
+				type: "item"
+			}]
+			x: 33.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["21248F5410430924"]
+			id: "36CEA0406432C0DC"
+			tasks: [{
+				id: "786E63694688D4CC"
+				item: { count: 1, id: "evilcraft:lightning_bomb" }
+				type: "item"
+			}]
+			x: 35.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["165A7D91617BACC0"]
+			id: "45CEDE5DDED5ADC2"
+			tasks: [{
+				id: "463BD57E047D155F"
+				item: { components: { "evilcraft:weather_container_type": "CLEAR", "minecraft:rarity": "uncommon" }, count: 1, id: "evilcraft:weather_container" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["093F75D9F21C9A1F"]
+			id: "75719D26D5D57A77"
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "3772F1449E89EBC8"
+				item: { count: 1, id: "evilcraft:inverted_potentia_empowered" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -22.0d
+		}
+		{
+			dependencies: ["75719D26D5D57A77"]
+			id: "0D205F4DB23CF931"
+			tasks: [{
+				id: "0D123D9728104AE9"
+				item: { count: 1, id: "evilcraft:necromancer_staff" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -20.0d
+		}
+		{
+			dependencies: ["46757A5368C5CA31"]
+			id: "369F69559064623C"
+			tasks: [{
+				id: "54DC829AE76941FC"
+				item: { count: 1, id: "evilcraft:biome_extract" }
+				type: "item"
+			}]
+			x: 32.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["1EFC6A7105D8553C"]
+			id: "168EED6FD983AC79"
+			rewards: [{
+				id: "7A965D4AD30BD740"
+				type: "xp"
+				xp: 100
+			}]
+			size: 0.5d
+			tasks: [{
+				id: "645038420FE49C0A"
+				type: "checkmark"
+			}]
+			x: 23.0d
+			y: -10.75d
+		}
+		{
+			dependencies: ["377ACEE73AB75017"]
+			id: "1A50F92606009C54"
+			tasks: [{
+				count: 2L
+				id: "2E0CC1323EDC274F"
+				item: { components: { "evilcraft:world_shared_tank_id": "creative" }, count: 1, id: "evilcraft:entangled_chalice" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["725CAFF6779487BC"]
+			id: "70DB2794CED4718C"
+			rewards: [
+				{
+					id: "0FB476F0409371E4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51B848B079BB091F"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "7D6A756C41EDD2DE"
+				item: { count: 1, id: "evilcraft:undead_sapling" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["70DB2794CED4718C"]
+			id: "7C25C9EA04C8FB96"
+			rewards: [
+				{
+					id: "12D327B1A91FDF49"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C6C70776A3C4D7E"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "358C6FEC57B08DAE"
+				item: { count: 1, id: "evilcraft:sanguinary_pedestal_0" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["348C191492897716"]
+			id: "522CADC3ADB94B74"
+			rewards: [
+				{
+					id: "4F85CD3322365E80"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0FA65AE4FB09F496"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "7AA54C3CB21E14E3"
+				item: { count: 1, id: "evilcraft:blood_pearl_of_teleportation" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"0D123D9728104AE9"
+				"1084EF10C86A452B"
+				"594951F795F0DC8A"
+			]
+			id: "610C7735CF3C7BF5"
+			rewards: [{
+				id: "6E1045D5C10EF25F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			size: 2.5d
+			tasks: [{
+				id: "351E125A64B2539A"
+				item: { count: 1, id: "kubejs:spirit_agglomeratio" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -17.5d
+		}
+		{
+			dependencies: ["470B3C3DBE33EBEE"]
+			id: "5571630621763AA6"
+			size: 0.5d
+			tasks: [{
+				id: "467CAFDA51DC3CEB"
+				type: "checkmark"
+			}]
+			x: 33.75d
+			y: -8.0d
+		}
+		{
+			dependencies: ["348C191492897716"]
+			icon: {
+				id: "evilcraft:exalted_crafter"
+			}
+			id: "7AB09B6B6E9206C4"
+			rewards: [
+				{
+					id: "487FDF56438CAC25"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "23492CE6646EC66D"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "4C16ECE209685FC4"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:exaltedcrafter/tier/1)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["46757A5368C5CA31"]
+			icon: {
+				id: "evilcraft:exalted_crafter_empowered"
+			}
+			id: "0FB79B7ACDEDBA93"
+			rewards: [{
+				id: "291E371AD48A8022"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6E08378CF30A85D7"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:exaltedcrafter/tier/2)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"688390F923E6FEB8"
+				"6223F681A5CC1A61"
+			]
+			icon: {
+				id: "evilcraft:broom"
+			}
+			id: "7F6E4C605AD3DC95"
+			rewards: [
+				{
+					id: "4E745340112C4A3B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6302ADEC446B970F"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "4F0E5D021BF33526"
+					item: { components: { "evilcraft:broom_parts": ["evilcraft:rod_bare"] }, count: 1, id: "evilcraft:broom_part" }
+					type: "item"
+				}
+				{
+					id: "3161B4E1CF752950"
+					item: { components: { "evilcraft:broom_parts": ["evilcraft:cap_bare"] }, count: 1, id: "evilcraft:broom_part" }
+					type: "item"
+				}
+				{
+					id: "28EDD55F049ABE67"
+					item: { components: { "evilcraft:broom_parts": ["evilcraft:brush_bare"] }, count: 1, id: "evilcraft:broom_part" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["4B9C8F1028E7BAEB"]
+			id: "295B9BC524CA6E40"
+			rewards: [
+				{
+					id: "3CBFAB2BDD05CC0D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "73E2D88913D0D11C"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "7B529E3AF2AF779A"
+				item: { count: 1, id: "evilcraft:burning_gem_stone" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["348C191492897716"]
+			id: "7D75C832762D3851"
+			rewards: [
+				{
+					id: "7485A261B0AC476F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "52AC21B708BD927E"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "40D1C206D1D1D9D0"
+				item: { components: { "minecraft:enchantments": { levels: { "minecraft:looting": 2 } } }, count: 1, id: "evilcraft:vein_sword" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "pneumaticcraft:textures/gui/icon/gui_warning.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1CFF013971504D07"
+			invisible: true
+			optional: true
+			tasks: [{
+				id: "700020154C829964"
+				type: "checkmark"
+			}]
+			x: 14.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["610C7735CF3C7BF5"]
+			hide_dependency_lines: true
+			id: "06FD532ABD84C9EA"
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "0B932951174CCC89"
+				item: { count: 1, id: "evilcraft:spirit_portal" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["06FD532ABD84C9EA"]
+			id: "2FE1CD6DDFDF2F31"
+			rewards: [{
+				id: "2B8573ADD90DD52F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "pentagon"
+			size: 3.0d
+			tasks: [{
+				id: "1F0D4BE3FB33A6E9"
+				item: { components: { "cyclopscore:fluid_content": { amount: 1000, id: "evilcraft:blood" } }, count: 1, id: "evilcraft:creative_blood_drop" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: -22.5d
+		}
+		{
+			dependencies: ["2DF5FEC4EEC8EFA7"]
+			id: "1675C8DEA382FCA1"
+			tasks: [{
+				id: "0BCA0E08D4752E8C"
+				item: { count: 1, id: "evilcraft:potentia_sphere" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: -10.5d
+		}
+	]
 }

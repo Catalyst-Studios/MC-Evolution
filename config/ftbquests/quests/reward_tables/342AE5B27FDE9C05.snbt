@@ -1,0 +1,42 @@
+{
+	id: "342AE5B27FDE9C05"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 5
+			item: {
+				count: 1
+				id: "evilcraft:dark_gem"
+			}
+			weight: 1.5f
+		}
+		{
+			count: 3
+			item: {
+				count: 1
+				id: "evilcraft:dark_power_gem"
+			}
+			weight: 1.25f
+		}
+		{
+			count: 7
+			item: {
+				count: 1
+				id: "evilcraft:dark_blood_brick"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "evilcraft:box_of_eternal_closure"
+			}
+			weight: 0.8f
+		}
+		{ count: 6, item: { count: 1, id: "evilcraft:reinforced_undead_planks" } }
+		{ item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:dark_gem" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }, weight: 0.3f }
+		{ item: { components: { "cyclopscore:capacity": 16000, "cyclopscore:fluid_content": { amount: 16000, id: "evilcraft:blood" } }, count: 1, id: "evilcraft:dark_tank" }, weight: 0.9f }
+	]
+}

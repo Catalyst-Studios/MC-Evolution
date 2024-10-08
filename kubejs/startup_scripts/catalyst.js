@@ -8,4 +8,5 @@ StartupEvents.registry('item', catalyst => {
     catalyst.create('magic_catalyst').displayName('Magic Catalyst').texture('catalyst:item/magic_catalyst')
     catalyst.create('tiny_charcoal').burnTime(200)
     catalyst.create('tiny_coal').burnTime(200)
+    catalyst.create('spirit_agglomeratio').displayName('Entangled Spirit Agglomeratio').texture('catalyst:item/spirit_agglomeratio')
 })

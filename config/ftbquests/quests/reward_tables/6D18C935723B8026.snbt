@@ -1,0 +1,59 @@
+{
+	id: "6D18C935723B8026"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: { count: 1, id: "evilcraft:dark_gem" }, weight: 1.5f }
+		{ count: 2, item: { count: 1, id: "evilcraft:dark_gem" } }
+		{
+			count: 3
+			item: {
+				count: 1
+				id: "evilcraft:dark_gem"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 5
+			item: {
+				count: 1
+				id: "evilcraft:dark_gem"
+			}
+			weight: 0.05f
+		}
+		{
+			count: 3
+			item: {
+				count: 1
+				id: "evilcraft:undead_sapling"
+			}
+			weight: 0.75f
+		}
+		{
+			count: 5
+			item: {
+				count: 1
+				id: "evilcraft:dark_power_gem"
+			}
+			weight: 0.03f
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "evilcraft:blood_infusion_core"
+			}
+			weight: 0.02f
+		}
+		{ item: { components: { "cyclopscore:capacity": 16000 }, count: 1, id: "evilcraft:dark_tank" }, weight: 0.96f }
+		{
+			count: 4
+			item: {
+				count: 1
+				id: "evilcraft:hardened_blood_shard"
+			}
+			weight: 1.26f
+		}
+		{ item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:dark_gem" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }, weight: 0.01f }
+	]
+}

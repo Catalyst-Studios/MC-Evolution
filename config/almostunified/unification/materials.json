@@ -4,7 +4,8 @@
     "kubejs",
     "mekanism",
     "railcraft",
-    "forcecraft"
+    "forcecraft",
+    "immersiveengineering"
   ],
   "priority_overrides": {},
   "stone_variants": [

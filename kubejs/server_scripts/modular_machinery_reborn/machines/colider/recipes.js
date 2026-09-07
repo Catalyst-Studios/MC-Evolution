@@ -4002,6 +4002,24 @@ ServerEvents.recipes(catalyst => {
             fluid_input: [{ id: 'pastel:midnight_solution', count: 10000, chance: 1.0 }],
             fluid_output: [],
             energy_out: 0
+        },
+        {
+            time: 600,
+            energy: 1000000,
+            outputs: [
+                { id: 'minecraft:spawner', count: 1, chance: 1.0 }
+            ],
+            inputs: [
+                { id: 'apotheosis:spawner_chain', count: 32, chance: 1.0 },
+                { id: 'eternalores:modularium_ingot', count: 64, chance: 1.0 },
+                { id: 'apotheosis:godforged_pearl', count: 320, chance: 1.0 },
+                { id: 'eternalores:sculkite_ingot', count: 64, chance: 1.0 },
+                { id: 'apotheosis:gem_dust', count: 256, chance: 1.0 },
+                { id: 'apotheosis:god_fused_pearl', count: 4, chance: 1.0 }
+            ],
+            fluid_input: [{ id: "hephaestus:molten_amethyst", count: 10000, chance: 1.0 }],
+            fluid_output: [],
+            energy_out: 10000
         }
     ];
 

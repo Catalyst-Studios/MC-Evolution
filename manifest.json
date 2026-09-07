@@ -15,6 +15,16 @@
   "author": "CatalystStudios",
   "files": [
     {
+      "fileID": 8780182,
+      "projectID": 1466331,
+      "required": true
+    },
+    {
+      "fileID": 8812965,
+      "projectID": 1486746,
+      "required": true
+    },
+    {
       "fileID": 7546938,
       "projectID": 335493,
       "required": true
@@ -62,6 +72,11 @@
     {
       "fileID": 8673712,
       "projectID": 297209,
+      "required": true
+    },
+    {
+      "fileID": 6635493,
+      "projectID": 252910,
       "required": true
     },
     {

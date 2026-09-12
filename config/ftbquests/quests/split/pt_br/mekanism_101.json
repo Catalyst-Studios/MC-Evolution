@@ -1,0 +1,389 @@
+{
+    "quest.01B44B93CB2A52ED.quest_desc": [
+        "[{\"text\":\"Bem-vindo\",\"color\":\"#FF55FF\"},{\"text\":\" ao \",\"color\":\"#FFFFFF\"},{\"text\":\"Mekanism\",\"color\":\"#55FF55\"},{\"text\":\", um \",\"color\":\"#FFFFFF\"},{\"text\":\"mod\",\"color\":\"#9553e0\"},{\"text\":\" sobre \",\"color\":\"#FFFFFF\"},{\"text\":\"tudo \",\"color\":\"#FFFFFF\",\"obfuscated\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"Energia, Armazenamento, Fábricas, Armaduras, Desastres Nucleares, ...\"}}}]",
+        "",
+        "Neste &dmod&r, sua missão é expandir sua &afábrica&r!",
+        "",
+        "[{\"text\":\"Existem \",\"color\":\"#FFFFFF\"},{\"text\":\"vários\",\"color\":\"#FFAA00\"},{\"text\":\" caminhos que você pode \",\"color\":\"#FFFFFF\"},{\"text\":\"seguir\",\"color\":\"#f9ff54\"},{\"text\":\" para fazer isso, mas você terá que lidar com um \",\"color\":\"#FFFFFF\"},{\"text\":\"desastre\",\"color\":\"#FF55FF\"},{\"text\":\" \",\"color\":\"#FFFFFF\"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"}]"
+    ],
+    "quest.01B44B93CB2A52ED.quest_subtitle": "Geração de Powah",
+    "quest.0209C80BAC1B7D62.quest_desc": [
+        "Isso é &aútil&r com o &eMinerador&r &bDigital&r se você quiser evitar buracos &bvazios&r no chão (o que pode &creduzir&r o &anascimento&r de criaturas)"
+    ],
+    "quest.026BC7F25AAF107D.quest_desc": [
+        "Outro &dnível&r, você precisará de alguns &bdiamantes&r para progredir.",
+        "",
+        "Você &adeve&r procurar gerar &bdiamantes&r, como &eusando&r algumas &dsementes&r ou &6abelhas&r ;)"
+    ],
+    "quest.026BC7F25AAF107D.quest_subtitle": "Eu sou &9azul&r ....",
+    "quest.03DE539ACCBB0BFA.quest_desc": [
+        "Produz alguma &aenergia&r a partir de &clava&r.",
+        "",
+        "Você pode &4encharcar de lava&r (semelhante a &bencharcar de água&r) esta &dmáquina&r para obter ainda mais &aenergia&r do seu balde de &clava&r"
+    ],
+    "quest.03DE539ACCBB0BFA.quest_subtitle": "Alimentado por &cLava&r",
+    "quest.04767C8AEFF2E6B8.quest_desc": [
+        "Seu primeiro &acircuito&r, capaz de fazer algumas &emáquinas&r e &dmelhorias&r!",
+        "",
+        "Você precisará de um pouco de &credstone&r e algumas &bbarras&r de &bosmium&r.",
+        "",
+        "[ { \"text\": \"Dê uma olhada nesta missão aqui!\", \"underlined\": true,\"color\":\"#fffc4d\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"768CEB709FDFAF1F\" } } ]"
+    ],
+    "quest.04767C8AEFF2E6B8.quest_subtitle": "Primeira vez, BT",
+    "quest.050FD0FD25FB652B.quest_desc": [
+        "&bDiamantes&r são geralmente um dos materiais &dmais&r usados em qualquer &amod&r, então você &dprovavelmente&r vai querer ter muitas &dfazendas&r ou aumentar a &a&neficiência&r!",
+        "",
+        "1 &bdiamante&r se transforma em 8 &bdiamantes&r por &6infusão&r!"
+    ],
+    "quest.050FD0FD25FB652B.quest_subtitle": "Outro x8?",
+    "quest.0922550FAAE06AD9.quest_desc": [
+        "Primeiro nível de energia &6solar&r, e é um &bbom&r começo para este &amod&r e outros.",
+        "",
+        "Preciso &ddizer&r que eles &cnão&r funcionam durante a &enoite&r?"
+    ],
+    "quest.0922550FAAE06AD9.quest_subtitle": "Energia solar",
+    "quest.0AA2F1EDDCA7808C.quest_desc": [
+        "Não exatamente &duniversais&r, mas quase.",
+        "",
+        "Estes &acabos&r têm algumas &ecoisas&r particulares que você deve lembrar:",
+        "",
+        "- Mais &acabos&r &dconectados&r, mais &6capacidade&r eles têm",
+        "",
+        "- Eles podem mover mais &benergia&r por tique se você &6conectar&r mais cabos",
+        "",
+        "Eles são bem &dbaratos&r e fornecem funções &bmelhores&r do que outros cabos &ebásicos&r de outros &amods&r"
+    ],
+    "quest.0AA2F1EDDCA7808C.quest_subtitle": "Cabo de &aenergia&r, não &ctoque&r",
+    "quest.0AE483A66A53A852.quest_desc": [
+        "Precisa de &abiocombustível&r para gerar 200 &6FE/t&r",
+        "",
+        "Eu &3recomendo&r que você use algumas fatias de &emelão&r e uma gaveta de &bcompactação&r"
+    ],
+    "quest.0AE483A66A53A852.quest_subtitle": "De sementes para &aenergia",
+    "quest.0BEF4D86A933CE47.quest_desc": [
+        "Este é &6quase&r um item &cobrigatório&r para &6usar&r, por causa da &equantidade&r usada em receitas.",
+        "",
+        "Neste &5nível&r, você usará muito &dobsidiana&r &5refinada&r, talvez seja hora de aumentar a &a&neficiência&r?"
+    ],
+    "quest.0BEF4D86A933CE47.quest_subtitle": "mais um?",
+    "quest.0C1518E8ACA4B462.quest_desc": [
+        "Minera &dminérios&r para você.",
+        "",
+        "Precisa especificar uma ta&ag&r ou &eitem&r para minerar"
+    ],
+    "quest.0C1518E8ACA4B462.quest_subtitle": "Minerador",
+    "quest.0EFA5C6A4F54A33D.quest_desc": [
+        "Segundo &6circuito&r para a lista, desbloqueando algumas &dnovas&r &bmáquinas&r e o segundo &5nível&r de &aMekanism&r",
+        "",
+        "Cá entre nós, a &6receita&r de criação é muito &dmelhor&r que a outra &aalternativa&r!"
+    ],
+    "quest.0EFA5C6A4F54A33D.quest_subtitle": "Segundo Nível, MV",
+    "quest.101511A7211057CA.quest_desc": [
+        "Obtenha mais &etábuas&r para seus troncos.",
+        "",
+        "Ou mais pernas de &6frango&r...."
+    ],
+    "quest.101511A7211057CA.quest_subtitle": "Serraria, &caviso&r",
+    "quest.14878991CFDDC64D.quest_desc": [
+        "Ao contrário dos outros, este &bmaterial&r precisa do nível 3 para ser feito.",
+        "",
+        "Você precisará de um pouco de pó de &bdiamante&r e &dobsidiana&r para começar.",
+        "Mais tarde, você pode &6converter&r essa &dobsidiana&r &5refinada&r em um gás."
+    ],
+    "quest.14878991CFDDC64D.quest_subtitle": "A última?",
+    "quest.149709E58A23B4BE.quest_desc": [
+        "Funciona como uma ferramenta &eelétrica&r de um Paxel, e tem alguns modos &dinteressantes&r:",
+        "",
+        "- &cLento&r -> Funciona como uma ferramenta de &bdiamante&r",
+        "",
+        "- &6Normal&r -> Funciona como uma ferramenta de &bdiamante&r com &deficiência&r 2",
+        "",
+        "- &eRápido&r -> Funciona como uma ferramenta de &bdiamante&r com &deficiência&r 5",
+        "",
+        "- &7Desligado&r -> Não &6minera&r nem faz nada, mas você ainda pode &busá-lo&r como um machado para &catacar&r"
+    ],
+    "quest.149709E58A23B4BE.quest_subtitle": "Paxel elétrico",
+    "quest.14F0BAE920CD792C.quest_desc": [
+        "Transforma alguns &6minérios&r em sua forma &dfinal&r, como o minério de &credstone&r.",
+        "",
+        "Também &5permite&r que você &emelhore&r sua fábrica com a versão &denriquecida&r dos produtos químicos."
+    ],
+    "quest.14F0BAE920CD792C.quest_subtitle": "Processamento de minério mais rápido",
+    "quest.157B2B9583F18AB7.quest_desc": [
+        "&aTransportadores&r não têm um controle de &credstone&r embutido como os &eoutros&r, mas você pode &6trocá-los&r por este aqui.",
+        "",
+        "Eles têm a mesma &eprioridade&r, mas podem ser &bcontrolados&r por &credstone&r de qualquer lado.",
+        "",
+        "Para &dconfigurá-los&r, você precisaria de um &5Configurador&r e agachar e clicar com o botão direito com a opção &a&ncorreta&r."
+    ],
+    "quest.157B2B9583F18AB7.quest_subtitle": "&cControlado por Redstone&r",
+    "quest.18C0DACF162F84E7.quest_desc": [
+        "Basicamente, uma &7fornalha&r"
+    ],
+    "quest.18C0DACF162F84E7.quest_subtitle": "Fornalha",
+    "quest.190A7DE08C550C97.quest_desc": [
+        "Por favor, use outra coisa mais &dconfiável&r do que estes."
+    ],
+    "quest.19846B3A3240F6B9.quest_desc": [
+        "Adiciona 4 &dslots&r &amais&r para &bprocessar&r itens, uma capacidade de &aenergia&r &emaior&r e pode ter classificação &dautomática&r para &6equilibrar&r.",
+        "",
+        "Pode ser usado em &6máquinas&r que têm uma versão de &dfábrica&r."
+    ],
+    "quest.19846B3A3240F6B9.quest_subtitle": "Iniciando a fábrica",
+    "quest.1B70EA2CE277C30D.quest_desc": [
+        "Basicamente, você pode &amover&r quase tudo no &ejogo&r com estes.",
+        "",
+        "De uma bomba &anuclear&r chamada Reator &dDracônico&r a um Broto de Certus &bImpecável&r."
+    ],
+    "quest.1B70EA2CE277C30D.quest_subtitle": "Mover coisas",
+    "quest.1C8DEA9A74F3CB11.quest_desc": [
+        "Aumenta a &acapacidade&r de &denergia&r e reduz o &6uso&r de &aenergia&r"
+    ],
+    "quest.1C8DEA9A74F3CB11.quest_subtitle": "Painéis solares",
+    "quest.1CC0910D3314264C.quest_desc": [
+        "Bem, existem algumas &dmaneiras&r de obter suas &bprimeiras&r barras de aço.",
+        "",
+        "- Você pode obter 3 pós de &7aço&r usando 2 pós de ferro e 3 pós de carvão",
+        "",
+        "- Faça um &efundidor de ligas&r &aprimitivo&r para fazer 1 barra de ferro e 1 pó de carvão para 1 &7barra&r de &7aço&r.",
+        "",
+        "Mais tarde, você pode fazer algumas &dsementes&r ou &6abelhas&r para torná-los &bmais rápidos&r."
+    ],
+    "quest.1CC0910D3314264C.quest_subtitle": "A primeira liga?",
+    "quest.21840AA523363D90.quest_desc": [
+        "Apenas &areduza&r o som no menu de &dconfigurações&r.",
+        "",
+        "Há também um &balto-falante&r no seu &cinventário&r que faz o mesmo, mas para sons &6individuais&r"
+    ],
+    "quest.21840AA523363D90.quest_subtitle": "Sem música",
+    "quest.3405073B9E93AC70.quest_desc": [
+        "Esta é a sua &dprimeira&r forma de &atransportar&r &ccalor&r, mas não é muito &eeficiente&r.",
+        "",
+        "[{\"text\":\"Mas há uma maneira \",\"color\":\"#FFFFFF\"},{\"text\":\"mais simples\",\"color\":\"#18ffea\"},{\"text\":\" e melhor de \",\"color\":\"#FFFFFF\"},{\"text\":\"transportar\",\"color\":\"#FF55FF\"},{\"text\":\" calor, tocando! Os \",\"color\":\"#FFFFFF\"},{\"text\":\"multiblocos\",\"color\":\"#AA00AA\"},{\"text\":\" do \",\"color\":\"#FFFFFF\"},{\"text\":\"Mekanism\",\"color\":\"#55FF55\"},{\"text\":\" podem ter suas \",\"color\":\"#FFFFFF\"},{\"text\":\"entradas\",\"color\":\"#b1ff18\"},{\"text\":\" e \",\"color\":\"#FFFFFF\"},{\"text\":\"saídas\",\"color\":\"#ff186a\"},{\"text\":\" uma ao lado da outra, tendo 0 \",\"color\":\"#FFFFFF\"},{\"text\":\" perdas\",\"color\":\"#ff1818\",\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"Basicamente, você tem 100% de eficiência!\"}}}]"
+    ],
+    "quest.3405073B9E93AC70.quest_subtitle": "[{\"text\":\"Primeira\",\"color\":\"#FF55FF\"},{\"text\":\" lei da \",\"color\":\"#FFFFFF\"},{\"text\":\"termodinâmica\",\"color\":\"#18ff92\"}]",
+    "quest.34F729363576DB9C.quest_desc": [
+        "Você &lnão&r está autorizado a usar estas missões em nenhum modpack público sem &4&npermissão explícita&r do Catalyst Studios.",
+        "",
+        "Linha de missões do &aMekanism&r feita por: &bJonh&r&e09&r e &cTito&ep&c54&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.34F729363576DB9C.quest_subtitle": "Estas incríveis missões foram feitas para o &4Catalyst Studios&r",
+    "quest.34F729363576DB9C.title": "&l&4Missões do Catalyst Studios",
+    "quest.35DF9A15779E8AE4.quest_desc": [
+        "Esta é a ferramenta mais &dimportante&r do &emod&r, permitindo que você &binteraja&r com todos os tipos de &5máquinas&r e canos.",
+        "",
+        "Você não precisa de &aenergia&r para usá-la"
+    ],
+    "quest.35DF9A15779E8AE4.quest_subtitle": "Chave mestra",
+    "quest.38676DCAAC53414A.quest_desc": [
+        "Ele &dproduz&r o equivalente a 6 &6painéis&r &esolares&r de &aenergia&r, e custa apenas 4 &6painéis&r &esolares&r.",
+        "",
+        "Mas 7 &6painéis&r &esolares&r &eproduzem&r mais do que esta versão &bavançada&r.",
+        "",
+        "Se você colocar 4 &dpainéis&r &6solares&r &eavançados&r no topo de uma &5torre&r de &bevaporação&r &btérmica&r, você pode produzir um pouco de &ccalor&r, reduzindo o custo de &aenergia&r durante o dia"
+    ],
+    "quest.38676DCAAC53414A.quest_subtitle": "Pior versão?",
+    "quest.3934666E7A2FDD80.quest_desc": [
+        "Se você jogou &aMekanism&r antes da &61.21.1&r (esta versão), as &dreceitas&r mudaram um pouco.",
+        "",
+        "Agora, requer algumas &6barras de cobre&r e &credstone&r, o que o torna mais &5barato&r!"
+    ],
+    "quest.3934666E7A2FDD80.quest_subtitle": "Segundo da lista",
+    "quest.39525632F59E9C24.quest_desc": [
+        "Diferente de &dtubos&r ou &bcabos&r, eles têm uma velocidade &6fixa&r e não podem ir mais &arápido&r a menos que você os &5aprimore&r.",
+        "",
+        "Além disso, você não pode &econtrolar&r como os itens são &3enviados&r sem alguma ajuda externa, como com um &dSeparador Logístico&r.",
+        "",
+        "Se um &cinventário&r encher enquanto &eitens&r estão indo para lá, os itens &bvoltarão&r para o inventário original.",
+        "",
+        "Se esse &cinventário&r também estiver cheio ou &dnão puder&r ser acessado, bem, você terá &eitens&r circulando e se você &bquebrar&r esse &atransportador&r, terá &eitens&r no &5chão&r"
+    ],
+    "quest.39525632F59E9C24.quest_subtitle": "&eItens&r vão para todo lugar",
+    "quest.3BA8F117E4B326FC.quest_desc": [
+        "Funciona como uma &bpicareta&r, &amachado&r e &epá&r ao mesmo tempo"
+    ],
+    "quest.3BA8F117E4B326FC.quest_subtitle": "3 em 1",
+    "quest.3BFAB6A6C6AB3B2A.quest_desc": [
+        "Eles produzem &aenergia&r o &ddia&r todo, mas &5depende&r de onde você os coloca para &egerar&r &aenergia&r.",
+        "",
+        "Se você os &acolocar&r no &5fundo&r do mundo, eles produzem &cmenos&r do que se você os &6colocar&r no &dtopo&r"
+    ],
+    "quest.3BFAB6A6C6AB3B2A.quest_subtitle": "O nível Y",
+    "quest.3D49AD0E6EE75487.quest_desc": [
+        "Esta é &bprovavelmente&r a &asegunda&r melhor ferramenta do mod.",
+        "",
+        "Ela permite que você &capague&r &9fluidos&r e &dquímicos&r de uma &bmáquina&r que sofreu um pequeno acidente :p",
+        "",
+        "&cNão&r remove &dquímicos&r relacionados a &anuclear&r"
+    ],
+    "quest.3D49AD0E6EE75487.quest_subtitle": "A segunda ferramenta",
+    "quest.3DBAA257C46638CA.quest_desc": [
+        "Copia &dconfigurações&r de uma &amáquina&r para outra. Precisa ser a mesma &dmáquina&r (ou &5níveis&r superiores)"
+    ],
+    "quest.3DBAA257C46638CA.quest_subtitle": "Copiar e colar",
+    "quest.42D3909E8BE7B719.quest_desc": [
+        "Este é o &6famoso&r poder do &amelão&r.",
+        "",
+        "Precisa de um pouco de &dEteno&r (anteriormente conhecido como &dEtileno&r) para produzir muita &aenergia&r, o suficiente até você conseguir um reator de &efissão&r ou algo &amais&r poderoso"
+    ],
+    "quest.42D3909E8BE7B719.quest_subtitle": "Poder do melão",
+    "quest.431DDAD227FF3809.quest_desc": [
+        "Eles podem &earmazenar&r muita &aenergia&r em um único bloco, e têm entrada &bilimitada&r, mas têm alguns problemas.",
+        "",
+        "A saída de &aenergia&r é &dlimitada&r (baseada no nível), a menos que você &6use&r um &amod&r como o &cSuper Factory&r Manager.",
+        "",
+        "Outra &6solução&r é usar &amúltiplos&r &dlados&r para saída e &dapenas um&r lado para entrada se você não quiser aprender &6outro&r mod"
+    ],
+    "quest.431DDAD227FF3809.quest_subtitle": "Bateria do Powah",
+    "quest.4B61203AA93F9E46.quest_desc": [
+        "Você pode mover uma quantidade &dinsana&r de produtos químicos como ácido &esulfúrico&r ou alguma lama &6suja&r.",
+        "",
+        "Como &acabos&r ou &bcanos&r, mais tubos = melhor"
+    ],
+    "quest.4B61203AA93F9E46.quest_subtitle": "&dQuímicos&r!!!",
+    "quest.4D3922AE72FBECC7.quest_desc": [
+        "Adiciona mais 8 &despaços&r para &bprocessar&r itens, uma capacidade de &aenergia&r &emaior&r e pode ter organização &dautomática&r para &6equilibrar&r. Este é o último &5nível&r.",
+        "",
+        "Pode ser usado em &6máquinas&r que têm uma versão de &dfábrica&r"
+    ],
+    "quest.4D3922AE72FBECC7.quest_subtitle": "EV desbloqueado, potência total",
+    "quest.4DB20110D20F250B.quest_desc": [
+        "Combine alguns &emateriais&r (como &dcatalisador&r) com outros &6materiais&r para obter mais!",
+        "",
+        "Isso é útil ao fazer &aHNN&r"
+    ],
+    "quest.4DB20110D20F250B.quest_subtitle": "Combinador automático",
+    "quest.4E07AA67AC4C3929.quest_desc": [
+        "Converte 1 carvão em 8, apenas para receitas de &5infusão&r.",
+        "",
+        "Totalmente &6vale a pena&r!"
+    ],
+    "quest.4E07AA67AC4C3929.quest_subtitle": "x8",
+    "quest.500377ECEB5852A8.quest_desc": [
+        "Converte alguns &6materiais&r em sua versão &dquímica&r"
+    ],
+    "quest.500377ECEB5852A8.quest_subtitle": "Item para gás",
+    "quest.5127C2BF115CBE35.quest_desc": [
+        "80mb de &dobsidiana&r &5refinada&r vs 240 mb de &dobsidiana&r &5refinada&r? Acho que aquela mesa de &6criação&r é superior.",
+        "",
+        "Desbloqueia as melhores &dmáquinas&r (e as mais &ecaras&r) e o último &5nível&r do &aMekanism&r para ir mais rápido!"
+    ],
+    "quest.5127C2BF115CBE35.quest_subtitle": "Espere, isso não é gregtech",
+    "quest.553C413C83C66580.quest_desc": [
+        "Adiciona mais 6 &despaços&r para &bprocessar&r itens, uma capacidade de &aenergia&r &emaior&r e pode ter organização &dautomática&r para &6equilibrar&r",
+        "",
+        "Pode ser usado em &6máquinas&r que têm uma versão de &dfábrica&r"
+    ],
+    "quest.553C413C83C66580.quest_subtitle": "Mais poder",
+    "quest.5F20D723D9E6CE02.quest_desc": [
+        "O material mais &6doloroso&r de se ter em &amãos&r, apenas por causa do nuclear.",
+        "",
+        "[{\"text\":\"Há um \",\"color\":\"#FFFFFF\"},{\"text\":\"capítulo\",\"color\":\"#FF55FF\"},{\"text\":\" inteiro sobre este \",\"color\":\"#FFFFFF\"},{\"text\":\"conceito\",\"color\":\"#55FF55\"},{\"text\":\" e por que eu disse sobre um \",\"color\":\"#FFFFFF\"},{\"text\":\"desastre\",\"color\":\"#48cf63\"},{\"text\":\" \",\"color\":\"#FFFFFF\"},{\"text\":\"nuclear\",\"color\":\"#FF55FF\"},{\"text\":\"!\",\"color\":\"#FFFFFF\"}]"
+    ],
+    "quest.5F20D723D9E6CE02.quest_subtitle": "Por que há mais matéria do que &dantimatéria&r?",
+    "quest.64163FDB951C3A73.quest_desc": [
+        "Adiciona mais 2 &despaços&r para &bprocessar&r coisas, uma capacidade de &aenergia&r &emaior&r e pode ter organização &dautomática&r para &6equilibrar&r",
+        "",
+        "Pode ser usado em &6máquinas&r que têm uma versão de &dfábrica&r"
+    ],
+    "quest.64163FDB951C3A73.quest_subtitle": "Mais itens",
+    "quest.689253F327B57437.quest_desc": [
+        "Se você precisa de um armazenamento &dquímico&r, existem &ebasicamente&r 2 opções:",
+        "",
+        "- &bApplied Energistics 2&r com as células químicas",
+        "",
+        "- Estes &6tanques&r",
+        "",
+        "Embora o &bAE2&r tenha muitas &avantagens&r, um &6tanque&r &dquímico&r bem posicionado também pode &5funcionar&r.",
+        "Eu mencionei que eles têm a opção de &5anular&r, mas não podem armazenar material &anuclear&r?"
+    ],
+    "quest.689253F327B57437.quest_subtitle": "O segundo melhor ",
+    "quest.68E0FE577DC5DBC3.quest_desc": [
+        "Como antes, este &5nível&r desbloqueia algumas &6novas&r máquinas e o terceiro nível das &dmáquinas&r do &aMekanism&r!",
+        "",
+        "Neste &dponto&r, você sabe que a receita da &6bancada de trabalho&r é &dbem&r melhor, usa menos &bmateriais&r para a mesma &esaída&r!"
+    ],
+    "quest.68E0FE577DC5DBC3.quest_subtitle": "Terceiro nível, HV",
+    "quest.6995F60A94673332.quest_desc": [
+        "Triture alguns &eitens&r em outros.",
+        "",
+        "Geralmente de &bbarra&r para &dpó&r"
+    ],
+    "quest.6995F60A94673332.quest_subtitle": "Triturador a Vapor",
+    "quest.6ABCA0BC4B6164E6.quest_desc": [
+        "Por favor, use outra coisa mais &dconfiável&r do que estes."
+    ],
+    "quest.6D367B4E977C72E9.quest_desc": [
+        "Como os cabos &aUniversais&r, mais &bcanos&r = melhor &6capacidade&r e melhor &dtaxa de transferência&r"
+    ],
+    "quest.6D367B4E977C72E9.quest_subtitle": "Movendo &9fluidos&r",
+    "quest.6DA9DA660374DDAC.quest_desc": [
+        "Este é um &ecriador&r regular do &aMinecraft&r, mas com uma pequena &dalteração&r, energia!!!!",
+        "",
+        "Você precisa definir um &bpadrão&r usando a Fórmula de &6Criação&r"
+    ],
+    "quest.6DA9DA660374DDAC.quest_subtitle": "Criador automático",
+    "quest.70C4ED66442ACA07.quest_desc": [
+        "Permite que você obtenha &5Obsidiana&r Refinada e &ePedra Luminosa&r &5Refinada&r"
+    ],
+    "quest.70C4ED66442ACA07.quest_subtitle": "Baseado em Ósmio",
+    "quest.71E6AC1A2D4ACBF4.quest_desc": [
+        "Faz as &dmáquinas&r irem mais &brápido&r mas usa mais &aenergia&r (porque você está indo mais &brápido&r :D )"
+    ],
+    "quest.71E6AC1A2D4ACBF4.quest_subtitle": "Veloz",
+    "quest.735E22D294EF8E7A.quest_desc": [
+        "Este é um &6multibloco&r que pode armazenar qualquer &9fluido&r ou &dquímico&r, mas apenas um tipo.",
+        "",
+        "Geralmente, isso é pulado porque o &bAE2&r fornece um método de &carmazenamento&r &amelhor&r"
+    ],
+    "quest.735E22D294EF8E7A.quest_subtitle": "O grande tanque",
+    "quest.7517C073F602BEA2.quest_desc": [
+        "Como os tanques &dquímicos&r, o &bAE2&r e estes &atanques&r são as melhores opções."
+    ],
+    "quest.7517C073F602BEA2.quest_subtitle": "O segundo",
+    "quest.7647E9D270B9F4EC.quest_desc": [
+        "Usando um pouco de &7hidrogênio&r, você pode obter um jetpack &abarato&r"
+    ],
+    "quest.7647E9D270B9F4EC.quest_subtitle": "Máquina movida a água",
+    "quest.768CEB709FDFAF1F.quest_desc": [
+        "1 pó de &credstone&r em 8 &credstone&r? E você está me &adizendo&r que vou &bprecisar&r de &6muito&r disso?"
+    ],
+    "quest.768CEB709FDFAF1F.quest_subtitle": "8x",
+    "quest.7953782C40BA20A4.quest_desc": [
+        "&aÚtil&r quando você quer adicionar um sistema de &cexcesso&r ou sistemas de &5anulação&r.",
+        "",
+        "Os &eItens&r passarão por este &atransportador&r como último recurso."
+    ],
+    "quest.7953782C40BA20A4.quest_subtitle": "O último da fila",
+    "quest.7A1436784F39477B.quest_desc": [
+        "Por favor, use outra coisa mais &dconfiável&r do que estes."
+    ],
+    "quest.7BACC188EB91F02A.quest_desc": [
+        "Você vai &cprecisar&r destes se for &eusar&r o processamento de &6minérios&r do &aMekanism&r.",
+        "",
+        "Basicamente, &deconomiza&r muitos &6químicos&r, como oxigênio e similares"
+    ],
+    "quest.7BACC188EB91F02A.quest_subtitle": "Processamento de minério",
+    "quest.7D3AB979C6115C5F.quest_desc": [
+        "Usando &dquímicos&r, ele pode infundir alguns gases em alguns &bmateriais&r para &5transformá-los&r em outros mais &eúteis&r"
+    ],
+    "quest.7D3AB979C6115C5F.quest_subtitle": "Infusor?",
+    "quest.7EAA17257EBFE806.quest_desc": [
+        "Embora 4k &eitens&r pareça mais do que a base da gaveta do &bFunctional&r Drawer, existem várias &dpegadinhas&r:",
+        "",
+        "- Quando você as &aaprimora&r, as gavetas do &bFunctional&r são simplesmente &dmelhores&r (mais itens)",
+        "",
+        "- Você &cnão pode&r vinculá-las tão &6facilmente&r, a menos que use 500 &eportas de armazenamento&r",
+        "",
+        "- Eu &apreciso&r falar sobre o custo? &6Madeira&r vs &7Pedra&r e &dmineração&r"
+    ],
+    "quest.7EAA17257EBFE806.quest_subtitle": "Como uma Gaveta!!!",
+    "quest.7EEBC24F85F89601.quest_desc": [
+        "Usando uma &bbomba&r &aelétrica&r, você pode obter água &9&lpesada&r, usada para &dcombustível DT&r, combustível de fusão!",
+        "",
+        "Haverá um &5multibloco&r para resolver o spam no &6futuro&r"
+    ],
+    "quest.7EEBC24F85F89601.quest_subtitle": "NUCLEAR!!!!"
+}

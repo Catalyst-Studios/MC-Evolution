@@ -1,0 +1,36 @@
+{
+    "quest.0DACD6F3077FBD20.quest_desc": [
+        "Os Geradores Apóticos permitem que você modifique Geradores para torná-los mais rápidos e eficientes!",
+        "",
+        "Pegue qualquer Gerador usando uma picareta com &bToque Suave&r!",
+        "",
+        "Você pode mudar a criatura gerada clicando com o botão direito no gerador com seu ovo de geradores.",
+        "",
+        "&aDica:&r Você também pode usar as &bCaixas de Papelão do Mekanism&r para pegar geradores!"
+    ],
+    "quest.0DACD6F3077FBD20.title": "Geradores Apóticos!",
+    "quest.0DC883B46880A03C.quest_desc": [
+        "Encante uma arma com &bCaptura&r para ter a chance de obter seu ovo de gerador!"
+    ],
+    "quest.0DC883B46880A03C.quest_subtitle": "Quem veio primeiro? A galinha ou o ovo?",
+    "quest.0DC883B46880A03C.title": "Obtendo Ovos de Geradores",
+    "quest.26D7A8C7156AB1F6.quest_desc": [
+        "Se você quiser remover modificadores, basta pegar o item modificador e segurar um pedaço de &bQuartzo do Nether&r na sua &lmão secundária&r para remover um nível de modificador!"
+    ],
+    "quest.26D7A8C7156AB1F6.quest_subtitle": "Todo mundo comete erros",
+    "quest.26D7A8C7156AB1F6.title": "Removendo Modificadores",
+    "quest.78C350866A75F0D0.quest_desc": [
+        "Agora que você tem todas as peças, é hora de criar o &l&dGerador Supremo&r&r. ",
+        "",
+        "Ele terá &bAtrasos Mínimos&r, &bControle de Redstone&r, &bSem IA&r, &bIgnora Condições de Geração&r, e &bIgnora Jogadores&r."
+    ],
+    "quest.78C350866A75F0D0.quest_subtitle": "Loot infinito!",
+    "quest.78C350866A75F0D0.title": "&o&l&dO Gerador Supremo&r&r&r",
+    "quest.7D421F7F44B98A4F.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em qualquer pacote público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões &bGeradores Apóticos&r feita por: &5ArcTrooper&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ]
+}

@@ -31,4 +31,6 @@ This project is All Rights Reserved unless explicitly stated per comment in said
 
 - Bug Report: If you encounter any issues while playing Little Bit Large, please create a [bug report](https://github.com/Catalyst-Studios/Little-Bit-Large/issues/new).
 
+- Quests: If you want to contribute to quests, you should change the quests in the split folder directly. Or directly to the quest original file, as you like.
+
 Not sure where to start? [Join our Discord](https://discord.gg/YCHPXeW9GZ) and we will help you get started!

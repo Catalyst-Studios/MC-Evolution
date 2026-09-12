@@ -74,11 +74,12 @@ ServerEvents.recipes(catalyst => {
             ).id(`catalyst:create/log_${path}_to_stripped_version_${namespace}`)
             .damageIngredient(normal_axes, 4)
 
-            catalyst.shapeless(resultId, 
-                [ logId, unbreaking_axes ]
-            ).id(`catalyst:create/log_${path}_to_stripped_version_unbreaking_${namespace}`)
-            .damageIngredient(unbreaking_axes, 0)
-            .keepIngredient(unbreaking_axes)
+            let unbreakingRecipe = catalyst.shapeless(resultId, [ logId, unbreaking_axes ])
+                .id(`catalyst:create/log_${path}_to_stripped_version_unbreaking_${namespace}`);
+            
+            unbreaking_list.forEach(axeId => {
+                unbreakingRecipe.keepIngredient(axeId)
+            })
 
             catalyst.shapeless(resultId, 
                 [ logId, energy_axes ]
@@ -216,7 +217,7 @@ ServerEvents.recipes(catalyst => {
             id: 'create:andesite_alloy',
             count: 2
         }
-    })
+    }).id("catalyst:create/crafting/andesite_iron")
 
     catalyst.custom({
         type: 'minecraft:crafting_shaped',
@@ -231,9 +232,43 @@ ServerEvents.recipes(catalyst => {
         ],
         result: {
             id: 'create:andesite_alloy',
-            count: 2
+            count: 3
         }
-    })
+    }).id("catalyst:create/crafting/andesite_zinc")
+
+    catalyst.custom({
+        type: "create:mixing",
+        ingredients: [
+            {
+                item: "minecraft:andesite"
+            },
+            {
+                tag: "c:nuggets/iron"
+            }
+        ],
+        results: [
+            {
+                id: 'create:andesite_alloy_block'
+            }
+        ]
+    }).id("catalyst:create/mixing/andesite_iron")
+
+    catalyst.custom({
+        type: "create:mixing",
+        ingredients: [
+            {
+                item: "minecraft:andesite"
+            },
+            {
+                tag: "c:nuggets/zinc"
+            }
+        ],
+        results: [
+            {
+                id: "create:andesite_alloy"
+            }
+        ]
+    }).id("catalyst:create/mixing/andesite_zinc")
 
     //Item vault
     catalyst.shaped('2x create:item_vault', 
@@ -298,7 +333,124 @@ ServerEvents.recipes(catalyst => {
     })
     .id("catalyst:create/eggs_haunted")
 
+    catalyst.shaped('create:shadow_steel_casing', 
+        [
+            "PFP",
+            "PCP",
+            "PFP"
+        ], {
+            P: 'eternalores:shadowsteel_ingot',
+            C: 'create:railway_casing',
+            F: 'eternalores:shadowsteel_foil'
+        }
+    )
+    .id("catalyst:create/shadow_steel_casing")
+
+    catalyst.shaped('create:refined_radiance_casing', 
+        [
+            "NC ",
+        ], {
+            N: 'morered:not_gate',
+            C: 'create:shadow_steel_casing',
+        }
+    )
+    .id("catalyst:create/refined_radiance_casing")
+
+    catalyst.shaped('create:shadow_steel_casing', 
+        [
+            "NC ",
+        ], {
+            N: 'morered:not_gate',
+            C: 'create:refined_radiance_casing',
+        }
+    )
+    .id("catalyst:create/shadow_steel_casing_inverted")
+
+    catalyst.shaped(Item.of('create:crushing_wheel', 8), [
+        "PAP",
+        "AGA",
+        "PAP"
+    ],
+    {
+        P: 'eternalores:plate_eternal_dark',
+        A: 'eternalores:plate_andesite',
+        G: 'eternalores:gear_andesite'
+    })
+    .id("catalyst:crushing_wheel");
+
+    catalyst.shaped(Item.of('create:crushing_wheel', 8), [
+        "PAP",
+        "AGA",
+        "PAP"
+    ],
+    {
+        P: 'eternalores:plate_eternal_light',
+        A: 'eternalores:plate_andesite',
+        G: 'eternalores:gear_andesite'
+    })
+    .id("catalyst:crushing_wheel_light");
+
+    catalyst.shaped(Item.of('create:crushing_wheel', 1), [
+        "BPB",
+        "PGP",
+        "APA"
+    ],
+    {
+        B: 'create_new_age:basic_motor_extension',
+        P: 'eternalores:plate_diamond',
+        G: 'eternalores:gear_andesite',
+        A: 'create_new_age:advanced_motor'
+    })
+    .id("catalyst:crushing_wheel_no_mechanical_crafting");
+
     console.log("[CatJS] Finished Create changes")
+
+    catalyst.custom({
+        type: "create:mixing",
+        heat_requirement: "superheated",
+        ingredients: [
+            { item: "catalystcore:lava_orb" },
+            {
+                type: "neoforge:single",
+                amount: 1000,
+                fluid: "minecraft:water"
+            }
+        ],
+        results: [
+            { id: "catalystcore:liquid_light", amount: 500 },
+            { id: "catalystcore:lava_orb" }
+        ]
+    }).id("catalyst:create/orb_to_light");
+
+    catalyst.custom({
+        type: "create:mixing",
+        heat_requirement: "superheated",
+        ingredients: [
+            { item: 'catalystcore:end_core' },
+            {
+                type: "neoforge:single",
+                amount: 1000,
+                fluid: "minecraft:water"
+            }
+        ],
+        results: [
+            { id: "catalystcore:liquid_darkness", amount: 500 },
+            { id: 'catalystcore:end_core' }
+        ]
+    }).id("catalyst:create/orb_to_dark");
+
+    catalyst.custom({
+        type: "create:mixing",
+        ingredients: [
+            { item: 'catalystcore:water_orb' }
+        ],
+        results: [
+            { id: "minecraft:water", amount: 4000 },
+            { id: 'catalystcore:water_orb' }
+        ]
+    }).id("catalyst:create/orb_to_water");
+
+    console.log("[CatJS] Adding mixers")
 })
 
 

@@ -1,0 +1,10 @@
+{
+    "quest.6B4C6BEDD35D7F0F.quest_desc": [
+        "Esta linha de missões foi feita com a intenção de ter a &bescala da grade&r em &b0.15&r.",
+        "",
+        "Você pode alterar a escala da grade indo em &bConfigurações > Editar Arquivo > Escala da Grade 0.15&r",
+        "",
+        "Nota para outro futuro trabalhador (Titop54 aqui), você não precisa alterar a escala da grade, você pode usar shift para se mover livremente. Se não, você pode definir a coordenada para qualquer valor flutuante que esteja no intervalo do IEEE 754"
+    ],
+    "quest.6B4C6BEDD35D7F0F.title": "Nota para o futuro autor de missões"
+}

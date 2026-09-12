@@ -8,7 +8,8 @@
 		id: "theurgy:divination_rod_t1"
 	}
 	id: "6E7DE3824D41BB16"
-	order_index: 5
+	images: [ ]
+	order_index: 3
 	quest_links: [ ]
 	quests: [{
 		icon: {

@@ -4,6 +4,7 @@
         "./**/*.ts"
     ],
     "compilerOptions": {
+        "ignoreDeprecations": "6.0",
         "module": "none",
         "moduleResolution": "node",
         "allowJs": true,

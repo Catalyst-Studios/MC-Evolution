@@ -11,7 +11,7 @@
 			id: "07C2A9FDE463DCE4"
 			item: {
 				count: 1
-				id: "ae2:certus_quartz_crystal"
+				id: "eternalores:gem_certus_quartz"
 			}
 			weight: 2.0f
 		}
@@ -20,7 +20,7 @@
 			id: "3800C6D96F2702BE"
 			item: {
 				count: 1
-				id: "ae2:fluix_crystal"
+				id: "eternalores:gem_fluix"
 			}
 		}
 		{

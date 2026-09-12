@@ -1,0 +1,421 @@
+{
+    "quest.038754BCDC1F9CD0.quest_desc": [
+        "Bem-vindo ao &aMystical &bAgriculture&r!",
+        "",
+        "Este mod é sobre &2plantas&r, quem poderia imaginar...",
+        "",
+        "Existem diferentes &6níveis&r, múltiplas &darmas&r e utilidades, então confira!",
+        "Para começar, mate alguns &cmobs&r ou vá minerar por algum &ainferium&r",
+        "",
+        "A maioria das &emissões&r teria o mesmo texto &drepetidamente&r, mas haverá recompensas, então &ccomplete&r-as!"
+    ],
+    "quest.038754BCDC1F9CD0.quest_subtitle": "O começo",
+    "quest.038754BCDC1F9CD0.title": "Essência de &aInferium&r",
+    "quest.03F8DB89EBBE19F9.quest_desc": [
+        "Neste &amodpack&r, elas são feitas muito mais &dbaratas&r para começar em comparação com versões anteriores, mas mais &cdifíceis&r para progredir, igualmente às &asementes&r",
+        "",
+        "{\"text\":\"Você deveria conferir estas \",\"extra\":[{\"text\":\"missões!\",\"color\":\"#eb9e10\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Clique para mudar para outra missão!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"232345A9C9EFDC9B\"}}]}"
+    ],
+    "quest.03F8DB89EBBE19F9.quest_subtitle": "Tempos de &6Abelha&r",
+    "quest.03F8DB89EBBE19F9.title": "Abelha de &aInferium&r",
+    "quest.076DB75CCEF71BB3.quest_desc": [
+        "Em vez de &cmatar&r mais criaturas, você pode usar seus &adrops&r para encher os frascos mais rápido, especialmente os mais &bchatos&r!"
+    ],
+    "quest.076DB75CCEF71BB3.quest_subtitle": "Chega de caçar?",
+    "quest.0A023BB2FD68153A.quest_desc": [
+        "Estes são os 2 &dencantamentos&r mais importantes que você pode ter para este mod",
+        "",
+        "- &bSifão&r de &bAlmas&r -> Permite coletar mais almas por morte. Apenas para &eadagas&r do &aMA&r",
+        "",
+        "- &aIluminação&r &aMística&r -> Você pode ganhar pó de &6cogniziant&r ao matar um wither ou um dragão do end. Apenas para &3espadas&r do &aMA&r"
+    ],
+    "quest.0A023BB2FD68153A.quest_subtitle": "Os encantamentos",
+    "quest.0A023BB2FD68153A.title": "Hora de encantar!",
+    "quest.0BF9D23CFCF6377D.quest_desc": [
+        "Nível 7? Bem, não exatamente, estas &dsementes&r e &aessência&r são apenas ingredientes de &6criação&r que você precisa plantar",
+        "",
+        "Da próxima vez, talvez precise de algum bioma &1profundo&r e &0escuro&r?"
+    ],
+    "quest.0BF9D23CFCF6377D.quest_subtitle": "Nível 7",
+    "quest.0BF9D23CFCF6377D.title": "Essência da &0Escuridão&r",
+    "quest.0C3D215FB092DC08.quest_desc": [
+        "Você não encontrará &6abelhas&r melhores do que estas, mas precisará delas para &cmais tarde&r, faça algumas!"
+    ],
+    "quest.0C3D215FB092DC08.quest_subtitle": "As melhores abelhas",
+    "quest.0D968517AACAB080.quest_subtitle": "Mega armazenamento",
+    "quest.0FB83369C2F37DAD.quest_desc": [
+        "Permite que você colete &dplantações&r, esta é uma &ealternativa&r à fazenda que propus em outra missão."
+    ],
+    "quest.0FB83369C2F37DAD.quest_subtitle": "Colheita nos campos",
+    "quest.1223102F5940D2EB.quest_desc": [
+        "Estas armaduras têm qualidades especiais, elas podem ser &caumentadas&r",
+        "",
+        "Aumentos dão diferentes &defeitos&r, como visão &9noturna&r ou voo &dcriativo&r, todas as armaduras de &aMA&r, exceto uma que tem 2 &6slots&r, têm 1 &6slot&r.",
+        "",
+        "Você não pode ter o mesmo &baumento&r em 2 peças diferentes, porque não vai &efuncionar&r."
+    ],
+    "quest.1223102F5940D2EB.quest_subtitle": "O capacete",
+    "quest.13ABAD48193BB39E.quest_desc": [
+        "Bem, pela 500ª vez, outra &efornalha&r.",
+        "",
+        "O que esta tem de &bespecial&r? Bem, você não precisa &dquebrá-las&r para aprimorá-las como as máquinas do &aMekanism&r, mas elas são &emais rápidas&r do que aquelas.",
+        "",
+        "A única coisa que pode competir com uma fornalha de &4supremium&r &6despertado&r é uma fornalha de &0netherita&r com aprimoramentos de &bfábrica&r e &cvelocidade&r!"
+    ],
+    "quest.13ABAD48193BB39E.quest_subtitle": "Outra?",
+    "quest.1476B93691B1AC0F.quest_subtitle": "Ainda mais armazenamento",
+    "quest.15D3EA775A53D557.quest_desc": [
+        "Essência de &5Insanium&r, um dos &eníveis&r mais &dpoderosos&r que o mod pode te dar.",
+        "",
+        "Normalmente, você precisaria de um pouco de &4supremium&r para fazer essa essência, mas agora você precisa de essência de &4supremium&r &6despertado&r e algumas novas &dsementes&r!",
+        "",
+        "Você precisa &a&nprogredir&r com outros mods para &ccontinuar&r.",
+        "",
+        "Eu &averificaria&r a receita do bloco de &5insanium&r se você quiser uma versão &6mais barata&r e, a partir deste ponto, você pode fazer sementes e abelhas de &bimperium&r, tornando este progresso &cmais barato&r!"
+    ],
+    "quest.15D3EA775A53D557.quest_subtitle": "Nível 6",
+    "quest.15D3EA775A53D557.title": "Essência de &5Insanium&r",
+    "quest.1C19F475ABA24D0C.quest_desc": [
+        "Estes são os &ajarros&r mínimos necessários para fazer 1 semente de criatura.",
+        "",
+        "Você deve deixar o &bAE2&r criá-los."
+    ],
+    "quest.1C19F475ABA24D0C.title": "Jarros de Alma",
+    "quest.1E0B8C4397657ECB.quest_desc": [
+        "Eles têm usos limitados, como qualquer ferramenta, neste caso 1000 criações.",
+        "",
+        "É usado na maioria das criações de nível, como inferium para prudentium.",
+        "",
+        "{\"text\":\"Uma vez que você tenha o \",\"extra\":[{\"text\":\"Cristal\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Clique para mudar para outra missão!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"57FE6873FF11D8B0\"}},{\"text\":\" de Infusão Mestre\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Clique para mudar para outra missão!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"57FE6873FF11D8B0\"}}]}"
+    ],
+    "quest.1E0B8C4397657ECB.quest_subtitle": "O cristal barato",
+    "quest.1E5AD1266CDA8B51.quest_desc": [
+        "Sim, esta é uma nova &asemente&r, permitindo que você pule alguns &eníveis&r.",
+        "",
+        "Estas &dsementes&r precisam de uma máquina para cultivá-las!"
+    ],
+    "quest.1E5AD1266CDA8B51.quest_subtitle": "Não pode ser verdade",
+    "quest.1EAA5C42DC9F5254.quest_desc": [
+        "Estes não têm utilidade, bem, sim, mas principalmente para armazenar muito &ainferium&r",
+        "",
+        "{\"text\":\"E bem, crie tiers mais altos mais rápido com um \",\"extra\":[{\"text\":\"Cristal de Infusão\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Clique para mudar para outra missão!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"57FE6873FF11D8B0\"}},{\"text\":\" Mestre\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Clique para mudar para outra missão!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"57FE6873FF11D8B0\"}}]}"
+    ],
+    "quest.1EAA5C42DC9F5254.quest_subtitle": "Como armazenar",
+    "quest.1EAA5C42DC9F5254.title": "Bloco de &aInferium&r",
+    "quest.1FA378DE4439A0BB.quest_desc": [
+        "Sim, você vai precisar delas, especialmente a &afoice&r"
+    ],
+    "quest.1FA378DE4439A0BB.quest_subtitle": "A melhor ferramenta",
+    "quest.2055A5273612BB17.quest_desc": [
+        "Essas armaduras têm qualidades especiais, elas podem ser &caumentadas&r",
+        "",
+        "Aumentos dão &defeitos&r diferentes, como visão &9noturna&r ou voo &dcriativo&r, todas as armaduras de &aMA&r, exceto uma, que tem 2 &6slots&r, tem 1 &6slot&r.",
+        "",
+        "Você não pode ter o mesmo &baumento&r em 2 peças diferentes, porque não vai &efuncionar&r"
+    ],
+    "quest.2055A5273612BB17.quest_subtitle": "As perneiras",
+    "quest.2055A5273612BB17.title": "Qualquer perneira do MA",
+    "quest.219692AA1DFF30B7.quest_desc": [
+        "Tier 5, &4supremium&r",
+        "",
+        "Esta &dessência&r é o equivalente a 256 essências de &ainferium&r.",
+        "",
+        "Neste &6tier&r, você desbloqueia menos &dsementes&r do que no tier 2, mas ainda assim, você deve &bconferi-las&r!",
+        "",
+        "E a partir deste ponto, você pode fazer sementes e abelhas de &2prudentium&r, tornando este progresso mais &cbarato&r!"
+    ],
+    "quest.219692AA1DFF30B7.quest_subtitle": "Tier 5",
+    "quest.219692AA1DFF30B7.title": "Essência de &4Supremium&r",
+    "quest.223C19E8E01CF99F.quest_desc": [
+        "As abelhas estão dando um pouco mais de poder, dando essência de &4supremium&r &6despertada&r completa em vez de pó &ecogniziant&r, mas com uma receita de &ccriação&r mais cara.",
+        "",
+        "É uma pequena &adiferença&r, mas que a torna importante!"
+    ],
+    "quest.223C19E8E01CF99F.quest_subtitle": "Uma pequena mudança",
+    "quest.2381E03BF9EE9CA8.quest_desc": [
+        "Tier 2, &2prudentium&r",
+        "",
+        "Esta &dessência&r é o equivalente a 4 essências de &ainferium&r.",
+        "",
+        "Neste &6tier&r, você desbloqueia muitas &dsementes&r, você deve &aconferi-las&r!"
+    ],
+    "quest.2381E03BF9EE9CA8.quest_subtitle": "Tier 2",
+    "quest.2381E03BF9EE9CA8.title": "Essência de &2Prudentium&r",
+    "quest.23D9830AF2B0CBCC.quest_desc": [
+        "Para obter sementes de criatura, você precisa matá-las usando estas &6adagas&r, especialmente as outras versões &bmelhoradas&r",
+        "",
+        "Coloque os &dfrascos&r no seu &einventário&r e comece a matá-los!"
+    ],
+    "quest.23D9830AF2B0CBCC.quest_subtitle": "Sementes de Criatura",
+    "quest.248A196ADA004598.quest_desc": [
+        "Você não encontrará &dsementes&r melhores que estas, mas precisará delas para &cmais tarde&r, faça algumas!"
+    ],
+    "quest.248A196ADA004598.quest_subtitle": "As melhores sementes",
+    "quest.26E7D41ACFA53A93.quest_desc": [
+        "Você deve verificar as missões de &aarmaduras&r para mais informações",
+        "",
+        "Esta é a &ebase&r para todos os &daumentos&r, escolha sabiamente!"
+    ],
+    "quest.26E7D41ACFA53A93.quest_subtitle": "Aumentos base",
+    "quest.2BD85B6850F480A8.quest_desc": [
+        "Tier 7, sim, você está certo, Tier &5Mágico&r!",
+        "",
+        "Você precisa começar com &eArs&r &dNouveau&r para fazer essas &aessências&r, até o ponto de matar a &dQuimera&r"
+    ],
+    "quest.2BD85B6850F480A8.quest_subtitle": "Tier 7",
+    "quest.2BD85B6850F480A8.title": "Essência &5Mágica&r",
+    "quest.2C87246803C6ECEA.quest_desc": [
+        "Esta é a &6principal&r maneira de começar em qualquer &dsemente&r, você geralmente precisa de uma &bbase&r ou outra semente e alguns &emateriais&r",
+        "",
+        "Coloque o &5altar&r e ele mostrará como colocar os &apilares&r.",
+        "Você precisa de um sinal de &credstone&r para iniciar a &bcriação&r ou uma varinha",
+        "",
+        "Dica aqui, você pode extrair o resultado apenas do &dcentro&r, não a entrada, usando algo como &aPipez&r ;)"
+    ],
+    "quest.2C87246803C6ECEA.quest_subtitle": "A maneira principal",
+    "quest.2ED937FCFC7E5438.quest_desc": [
+        "Basicamente, você pode &ecolocar&r e &6retirar&r &daugmentos&r de ferramentas e armaduras nesta mesa"
+    ],
+    "quest.2ED937FCFC7E5438.quest_subtitle": "Colocar augments",
+    "quest.2FEBC7DC526BA9B8.quest_desc": [
+        "A melhor &6terra arada&r!",
+        "",
+        "Embora seja útil apenas para &aculturas&r de nível 6"
+    ],
+    "quest.3037BD495C39A8F1.quest_desc": [
+        "Estas máquinas receberam um &abuff&r em comparação com outras versões, sendo mais &erápidas&r e permitindo que você use suas terras aradas de &5insanium&r!"
+    ],
+    "quest.3037BD495C39A8F1.quest_subtitle": "O fazendeiro",
+    "quest.33859430B6AE4EE0.quest_desc": [
+        "Estas &asementes&r são um substituto para o &5wither&r e o &dencantamento&r",
+        "",
+        "Você deveria verificar as &6abelhas&r para uma opção melhor, mas se quiser, aqui está uma &ealternativa&r!"
+    ],
+    "quest.33859430B6AE4EE0.quest_subtitle": "Uma pequena diferença",
+    "quest.39419E0E5E0E00B7.quest_desc": [
+        "Sim, esta é uma nova &asemente&r, permitindo que você pule alguns &eníveis&r.",
+        "",
+        "Estas &dsementes&r precisam de uma máquina para cultivá-las!"
+    ],
+    "quest.39419E0E5E0E00B7.quest_subtitle": "Outra?!?",
+    "quest.398BCD889B2B137C.quest_desc": [
+        "Nível 3, &6tertium&r",
+        "",
+        "Esta &dessência&r é o equivalente a 16 essências de &ainferium&r.",
+        "",
+        "Neste &6nível&r, você desbloqueia mais &dsementes&r do que no nível 2, você deveria &2dar uma olhada nelas&r!"
+    ],
+    "quest.398BCD889B2B137C.quest_subtitle": "Nível 3",
+    "quest.398BCD889B2B137C.title": "Essência de &6Tertium&r",
+    "quest.3EBCF14F021079E8.quest_desc": [
+        "Você não quer um &egerador&r que possa mudar a criatura usando &dessências&r?",
+        "",
+        "Bem, este é o ideal para você!"
+    ],
+    "quest.3EBCF14F021079E8.quest_subtitle": "Farm de criaturas",
+    "quest.40703D01AED88444.quest_desc": [
+        "Bem, o que posso dizer aqui?"
+    ],
+    "quest.40703D01AED88444.quest_subtitle": "Sim, nerfado também",
+    "quest.412470C3AE1C84A9.quest_desc": [
+        "Estas &dferramentas&r são as mais importantes deste mod, mas também existem outras, você deveria &econfira&r-las!",
+        "",
+        "- Paxel de &aInferium&r -> Age como uma picareta, pá e machado ao mesmo tempo",
+        "",
+        "{\"text\":\"- \",\"extra\":[{\"text\":\"Foice\",\"color\":\"green\"},{\"text\":\" de Inferium -> Permite que você colete suas plantações, você deveria \"},{\"text\":\"conferi-las!\",\"color\":\"#9eeb23\",\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Clique aqui para assistir a um tutorial sobre como usá-la\"},\"clickEvent\":{\"action\":\"open_url\",\"value\":\"hola.com\"}}]}",
+        "",
+        "- Espada de &aInferium&r -> Permite coletar pó de &6cogniziant&r com o encantamento, apenas estas espadas e de &nnível&r superior podem usá-lo"
+    ],
+    "quest.412470C3AE1C84A9.quest_subtitle": "As ferramentas principais",
+    "quest.412470C3AE1C84A9.title": "Ferramentas de &aInferium&r",
+    "quest.424EF2BE93002E8F.quest_desc": [
+        "Eles são &6baratos&r, mas também basicamente inúteis, mas aqui estão algumas &einformações&r que podem te interessar:",
+        "",
+        "- &cMaçã&r de &aInferium&r -> Dá alguns efeitos por 3 min, maçãs de nível superior dão mais, experimente-as",
+        "",
+        "- Melhoria de &aInferium&r -> Máquinas da &aMA&r têm um &eespaço&r que permite melhorá-las, sem trocar o bloco",
+        "",
+        "Embora eu peça a &bbásica&r, você deveria tentar os &6níveis&r mais altos!"
+    ],
+    "quest.424EF2BE93002E8F.quest_subtitle": "Melhorias!",
+    "quest.424EF2BE93002E8F.title": "Maçã & E Melhoria de &aInferium&r",
+    "quest.42AF5ACF22DCA75C.quest_desc": [
+        "Sim, esta é uma nova &asemente&r, permitindo que você pule alguns &eníveis&r.",
+        "",
+        "Estas &dsementes&r precisam de uma máquina para cultivá-las!"
+    ],
+    "quest.42AF5ACF22DCA75C.quest_subtitle": "Espera, isso é real?",
+    "quest.44C48011CDF0FB35.quest_desc": [
+        "Tenho que equilibrar as duas coisas"
+    ],
+    "quest.44C48011CDF0FB35.quest_subtitle": "Desculpe",
+    "quest.4699468FC07899DA.quest_desc": [
+        "Este é o principal método de &dcultivo&r de &ainferium&r pelo criador do mod",
+        "",
+        "Embora, eu não vou &breclamar&r se você conseguir mais da sua fazenda de criaturas ;)"
+    ],
+    "quest.4699468FC07899DA.quest_subtitle": "Hora de &dPlantar&r",
+    "quest.4699468FC07899DA.title": "Sementes de &aInferium&r",
+    "quest.473487EE12C5C9AF.quest_desc": [
+        "A Essência &dCriativa&r é o ápice de toda a criação",
+        "",
+        "Se você &bchegou&r até aqui, você &cdominou&r a &aAgricultura&r &bMística&r e como melhorar suas &econfigurações&r!"
+    ],
+    "quest.473487EE12C5C9AF.quest_subtitle": "Nível ∞",
+    "quest.473487EE12C5C9AF.title": "Essência &dCriativa&r",
+    "quest.483AB0BB4DDF2D1C.quest_subtitle": "Mais armazenamento",
+    "quest.4871BE9E497DDA4F.quest_desc": [
+        "Sim, esta é uma nova &asemente&r, permitindo que você pule alguns &eníveis&r.",
+        "",
+        "Estas &dsementes&r precisam de uma máquina para cultivá-las!"
+    ],
+    "quest.4871BE9E497DDA4F.quest_subtitle": "Isso é novo?",
+    "quest.4EC2757A3B8BB661.quest_desc": [
+        "Infelizmente, esta é a última &cmaçã&r, mas também a mais &apoderosa&r, ainda mais poderosa que a Maçã do &dNotch&r"
+    ],
+    "quest.4EC2757A3B8BB661.quest_subtitle": "Chega de maçãs",
+    "quest.50AE3C029FF3D36C.quest_desc": [
+        "As abelhas receberam um nerf da versão &banterior&r, agora &ccustando&r um pouco mais",
+        "",
+        "Isso é para colocar no mesmo nível as &dsementes&r e &6abelhas&r usando apenas o conteúdo de seus mods"
+    ],
+    "quest.50AE3C029FF3D36C.quest_subtitle": "Nerfado?",
+    "quest.5669679F0EEFFC97.quest_subtitle": "O melhor nível",
+    "quest.56F7FA60DE771901.quest_desc": [
+        "Nível 4, &bimperium&r",
+        "",
+        "Esta &dessência&r é o equivalente a 64 essências de &ainferium&r.",
+        "",
+        "Neste &6nível&r, você desbloqueia mais &dsementes&r do que no nível 3, você deveria &6conferi-las&r!"
+    ],
+    "quest.56F7FA60DE771901.quest_subtitle": "Nível 4",
+    "quest.56F7FA60DE771901.title": "Essência de &bImperium&r",
+    "quest.57FE6873FF11D8B0.quest_desc": [
+        "Embora pareça um pouco &ecaro&r no início, não é.",
+        "",
+        "Tem usos &dinfinitos&r, então não se preocupe em quebrá-lo, perfeito para automação!"
+    ],
+    "quest.57FE6873FF11D8B0.quest_subtitle": "O melhor cristal",
+    "quest.57FE6873FF11D8B0.title": "Cristal de Infusão &cMestre&r",
+    "quest.5D3F6F242A0D3DC0.quest_desc": [
+        "O último nível, o da &emáquina&r!",
+        "",
+        "Este nível não pode ser &aplantado&r, mas você verá isso na &bdica de ferramenta&r, não se preocupe.",
+        "",
+        "Você precisará de uma &6máquina&r para cultivá-los, eu coloquei 2 missões para você"
+    ],
+    "quest.5D3F6F242A0D3DC0.quest_subtitle": "Nível 8",
+    "quest.5D3F6F242A0D3DC0.title": "Essência de &eTecnologia&r",
+    "quest.5DBDB10A35F4A753.quest_desc": [
+        "Bem, agora que estamos chegando a níveis &bmais altos&r, as coisas &cprecisam&r mudar um pouco",
+        "",
+        "Para começar, você ainda precisa matar o &5Wither&r ou o &ddragão&r.",
+        "",
+        "Agora, você pode ver que existem &dreceitas&r diferentes, dando-lhe mais &bblocos&r, mas precisando de itens mais &6caros&r para obter.",
+        "",
+        "Isso é feito para você pensar um &esegundo&r e decidir se quer lidar com a mesma configuração ou &2mudar&r um pouco!",
+        "",
+        "E a partir deste ponto, você pode fazer sementes e abelhas de &6tertium&r, tornando este progresso mais &cbarato&r!"
+    ],
+    "quest.5DBDB10A35F4A753.quest_subtitle": "Nível 5 v2",
+    "quest.5DBDB10A35F4A753.title": "Essência de &4Supremium&r &6Despertada",
+    "quest.5E718194252CA698.quest_subtitle": "Mais água",
+    "quest.5ED01B81E79BBAA5.quest_desc": [
+        "Barato, mas &bpermite&r que você ative o altar apenas quando &e&nnecessário&r",
+        "",
+        "Isso pode economizar em &clag&r!"
+    ],
+    "quest.5ED01B81E79BBAA5.quest_subtitle": "Abra a magia!",
+    "quest.5F7CDD5FFB77E70D.quest_subtitle": "Armazenamento de Compressium",
+    "quest.64EC4D5F482E7C30.quest_desc": [
+        "Esta é a segunda maneira de começar com algumas &dsementes&r",
+        "",
+        "Existem algumas coisas que foram alteradas do &aMA&r normal, o altar tem efeitos, desde círculos no chão até &raios&r!",
+        "",
+        "Você pode &cdesativar&r isso usando o seguinte comando (para todos os jogadores):",
+        "",
+        "/&baltareffects&r false",
+        "",
+        "Além disso, o altar recebeu mais &bimportância&r do que antes, com mais &criações&r e algumas &amelhorias&r e &cnerfs&r, com mais essências para os &erecipientes&r"
+    ],
+    "quest.64EC4D5F482E7C30.quest_subtitle": "Espero que você não tenha madeira por perto",
+    "quest.652A100211B39A2B.quest_desc": [
+        "Agora você pode começar as &6abelhas&r para o &aMA&r mais cedo, semelhante às do &eMA&r!"
+    ],
+    "quest.652A100211B39A2B.quest_subtitle": "Mas eu também dei uma melhorada",
+    "quest.67AF1940DCEFE1A7.quest_desc": [
+        "Estas armaduras têm qualidades especiais, elas podem ser &caumentadas&r",
+        "",
+        "Aumentos dão &defeitos&r diferentes, como visão &9noturna&r ou voo &dcriativo&r, todas as armaduras do &aMA&r, exceto uma, que tem 2 &6espaços&r, têm 1 &6espaço&r.",
+        "",
+        "Você não pode ter o mesmo &baumento&r em 2 peças diferentes, porque não &efuncionará&r"
+    ],
+    "quest.67AF1940DCEFE1A7.quest_subtitle": "As botas",
+    "quest.67AF1940DCEFE1A7.title": "Quaisquer botas do MA",
+    "quest.68BAF3282A411796.quest_desc": [
+        "Quando você está &6cultivando&r, você tem a chance de obter &dsementes&r extras se tiver o &aníveI&r certo de terra arada.",
+        "",
+        "Você pode usá-las ou pode obter mais &aessência&r usando esta máquina. Ela precisa de &aenergia&r"
+    ],
+    "quest.68BAF3282A411796.quest_subtitle": "PEGUE MAIS!!!",
+    "quest.6CAC0EAE07BD6DD4.quest_subtitle": "Uma versão mais cara",
+    "quest.6EE47C68F53912D5.quest_subtitle": "Mais água",
+    "quest.71AE77BF3E94C43A.quest_subtitle": "Vale a pena",
+    "quest.74FDB5EDE3024323.quest_desc": [
+        "Eu &aespero&r que você não perceba ;)"
+    ],
+    "quest.77EE4AAB07CC4B2A.quest_desc": [
+        "Adicione alguns &6materiais&r e essência de experiência e você pode escolher muitos &dencantamentos&r!",
+        "",
+        "Para fazer as sementes de experiência, recomendo fazer um &achuveiro&r de &bXP&r para encher os tanques de XP"
+    ],
+    "quest.77EE4AAB07CC4B2A.quest_subtitle": "A mesa de encantamentos precisa",
+    "quest.78611D91F0DF7680.quest_desc": [
+        "Estas missões incríveis foram feitas para a &l&4Catalyst Studios&r e fazem parte de seu projeto e pertencem a eles.",
+        "",
+        "Missões do AE2 feitas por: &cTito&ep&c54&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição. E você está &4trapaceando&r, o que não é legal"
+    ],
+    "quest.78611D91F0DF7680.quest_subtitle": "Trapacear não é legal",
+    "quest.78611D91F0DF7680.title": "Trapaceiro!!!!",
+    "quest.78BC30C836B49D06.quest_subtitle": "Ultra armazenamento",
+    "quest.78FA554642B15674.quest_desc": [
+        "Estes utilitários ajudarão você em sua aventura de &dfazenda&r",
+        "",
+        "- &bRegador&r -> &eAcelera&r o crescimento das plantações, precisa de água",
+        "",
+        "- &dFertilizante&r -> Também &6acelera&r o crescimento das plantações, mas apenas uma vez. Obtido da agricultura!",
+        "",
+        "- &aTerra&r de cultivo de &aInferium&r -> As plantações precisam de seu &cnível de terra de cultivo&r para crescer e obter um bônus. Clique com o botão direito com uma essência de &ainferium&r em uma terra de cultivo",
+        "",
+        "- Acelerador de crescimento -> &dAcelera&r as plantações que estão acima dele. Eles têm um &calcance&r e você pode combinar diferentes &eníveis&r ;)"
+    ],
+    "quest.78FA554642B15674.quest_subtitle": "Mais &dfazenda",
+    "quest.78FA554642B15674.title": "Agricultura",
+    "quest.7A8A665FD3020BF2.quest_desc": [
+        "Estas armaduras têm qualidades especiais, elas podem ser &caumentadas&r",
+        "",
+        "Aumentos dão diferentes &defeitos&r, como visão &9noturna&r ou voo &dcriativo&r, todas as armaduras de &aMA&r, exceto uma que tem 2 &6espaços&r, têm 1 &6espaço&r.",
+        "",
+        "Você não pode ter o mesmo &baumento&r em 2 peças diferentes, porque não &efuncionará&r"
+    ],
+    "quest.7A8A665FD3020BF2.quest_subtitle": "O peitoral",
+    "quest.7A8A665FD3020BF2.title": "Qualquer peitoral de MA",
+    "quest.7F6FC6E1AFDD6365.quest_desc": [
+        "Bem, agora o &5wither&r não pode quebrá-lo....",
+        "",
+        "Mas a &dJean&r, o &ddragão&r pode"
+    ],
+    "quest.7F6FC6E1AFDD6365.quest_subtitle": "Não, por favor",
+    "quest.7FC6D58AD671FB46.quest_desc": [
+        "Sim, outro nível 7, Nível &bMístico&r!",
+        "",
+        "Este nível é um pouco mais fácil que o Nível &5Mágico&r, você precisa matar criaturas, que são místicas....",
+        "",
+        "",
+        "Eu sei, as piadas são ruins, mas bem, que comece a &afazenda&r de &cmobs&r!"
+    ],
+    "quest.7FC6D58AD671FB46.quest_subtitle": "Nível 7",
+    "quest.7FC6D58AD671FB46.title": "Essência &bMística&r"
+}

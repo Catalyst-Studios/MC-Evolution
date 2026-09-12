@@ -5,7 +5,7 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 MMREvents.machines(catalyst => {
     catalyst.create("mmr:osmotic_concentrator")
         .color('#ff66605f')
-        .name('Osmotic Consentrator')
+        .name(Component.translatable("catalyst.mmr.machine.osmotic_consentrator"))
         .structure(
             MMRStructureBuilder.create()
             .pattern([

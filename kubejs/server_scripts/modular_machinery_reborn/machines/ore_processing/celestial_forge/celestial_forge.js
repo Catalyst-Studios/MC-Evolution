@@ -5,7 +5,7 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 MMREvents.machines(catalyst => {
     catalyst.create("mmr:celestial_forge")
         .color('#FF6fff00')
-        .name('Celestial Forge')
+        .name(Component.translatable("catalyst.mmr.machine.celestial_forge"))
         .structure(
             MMRStructureBuilder.create()
                 .pattern([
@@ -286,7 +286,6 @@ MMREvents.machines(catalyst => {
                 .keys({
                     "a": ["minecraft:flowering_azalea_leaves"],
                     "b": ['chipped:fancy_redstone_lamp'],
-                    "c": ['#modular_machinery_reborn:parallelhatch'],
                     "d": ["minecraft:end_rod[facing=up]"],
                     "e": ["minecraft:nether_bricks"],
                     "f": ["minecraft:nether_brick_wall"],
@@ -311,7 +310,10 @@ MMREvents.machines(catalyst => {
                     "z": ['modular_machinery_reborn:casing_reinforced'],
                     "A": ["modular_machinery_reborn:dimensional_detector"],
                     "B": ["#modular_machinery_reborn:itembus"],
-                    "C": ["#modular_machinery_reborn:parallelhatch"],
+                    "C": [
+                        "#modular_machinery_reborn:parallelhatch",
+                        'minecraft:polished_blackstone_bricks'
+                    ],
                     "D": ["chipped:fine_coal_block_pillar"],
                     "E": ["chipped:tiny_layered_coal_block_slabs"],
                     "F": [

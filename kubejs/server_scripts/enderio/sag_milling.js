@@ -42,7 +42,7 @@ ServerEvents.recipes(event => {
                     }
                 }
             ]
-        }).id(`kubejs:enderio/sag_milling/${ore}_ore_to_raw_${ore}`) 
+        }).id(`catalyst:enderio/sag_milling/${ore}_ore_to_raw_${ore}`) 
     });
 
     console.log("[CatJS] Added EnderIO recipes")

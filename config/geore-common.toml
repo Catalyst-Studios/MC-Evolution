@@ -56,7 +56,7 @@
 	#Generate Tin GeOre [Default: false]
 	generateTinGeore = true
 	#Generate Tungsten GeOre [Default: false]
-	generateTungstenGeore = false
+	generateTungstenGeore = true
 	#Generate Uranium GeOre [Default: false]
 	generateUraniumGeore = true
 	#Generate Allthemodium GeOre [Default: false]

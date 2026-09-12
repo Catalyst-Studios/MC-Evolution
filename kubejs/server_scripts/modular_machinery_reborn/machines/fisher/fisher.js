@@ -1,4 +1,4 @@
-//design by BitGardener
+//design by BitGardener https://www.youtube.com/watch?v=rXV_b7J1TB4
 MMREvents.machines(catalyst => {
     /**
      * Creates a machine with the given ResourceLocation (namespace:machine) equivalent to the json -> datapackNamespace:jsonName
@@ -9,11 +9,11 @@ MMREvents.machines(catalyst => {
          * #AlphaAlphaRedRedGreenGreenBlueBlue
          * color in int number format
          */
-        .color('#00131313')
+        .color('#ff2a24bf')
         /**
          * The name that the machine should display in the controller item and in the controller GUI -> default localized with the id of the creation
          */
-        .name('Fisher')
+        .name(Component.translatable("catalyst.mmr.machine.fisher"))
         /**
          * The multiblock definition
          */
@@ -40,51 +40,62 @@ MMREvents.machines(catalyst => {
         ["                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                U                ","               TSR               ","                Q                ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 ","                                 "]
         ])
         .keys({
-                "a":"minecraft:air",
-                "b":"minecraft:polished_blackstone_slab[type=bottom]",
-                "c":"minecraft:polished_blackstone_slab[type=double]",
-                "d":"minecraft:spruce_planks",
-                "e":"minecraft:stone",
-                "f":"minecraft:spruce_log[axis=y]",
-                "g":"minecraft:sand",
-                "h":"minecraft:water[level=0]",
-                "i":"minecraft:gravel",
-                "j":"minecraft:stone_slab[type=bottom]",
-                "k":["minecraft:water","minecraft:ice"],
-                "l":"modular_machinery_reborn:casing_plain[connect_textures=true]",
-                "n":"minecraft:spruce_stairs[facing=north+half=top+shape=straight]",
-                "o":"minecraft:spruce_stairs[facing=south+half=top+shape=straight]",
-                "p":"minecraft:spruce_slab[type=top]",
-                "q":"minecraft:spruce_stairs[facing=north+half=top+shape=straight]",
-                "r":"minecraft:spruce_stairs[facing=south+half=top+shape=straight]",
-                "s":"minecraft:spruce_slab[type=top]",
-                "t":"minecraft:quartz_stairs[facing=south+half=bottom+shape=straight]",
-                "u":"minecraft:red_nether_brick_stairs[facing=north+half=bottom+shape=straight]",
-                "v":"minecraft:polished_blackstone_slab[type=top]",
-                "w":"minecraft:red_nether_brick_stairs[facing=south+half=top+shape=straight]",
-                "x":"minecraft:quartz_stairs[facing=north+half=top+shape=straight]",
-                "y":"minecraft:dark_oak_planks",
-                "A":"minecraft:quartz_block",
-                "B":"minecraft:spruce_slab[type=bottom]",
-                "C":"minecraft:lantern[hanging=true]",
-                "D":"minecraft:spruce_slab[type=double]",
-                "E":"minecraft:dark_oak_slab[type=bottom]",
-                "F":"minecraft:barrel[facing=east+open=false]",
-                "G":"minecraft:barrel[facing=west+open=false]",
-                "H":"minecraft:quartz_stairs[facing=north+half=bottom+shape=straight]",
-                "I":"minecraft:quartz_stairs[facing=west+half=bottom+shape=straight]",
-                "J":"minecraft:quartz_stairs[facing=east+half=bottom+shape=straight]",
-                "K":"minecraft:quartz_stairs[facing=west+half=top+shape=straight]",
-                "L":"minecraft:quartz_stairs[facing=east+half=top+shape=straight]",
-                "M":"minecraft:dark_oak_slab[type=top]",
-                "N":"minecraft:dark_oak_slab[type=double]",
-                "O":"minecraft:chain[axis=y]",
-                "P":"minecraft:dark_oak_stairs[facing=north+half=top+shape=straight]",
-                "Q":"minecraft:spruce_trapdoor[powered=false+open=true+facing=south+half=bottom]",
-                "R":"minecraft:spruce_trapdoor[powered=false+open=true+facing=east+half=bottom]",
-                "S":"minecraft:campfire[facing=west+lit=true+signal_fire=false]",
-                "T":"minecraft:spruce_trapdoor[powered=false+open=true+facing=west+half=bottom]",
-                "U":"minecraft:spruce_trapdoor[powered=false+open=true+facing=north+half=bottom]"}))});
-                //design by BitGardener
-
-
+                "b":["minecraft:polished_blackstone_slab[type=bottom]"],
+                "c":["minecraft:polished_blackstone_slab[type=double]"],
+                "d":["minecraft:spruce_planks"],
+                "e":["minecraft:stone"],
+                "f":["minecraft:spruce_log[axis=y]"],
+                "g":["minecraft:sand"],
+                "h":[
+                    "minecraft:water",
+                    "minecraft:ice"
+                ],
+                "i":["minecraft:gravel"],
+                "j":["minecraft:stone_slab[type=bottom]"],
+                "k":[
+                    "minecraft:water",
+                    "minecraft:ice"
+                ],
+                "l":[
+                    "modular_machinery_reborn:casing_plain",
+                    '#modular_machinery_reborn:inputbus',
+                    '#modular_machinery_reborn:outputbus',
+                    '#modular_machinery_reborn:parallelhatch'
+                ],
+                "n":["minecraft:spruce_stairs[facing=north+half=top+shape=straight]"],
+                "o":["minecraft:spruce_stairs[facing=south+half=top+shape=straight]"],
+                "p":["minecraft:spruce_slab[type=top]"],
+                "q":["minecraft:spruce_stairs[facing=north+half=top+shape=straight]"],
+                "r":["minecraft:spruce_stairs[facing=south+half=top+shape=straight]"],
+                "s":["minecraft:spruce_slab[type=top]"],
+                "t":["minecraft:quartz_stairs[facing=south+half=bottom+shape=straight]"],
+                "u":["minecraft:red_nether_brick_stairs[facing=north+half=bottom+shape=straight]"],
+                "v":["minecraft:polished_blackstone_slab[type=top]"],
+                "w":["minecraft:red_nether_brick_stairs[facing=south+half=top+shape=straight]"],
+                "x":["minecraft:quartz_stairs[facing=north+half=top+shape=straight]"],
+                "y":["minecraft:dark_oak_planks"],
+                "A":["minecraft:quartz_block"],
+                "B":["minecraft:spruce_slab[type=bottom]"],
+                "C":["minecraft:lantern[hanging=true]"],
+                "D":["minecraft:spruce_slab[type=double]"],
+                "E":["minecraft:dark_oak_slab[type=bottom]"],
+                "F":["minecraft:barrel"],
+                "G":["minecraft:barrel"],
+                "H":["minecraft:quartz_stairs[facing=north+half=bottom+shape=straight]"],
+                "I":["minecraft:quartz_stairs[facing=west+half=bottom+shape=straight]"],
+                "J":["minecraft:quartz_stairs[facing=east+half=bottom+shape=straight]"],
+                "K":["minecraft:quartz_stairs[facing=west+half=top+shape=straight]"],
+                "L":["minecraft:quartz_stairs[facing=east+half=top+shape=straight]"],
+                "M":["minecraft:dark_oak_slab[type=top]"],
+                "N":["minecraft:dark_oak_slab[type=double]"],
+                "O":["minecraft:chain[axis=y]"],
+                "P":["minecraft:dark_oak_stairs[facing=north+half=top+shape=straight]"],
+                "Q":["minecraft:spruce_trapdoor[powered=false+open=true+facing=south+half=bottom]"],
+                "R":["minecraft:spruce_trapdoor[powered=false+open=true+facing=east+half=bottom]"],
+                "S":["minecraft:campfire"],
+                "T":["minecraft:spruce_trapdoor[powered=false+open=true+facing=west+half=bottom]"],
+                "U":["minecraft:spruce_trapdoor[powered=false+open=true+facing=north+half=bottom]"]
+            })
+        )
+});
+//design by BitGardener https://www.youtube.com/watch?v=rXV_b7J1TB4

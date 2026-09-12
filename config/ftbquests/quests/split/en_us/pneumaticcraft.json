@@ -1,0 +1,558 @@
+{
+    "quest.01AC9F09A84155B8.quest_desc": [
+        "This is the basic vacuum pump it will generate suction when hooked up to pressure",
+        "",
+        "Vacuum is used for a few things in this mod like making and extracting spawner cores and disenchanting. ",
+        "",
+        "Applying negative pressure to an air grate will cause it to suck things in instead of blowing them away."
+    ],
+    "quest.01AC9F09A84155B8.quest_subtitle": "Sucktion",
+    "quest.01C22467B074967C.quest_desc": [
+        "The heat frame can be placed on top of any inventory and is used to create obsidian, ice and plastic ",
+        "",
+        "In order to do this you will need to keep the frame below the solidification temperature of whatever you are trying to make which is explained in the heat quests earlier",
+        "",
+        "The pnc tanks are useful for this as they will hold multiple buckets so you don't have to sit there cycling buckets all day."
+    ],
+    "quest.01C22467B074967C.quest_subtitle": "Ice bath",
+    "quest.0335AE18355F438B.quest_desc": [
+        "Molten plastic is made in the thermopneumatic processing plant and is made with either lpg or biodiesel along with coal."
+    ],
+    "quest.0335AE18355F438B.quest_subtitle": "Nothing like the smell of burnt plastic in the morning",
+    "quest.057C34F21922414A.quest_desc": [
+        "The uv light box is used to increase the etch success chance on your empty PCBs the longer they stay inn the higher the chance of success",
+        "",
+        "The pcb blueprint is traded in the Amadron or from the pnc villiger."
+    ],
+    "quest.05CBF1076C1E21DF.quest_desc": [
+        "Now if you don't wish to break the chamber open every time you wish to do a craft you are gonna want at least 2 of these.",
+        "",
+        "These allow you to import and export from the pressure chamber.",
+        "",
+        "They export or import from the chamber based on which way you place them, the blue side is input and orange side is output &e(when looking at them from the outside)&r.",
+        "",
+        "They will auto export to an adjacent inventory but they will not pull from adjacent inv and you cannot manually operate them so you gotta pipe/hopper them inn.",
+        "",
+        "&e(note: every time these open and close you lose a little bit of air to minimize this you can upgrade them with speed upgrades)&r"
+    ],
+    "quest.05CBF1076C1E21DF.quest_subtitle": "I/O",
+    "quest.08F416131D7643D3.quest_desc": [
+        "Are you tired of pipes ruining your clean setup?",
+        "",
+        "Then this is the tool for you!",
+        "",
+        "The camouflage applicator is able to hide pipes among other things."
+    ],
+    "quest.08F416131D7643D3.quest_subtitle": "Ugly pipes? fear not",
+    "quest.0BBC615579A094E2.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&ePneumaticCraft&r questline made by: &aRadz&7Ratz&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.0BBC615579A094E2.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.0BBC615579A094E2.title": "&l&4Catalyst Studios Quests",
+    "quest.0C3E31C1CC7C09B1.quest_desc": [
+        "These drones will interact with inventories that has logistics frames on them in a 31x31x31 area centered on where you deployed them.",
+        "",
+        "Their behavior is based on how you program the frames.",
+        "",
+        "Once you are able to make a regular all purpose drone you can make a more powerful version of this feature with the logistics widget.",
+        "",
+        "&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+    ],
+    "quest.0C3E31C1CC7C09B1.quest_subtitle": "Airborne delivery",
+    "quest.0EF171C9D1A27B99.quest_desc": [
+        "PNC comes with a handy villiger which trades you everything you could need except for plastic. In fact he is so good that if you have these you don't even need to build a pressure chamber.",
+        "",
+        "see page 2 for trades.",
+        "",
+        "{@pagebreak}",
+        "",
+        "Info dump villiger trades:",
+        "",
+        "COMPRESSED_IRON_BLOCK",
+        "PRESSURE_TUBE",
+        "AIR_CANISTER",
+        " ",
+        "&7LOGISTICS_CORE&r",
+        "&7TRANSISTOR&r",
+        "&7CAPACITOR&r",
+        "&7TURBINE_BLADE&r",
+        "",
+        "",
+        "",
+        "&eLOGISTICS_DRONE&r",
+        "&eHARVESTING_DRONE&r",
+        "&eCOLLECTOR_DRONE&r",
+        "&eGUARD_DRONE&r",
+        "&ePNEUMATIC_CYLINDER&r",
+        "&eGUN_AMMO&r",
+        "",
+        "",
+        "&aGUN_AMMO_FREEZING&r",
+        "&aGUN_AMMO_WEIGHTED&r",
+        "&aGUN_AMMO_AP&r",
+        "&aGUN_AMMO_EXPLOSIVE&r",
+        "&aGUN_AMMO_INCENDIARY&r",
+        "&aPROGRAMMING_PUZZLE&r",
+        "&aNUKE_VIRUS&r",
+        "&aSTOP_WORM&r",
+        "",
+        "&bPRINTED_CIRCUIT_BOARD&r",
+        "&bMICROMISSILES&r",
+        "&bDRONE&r"
+    ],
+    "quest.0EF171C9D1A27B99.quest_subtitle": "Screw this",
+    "quest.0EF171C9D1A27B99.title": "Bypass Valve",
+    "quest.0F68267B2DC0E06A.quest_desc": [
+        "This is where you can build programs for your drones. You can select between program complexity in the bottom right corner.",
+        "",
+        "Programs consist of widgets that you snap together and the widget will only accept a widget that fits.",
+        "",
+        "You start off with the start block then build your program downwards.",
+        "",
+        "Negative volumes/blacklists ect goes on the left side of the widget and whitelists and volumes goes on the right side of the widgets you can add as many widgets as you like in a row to make more complex filters and volumes (some widgets only accepts cube areas)",
+        "",
+        "When you make a program and put it on a drone or api you have to pay with puzzle pieces which can be crafted or traded from villiger.",
+        "",
+        "The programing system is fairly intuitive and will not dive any deeper into it if you are wondering about a widget see book hold I over it in programmer."
+    ],
+    "quest.0F68267B2DC0E06A.quest_subtitle": "Piece it together",
+    "quest.10B2FF4D07F806B7.quest_desc": [
+        "The pressure tube is used to move and contain your air.",
+        "",
+        "The most basic tube is capable of handling 5 bars of pressure much more and they will randomly blow up.",
+        "",
+        "Pressure takes a while to travel so it is advised to keep distances to a minimum in this mode, if you wish these tubes will last you all the way to the highest tier tube."
+    ],
+    "quest.10B2FF4D07F806B7.quest_subtitle": "Same same but different",
+    "quest.1144B308B2C7245F.quest_desc": [
+        "When placed on a pipe with at least 3 bars of pressure it will connect to all other logistics modules on the network.",
+        "",
+        "The network only extends to connected pipes.",
+        "",
+        "On their own they don't do anything but when facing a logistics frame they will transfer items between the inventories depending on how you have set up your logistics. frames.",
+        "",
+        "&4(NOTE! the module has to face the logistics frame it can not just be on any face)&r"
+    ],
+    "quest.1144B308B2C7245F.quest_subtitle": "Piped logistics",
+    "quest.1292C85BF4C73D7A.quest_desc": [
+        "This generator makes pressure based on heat differential on opposite sides the bigger the difference the faster it is see heat chapters for more info on heat."
+    ],
+    "quest.13060BF8D2D4AB76.quest_desc": [
+        "The spawner extractor is placed onto a spawner you then apply negative pressure to start extracting the core.",
+        "",
+        "the result will be a core with 100% essence of the spawner type you extracted and an empty spawner which you use to create the pressurized spawner"
+    ],
+    "quest.13060BF8D2D4AB76.quest_subtitle": "Spawner juice",
+    "quest.13647F5B0F6745E5.quest_desc": [
+        "If you want to make custom spawner cores you are going to need this",
+        "",
+        "These need to be filled with experience in the thermopneumatic processing plant to be able to be filled with mobs"
+    ],
+    "quest.13647F5B0F6745E5.quest_subtitle": "Framework",
+    "quest.1A36052DF194B26A.quest_desc": [
+        "The guard drone will attack mobs in a 31x31 area and 8 up and 5 bellow the inventory its placed on this inventory should contain weapons or minigun ammo if minigun upgrade is installed.",
+        "",
+        "Do note that these drones have health and can die; there are armor upgrades and regen upgrades for them.",
+        "",
+        "&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+    ],
+    "quest.1A36052DF194B26A.quest_subtitle": "Pest control",
+    "quest.1B100B1D5C5E7F0B.quest_desc": [
+        "Once you start working with higher pressures you might encounter machines that still require 5 or 10 bar even though you are producing 20 bar.",
+        "",
+        "For this you can use the regulator to reduce a 20 or 10 line to 5 Bar with the basic version and any pressure you like with the upgraded version.",
+        "",
+        "you want your pressure source to be on the large side and your output to be on the small side.",
+        "",
+        "With the upgraded version you can use a redstone signal to regulate how much pressure it lets through.",
+        "",
+        "&4(NOTE! does not regulate pressure in both ways.)&r"
+    ],
+    "quest.1D3E958C900ADD0E.quest_desc": [
+        "made in the thermopneumatic processing plant and allows you to handle 10 bars of pressure"
+    ],
+    "quest.1D3E958C900ADD0E.quest_subtitle": "10 Bar",
+    "quest.1EACFBCABFF93EE6.quest_desc": [
+        "If you don't already have another kind of liquid experience to use to fill the spawner cores you can use this item to store experience then use it on a tank to get memory essence."
+    ],
+    "quest.218624C62F3E436E.quest_desc": [
+        "The Amadron tablet can be used to trade for various useful things like lubricant for speed upgrades and to get the pcb blueprint for producing your very own circuit boards",
+        "",
+        "",
+        "To use the tablet you first need to charge it in a charging station.",
+        " ",
+        "Then you select the pickup/drop off location this is where you put your emeralds ect and receive your purchased goods, &eif you want to trade for liquids you need to set a tank as well for pickup/delivery.&r"
+    ],
+    "quest.218624C62F3E436E.quest_subtitle": "Online shopping",
+    "quest.232EB86E5AD07B82.quest_desc": [
+        "Will collect items and deposit them to the inventory it was placed on. ",
+        "",
+        "If it's placed on an inventory with items in it it will filter to the items in the inventory at the time of deployment. The only way to set a new filter is to pick up the drone and place it again.",
+        "",
+        "Its range is by default 17x17x17 centered on the inv can be upgraded with range augments",
+        "",
+        "&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+    ],
+    "quest.2489A5EDFFCD05C3.quest_desc": [
+        "Used for setting coordinates in programs among other things.",
+        "",
+        "Adjust location by holding shift and scrolling while looking in the direction you want to adjust",
+        "",
+        "to paste coordinate into program hold the gps over the widget you want to paste to and click it"
+    ],
+    "quest.24CBEE1570C4CCAD.quest_desc": [
+        "These frames when placed on inventories allow logistics drones/programs/modules to interact with them (explained in next quests).",
+        "",
+        "there are 5 types and these will attach to any inventory not just chests",
+        "",
+        "&4passive provider: will provide items to requesters that will be prioritized over all other frames.&r",
+        "",
+        "&5active provider: will push items into requesters storage and default storage frames if possible.&r",
+        "",
+        "&1requester: are able to request items from active providers passive providers storage and default storage.&r",
+        "",
+        "&estorage: buffers items from active providers.&r",
+        "",
+        "&2default storage: will only be filled if there are no other place to deposit and will be pulled from before storage and sends its items to normal storage frames if possible.&r",
+        "",
+        "You can set a minimum transfer in the grid icon in their GUI to make transfer more efficient.",
+        "",
+        "Works more or less like the logistics system in factorio."
+    ],
+    "quest.24CBEE1570C4CCAD.quest_subtitle": "Factorio is that you?",
+    "quest.25081C81DD7C47E9.quest_desc": [
+        "The spawner core is inserted into the pressurized spawner for it to spawn whatever mobs are in the core.",
+        "",
+        "Custom ones can be made in the vacuum trap with cores created from scratch.",
+        "",
+        "The core you got from extracting a spawner can be put back in once you make it into a pressurized spawner if you want that particular mob."
+    ],
+    "quest.2794DEFAA6E8DD10.quest_desc": [
+        "Upgraded version this one has 2 coordinates and can even select different shapes."
+    ],
+    "quest.2794DEFAA6E8DD10.quest_subtitle": "This is getting out of hand now there is two of them",
+    "quest.2BA4BE93A61B7015.quest_desc": [
+        "pnc introduces heat. Heat is able to be transmitted through heat cables, compressed iron blocks and machines that generate/require heat.",
+        "",
+        "Sometimes you need to generate heat which can be done with by placing hot blocks like lava or magma blocks beside the machine or compressed iron blocks attached to the machine but these will lose heat over time and eventually convert to other materials so this is not to be advised as it's really inefficient.",
+        "",
+        "The alternative is using a vortex tube these will use pressure to create a hot side (the red side) and a cold side (the blue side)",
+        "",
+        "Getting rid of heat",
+        "If you need to get rid of heat you can use the block method just with cold stuff like ice ect. or you can use the cold side of a vortex tube or the cheapest and easiest method is the heatsink.",
+        "",
+        "all blocks that can hold/transfer heat will naturally lose heat through any open side that isn't covered by a block or thermal lagging but placing a heatsink on there will greatly speed up this process"
+    ],
+    "quest.2BA4BE93A61B7015.quest_subtitle": "Getting hot in here",
+    "quest.2BA4BE93A61B7015.title": "Heat 101",
+    "quest.2BA68052B62D7EBF.quest_desc": [
+        "The pressurized spawner is a powerful spawner that rivals the Apothic Spawner.",
+        "",
+        "once fully upgraded and running on 20 bar this spawner will run at similar rates to that of Apoth spawner and is able to contain a core with a large amount of different mobs in just a single spawner",
+        "",
+        "&4(NOTE! minimum operating pressure for the spawner is 10 Bar use with care.)&r"
+    ],
+    "quest.2C2A8116CA4A5430.quest_desc": [
+        "Able to interact with entities, like Apothic bosses.",
+        "",
+        "Able to steal your armor"
+    ],
+    "quest.2C2A8116CA4A5430.quest_subtitle": "Stealing",
+    "quest.2E6E63F5C8849B56.quest_subtitle": "Organic",
+    "quest.31A03D303C9D7543.quest_desc": [
+        "This is the block that you use to charge your equipment in PNC.",
+        "It is also used to charge drones if you got a dispenser upgrade in it."
+    ],
+    "quest.3232A5D2408F36A7.quest_desc": [
+        "Used to interact with logistics frames"
+    ],
+    "quest.32CA71F95A2FE5D3.quest_desc": [
+        "These bricks are used in various blocks in this mod like compressors and chargers etc."
+    ],
+    "quest.32CA71F95A2FE5D3.quest_subtitle": "Though rock",
+    "quest.32CA71F95A2FE5D3.title": "Reinforced stone",
+    "quest.35F5804D9B6BB176.quest_desc": [
+        "The Thermopneumatic processing plant is one of the structures that requires heat as well as pressure to operate.",
+        "",
+        "It is used in various places along the plastic production line as well as oil cracking."
+    ],
+    "quest.386792182535EFAE.quest_desc": [
+        "This module is placed onto your pipes in order to keep them safe; they will vent pressure at 4.9Bar on a basic and reinforced tube and 19.9 on an advanced tube.",
+        "",
+        "If you want to set your own thresholds you can use a module expansion card on it later on.",
+        "",
+        "The upgraded version can regulate its threshold based on redstone level.",
+        "",
+        "&4(NOTE! these are able to be overpowered if fed to much pressure)&r"
+    ],
+    "quest.386792182535EFAE.quest_subtitle": "Whistle blower",
+    "quest.387749084DD040D9.quest_desc": [
+        "In PNC most if not all items have useful tooltips which will generally explain pretty well what the different things do.",
+        "",
+        "This is also where you can see the rated pressures of machines."
+    ],
+    "quest.39182BE15900BF10.quest_desc": [
+        "To use the vacuum trap simply apply negative pressure, insert the empty spawner core and shift click the block to open it.",
+        "",
+        "&4(NOTE! will not overwrite stored essence so you need to insert a core that isn't already full.)&r",
+        "",
+        "Here is an example of what you can do with the custom cores.",
+        "every time it tries to spawn mobs it will pick randomly from the ones on the tag.",
+        "{image:catalyst:textures/quest_images/pneumaticcraft_repressurized/spawner_core.png width:100 height:200 align:center}"
+    ],
+    "quest.39182BE15900BF10.quest_subtitle": "Ghostbusters",
+    "quest.398B22B8D9E1149A.quest_desc": [
+        "works in a 17x17x17 area will harvest any fully grown crop if placed on an inventory and a hoe is placed in that inv it will replant the crops.",
+        "",
+        "&4(will not collect items)&r",
+        "",
+        "&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+    ],
+    "quest.3A25C866395DB478.quest_desc": [
+        "Your first pcb it is advice to use your first PCBs on the assembly multiblock as it allows you to make PCBs a lot easier"
+    ],
+    "quest.3A25C866395DB478.quest_subtitle": "Thinking rock",
+    "quest.3C99340DB19C8333.quest_desc": [
+        "The aerial interface allows for interaction with your inventory; this can be auto restocking charging of gear with rf as well not just air and you can even pump exp into and out of your player.",
+        "",
+        "",
+        "example of auto charging PNC suit",
+        "{image:catalyst:textures/quest_images/pneumaticcraft_repressurized/autocharging.png width:200 height:200 align:center}",
+        "{image:catalyst:textures/quest_images/pneumaticcraft_repressurized/autocharging2.png width:220 height:200 align:center}"
+    ],
+    "quest.3F160D913BA62B9B.quest_desc": [
+        "This will likely be your first way of generating pressure quick and dirty pressure gen.",
+        "",
+        "It burns any material with a fuel value like coal planks ect and can be regulated with redstone.",
+        "",
+        "&4(NOTE! This compressor will continue generating pressure till it's currently burning fuel is finished even when disabled by redstone so it's advised to use a fuel with a low fuel value like tiny coal.)&r"
+    ],
+    "quest.3F160D913BA62B9B.quest_subtitle": "you will prob blow a few of these",
+    "quest.3F417D2CB3BBBC04.quest_desc": [
+        "This is a very niche compressor that uses lightning to generate pressure see book for info on how to set up.",
+        "",
+        "&e(note: artificial lightning will not work the generator will randomly summon lightning based on the weather and the setup you have)&r"
+    ],
+    "quest.3F417D2CB3BBBC04.quest_subtitle": "exciting",
+    "quest.3F502A343332B9DB.quest_desc": [
+        "Plastic is used in various components and blocks in pnc like circuit boards and various machines "
+    ],
+    "quest.3F502A343332B9DB.quest_subtitle": "Time for lego",
+    "quest.3F6C63BFB8373722.quest_desc": [
+        "Component used in logistics items"
+    ],
+    "quest.40FF3CEA25F2CB54.quest_desc": [
+        "The pressure chamber the centerpiece of pnc,",
+        "",
+        "Not only does it allow you to make compressed iron at a 1:1 ratio unlike explosive compression, but also allows you to make various useful components needed in this mod.",
+        "",
+        "Granted you didn't go the villager route in which case you don't need it at all....",
+        "",
+        "The chamber comes in 3 sizes 3x3x3 4x4x4 and 5x5x5.",
+        "",
+        "You can replace any blocks in the walls with valves and ports or windows or pressure chamber interfaces &4except for the outer edges and corners.&r"
+    ],
+    "quest.40FF3CEA25F2CB54.title": "pressure chamber",
+    "quest.4611B03649489FE8.quest_desc": [
+        "If you want to make unassembled PCBs from empty PCBs you're going to have to etch them.",
+        "",
+        "To do this you are gonna need etching acid and an etching tank.",
+        "(etching acid is made in the pressure chamber)",
+        "",
+        "by default the etching tank does not consume any acid unless you heat it up.",
+        "",
+        "The hotter the etching tank is the faster it goes but then you also have to refill the acid.",
+        "",
+        "&e(failed PCBs can be recycled in a furnace)&r",
+        "",
+        "&4(NOTE! whether you get a successful etch depends on the etch success chance the chance increase the longer you keep it in the light box)&r"
+    ],
+    "quest.4611B03649489FE8.quest_subtitle": "Fake vat of acid?",
+    "quest.4611B03649489FE8.title": "Etching",
+    "quest.495DE286325A307B.quest_desc": [
+        "This multiblock allows you to make advanced pressure tubes and allows you to make empty PCBs a lot easier without the whole light box and etching steps.",
+        "",
+        "These are all the blocks you need to make a fully functional assembly setup",
+        "",
+        "The assembly platform goes in the center.",
+        "",
+        "The laser and drill have to be touching the assembly station diagonals do not count.",
+        "",
+        "IO can go in a 3x3 centered on the assembly platform, these will export and import to any inv within a 3x3 centered on themselves this can be a chest or it can be for example a interface.",
+        "",
+        "Lastly the controller can go anywhere as long as it's touching the rest of the multiblock, this is where you feed pressure and put in your program.",
+        "",
+        "&4(NOTE! all blocks have to be touching)&r"
+    ],
+    "quest.495DE286325A307B.title": "Assembly line",
+    "quest.4A0234D2BEB10B56.quest_desc": [
+        "These compressors are the upgraded version of the basic version and a new compressor (flux compressor)",
+        "These will generate up to 20 bars of pressure and will do so at great speed when upgraded. Do note that these compressors do generate heat and lose efficiency the hotter they get so a cooling solution is a must.",
+        "",
+        "Cooling usually comes in the form of either heat sinks or heatsinks with air blowing over them using an air grate."
+    ],
+    "quest.4AB6901D51226E1B.quest_desc": [
+        "For those who want to do things the hard way",
+        "",
+        "Heat will only be transferred to full blocks; heat pipes will only transfer heat from full blocks like machines, compressed iron and heat sinks; they will not connect to liquids for this you need compressed iron."
+    ],
+    "quest.4AB6901D51226E1B.quest_subtitle": "Don't say i didn't warn you",
+    "quest.4AB6901D51226E1B.title": "Heat 103",
+    "quest.4B59110691340891.quest_desc": [
+        "primarily used in  the different components for the assembly multiblocks"
+    ],
+    "quest.4C88E4FACA72A4A0.quest_subtitle": "IT'S ALIVE!",
+    "quest.4C89C5F7446C15CD.quest_desc": [
+        "If you haven't already found some as dungeon loot or \"relocated\" a pnc villager to trade with you can make this compressed iron by blowing up iron with tnt.",
+        "",
+        "Be aware that there will be some losses during this process",
+        "Both ingots or blocks works for this"
+    ],
+    "quest.4C89C5F7446C15CD.quest_subtitle": "Explosivo",
+    "quest.4C89C5F7446C15CD.title": "Under Pressure",
+    "quest.4E23B188C32FFAE5.quest_desc": [
+        "If there is still something you are wondering about that isn't covered in the quests there is always the book.",
+        "",
+        "If you have the book in your inventory you can hold ctrl over an item to go directly to its page"
+    ],
+    "quest.4E23B188C32FFAE5.quest_subtitle": "BookWorm",
+    "quest.4FCD069CFF4FA112.quest_desc": [
+        "A programmable drone, this drone can do anything the other drones can and more can be programmed in the programming station and can even run multiple programs with the external program widget and network api",
+        "",
+        "",
+        "&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+    ],
+    "quest.4FCD069CFF4FA112.quest_subtitle": "versatile machinery",
+    "quest.51A04C8539DD3226.quest_desc": [
+        "These are primarily used in PCBs and can be gotten from the trader, dungeons or be made in the pressure chamber."
+    ],
+    "quest.51A04C8539DD3226.title": "Electronics",
+    "quest.54A1827B28374C2A.quest_desc": [
+        "The result of extracting a spawner with the spawner extractor used in the pressurized spawner"
+    ],
+    "quest.56FA78391A94AFE6.quest_desc": [
+        "made in the assembly multiblock and allows you to handle 20 bars the highest the mod has to offer."
+    ],
+    "quest.56FA78391A94AFE6.quest_subtitle": "20 Bar",
+    "quest.5767DCAD635EB0D5.quest_desc": [
+        "Your first successfully etched PCB all that's missing is the electronics."
+    ],
+    "quest.5767DCAD635EB0D5.title": "PCB base",
+    "quest.57B389A6B2961AC0.quest_desc": [
+        "Drones are a useful and powerful tool that can do a wide variety of tasks.",
+        "",
+        "all drones can either be made or traded from the pnc villiger.",
+        "",
+        "All drones will charge at chargers nearby with the dispenser upgrade, this is visualized by the helipad that's added to the model.",
+        "",
+        "note that all drones have health and can be killed.",
+        "",
+        "&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
+    ],
+    "quest.57B389A6B2961AC0.title": "Drones",
+    "quest.5847A76DAFC0F4C2.quest_desc": [
+        "Powerful sensor that's capable of reading a large variety of different states in the world as well as wireless redstone."
+    ],
+    "quest.5847A76DAFC0F4C2.quest_subtitle": "I see you",
+    "quest.594A88E613C554B4.quest_desc": [
+        "This chest is capable of a wide variety of tasks like pulling and pushing, locking slots to a specific item, locking slots to a specific amount of items, vacuuming, dropping items, and will hold as many stacks as you set it to.",
+        "",
+        "For how to set slots see the chest GUI on slot interaction on the left side."
+    ],
+    "quest.594A88E613C554B4.quest_subtitle": "The chest that does it all",
+    "quest.5C98018C9726E9D7.quest_desc": [
+        "Oil can be found around the world you have probably spotted these spouts around the maps these can be harvested to get your oil",
+        "",
+        "alternatively you can use a fluid laser drill from industrial foregoings to get a infinite supply see Industrial foregoings quest"
+    ],
+    "quest.5C98018C9726E9D7.quest_subtitle": "Black gold",
+    "quest.5F3191014DED156F.quest_desc": [
+        "Upgrades are used to augment your machines and generally make them better.",
+        "",
+        "Starting off the most important upgrade of all the security upgrade",
+        "",
+        "This upgrade will make sure your machine doesn't explode in case you put too much pressure through the system.",
+        "",
+        "You can see which upgrades you can put in the machine and what they do in the GUI on the left side and when you hover over the upgrade you can see which machines take it.",
+        "",
+        "&4(NOTE! This upgrade is not invisible and if your machine is significantly over its rated pressure when you relog or unload and reload a chunk the machine will still explode. As long as the machine stays loaded it's practically impossible to blow it up with this upgrade installed)&r "
+    ],
+    "quest.5F3191014DED156F.quest_subtitle": "Safety first",
+    "quest.5F3191014DED156F.title": "Upgrades",
+    "quest.679E61DE9A872F6B.quest_desc": [
+        "Used to upgrade modules on pipes to increase speed or control"
+    ],
+    "quest.679E61DE9A872F6B.quest_subtitle": "Just how i want it",
+    "quest.6C7CE3884A3A134B.quest_desc": [
+        "The refinery is a multiblock that can have up to 4 refinery outputs.",
+        "Place down the controller and ideally 4 outputs on top.",
+        "The refinery only requires heat to operate, make sure to cover the open sides with thermal lagging so you don't lose all the heat.",
+        "&e(any block will work as thermal lagging but they are neater and you can interact with the machine behind them.)&r",
+        " "
+    ],
+    "quest.6CA72FFE06D0D4A2.quest_desc": [
+        "IF and PNC plastic has been unified this means you can use plastic instead which is way faster and easier to make.",
+        "Plastic is used in various components and blocks in pnc like circuit boards and various machines "
+    ],
+    "quest.6CA72FFE06D0D4A2.quest_subtitle": "Shortcut",
+    "quest.6CA72FFE06D0D4A2.title": "Plastic",
+    "quest.6DA978E4D7B0B5F6.quest_desc": [
+        "Upgraded vacuum pump this pump is a pipe module and will be able to handle as much pressure as the pipe its place onto you can further upgrade the pump with a module expansion card"
+    ],
+    "quest.6E01662992FF940F.quest_desc": [
+        "You could of course use your handy bucket or a Mekanism tank in bucket mode to collect the oil  but you can also use the gas lift to collect it for you.",
+        "Place it above the reservoir and give it drill pipes and pressure and it should start drilling for oil."
+    ],
+    "quest.6E01662992FF940F.quest_subtitle": "Turmoil",
+    "quest.705D0129508997FA.quest_desc": [
+        "Used in plastic production."
+    ],
+    "quest.7103EE7A674278B7.quest_subtitle": "Moonshine",
+    "quest.736D9DEE0F3E836C.quest_desc": [
+        "As mentioned earlier the heatsink is useful for getting rid of heat/cold but for some application even the normal heat sink isn't enough to get rid of all the heat &5(looking at you flux compressor)&r",
+        "For applications such as these you can add an air grate to blow air over the sink which will greatly increase its cooling capacity."
+    ],
+    "quest.736D9DEE0F3E836C.quest_subtitle": "Toasty",
+    "quest.736D9DEE0F3E836C.title": "heat 102",
+    "quest.746ABCD05A10E15A.quest_desc": [
+        "Works similarly to the normal drones excluding a few features see book.",
+        "The benefit of these is they do not require a charger like a regular drone and can be fed directly from a line and the drone is not an actual entity and just a visual representation so no pathfinding involved.",
+        "Will run programs on network apis or drones placed inside it.",
+        "",
+        "Contains chunk loading capabilities for itself and its drone."
+    ],
+    "quest.78F4BD64456FAC4A.quest_desc": [
+        "Used in the creation of bio diesel only requires pressure "
+    ],
+    "quest.795FB25F7FE3F03C.quest_desc": [
+        "The pressure gauge is used to regulate the pressure in your system.",
+        "These pipe modules will output a redstone signal based on how much pressure is in the system.",
+        "",
+        "if you are running compressores that burn fuel you want to stop them before they reach the desired pressure since there is some lag between you giving the stop signal and it actually stopping",
+        "",
+        "if you are burning tiny coal a good point to stop is around 6-7 redstone level (6-7 long redstone line alternatively a block that outputs at a specific redstone level)",
+        "",
+        "Later on you will be able to set these up as you want when you can upgrade them with module expansion cards but until then they will be at redstone level 0 at 0 bar and redstone level 15 at 8 bar."
+    ],
+    "quest.795FB25F7FE3F03C.quest_subtitle": "pressure regulation",
+    "quest.7CC7197C575FF980.quest_desc": [
+        "When using the refinery you are going to be creating byproducts that you don't really need for much; these can all be turned into lpg granted at a 20% loss per step.",
+        "",
+        "This is done in the thermopneumatic processing plant."
+    ],
+    "quest.7E4F9C92570A846E.quest_desc": [
+        "This suit can be upgraded and allows a wide variety of abilities.",
+        "",
+        "The suit is generally considered on par with the Mek suit and is relatively easy to make(and doesn't lag nearly as much).",
+        "",
+        "See charger GUI and click arrow over charge slot for info on upgrades.",
+        "",
+        "For auto charging of armor see aerial interface quest"
+    ],
+    "quest.7E4F9C92570A846E.quest_subtitle": "“Genius, Billionaire, Playboy, Philanthropist.”",
+    "quest.7E4F9C92570A846E.title": "Iron man"
+}

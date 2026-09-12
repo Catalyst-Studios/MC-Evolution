@@ -12,10 +12,10 @@ function removeBlocks(blocksToRemove)
 
 function summonEntities(catalyst, entityType, count, x, y, z)
 {
-    for(let i = 0; i < count; i++)
-    {
-        catalyst.server.runCommandSilent(`summon minecraft:item ${x} ${y} ${z} {Item:{id:"${entityType}"}}`);;
-    }
+    let itemEntity = catalyst.level.createEntity('item');
+    itemEntity.item = Item.of(entityType, count);
+    itemEntity.setPosition(x, y, z);
+    itemEntity.spawn();
 }
 
 //reinforced deepslate block crafting
@@ -94,7 +94,8 @@ BlockEvents.rightClicked('justdirethings:gooblock_tier3', catalyst => {
             {
                 for(let dy = -1; dy <= 1; dy++)
                 {
-                    for(let dz = -1; dz <= 1; dz++) {
+                    for(let dz = -1; dz <= 1; dz++)
+                    {
                         let block = catalyst.block.offset(dx, dy, dz);
 
                         // Check for Raw Celestigem Ore
@@ -158,7 +159,7 @@ BlockEvents.rightClicked('justdirethings:gooblock_tier3', catalyst => {
                 let x = catalyst.block.x;
                 let y = catalyst.block.y + 2; // 2 blocks above the center block
                 let z = catalyst.block.z;
-                summonEntities(catalyst, "modular_machinery_reborn:modularium", 8, x, y, z)
+                summonEntities(catalyst, "eternalores:modularium_ingot", 8, x, y, z)
 
                 // Consume the Netherite Upgrade Smithing Template item
                 catalyst.player.getMainHandItem().count -= 64;
@@ -258,7 +259,7 @@ BlockEvents.rightClicked('justdirethings:gooblock_tier4', catalyst => {
                 let x = catalyst.block.x;
                 let y = catalyst.block.y + 2; // 2 blocks above the center block
                 let z = catalyst.block.z;
-                summonEntities(catalyst, "modular_machinery_reborn:modularium", 72, x, y, z)
+                summonEntities(catalyst, "eternalores:modularium_ingot", 72, x, y, z)
 
                 // Consume the Netherite Upgrade Smithing Template item
                 catalyst.player.getMainHandItem().count -= 64;

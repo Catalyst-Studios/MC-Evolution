@@ -1,0 +1,470 @@
+{
+    "quest.021B7A0E87A969AD.title": "Draconic Bee",
+    "quest.022A6FCC033F4FA1.title": "Leafcutter bee",
+    "quest.0263BA792A5781AC.quest_desc": [
+        "Go to a River biome with a fishing rod and start fishing.",
+        "",
+        "After some tries, a water bee will spawn and will attack you, so catch it fast.",
+        "",
+        "These bees has the &dAny&r gene that we are looking for, for making bees work on any &9weather&r"
+    ],
+    "quest.0263BA792A5781AC.quest_subtitle": "Fishing time",
+    "quest.0263BA792A5781AC.title": "Weather gene",
+    "quest.06D93FEF99C1385C.title": "Sussy Bee",
+    "quest.071FE397CB2E98E4.title": "Fish Bee",
+    "quest.073DE2F2007E5403.quest_desc": [
+        "You get genes from the bees inside the hive, but it's too slow, go for the other method"
+    ],
+    "quest.073DE2F2007E5403.quest_subtitle": "Genes",
+    "quest.083604B3D2850E53.quest_desc": [
+        "Just a faster version, but doesn't work on hives"
+    ],
+    "quest.083604B3D2850E53.quest_subtitle": "Sonic, the film",
+    "quest.0925EFA03EAFF209.quest_desc": [
+        "This is your main way to process combs from Productive bee mod.",
+        "",
+        "&cDo not process combs from normal bees.&r",
+        "",
+        "We have 3 centrifuges, the first one can only be used by player, so we will be skipping that.",
+        "",
+        "The other 2 centrifuges needs power and can be used by other automation systems, like &cS&r&eF&r&cM&r or &bAE2&r.",
+        "",
+        "While they are basically the same, there is 3 key differences:",
+        "",
+        "- &cHeated&r &dcentrifuge&r works faster",
+        "",
+        "- &cHeated&r &dcentrifuge&r doesn't render combs (less lag)",
+        "",
+        "- &cHeated&r &dcentrifuge&r doesn't generate wax"
+    ],
+    "quest.0925EFA03EAFF209.quest_subtitle": "SFM triggered",
+    "quest.0B590548E1FA4E1A.title": "Chocolate Mining Bee",
+    "quest.0C47A37CB3C4FE67.quest_desc": [
+        "You want to get more &ebees&r without suffering?",
+        "",
+        "This is the way to do so, you need 1 breeding chamber and 1 incubator + some &6honey treat&r and &cflowers&r / &ddraconic dusts&r.",
+        "",
+        "Both machines needs to be powered. Here I'm using &aPipez&r and &cFunctional Drawers&r, but you can use anything that can move stuff like &bAE2&r.",
+        "",
+        "",
+        "{image:catalyst:textures/quest_images/productive_bees/breeder.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.0C47A37CB3C4FE67.quest_subtitle": "More bees, please",
+    "quest.0CA42C4E6040517E.quest_desc": [
+        "Bring some &ebees&r in cages, we need adult bees, not baby ones.",
+        "Bonus points if you bring them on 1-use &6cages&r.",
+        "",
+        "Put the &ebee&r on the &adispenser&r, click the lever on the dispenser and &ebee&r will go out.",
+        "Put some &7bottles&r on the bottler, activate piston and bee will die.",
+        "But you will get a &dfilled bottle&r, which we will use later",
+        "{image:catalyst:textures/quest_images/productive_bees/bottler.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.0CA42C4E6040517E.quest_subtitle": "SMASH",
+    "quest.0CEB2FA613B63E28.quest_desc": [
+        "Useful only on &bcatchers&r, to make it catch bees farther"
+    ],
+    "quest.0CEB2FA613B63E28.quest_subtitle": "Bigger nests",
+    "quest.0DB34FF7DC6B31CC.title": "Blue Banded Bee",
+    "quest.0DB992CAB5B99494.quest_desc": [
+        "Instead of combs, you get blocks, which are 4 combs, but they are quite expensive too"
+    ],
+    "quest.0DB992CAB5B99494.quest_subtitle": "Blocky",
+    "quest.0E2D84ED1157150E.quest_desc": [
+        "You need to be in a &bcold biome&r, and &6honey treats&r"
+    ],
+    "quest.0E2D84ED1157150E.quest_subtitle": "The real sugar",
+    "quest.10F497A089F5764D.quest_desc": [
+        "&1Echo&r shards.....",
+        "",
+        "But at least you can change your simulation upgrade for this one, making your bees produce a lot more.",
+        "",
+        "If you want, you can do 1 of these and 3 of the first tier, for now"
+    ],
+    "quest.10F497A089F5764D.quest_subtitle": "You can't skip this one",
+    "quest.1173CD14614D1F08.title": "BEE!",
+    "quest.11CED3F925F56C8D.quest_desc": [
+        "You need &6honey treats&r"
+    ],
+    "quest.11CED3F925F56C8D.quest_subtitle": "Dirty",
+    "quest.16B81EAF3EE2090F.title": "Get a Gold Bee",
+    "quest.1C966B51149B598F.title": "Magmatic Bee",
+    "quest.1D94E0177CCC9F42.quest_desc": [
+        "You will need this, or at least &dDraconic dust&r.",
+        "",
+        "They will be used a lot to make upgrades"
+    ],
+    "quest.1D94E0177CCC9F42.quest_subtitle": "Too many bees",
+    "quest.1D94E0177CCC9F42.title": "Draconic Chunks",
+    "quest.1E9DEB2861DAE355.quest_desc": [
+        "Now, it's when you can consider yourself started in this madbees"
+    ],
+    "quest.1E9DEB2861DAE355.quest_subtitle": "Yep, we have started the mod",
+    "quest.1E9DEB2861DAE355.title": "Honey Treat",
+    "quest.20B8574EE918C8B3.quest_desc": [
+        "Bees doesn't like to work during night but we want them to work 24/7.",
+        "",
+        "Pick 12 bees or more and some leads and leave them on a fence. &cDon't put a hive near them&r",
+        "",
+        "Every day, they have a chance to change to genes, from &aDiurnal&r to &9Nocturnal&r.",
+        "With that gene, our bees will only work during night now....",
+        "",
+        "Leave them a bit longer and you will get &dMetanocturnal&r, the 24/7 gene.",
+        "They take &cdamage&r when left without a hive, so give them a few &6honey treats&r to heal them"
+    ],
+    "quest.20B8574EE918C8B3.quest_subtitle": "The hard and long one",
+    "quest.20B8574EE918C8B3.title": "Behavior gene",
+    "quest.216C0477A265FD2E.title": "Green Carpenter Bee",
+    "quest.2172EDCAEFA96592.quest_desc": [
+        "Only useful if you have ender bees without simulation, which you shouldn't"
+    ],
+    "quest.2172EDCAEFA96592.quest_subtitle": "Ender bees only",
+    "quest.21C7D7343A8677DE.title": "Observe a KamikazBee",
+    "quest.22B285D439CCF4B5.quest_desc": [
+        "If you don't want lag from hundred of bees, you need to put one of this on each hive, unless you have &aOmega&r &9Upgrades&r or the 3rd tier of productivity",
+        "",
+        "Omega Upgrades acts as a simulation upgrade"
+    ],
+    "quest.22B285D439CCF4B5.quest_subtitle": "Forbidden",
+    "quest.232345A9C9EFDC9B.quest_desc": [
+        "Well well well....",
+        "",
+        "If you are here, you probably don't know how to start with this mod.",
+        "",
+        "It will be a &6long&r journey, and I'm joking, you will visit your &aworld&r"
+    ],
+    "quest.232345A9C9EFDC9B.quest_subtitle": "Sorry, I don't know how to make bee jokes",
+    "quest.232345A9C9EFDC9B.title": "Starting the beeventure",
+    "quest.237B43D294790EC9.quest_desc": [
+        "For this bee, you need to use glowstone and be on &4The Nether&r"
+    ],
+    "quest.237B43D294790EC9.quest_subtitle": "Turn off the light",
+    "quest.244F413E5C160D25.quest_desc": [
+        "Nope, you can get a 4th bee, but this one is a lot tricker, more info later.",
+        "",
+        "You need &6honey treats&r"
+    ],
+    "quest.244F413E5C160D25.quest_subtitle": "3 bees at once?",
+    "quest.248DA2D28459D050.quest_desc": [
+        "You want a bit of &bwood&r or material for your &6hives&r.",
+        "",
+        "1 &dadvanced&r hive needs around 6 logs to make, that is without the &eexpansion&r"
+    ],
+    "quest.248DA2D28459D050.quest_subtitle": "Hives",
+    "quest.248DA2D28459D050.title": "Logs",
+    "quest.252CC4B31AA8EA09.quest_desc": [
+        "Yep, this is the way.",
+        "",
+        "Why do we need another &amod&r to make what the mod is supposed to do? Because initially, bees are &cslow&r.",
+        "",
+        "You want to get 1 seed or more and mass produce &dessences&r"
+    ],
+    "quest.252CC4B31AA8EA09.quest_subtitle": "Honey on industrial scale",
+    "quest.26726F3439B381DD.quest_desc": [
+        "Magma cream.... and &4The Nether&r, perfect combo for this bee"
+    ],
+    "quest.26726F3439B381DD.quest_subtitle": "Turn off the fire PLEASE",
+    "quest.271ED85A73CCEAF5.title": "Sculk Bee",
+    "quest.27B08107951639AF.quest_desc": [
+        "Did you make the silly hat? No? I hope you know how to run.",
+        "",
+        "This bee is agressive, and it will attack you. If you get hitted, it will die.",
+        "",
+        "Needs &dDragon's Breath&r and to bee on &dThe End&r"
+    ],
+    "quest.27B08107951639AF.quest_subtitle": "Bring a mint",
+    "quest.2A4E391D344BCAEA.quest_desc": [
+        "Again, on &4The Nether&r, and this bee also love gold ingots"
+    ],
+    "quest.2A4E391D344BCAEA.quest_subtitle": "Gold Rush",
+    "quest.2D00BD62F5A81EF6.quest_desc": [
+        "The first thing we need to find are bees.",
+        "",
+        "Not the Productive bees, but vanilla ones, normal bees ",
+        "",
+        "Because the other bees are not normal, how can they produce diamonds of thin air :D"
+    ],
+    "quest.2D00BD62F5A81EF6.quest_subtitle": "We will need honey",
+    "quest.2D7DDADE52D33142.title": "Yellow Carpenter Bee",
+    "quest.300ED33E1226CF44.quest_desc": [
+        "You will also need this for later, only 1 catcher"
+    ],
+    "quest.300ED33E1226CF44.quest_subtitle": "Who's that bee",
+    "quest.32B17FE87968D864.quest_desc": [
+        "Expensive.....",
+        "",
+        "But produces more? No? Oh well, you can skip this tier if you want until the next upgrade"
+    ],
+    "quest.32B17FE87968D864.quest_subtitle": "Higher tier?",
+    "quest.34296A48E28FE4F8.quest_desc": [
+        "Now, lets say that we want to move our bees, which you will do, how can I do that?",
+        "",
+        "There are tons of mods that can do that already, but you will need these cages to interact with the machines of this mod.",
+        "",
+        "There are 2 types of cages, they all work the same:",
+        "",
+        "",
+        "- &dBee cage&r: Single use cage but it's crafteable",
+        "",
+        "- &dSturdy bee cage&r: \"Infinite\" uses but you need to find them on structures",
+        "",
+        "",
+        "Which one should I try to get? If you can make the first one without using too many resources, go ahead.",
+        "",
+        "If not, time for some exploration"
+    ],
+    "quest.34296A48E28FE4F8.quest_subtitle": "This is how to capture them",
+    "quest.34E20FB41656A81A.quest_desc": [
+        "Make sure you have a lot of &6honey treats&r before you start.",
+        "",
+        "Using only 1 &6honey treat&r on the following quests hives will trigger a countdown.",
+        "Some hives needs other materials, like gold.",
+        "",
+        "By default, 1 &6honey treat&r will produce 1 bee in 20 minutes. This is no bueno.",
+        "",
+        "{@pagebreak}",
+        "",
+        "So, how can we speed this process? Using more honey treats!",
+        "",
+        "This is the intended way on the mod, but you know, this is between you and me, you can use tick acceralators, like &aDyre things&r ;)",
+        "",
+        "Also, check the other quests first, they will be useful later on"
+    ],
+    "quest.34E20FB41656A81A.quest_subtitle": "Before you start....",
+    "quest.36C15F3B3A08A36B.quest_desc": [
+        "If you don't have Hostile Neural Networks or Reliquary, this is one of the hardest bee. Also needs to be on &4The Nether&r"
+    ],
+    "quest.36C15F3B3A08A36B.quest_subtitle": "\"Why is there a ghost behind you\"",
+    "quest.398E698C66EAA005.quest_desc": [
+        "Like the Neon Bee, but this time with a Ashy Mining Bee"
+    ],
+    "quest.398E698C66EAA005.quest_subtitle": "ANOTHER ONE?!?",
+    "quest.3BB43614E1AD8E65.quest_desc": [
+        "They acts as &aProductivity&r upgrades, &eblock&r upgrades and simulation upgrades, and you can put 4 on each hive.",
+        "",
+        "They are the best you can make and no, don't use &bspeed&r upgrades, not worth it "
+    ],
+    "quest.3BB43614E1AD8E65.quest_subtitle": "HEARTH OF THE SEA?!?",
+    "quest.3BD9E192B040E27E.quest_desc": [
+        "I don't think I need to say that you want a &epacifist&r bee, no?"
+    ],
+    "quest.3BD9E192B040E27E.quest_subtitle": "You want them normal at least",
+    "quest.3CDBC61BD4DAA7F6.quest_desc": [
+        "This is a simple \"multiblock\" hive.",
+        "",
+        "It can be placed on any side but feeding slab must bee 1 block below the hive's exit or the face",
+        "",
+        "",
+        "{image:catalyst:textures/quest_images/productive_bees/hives.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.3CDBC61BD4DAA7F6.quest_subtitle": "Updates",
+    "quest.3E044FFF56666C0A.title": "Sugarbag Bee",
+    "quest.421B57E27B2E9F61.quest_desc": [
+        "You can use a stick on a beehive to make bees go out, but they will not like it....",
+        "",
+        "You need to use left click"
+    ],
+    "quest.421B57E27B2E9F61.quest_subtitle": "\"HIT IT, HIT IT\"",
+    "quest.424808BE0E48D8C7.quest_desc": [
+        "Once you got 2 of this gene, you can tick this quest.",
+        "Why 2? Because you can't get &dMetanocturnal&r bees if one of the parents has nocturnal or diurnal and the other &dMetanocturnal&r"
+    ],
+    "quest.424808BE0E48D8C7.quest_subtitle": "GOT IT",
+    "quest.424808BE0E48D8C7.title": "Metanocturnal",
+    "quest.43282721A9578C0D.title": "Ghostly Bee",
+    "quest.43C7A0AFDBCB1D06.quest_desc": [
+        "You need &6honey treats&r"
+    ],
+    "quest.43C7A0AFDBCB1D06.quest_subtitle": "Stunning",
+    "quest.49968399FA309A2C.quest_desc": [
+        "The first upgrade to your hives, this makes your bees produce more"
+    ],
+    "quest.49968399FA309A2C.quest_subtitle": "Gives more",
+    "quest.499D9BD47A14B0F4.quest_desc": [
+        "For this bee, you need slimeballs"
+    ],
+    "quest.499D9BD47A14B0F4.quest_subtitle": "Slimy",
+    "quest.49BCF1CF622DE723.quest_desc": [
+        "Filter entities, useful for making &2wasted&r bees",
+        "",
+        "I think that's the only use...."
+    ],
+    "quest.49BCF1CF622DE723.quest_subtitle": "Filter?",
+    "quest.4B3C04533F58F6C7.quest_desc": [
+        "Yep, a bee is like a pig or a horse, you can ride them.",
+        "",
+        "But only a few of them, like the yellow carpenter"
+    ],
+    "quest.4B3C04533F58F6C7.quest_subtitle": "Riding a bee",
+    "quest.4D71091DD793653C.quest_desc": [
+        "You need honey in industrial quantities.....",
+        "",
+        "So, maybe you want to make some &dseeds&r ;D",
+        "",
+        "Or more bees...."
+    ],
+    "quest.4D71091DD793653C.quest_subtitle": "Sorry for the beed jokes",
+    "quest.4D71091DD793653C.title": "Collect honey",
+    "quest.4D89C29C788AB9AD.title": "Mason Bee",
+    "quest.5338D9D37F86C754.quest_desc": [
+        "Endurance gene basically change &chealth&r to bees.",
+        "You normally have them on hive with &asimulation&r upgrade or &aOmega&r &9Upgrades&r, so it's not that important"
+    ],
+    "quest.5338D9D37F86C754.quest_subtitle": "Strong!!!!!",
+    "quest.5338D9D37F86C754.title": "Endurance gene",
+    "quest.5343F5A2A4DD6FD5.quest_desc": [
+        "The sweat bee, it needs &6honey treats&r"
+    ],
+    "quest.5343F5A2A4DD6FD5.quest_subtitle": "Sugar!",
+    "quest.54A3EA30D6865F70.quest_desc": [
+        "You need &6honey treats&r, and here we have 2 bees, the resin bees is the one we are looking for"
+    ],
+    "quest.54A3EA30D6865F70.quest_subtitle": "Bees",
+    "quest.54DAFDE5553EA2E5.quest_desc": [
+        "Genes are a way to improve your bees",
+        "",
+        "To get &dgenes&r, you need to &mkill&r crush your bees with a piston and a bottler below",
+        "Check the &aquests&r on the middle to get more info.",
+        "",
+        "With those genes in a crafting table and a &6honey treat&r, you can get a honey treat with genes.",
+        "Feed that to a bee and it will have a % to change genes.",
+        "",
+        "If you don't want to gamble with genes, you have to get a gene indexer to combine genes of the same type and get a higher %, up to 100%",
+        "You need at least &c6&r &ebees&r to get 100%"
+    ],
+    "quest.54DAFDE5553EA2E5.quest_subtitle": "Bring a piston",
+    "quest.577615D670CC3BF1.quest_desc": [
+        "Now, we are going to improve your bees, maybe you want to make a few draconic bees, because we are going to need them, again, in industrial quantities....."
+    ],
+    "quest.577615D670CC3BF1.quest_subtitle": "I hope you did",
+    "quest.57D04ED4D6D227E8.quest_desc": [
+        "Powerful, yet dangerous.",
+        "",
+        "These &ebees&r has the best gene for Endurance, but...",
+        "Why are you killing your draconic bees to get a gene?"
+    ],
+    "quest.57D04ED4D6D227E8.quest_subtitle": "DON'T DO IT",
+    "quest.57DC578CF4D74936.title": "Digger Bee",
+    "quest.5B4289D140387AC8.title": "Nomad Bee",
+    "quest.5BBC3C0F5B59E7F8.quest_desc": [
+        "Put genes inside, and it will automatically start to combine them into higher % up to 100%",
+        "",
+        "More info later, when we have all hives and bees"
+    ],
+    "quest.5BBC3C0F5B59E7F8.quest_subtitle": "Filtering",
+    "quest.5E81A419306A7840.quest_desc": [
+        "Quartz + &4The Nether&r, perfect combo"
+    ],
+    "quest.5E81A419306A7840.quest_subtitle": "The shiny bee",
+    "quest.63483D4671E7EB94.quest_desc": [
+        "Too much text on the tooltip",
+        "",
+        "- On a &ahive&r, it will produce a baby bee if the bee can be breeded",
+        "",
+        "- On a &bcatcher&r, it will only catch baby bees"
+    ],
+    "quest.63483D4671E7EB94.quest_subtitle": "New baby?",
+    "quest.638F2647D6429630.quest_desc": [
+        "You need a blue banded bee exit the hive and you will have a chance to get a baby bee"
+    ],
+    "quest.638F2647D6429630.quest_subtitle": "GET OUT OF HERE",
+    "quest.6698EBDC4EE4D39A.title": "Neon Bee",
+    "quest.67E648AD068CAB9E.quest_desc": [
+        "For the following quests, to get them, you need to be &cnear&r the nest when you get a bee or look at them",
+        "",
+        "Also, some bees are a bit tricky to get, read the description of the &cquest&r.",
+        "",
+        "And finally, you want to get at least 2 of each bees, they can bee breeded into more using the breeder"
+    ],
+    "quest.67E648AD068CAB9E.quest_subtitle": "Proximity",
+    "quest.6AF6F200251C478B.quest_desc": [
+        "This bee is usually found on &dThe End&r, on the islands after defeating &eJean&r a.k.a &5The Ender Dragon&r.",
+        "",
+        "You don't need to make this nest, just look for it, they are plentiful"
+    ],
+    "quest.6AF6F200251C478B.quest_subtitle": "/tp @e 0 0 0",
+    "quest.6C8BF92697A6F3AF.quest_desc": [
+        "Note: you can add &dupgrades&r on the top side of the &6beehive&r or &emachines&r using &aPipez&r or similar."
+    ],
+    "quest.6C8BF92697A6F3AF.quest_subtitle": "Basing",
+    "quest.6E61B46B3646181E.title": "Get a Ghostly bee",
+    "quest.6F25B3D78143ED1E.quest_desc": [
+        "This could be more compacted but i think you get the idea.",
+        "",
+        "- Make 2 &ebees&r with max genes, then start making babies non-stop.",
+        "",
+        "- Send those &ebabies&r to the incubator, which return &eadult&r bees.",
+        "",
+        "- Then send those bees to the &adispenser&r and crush them with a &dpiston&r. Piston can be always on.",
+        "",
+        "- You need a &cwireless&r item collector, like &aFunctional Drawer&r or &bModular Routers&r, to get the bottle with the bee.",
+        "",
+        "- Send that bottle to a &6centrifuge&r and the result to an indexer with a redstone signal.",
+        "",
+        "You want to store all genes except the one that changes the bee type, which has text in orange or says &6productivebees:<something here>&r.",
+        "Also, make sure you have &apower&r in your machines. See next &2page&r.",
+        "",
+        "",
+        "{@pagebreak}",
+        "",
+        "{image:catalyst:textures/quest_images/productive_bees/genes.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.6F25B3D78143ED1E.quest_subtitle": "All at once",
+    "quest.6F25B3D78143ED1E.title": "Full setup",
+    "quest.6F5B6AFAD2038ADA.quest_desc": [
+        "Make sure to put &aunbreaking&r and &dmending&r at least.",
+        "",
+        "We will need this one later"
+    ],
+    "quest.6F5B6AFAD2038ADA.quest_subtitle": "You heard me",
+    "quest.6F5B6AFAD2038ADA.title": "The Silly Hat™",
+    "quest.73413868FF107681.quest_desc": [
+        "And finally, how to make bees at industrial scale.....",
+        "",
+        "Because we need it.....",
+        "",
+        "Put 2 bees of the same type + some flowers (some bees needs other breeding materials) and some cages, wait a few seconds and BOOM, you have a &ebaby&r bee.",
+        "",
+        "&eWarning&r, not all bees can be breeded, check JEI"
+    ],
+    "quest.73413868FF107681.quest_subtitle": "Getting more bees",
+    "quest.7830E3A72E9DB4C3.quest_desc": [
+        "This one way you make &6adult bees&r at an industrial scale, which you need for not waiting 50 years....",
+        "",
+        "Put a baby bee in a cage and some honey treat and you get after a time, less than flying around, you get an adult bee.",
+        "",
+        "You should always have &6honey treat&r in the &abreeder&r"
+    ],
+    "quest.7830E3A72E9DB4C3.quest_subtitle": "This is how you do it",
+    "quest.7858ED4167EE74F1.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&bProductive Bees&r questline made by: &cTito&ep&c54&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.7858ED4167EE74F1.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.7858ED4167EE74F1.title": "&l&4Catalyst Studios Quests",
+    "quest.7BEE8EE60FBFF628.quest_desc": [
+        "Trap a hostile mob that doesn't do a lot of damage, like a zombie.",
+        "",
+        "Put the silly hat and get hitted by the zombie.",
+        "You have a 30% to get a &dKamikazBee&r.",
+        "",
+        "These bees are &avery small&r and &efast&r, you won't catch them, so use catcher with &aspeed&r upgrades.",
+        "You need 6 bees to get 100%",
+        "",
+        "They contains the &cVery Productive&r gene, which means that your bees will &cdeliver more&r combs in the same amount of time"
+    ],
+    "quest.7BEE8EE60FBFF628.quest_subtitle": "Zombie / Skeleton",
+    "quest.7BEE8EE60FBFF628.title": "Productivity gene",
+    "quest.7C2EAAFC6414BA33.quest_desc": [
+        "Catcher will only catch adults bees, useful for making &2wasted&r bees, since they can only be produced from adult &aradioactive&r bees."
+    ],
+    "quest.7C2EAAFC6414BA33.quest_subtitle": "Adults only",
+    "quest.7DB4270301980965.title": "Ashy Mining Bee",
+    "quest.7DD1FD32851C81F5.quest_desc": [
+        "You want them on all machines except hives",
+        "Why? Because hives benefits a lot more from other upgrades"
+    ],
+    "quest.7DD1FD32851C81F5.quest_subtitle": "Sonic"
+}

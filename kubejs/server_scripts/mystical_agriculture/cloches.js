@@ -29,18 +29,25 @@ ServerEvents.tags('item', catalyst => {
         }
     } 
 
-    let farmlandTiersFiltered = farmlandTiers.filter(farm => farm !== null && 
-                                                     farm !== undefined && 
-                                                     farm.toString() !== "undefined")
+    let farmlandTiersFiltered = [];
+
+    for(let i = 0; i < farmlandTiers.length; i++)
+    {
+        let farm = farmlandTiers[i];
+        if(farm != null && farm !== "undefined")
+        {
+            farmlandTiersFiltered.push(farm);
+        }
+    }
     //
     for(let i = 0; i < farmlandTiersFiltered.length; i++)
     {
         for(let t = 0; t <= i; t++)
         {
-            catalyst.add(`kubejs:farmland/${farmlandTiersFiltered[t].getIdLocation().getPath().replace('_farmland', '')}`, farmlandTiersFiltered[i].getId())
+            catalyst.add(`catalyst:farmland/${farmlandTiersFiltered[t].getIdLocation().getPath().replace('_farmland', '')}`, farmlandTiersFiltered[i].getId())
         }
     }
-    catalyst.add(`kubejs:farmland/${farmlandTiersFiltered[farmlandTiersFiltered.length-1].getIdLocation().getPath().replace('_farmland', '')}`, farmlandTiersFiltered[farmlandTiersFiltered.length-1].getId())
+    catalyst.add(`catalyst:farmland/${farmlandTiersFiltered[farmlandTiersFiltered.length-1].getIdLocation().getPath().replace('_farmland', '')}`, farmlandTiersFiltered[farmlandTiersFiltered.length-1].getId())
     console.log("[CatJS] Tags for the MA farmland");
 })
 
@@ -48,11 +55,20 @@ ServerEvents.tags('item', catalyst => {
 ServerEvents.recipes(catalyst => {
     if(Platform.isLoaded('immersiveengineering'))
     {
+        let seeds = [
+            "cobalt", 
+            "lumium", 
+            "signalum", 
+            "rose_gold", 
+            "pig_iron", 
+            "enderium"
+        ]
+
         let crops = cropRegistry.getInstance().getCrops().filter(crop => 
                                                                  crop !== null && 
                                                                  crop !== undefined)
         crops.forEach(crop => {
-            if(!crop.isEnabled()) return;
+            if(!crop.isEnabled() && !seeds.includes(crop.getName())) return;
             catalyst.custom({
                 type: 'immersiveengineering:cloche',
                 results: [
@@ -66,8 +82,8 @@ ServerEvents.recipes(catalyst => {
                 input: Ingredient.of(crop.getSeedsItem()).toJson(),
                 soil: Ingredient.of((crop.getCruxBlock()) ?? (crop.getTier().getFarmland() === null ? 
                                                               "mysticalagradditions:insanium_farmland" : 
-                                                              `#kubejs:farmland/${crop.getTier().getFarmland().getIdLocation().getPath().replace('_farmland', '')}`)).toJson(),
-                time: Math.min(75 + (100 * crop.getTier().getValue() * 0.75), 500),
+                                                              `#catalyst:farmland/${crop.getTier().getFarmland().getIdLocation().getPath().replace('_farmland', '')}`)).toJson(),
+                time: Math.min(60 + (10 * crop.getTier().getValue() * 0.75), 200),
                 render: {
                     type: 'immersiveengineering:crop',
                     block: crop.getCropBlock().getId()

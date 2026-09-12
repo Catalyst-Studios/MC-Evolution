@@ -1,0 +1,174 @@
+{
+    "quest.008B0E57B2AA91AD.quest_desc": [
+        "Allows you to &coutput&r &eitems&r to an &dspecific&r direction",
+        "",
+        "It &bmight&r not work for 1x2 and 2x2 &6drawers&r"
+    ],
+    "quest.008B0E57B2AA91AD.quest_subtitle": "Out of here!!!!",
+    "quest.04AA4C90B32A7AF6.quest_desc": [
+        "Stores 32 &abuckets&r, but can store 2 &ddifferent&r type of &bfluids&r, 16 &ebuckets&r of each type."
+    ],
+    "quest.04AA4C90B32A7AF6.quest_subtitle": "&aMekanism&r's Dynamos Tanks should have fear",
+    "quest.0633DAA68EA70CB9.quest_desc": [
+        "[{\"text\":\"The best \",\"color\":\"#FFFFFF\"},{\"text\":\"upgrade\",\"color\":\"#FF55FF\"},{\"text\":\" but the most \",\"color\":\"#FFFFFF\"},{\"text\":\"painful\",\"color\":\"#FF5555\"},{\"text\":\" to automate. It's basically 2 \",\"color\":\"#FFFFFF\"},{\"text\":\"Diamond Upgrades\",\"color\":\"#25e6dc\"},{\"text\":\" added.\",\"color\":\"#FFFFFF\"}]",
+        "",
+        "[{\"text\":\"Max capacity is \",\"color\":\"#FFFFFF\"},{\"text\":\"max integer \",\"color\":\"#25e62e\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"Click here to open the webpage for more info\"}},\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://docs.oracle.com/javase/8/docs/api/java/lang/Integer.html#MAX_VALUE\"}}]"
+    ],
+    "quest.0633DAA68EA70CB9.quest_subtitle": "durus",
+    "quest.0B83EF9E32D2E3EB.quest_desc": [
+        "Stores 2000 &ditems&r of a &asingle&r type.",
+        "",
+        "Well, a bit &cmore&r :p"
+    ],
+    "quest.0B83EF9E32D2E3EB.quest_subtitle": "The final storage",
+    "quest.0DF7413E300B22CD.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&bFunctional Storage&r questline made by: &dHancock4903&r and &cTito&ep&c54&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.0DF7413E300B22CD.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.0DF7413E300B22CD.title": "&l&4Catalyst Studios Quests",
+    "quest.0E42A6572FA858A2.quest_desc": [
+        "The cabinet stores almost all &dtools&r and &5armor&r in the game.",
+        "",
+        "This can &4destroy&r your world if you &estore&r a lot of &btrash&r"
+    ],
+    "quest.0E42A6572FA858A2.quest_subtitle": "NBT &cdestroyer&r",
+    "quest.16AF18C38EF60A2D.quest_desc": [
+        "Imagine that your &5drawer&r fills, and you want your &cfactory&r to keep making stuff.",
+        "",
+        "If you &dwant&r this, then, this is your &6upgrade&r. &cDeletes&r any excess."
+    ],
+    "quest.16AF18C38EF60A2D.quest_subtitle": "&cWarning&r Trash Can",
+    "quest.17F8365B32191F2D.quest_desc": [
+        "Stores 2000 &aitems&r, but can store 2 &ddifferent&r type of &6items&r, 1000 &eitems&r of each type.",
+        "",
+        "Just a little &cmore&r than 2000 :p"
+    ],
+    "quest.17F8365B32191F2D.quest_subtitle": "Divided?",
+    "quest.1ACFC9C3988684A8.quest_desc": [
+        "More &cstorage&r for less &eupgrades&r? Where do I sign in?",
+        "",
+        "[{\"text\":\"Well, as before it's 2 \",\"color\":\"#FFFFFF\"},{\"text\":\"Gold Upgrades\",\"color\":\"#e6cd29\"},{\"text\":\" added \",\"color\":\"#FFFFFF\"},{\"text\":\"together\",\"color\":\"#FF55FF\"}]",
+        "",
+        "Now it's a &agood&r time to tell you something, if you &dright-click&r with a better upgrade, it is placed &6automatically&r and the &5old&r one is &bgiven back&r!"
+    ],
+    "quest.1ACFC9C3988684A8.quest_subtitle": "[{\"text\":\"adamas\",\"color\":\"#25e6dc\"}]",
+    "quest.1D7DA58D3763308B.quest_desc": [
+        "[{\"text\":\"Similar to \",\"color\":\"#FFFFFF\"},{\"text\":\"Copper Upgrades\",\"color\":\"#e69429\"},{\"text\":\", it gives you more \",\"color\":\"#FFFFFF\"},{\"text\":\"capacity\",\"color\":\"#e62962\"},{\"text\":\" but at an \",\"color\":\"#FFFFFF\"},{\"text\":\"higher\",\"color\":\"#29e69e\"},{\"text\":\" cost\",\"color\":\"#FFFFFF\"}]",
+        "",
+        "[{\"text\":\"Stats\",\"color\":\"#FF55FF\"},{\"text\":\" are basically 2 \",\"color\":\"#FFFFFF\"},{\"text\":\"Copper Upgrades\",\"color\":\"#e69429\"},{\"text\":\" added together\",\"color\":\"#FFFFFF\"}]"
+    ],
+    "quest.1D7DA58D3763308B.quest_subtitle": "[{\"text\":\"aurum\",\"color\":\"#e6cd29\"}]",
+    "quest.22AF4040C1A46CC5.quest_desc": [
+        "Stores 32 &abuckets&r, but can store 4 &ddifferent&r type of &bfluids&r, 8 &ebuckets&r of each type."
+    ],
+    "quest.22AF4040C1A46CC5.quest_subtitle": "The best one? &bAE2&r is best",
+    "quest.24C643819B58EEB3.quest_desc": [
+        "&dGenerates&r an obsidian block every 15 &6seconds&r, which is &bbasically&r free.",
+        "",
+        "Also, this is a &5better&r &clava&r farm than those &clava&r upgrades"
+    ],
+    "quest.24C643819B58EEB3.quest_subtitle": "This is better lava farm",
+    "quest.25AA7045FE48B0C6.quest_desc": [
+        "Stores 2000 &aitems&r, but can store 4 &ddifferent&r type of &6items&r, 512 &eitems&r of each type."
+    ],
+    "quest.25AA7045FE48B0C6.quest_subtitle": "In 4 pieces, please",
+    "quest.284F1943971EC8C8.quest_desc": [
+        "It has a &brange&r, which can be &dupgraded&r by using &6upgrades&r.",
+        "",
+        "You can connect different &2drawers&r to it using the &bLinking&r Tool if they are in its area.",
+        "",
+        "You can &einput&r and &coutput&r any item or fluids of the &5linked&r drawers"
+    ],
+    "quest.284F1943971EC8C8.quest_subtitle": "The manager",
+    "quest.2D705818128B31D1.quest_desc": [
+        "Set the &6drawer&r to hold 1 stack of &eitems&r or 1 &bbucket&r. ",
+        "",
+        "This is like &5dividing&r by 8 your &cstorage&r"
+    ],
+    "quest.2D705818128B31D1.quest_subtitle": "You get lower?",
+    "quest.333EBCACA0935EDC.quest_desc": [
+        "&dGenerates&r 1 bucket of &clava&r every 50 &6seconds&r, not impressive but better than &evanilla&r"
+    ],
+    "quest.333EBCACA0935EDC.quest_subtitle": "Infinite lava",
+    "quest.3390B157AFDD3C90.quest_desc": [
+        "[{\"text\":\"Well, this is your \",\"color\":\"#FFFFFF\"},{\"text\":\"first\",\"color\":\"#b0e629\"},{\"text\":\" upgrade, giving you the \",\"color\":\"#FFFFFF\"},{\"text\":\"following\",\"color\":\"#aa29e6\"},{\"text\":\" stats:\",\"color\":\"#FFFFFF\"}]",
+        "",
+        "- &d8x&r times your drawer's storage (&eItems&r)",
+        "- &54x&r times your drawer's storage (&bFluids&r)",
+        "- Increase &ccontroller&r radius (2x)",
+        "",
+        "These &6upgrade&r are &dmultiplicative&r, this means that you can get 8 million &6items&r in a drawer using &conly&r these!"
+    ],
+    "quest.3390B157AFDD3C90.quest_subtitle": "More space!",
+    "quest.36966EE349090D83.quest_desc": [
+        "&dCompress&r and &edecompress&r items, like amethyst.",
+        "",
+        "If you &cconnect&r to your &bAE2&r network, you might &6see&r that you have 4 amethyst and 1 amethyst &eblock&r, but you &4only&r have 1 of those."
+    ],
+    "quest.36966EE349090D83.quest_subtitle": "Compressum",
+    "quest.3A0AA809E5E72877.quest_desc": [
+        "Each &2Ender&r Drawer has it's own &dfrecuency&r",
+        "",
+        "You can copy a drawer's &dfrequency&r by &eleft-clicking&r it with a &bLinking Tool&r",
+        "",
+        "Then you can &6right-click&r another &2Ender&r Drawer and then they will have their &ccontents&r synced"
+    ],
+    "quest.3A0AA809E5E72877.quest_subtitle": "The cheapo enderchest",
+    "quest.3AE420164B082C74.quest_desc": [
+        "Outputs a &credstone&r signal in proportion of how &6full&r it is.",
+        "",
+        "You &ecan&r select an &bslot&r if your drawer has &dmore&r than 1"
+    ],
+    "quest.3AE420164B082C74.quest_subtitle": "Redstone controller",
+    "quest.4993E2F13B366D77.quest_desc": [
+        "Collects &6items&r from the &efloor&r in a direction"
+    ],
+    "quest.4993E2F13B366D77.quest_subtitle": "Wireless collector",
+    "quest.50FEE6D19ABFC8DF.quest_desc": [
+        "Yes, the mod speciality, &cstorage&r",
+        "",
+        "There are a lot of &dfine&r &6details&r around it, you should &eread&r the quests"
+    ],
+    "quest.50FEE6D19ABFC8DF.quest_subtitle": "[{\"text\":\"Pass the cursor over the \"},{\"text\":\"title\",\"color\":\"#29e6ca\"},{\"text\":\"!\",\"color\":\"#FFFFFF\"}]",
+    "quest.50FEE6D19ABFC8DF.title": "[{\"text\":\"Welcome to \",\"color\":\"#FFFFFF\"},{\"text\":\"Functional\",\"color\":\"#29e6ca\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"The mod around mass storage\"}}},{\"text\":\" Storage!\",\"color\":\"#FFFFFF\"}]",
+    "quest.522A132CF63CFDC9.quest_desc": [
+        "Stores 32 &dbuckets&r of a &asingle&r fluid."
+    ],
+    "quest.522A132CF63CFDC9.quest_subtitle": "Cheapo tank",
+    "quest.52836EEC41C4AB77.quest_desc": [
+        "This &alittle&r tool allows you to avoid so many &etedious&r tasks, like putting &dstorage&r buses in all your &2drawers&r.",
+        "",
+        "You should &cread&r the tooltip for a better info"
+    ],
+    "quest.52836EEC41C4AB77.quest_subtitle": "Linking the unlicked",
+    "quest.567FAD3B2066C769.quest_desc": [
+        "&dCompress&r and &edecompress&r items, like &dmetal&r ingots.",
+        "",
+        "If you &cconnect&r to your &bAE2&r network, you might &6see&r that you have 9 ingots and 1 amethyst &eblock&r and &6sometimes&r 81 nuggets, but you &4only&r have 1 of those."
+    ],
+    "quest.567FAD3B2066C769.quest_subtitle": "Ultra compressum",
+    "quest.5AF5E6D9EAB19CAC.quest_desc": [
+        "&dGenerates&r 2 buckets of &bwater&r every &n0.05&r &6seconds&r"
+    ],
+    "quest.5AF5E6D9EAB19CAC.quest_subtitle": "Infinite watah",
+    "quest.61C788DB174954B8.quest_desc": [
+        "The main &ause&r of this tool is to &clock&r your &2drawers&r, so random stuff can get in when it's &dempty&r.",
+        "",
+        "If you do the &6action&r on a drawer &dcontroller&r, it will do that action to &c&lall&r &5linked&r drawers"
+    ],
+    "quest.61C788DB174954B8.quest_subtitle": "Locked out",
+    "quest.716B490BA3FF5E41.quest_desc": [
+        "Well, it does the &6opposite&r as the &dpusher&r upgrade"
+    ],
+    "quest.716B490BA3FF5E41.quest_subtitle": "GET IN!!!",
+    "quest.75DB986A776BE10C.quest_desc": [
+        "Basically, it &6allows&r you to have more side on your &acontroller&r.",
+        "",
+        "&cDoesn't&r &eextend&r its range"
+    ],
+    "quest.75DB986A776BE10C.quest_subtitle": "The untold"
+}

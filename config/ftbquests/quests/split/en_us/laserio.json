@@ -1,0 +1,148 @@
+{
+    "quest.15466FC285B74785.quest_desc": [
+        "Basically, you say which &eitems&r, &9fluids&r or &dchemicals&r can go inside or outside an &ainventory&r.",
+        "",
+        "You will need to use &eJEI / EMI&r for placing fluids and chemicals, because you &cwon't&r use buckets or chemical tanks. I hope...."
+    ],
+    "quest.15466FC285B74785.quest_subtitle": "The most used",
+    "quest.1C5A9415B7E978DD.quest_desc": [
+        "Not the &dfood&r one, these chips are the base for &cLaser&r&bIO&r machines, craft a few of them, you will &eneed&r it"
+    ],
+    "quest.1C5A9415B7E978DD.quest_subtitle": "The chips",
+    "quest.1C5A9415B7E978DD.title": "Logic chips",
+    "quest.1D1B37E4BD8AB4BB.quest_desc": [
+        "Allows to move &eitems&r from one &binventory&r to another, up to 64 &eitems&r per tick.",
+        "This is the most &6common&r use of lasers.",
+        "",
+        "You might want to check the &dfilters&r, since you can have a lot of &ctrash&r in a chest"
+    ],
+    "quest.1D1B37E4BD8AB4BB.quest_subtitle": "The truck",
+    "quest.1FA5EDD363983FE8.quest_desc": [
+        "Remember that &dguide&r we gave you at the start? Well, you should look at the info the mod's author gave.",
+        "",
+        "It's better &credacted&r than what I could made it.",
+        "You probably won't need this &afilter&r "
+    ],
+    "quest.1FA5EDD363983FE8.quest_subtitle": "Guide",
+    "quest.2D63159E471984D9.quest_desc": [
+        "This &afilter&r allows you to filter based on the tag an &ditem&r has, for example, smeltable or armor",
+        "",
+        "It has a little &binterface&r to select it.",
+        "",
+        "Also, &9fluids&r have tags too!"
+    ],
+    "quest.2D63159E471984D9.quest_subtitle": "Tags, tags, tags, ...",
+    "quest.3C509BF96FC2125E.quest_desc": [
+        "Its like a laser &dconnector&r but has some key differences:",
+        "",
+        "- Can &conly&r connect to 1 laser &econnector&r or laser &bnode&r",
+        "",
+        "- You need to &dlink&r to another &6advanced&r laser connector",
+        "",
+        "- It can only &clink&r to 1 &eadvanced&r laser connector",
+        "",
+        "",
+        "Allows you &6inter-dimensional&r conectivity and &binfinite&r distance, but with a higher &bmaterial&r cost"
+    ],
+    "quest.3C509BF96FC2125E.quest_subtitle": "The golden item",
+    "quest.4025F0C5C41644D2.quest_desc": [
+        "Card &eoverclocker&r allows you to make your &6items&r, &9fluids&r, ... cards &cfaster&r",
+        "",
+        "You can only put them &ainside&r the cards and &conly&r 4 at the same time",
+        "",
+        "To change the &bspeed&r and &6quantities&r, there is a field to do so, going up or down.",
+        "The keys \"&dShift&r\" and \"&aCtrl&r\" affects too"
+    ],
+    "quest.4025F0C5C41644D2.quest_subtitle": "Only 4!",
+    "quest.5504C0B47F099F02.quest_desc": [
+        "Acts as a filter, but for &dNBT&r data!",
+        "",
+        "Like the &atag&r filter, there is a interface where you can select the &ddata&r you want to &efilter&r, like tools with &cenchantments&r for example"
+    ],
+    "quest.5504C0B47F099F02.quest_subtitle": "Not the same",
+    "quest.5B33740F16769AB9.quest_desc": [
+        "Allows to move around &bfluids&r, up to 40 &9buckets&r per tick",
+        "",
+        "By &bfluids&r, i mean like &9water&r or &clava&r or &bliquid&r &7steam&r"
+    ],
+    "quest.5B33740F16769AB9.quest_subtitle": "The bucket",
+    "quest.5F2DA93190331483.quest_desc": [
+        "This is a &6crafting&r ingredient and a &dmachine&r, used to move around &eitems&r, &9fluids&r, ... over long &cdistances&r (no more than 30 - 50 blocks).",
+        "If you need to move over bigger &ddistances&r, use the advanced version",
+        "",
+        "Allows to &econnect&r nodes and other &dconnectors&r that are in a 8 block distance.",
+        "",
+        "To &5link&r them, you want to use a &elaser wrench&r, first &csneak&r &dright-click&r to a connector and then &aright-click&r on the node or another connector"
+    ],
+    "quest.5F2DA93190331483.quest_subtitle": "Long distances",
+    "quest.5F2DA93190331483.title": "Laser Connector \\& Wrench",
+    "quest.5FDA7D01FC747349.quest_desc": [
+        "Allows to send &aMekanism&r gases, up to 240 &9buckets&r per tick",
+        "",
+        "Well, &dgases&r are most of the thing Mekanism has, like &eBrine&r or &7Steam&r (you also have &bLiquid&r &7Steam&r, which is a fluid) "
+    ],
+    "quest.5FDA7D01FC747349.quest_subtitle": "Chemical Reactor",
+    "quest.65054A0EF38A2273.quest_desc": [
+        "Can move up to 100k &aFE&r per tick",
+        "",
+        "Also adds a % &acheck&r but only works with &dbatteries&r that are &elower&r or &bequals&r than 2147483647 &aFE&r "
+    ],
+    "quest.65054A0EF38A2273.quest_subtitle": "The copper cable",
+    "quest.6AC0FB6E412D827B.quest_desc": [
+        "Basically &credstone dust&r, but doesn't get lower &apower&r over distance",
+        "",
+        "Let's explain &bchannels&r, because &credstone&r benefits the most.",
+        "",
+        "A &achannel&r is a separated &6path&r to items, fluids, gases, ....",
+        "Basically, you can have 16 &ddifferent&r setups on the same &enetwork&r of nodes, saving &6space&r on placing different nodes.",
+        "But still you would need to &bfit&r all those cards"
+    ],
+    "quest.6AC0FB6E412D827B.quest_subtitle": "Wireless redstone",
+    "quest.6C45CC92E552B738.quest_desc": [
+        "&cLaser&r &bNodes&r do all the &ejob&r basically.",
+        "",
+        "They can do 6 &coperations&r at the &b&nsame&r time by default (1 for &5each&r side), but you can &eupgrade&r this by using some upgrades. More &2info&r later",
+        "",
+        "It can &aconnect&r to another &claser&r &bnodes&r and &dconnectors&r in a radius of 8 blocks and can &3hold&r 9 cards per side.",
+        "",
+        "Also, you can change their &cc&r&do&r&6l&r&bo&r&er&r on the &bsetting&r menu, &dpropagating&r to other nodes and connectors"
+    ],
+    "quest.6C45CC92E552B738.quest_subtitle": "Working, please wait",
+    "quest.6C6E3917998083C9.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&bLaserIO&r questline made by: &cTito&ep&c54&r",
+        "",
+        "If you are seeing this, it means you are in editing mode and probably cheating."
+    ],
+    "quest.6C6E3917998083C9.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.6C6E3917998083C9.title": "&l&4Catalyst Studios Quests",
+    "quest.6DAD38C07B38B143.quest_desc": [
+        "This node &boverclocker&r allows you to put more &ecards&r in node's side.",
+        "You can only put 8 on &deach&r side, for a total of &n&654&r cards."
+    ],
+    "quest.6DAD38C07B38B143.quest_subtitle": "More cards",
+    "quest.6F377F024A7D17B4.quest_desc": [
+        "Well, a filter, but for entire mods, like &6Minecraft&r, &aMekanism&r, &cLaser&r&bIO&r, ..."
+    ],
+    "quest.6F377F024A7D17B4.quest_subtitle": "The mod id!!!!",
+    "quest.75D7E8E78327DB45.quest_desc": [
+        "The downside of &cLaser&r&bIO&r is that cards don't &estack&r up and it's &atedious&r to copy settings from card to card.",
+        "",
+        "Well, this kind of &csolve&r the issue:",
+        "",
+        "- &dCard Holder&r -> &aHolds&r card, filters and upgrades. You can &csneak&r &6right-click&r &awhile&r looking at the air to &eactivate&r an auto-vacuum to collect all cards in your &cinventory&r inside this item.",
+        "",
+        "- &dCard Cloner&r -> &6Copies&r a card's &esetting&r and can paste to another of the same type. While you are on your &dinventory&r, &apick&r the cloner, &bput it over&r the card and &eleft-click&r to copy settings and &5right-click&r to paste what setting it has. It will not &cpartially&r copy settings.",
+        "",
+        "Also, &dcard cloner&r can put upgrades and filter from your &6card holder&r!"
+    ],
+    "quest.75D7E8E78327DB45.quest_subtitle": "The saviour",
+    "quest.770D5933A5EF28E1.quest_desc": [
+        "&cLaser&r&bIO&r is a powerful &dmod&r, allowing you to move &eitems&r, &9fluids&r, &credstone&r, &aenergy&r and even &dchemical&r from far away or even &eother&r dimensions!",
+        "",
+        "They are kind of &6modular&r, with cards that have 16 &5channels&r with different functions. More &2info&r later."
+    ],
+    "quest.770D5933A5EF28E1.quest_subtitle": "Lasers can move stuff?",
+    "quest.770D5933A5EF28E1.title": "Welcome to &cLaser&bIO&r"
+}

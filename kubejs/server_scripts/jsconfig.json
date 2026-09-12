@@ -2,10 +2,10 @@
     "include": [
         "./**/*.js",
         "./**/*.ts",
-        "../client_scripts/jei/recipe_viewer_add.js"
-, "../client_scripts/vessels.js"    ],
+    ],
     "compilerOptions": {
         "module": "none",
+        "ignoreDeprecations": "6.0",
         "moduleResolution": "node",
         "allowJs": true,
         "checkJs": false,

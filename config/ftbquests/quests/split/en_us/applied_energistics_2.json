@@ -1,0 +1,1098 @@
+{
+    "quest.003142001F6FDC93.quest_desc": [
+        "Now that you have &aExtendedAE&r, you should check the &dprocessor&r recipes and change your old setup for a better one and faster"
+    ],
+    "quest.003142001F6FDC93.quest_subtitle": "UPGRADES - some average GregTech Player",
+    "quest.00FF8AAFCC2E4533.quest_desc": [
+        "They are used on &aExtendedAE&r, so you probably want to make some.",
+        "They can also be used to paint &dcables&r or make singularities with less amount of water"
+    ],
+    "quest.00FF8AAFCC2E4533.quest_subtitle": "Small singularities",
+    "quest.01BBE3BF6F5EAE35.quest_desc": [
+        "Instead of filters acting as whitelist, now it acts as blacklists"
+    ],
+    "quest.01BBE3BF6F5EAE35.quest_subtitle": "pǝʇɹǝʌuᴉ",
+    "quest.02286BA0F16600B1.quest_desc": [
+        "This will be a long journey, but I will try to be as simple as I can.",
+        "",
+        "&bAE2&r is meant to be a powerful tool but a bit &cdifficult&r to start with. ",
+        "You need to have some &amaterials&r to start with it, so maybe you want to get some resources and some power.",
+        "",
+        "The quests are here to try to help you, not to be a task, they will provide &crewards&r which scale. ",
+        "",
+        "Some quests are &dhidden&r until you complete them (for you to focus) and you have quests for 5 addons ;)",
+        "",
+        "Look around this page or zoom out"
+    ],
+    "quest.02286BA0F16600B1.quest_subtitle": "This will be a long one",
+    "quest.02286BA0F16600B1.title": "&dThe beginning of a journey",
+    "quest.024A2075F924FE1C.quest_desc": [
+        "Imagine that you have your base in &aThe Overworld&r and you have a setup on &dThe End&r and you need to change a &6pattern&r.",
+        "",
+        "You would have to go there and change &6patterns&r manually, but not anymore with this terminal!"
+    ],
+    "quest.024A2075F924FE1C.quest_subtitle": "Wireless pattern access",
+    "quest.0492F1947C0D0901.quest_desc": [
+        "Jar is used to get source from your network"
+    ],
+    "quest.0492F1947C0D0901.quest_subtitle": "In a jar",
+    "quest.060E4B2A707CF6E5.quest_desc": [
+        "Okay, this one is not needed unless you want, because &6bees&r and &dseeds&r are a whole lot easier to do, but I have to tell you.",
+        "",
+        "Go to the max build heigth, and plant the following looking up and get sky stone dust.",
+        "You need to smelt it or leave as it is. ",
+        "Also you need a way to get the dust from the &7sky&r to your base",
+        "",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/sky_stone_farm.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.060E4B2A707CF6E5.quest_subtitle": "Mining the sky",
+    "quest.060E4B2A707CF6E5.title": "Sky stone dust farm",
+    "quest.07C07D7DB62F2A27.quest_desc": [
+        "Alloy used for housings for &aMekanism&r chemicals, doesn't allow for nuclear stuff"
+    ],
+    "quest.07C07D7DB62F2A27.quest_subtitle": "Mekanism storage",
+    "quest.086F96B893CA021F.quest_desc": [
+        "Why do I need to delete my old setups?",
+        "",
+        "Because the new one is a lot &cfaster&r to make and saves you some &achannels&r, because it does the job of a few &dinscribers&r in just 2 blocks."
+    ],
+    "quest.086F96B893CA021F.quest_subtitle": "EFFICIENCY - probably some GregTech player",
+    "quest.092767A2A7AC588C.quest_desc": [
+        "Needed for casing, basically"
+    ],
+    "quest.092767A2A7AC588C.quest_subtitle": "Casing completed?",
+    "quest.09491BB900209FF2.quest_desc": [
+        "Basically an &aExtended&r &bInterface&r, but each slot allows to store more, 16 times more!"
+    ],
+    "quest.09491BB900209FF2.quest_subtitle": "Now we are talking",
+    "quest.0AB09FA4A1BDFED8.quest_desc": [
+        "Using a &ecrusher&r from &aMekanism&r or an &dinscriber&r, you can get the dust"
+    ],
+    "quest.0AB09FA4A1BDFED8.quest_subtitle": "Time to crush that singularity",
+    "quest.0AE5D4C43C7C4C8C.quest_desc": [
+        "Well, congrats!",
+        "",
+        "You have made the biggest &cstorage&r component that you can.",
+        "As a reward, you can &n&bchoose&r 1 item on each reward pool"
+    ],
+    "quest.0AE5D4C43C7C4C8C.quest_subtitle": "Final NAS: &cON&r",
+    "quest.0AE5D4C43C7C4C8C.title": "256M Storage Component",
+    "quest.0B6D864866C886A0.quest_desc": [
+        "While these are AE2 machines, they only needs 1 channel, but now we have a little problem, if you did the whole block version, it can be used on dense cables, if not, only on smart cables.",
+        "",
+        "There are meant to keep &eitems&r, &9fluids&r, &cgas&r, ... on stock and insert a lot of stuff fast into your &dnetwork&r, but with an &aenergy&r cost.",
+        "",
+        "They can do 9 stacks of &eitems&r per tick, so they are fast"
+    ],
+    "quest.0B6D864866C886A0.quest_subtitle": "How to move stuff fast",
+    "quest.0B6D864866C886A0.title": "Interface",
+    "quest.0C7B1EBED4C008AC.quest_desc": [
+        "Imagine you want to have always 500 stone bricks in your &bnetwork&r.",
+        "",
+        "You could use a complicated setups or just slap one of these.",
+        "They have 4 slots per line:",
+        "",
+        "- &dEnable&r: It's a checkbox to turn on/off the item to be requested",
+        "",
+        "- Item to be &dcrafted&r",
+        "",
+        "- &aQuantity&r to have in stock",
+        "",
+        "- How many it will &erequest&r at a given time",
+        "",
+        "You need to &capply&r or else it won't save the configuration, this is a common &cissue&r with requester.",
+        "The &bterminal&r is to manage multiple requester at the same time."
+    ],
+    "quest.0C7B1EBED4C008AC.quest_subtitle": "Requesters.... ON-DEMAND",
+    "quest.0CA9BFCE2BDE798A.quest_desc": [
+        "They are cheap, and powerful.",
+        "It gives you a lot of cobblestone and water in just 2 cells, worth making them"
+    ],
+    "quest.0CA9BFCE2BDE798A.quest_subtitle": "Infinite? I doubt",
+    "quest.0D052E525AAEE0E2.quest_desc": [
+        "These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them.",
+        "",
+        "AE2 quests made by: &cTito&ep&c54&r",
+        "",
+        "If you are seeing this, it means you are in editing mode. And you are &4cheating&r so no bueno"
+    ],
+    "quest.0D052E525AAEE0E2.quest_subtitle": "Cheating is no bueno",
+    "quest.0D052E525AAEE0E2.title": "Quests",
+    "quest.0D1919E6F8066E9E.quest_desc": [
+        "You need all items to do it correctly.",
+        "Place the &5wireless access point&r somewhere in your &dmain network&r and link your wireless crafting terminal inside the &5access point&r.",
+        "",
+        "After than, place &aquantum card&r and then the &elinked singularity&r on the top right corner.",
+        "",
+        "Now, break the &5access point&r, charge the wireless terminal and you have the best wireless terminal.",
+        "",
+        "If you connected the &dquantum ring&r from the last quest to your main network, of course...."
+    ],
+    "quest.0D1919E6F8066E9E.quest_subtitle": "Finally, &cWireless",
+    "quest.0D20B269523C1B70.quest_desc": [
+        "Using the &dmethod&r from 1 block to 9 printed circuit, we are saving a lot of time!"
+    ],
+    "quest.0D20B269523C1B70.quest_subtitle": "Check ExtendedAE quests too",
+    "quest.0D20B269523C1B70.title": "Printed Quantum Circuit",
+    "quest.0D7F28967280B814.quest_desc": [
+        "If you have followed the &6bees&r quests, you only need 2 &6bees&r to get this one and some materials ;)"
+    ],
+    "quest.0D7F28967280B814.quest_subtitle": "Just 3 bees",
+    "quest.0FEF062F9D5B30FF.quest_desc": [
+        "This is probably one of the easiest thing you will find to automate certus",
+        "&aPlant&r it, give &9water&r, collect and repeat."
+    ],
+    "quest.0FEF062F9D5B30FF.quest_subtitle": "Why dirt has so many things?",
+    "quest.0FFFD7F307112518.quest_desc": [
+        "Now, we are talking about &ecleaning&r your cells.",
+        "",
+        "From time to time, its a &drecommended&r thing to clean your cells from old items or the one that you don't use anymore, like old armor.",
+        "",
+        "After that, you pass your cells to one of these &amachines&r to join all &eitems&r of the same type to a single cell, to save on types"
+    ],
+    "quest.0FFFD7F307112518.quest_subtitle": "Move content from cells",
+    "quest.1143463EE2721A35.quest_desc": [
+        "Now, it can ignores NBT data for exporting stuff, like bows!"
+    ],
+    "quest.1143463EE2721A35.quest_subtitle": "No NBT data",
+    "quest.116BB789A12F3457.quest_desc": [
+        "I guess you want to continue with &bAE2&r, but I would sugguest for you to do some setups before.",
+        "",
+        "For example, you will need a lot of &bdiamonds&r, &egold&r, &bcertus&r, &5fluix&r, &credstone&r, &fquartz&r, ...",
+        "",
+        "And energy, that's important too. Maybe some wind generators do the trick for now"
+    ],
+    "quest.116BB789A12F3457.quest_subtitle": "Before continuing",
+    "quest.116BB789A12F3457.title": "Read this",
+    "quest.11A6DBC0DA07DA74.quest_desc": [
+        "Now we are talking. The other use for &aMEGA&r, their &dco-processors&r.",
+        "",
+        "Instead of adding 1, they add 4, which saves a lot of space"
+    ],
+    "quest.11A6DBC0DA07DA74.quest_subtitle": "More",
+    "quest.13734C22DB105837.quest_desc": [
+        "Now, make 1 &5quantum ring&r and place it anywhere in your main &dnetwork&r.",
+        "Then, put inside one of those &dlinked singularities&r"
+    ],
+    "quest.13734C22DB105837.quest_subtitle": "We will need 1 channel",
+    "quest.13734C22DB105837.title": "Quantum Ring",
+    "quest.13CA67D14B62120B.quest_desc": [
+        "This section speaks about others &aaddons&r from &bAE2&r.",
+        "Also interesting things from &bAE2&r that doesn't fit on the main &2tree&r"
+    ],
+    "quest.13CA67D14B62120B.quest_subtitle": "More = &cbetter",
+    "quest.13CA67D14B62120B.title": "Other mods",
+    "quest.13E38108EE8D35E6.quest_desc": [
+        "These kind of &cstorage&r component are used for storing lots of &dtypes&r, since they provide a balance between &dtypes&r and amount of items it can &cstore&r."
+    ],
+    "quest.13E38108EE8D35E6.quest_subtitle": "NASv.3: ON",
+    "quest.14BF651B802A685A.quest_desc": [
+        "Another multiblock, great....",
+        "You need this in other to autocraft and each CPU uses 1 channel and can be connected to any cable.",
+        "",
+        "They have restrictions too:",
+        "",
+        "- They have &cstorage&r, so if you request something big, you might need to upgrade your CPU.",
+        "",
+        "- They can be &4laggy&r if you put a lot of &3co-processors&r, in 1K order, be aware of that. ",
+        "",
+        "- They need to be a &erectangular&r structure.",
+        "",
+        "- I need to be &dfilled&r, not empty inside.",
+        "",
+        "{@pagebreak}",
+        "The following &bCPU&r is a real basic one, just to make you get &bAE2&r a bit faster.",
+        "Now I need to explain something more, &dco-processor&r.",
+        "",
+        "By default, &bAE2&r CPU can only do 1 &atask&r at the time, like smelting 1 cobblestone, and this is no bueno.",
+        "For that, if we add &dco-processors&r, we add 1 task, and now we can smelt 3 cobblestone.",
+        "",
+        "Normally, you want to have a few &bCPU&rs for your network to craft on demand and 1 or more big &bCPU&rs for you to craft things.",
+        "There are settings on the &bCPU&r if you right click it after it being formed",
+        "",
+        "&2CPU photo on next page&r",
+        "{@pagebreak}",
+        "{image:catalyst:textures/quest_images/applied_energetic/simple_cpu.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.14BF651B802A685A.quest_subtitle": "The CPU",
+    "quest.14BF651B802A685A.title": "CPU",
+    "quest.14CB7FBA94CA9F72.quest_desc": [
+        "This is the only power generation you will find in this mod and they can't be used with other mods sadly.",
+        "",
+        "- &dVibration chamber&r: Generates 80 &aFe&r per tick by burning fuel. It can be upgraded.",
+        "",
+        "- &dCrystal Resonance Chamber&r: It generates 40 &aFe&r per tick by free. Only 1 per &cnetwork&r.",
+        "",
+        "Later on, I will explain what is a network."
+    ],
+    "quest.14CB7FBA94CA9F72.quest_subtitle": "Powerful, but not",
+    "quest.14CB7FBA94CA9F72.title": "Power generation",
+    "quest.1893C08C4FA72DCC.quest_desc": [
+        "You need to make a quarry bee and set the flower to a sky stone block.",
+        "After some time (maybe a long on), it will generate some blocks.",
+        "",
+        "Also check &dseeds&r and &aXyCraft&r"
+    ],
+    "quest.1893C08C4FA72DCC.quest_subtitle": "The easy way",
+    "quest.1AF3E9F16A147816.quest_desc": [
+        "Now, the armor has a lot of &3upgrades&r that you can put, similar to &aMystical Agriculture&r's armor or the Mekasuit from &aMekanism&r."
+    ],
+    "quest.1AF3E9F16A147816.quest_subtitle": "Upgrades",
+    "quest.1CC084EAB233E5FE.quest_desc": [
+        "Not as broken as &aExtendedAE&r, but still, it allows some insane setups, specially the &ddupe&r method or the &bCPU&r.",
+        "",
+        "And lets not talk about the &4armor&r...."
+    ],
+    "quest.1CC084EAB233E5FE.quest_subtitle": "Why are you so advanced?",
+    "quest.1CC084EAB233E5FE.title": "AdvancedAE",
+    "quest.1E81D0EC96EAD719.quest_desc": [
+        "You shouldn't be worry about power storage on large scale setups with one of this.",
+        "Also, if you plan to use &dSpatial IO&r, use these cells"
+    ],
+    "quest.1E81D0EC96EAD719.quest_subtitle": "crazy....",
+    "quest.1F94352650044208.quest_desc": [
+        "In order to use the &dAdvanced&r &aExtended&r &6Pattern provider&r (who put names in here?), you need to use this tool to convert them"
+    ],
+    "quest.1F94352650044208.quest_subtitle": "New patterns",
+    "quest.1F99B65BF9354923.quest_desc": [
+        "The fundation for &cstorage&r....",
+        "",
+        "The main use is for 1K Storage Part, but lets continue, more about that later"
+    ],
+    "quest.1F99B65BF9354923.quest_subtitle": "We have made a sandwich",
+    "quest.1F99B65BF9354923.title": "Logic Processor",
+    "quest.20A95AA83B74EDBB.quest_desc": [
+        "This is how you store nuclear stuff from &aMekanism&r.",
+        "",
+        "Also, they are worth 4 &ewaste barrels&r"
+    ],
+    "quest.20A95AA83B74EDBB.quest_subtitle": "Radioactive",
+    "quest.213712F8CA65B2ED.quest_desc": [
+        "These wireless device allows you, on the same &ndimension&r, to have cheap and compact wireless, but there is a problem.",
+        "",
+        "They consume a lot of &apower&r the further they are to each other. One way to solve this issue is using &dEnergy Card&r, but still, they growth at an exponential rate."
+    ],
+    "quest.213712F8CA65B2ED.quest_subtitle": "Wireless? More or less",
+    "quest.215E69CFA0425ADF.quest_subtitle": "NASv8: ON",
+    "quest.215E69CFA0425ADF.title": "16M Storage Component",
+    "quest.2300B53ADEFB2636.quest_desc": [
+        "This will be the last quest with text.",
+        "",
+        "There are the most expensive cells &bAE2&r can provide, then, &5MEGA&r mod enters the chat"
+    ],
+    "quest.2300B53ADEFB2636.quest_subtitle": "NASv6: ON",
+    "quest.2300B53ADEFB2636.title": "256K Storage Component",
+    "quest.242A717797D292A4.quest_desc": [
+        "They are used a ton in setups, so you want a lot of them.",
+        "They speed up things.",
+        "",
+        "For example, on &dexport bus&r, it allows to send more &eitems&r in the same time, but it also send more items in less time"
+    ],
+    "quest.242A717797D292A4.quest_subtitle": "Quite a bit",
+    "quest.2574C8E53EFD83E1.quest_desc": [
+        "Items and circuits, good combination"
+    ],
+    "quest.2574C8E53EFD83E1.quest_subtitle": "Items",
+    "quest.261C1726C965B33F.quest_desc": [
+        "There are basically &3useless&r, since you have &aMekanism&r for the canner and you don't use the repair for buds, since you either have &6bees&r or &ddupe&r for &aEntro&r crystal or &eflawless&r bud for &bcertus&r "
+    ],
+    "quest.26D88FF9A22A338E.quest_desc": [
+        "At the beginning, you are going to use a lot of these, because it's needed on &6autocrafing&r and &binterfaces&r.",
+        "",
+        "More on that later."
+    ],
+    "quest.26D88FF9A22A338E.quest_subtitle": "Multiblock formed!",
+    "quest.26D88FF9A22A338E.title": "Formation Core",
+    "quest.26FCC70341995D39.quest_desc": [
+        "Well, well, well....",
+        "",
+        "Another &dterminal&r, but this time it allows you to find &6patterns&r faster, either by using &einput&r materials or &aoutput&r result.",
+        "",
+        "Also locate &6pattern providers&r!"
+    ],
+    "quest.28904D17FA902B9C.quest_desc": [
+        "This is on of those &aaddons&r that you will use a lot, but when i say a lot, it's a lot.",
+        "",
+        "This is probably one of the most &cbroken&r addon for &bAE2&r out there, and that is good, for us :P"
+    ],
+    "quest.28904D17FA902B9C.quest_subtitle": "Concurrency or parallelism?",
+    "quest.28904D17FA902B9C.title": "ExtendeAE",
+    "quest.289EAB703FB95F5F.quest_desc": [
+        "&bCloud&r storage? Where? Oh... ",
+        "",
+        "Time for you to get your &cstorage&r and forget those &echests&r and &abarrels&r and dr...",
+        "Well, we can live with &edrawers&r, for now....",
+        "They allow you to store 10 &dcells&r per machine. More info on the next quest",
+        "",
+        "These &bAE2 machines&r uses 1 &achannels&r and can be connected on &eboth&r types of &dcables&r."
+    ],
+    "quest.289EAB703FB95F5F.quest_subtitle": "Your local storage",
+    "quest.28BF9F410AEC0FEE.quest_desc": [
+        "Charge the &ccrystal&r on a &dcharger&r or similar ;)"
+    ],
+    "quest.28BF9F410AEC0FEE.quest_subtitle": "Step 2",
+    "quest.2919FB8C84AD69F9.quest_subtitle": "NASv5: ON",
+    "quest.2919FB8C84AD69F9.title": "4M Storage Component",
+    "quest.295DFE93EE139200.quest_desc": [
+        "Basically, a faster version"
+    ],
+    "quest.2A30ED06F03EAD50.quest_desc": [
+        "With 10 of these 1K &cStorage&r &6Components&r, you should be able to fit most of your early &cstorage&r and then you can easily upgrade it to higher capacity.",
+        "",
+        "Now, for the \"hard\" part, &dtypes&r.",
+        "",
+        "Types is there for 1 main reason, &4corruption&r. It doesn't allow you to store all the trash from your &amob farm&r, like damaged armors or weapons.",
+        "Those tools or armor in high amount can cause a &cban&r from your world.",
+        "",
+        "How do I know what is consider a &dtype&r? If you can stack the same thing on a backpack with stack upgrade, then it's the same type, if not, it's different."
+    ],
+    "quest.2A30ED06F03EAD50.quest_subtitle": "NAS: ON",
+    "quest.2A30ED06F03EAD50.title": "1K Storage Component",
+    "quest.2A31D8850389D929.quest_desc": [
+        "I lied, sorry :P",
+        "",
+        "These are a bit expensive but can substitute drawers. And what capacity and how many types?",
+        "",
+        "Well, 1 &dtype&r only, and you need to use a &aCell Workbench&r to use it.",
+        "",
+        "For &ecapacity&r? Well... The number doesn't fit in the &centire&r &eobservable&r &4universe&r....."
+    ],
+    "quest.2A31D8850389D929.quest_subtitle": "I lied",
+    "quest.2A40F0513524BA89.quest_desc": [
+        "This is the basic set, but you can &5upgrade&r it!",
+        "",
+        "This is like wearing your &bAE2&r &dnetwork&r.",
+        "The armor has options to turn &con&r and &4off&r upgrades, so if you added jump height, you can disable it"
+    ],
+    "quest.2A46F5B21C3B8949.quest_desc": [
+        "Well, well, well....",
+        "",
+        "This mods allows you to store things without &4types&r.",
+        "",
+        "While this sounds interesting, I will question you, do you really need 500 &n&cdamaged&r bows?",
+        "And they also works different, 1 &eitem&r = 1 &abyte&r, unlike the 8 &eitems&r = 1 &abyte&r normal cells allows you"
+    ],
+    "quest.2A46F5B21C3B8949.quest_subtitle": "\"Storage for dummies\" - &bAE2&r Things",
+    "quest.2D8961C4A79889EB.quest_desc": [
+        "Fluix &dseeds&r....",
+        "",
+        "Too serious now, they are pretty cheap.... wait a second, &bTIER 4&r?!?"
+    ],
+    "quest.2D8961C4A79889EB.quest_subtitle": "Fluixium",
+    "quest.2D92C00760C8EB09.quest_desc": [
+        "How to move energy.... wait a second, that's &eenergy&r &bP2P&r.",
+        "",
+        "This is how to &cstore&r energy on cells.",
+        "You probably want some &2cactus&r"
+    ],
+    "quest.2D92C00760C8EB09.title": "&cAppliedFlux",
+    "quest.2E02D184863D55B8.quest_desc": [
+        "This is a &ahandy&r tool that shows with visual how &echannels&r are routed, even with P2P &dnetworks&r.",
+        "",
+        "Also, if there is any error, it will tell you with colors"
+    ],
+    "quest.2E02D184863D55B8.quest_subtitle": "Seeing the network?",
+    "quest.2FF33C9923F3A56C.quest_subtitle": "NASv9: ON",
+    "quest.2FF33C9923F3A56C.title": "64M Storage Component",
+    "quest.3006700ADFA33FAE.quest_desc": [
+        "Allow supported machines to &4craft&r items on demand if they need because there aren't anymore on the &dnetwork&r"
+    ],
+    "quest.3006700ADFA33FAE.quest_subtitle": "On-demand",
+    "quest.30290B4FDEF77D4C.quest_subtitle": "Same as Pattern Encoding Terminal",
+    "quest.312977962EF7DFA3.quest_desc": [
+        "Okay, if you haven't made a &acontroller&r, you don't want to waste &aresources&r here yet.",
+        "",
+        "This blocks can be placed anywhere in your &bnetwork&r and it will store some energy.",
+        "For example, when you run out of fuel in your main power generation, these will provide a small buffer for you to get more fuel.",
+        "",
+        "Another useful thing of these is allow faster &doperation&r.",
+        "When you insert tons of items, like 9 stacks per tick, on an interface, it will use a lot of power, so it can help a lot in those kind of scenarios"
+    ],
+    "quest.312977962EF7DFA3.quest_subtitle": "Storing energy?",
+    "quest.313E0224222B0EAD.quest_desc": [
+        "More &bcertus&r? ",
+        "",
+        "Did you made at least a &bcertus&r farm?"
+    ],
+    "quest.313E0224222B0EAD.quest_subtitle": "&bBottom&r",
+    "quest.313E0224222B0EAD.title": "&bPrinted Calculation Circuit",
+    "quest.3180C949D125E7DA.quest_desc": [
+        "Well, another way to move stuff.",
+        "",
+        "P2P, what are they? Simple, do you know the game &5Portal&r? Well, basically those portals.",
+        "",
+        "One thing enter on one side and goes out on the other side.",
+        "They need 1 &achannel&r each and only on &dsmart cables&r.",
+        "",
+        "A part from that, except &bME&r P2P, they have 1 &einput&r but &6multiple&r output.",
+        "For ME P2P, they can have multiple input, but can a dense cable carry more than 32 channels?"
+    ],
+    "quest.3180C949D125E7DA.quest_subtitle": "The fearest thing on &bAE2",
+    "quest.3180C949D125E7DA.title": "P2P",
+    "quest.325AD48FA7A279AB.quest_desc": [
+        "Once you have 32 &aentro&r crystal, you can dupe it or get a &6bee&r, whatever you like the most.",
+        "The easiest one is &6bee&r.",
+        "",
+        "For now, we need to get some &abudding&r kicking, and we are going to modify a &b&nsimple certus farm&r ",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/entro_farm.png width:150 height:100 align:center fit:true}",
+        "{image:catalyst:textures/quest_images/applied_energetic/entro_farm_2.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.325AD48FA7A279AB.quest_subtitle": "First step, Entropy",
+    "quest.342249E9DEEF064F.quest_desc": [
+        "This is basically a &emagnet&r, that can &4insert&r into the &dnetwork&r or inventory, also &afiltering&r for attracting items!"
+    ],
+    "quest.342249E9DEEF064F.quest_subtitle": "In the Network",
+    "quest.3424FC422A8736E1.quest_desc": [
+        "At the beginning, you are going to use a lot of these, because it's needed on &6autocrafing&r and &binterfaces&r.",
+        "",
+        "More on that later."
+    ],
+    "quest.3424FC422A8736E1.quest_subtitle": "Multiblock destroyed!",
+    "quest.3424FC422A8736E1.title": "Annihilation Core",
+    "quest.344B395FE7CEE575.quest_desc": [
+        "With this &dmonitor&r, you have check how many resources are you producing per second!"
+    ],
+    "quest.344B395FE7CEE575.quest_subtitle": "How much?",
+    "quest.359C9083E3B69D29.quest_desc": [
+        "&cWarning&r! &eElectrical&r shock"
+    ],
+    "quest.359C9083E3B69D29.quest_subtitle": "&cBottom&r",
+    "quest.359C9083E3B69D29.title": "&cPrinted Energy Circuit",
+    "quest.362FA7CD5737380B.quest_desc": [
+        "Combine 2 &dwireless terminal&r on a &6crafting&r &eterminal&r, and you will get an &5Universal wireless terminal&r.",
+        "",
+        "Now, that &5Universal terminal&r and the other &dterminal&r on a &6crafting&r &eterminal&r to get all of them into one.",
+        "",
+        "They have more &aslots&r for upgrades and now you can change from terminal to terminal in 1 click or still use the &ckeybinds&r if you used them"
+    ],
+    "quest.362FA7CD5737380B.quest_subtitle": "All in one",
+    "quest.374D3F10FD46CC21.quest_desc": [
+        "Is this a loop? Or did I had a Déjà vu?",
+        "",
+        "Well, remember what i said before, &cbreaks&r everything &cexcept&r &bflawless certus buds&r.",
+        "",
+        "Also, collect some sky stone, we will need later"
+    ],
+    "quest.374D3F10FD46CC21.quest_subtitle": "The beginning",
+    "quest.37729D29364F83F5.quest_desc": [
+        "Trust me, you will, just get the duping method started"
+    ],
+    "quest.37729D29364F83F5.quest_subtitle": "You will need it",
+    "quest.37729D29364F83F5.title": "Entro Crystal",
+    "quest.377756F8402AEEB7.quest_desc": [
+        "Since the other doll don't have a craft, here is a quest for you to get it ;)"
+    ],
+    "quest.3834D00BCA561CB7.quest_desc": [
+        "This is the main way to produce a lot of &6ingots&r and &ealloy&r during your playthrough, only for &bAE2&r related materials!"
+    ],
+    "quest.3834D00BCA561CB7.quest_subtitle": "Step 1, Mix ingredient",
+    "quest.385E5459FF7FB65E.quest_desc": [
+        "Add &9water&r and the &cQuantum Infused Dust&r on a reaction chamber to get Quantum Infusion, then you can use a bucket to &ecomplete&r the quest."
+    ],
+    "quest.385E5459FF7FB65E.quest_subtitle": "I know, I know",
+    "quest.387EBA2C53658344.quest_desc": [
+        "Basically, housing are useless when it comes to making cells, since there is another recipe that do the same in 1 step."
+    ],
+    "quest.387EBA2C53658344.quest_subtitle": "Optional",
+    "quest.387EBA2C53658344.title": "Cell Housings",
+    "quest.38926CA5889429A9.quest_desc": [
+        "Mega, the addon that allows you to store &cenormous&r &4quantities&r&4 of things.",
+        "",
+        "Just that they are a bit expensive...."
+    ],
+    "quest.38926CA5889429A9.quest_subtitle": "Big = better",
+    "quest.38926CA5889429A9.title": "MEGA",
+    "quest.3AC9DB065D667EAF.quest_desc": [
+        "Alloy used for fluid housing, allows all fluids"
+    ],
+    "quest.3AC9DB065D667EAF.quest_subtitle": "Fluids",
+    "quest.3B4945EAEAC2C822.quest_desc": [
+        "This allow a equal distribution of capacity in cells for all types, like doing capacity / total types"
+    ],
+    "quest.3B4945EAEAC2C822.quest_subtitle": "No more!",
+    "quest.3BD9B2308B282F3C.quest_desc": [
+        "Basically a &cMatter Condenser&r on a cell, it can delete your items!"
+    ],
+    "quest.3BD9B2308B282F3C.quest_subtitle": "&cWarning&r: Trash Can",
+    "quest.3C5127DBF60F0B95.quest_desc": [
+        "How do we get more &achannels&r than 8? &dControllers&r!!!",
+        "They provide 32 &achannels&r per side.",
+        "Sooo... It can only do 192 &achannels&r in total? Nope. We can expand our controller.",
+        "",
+        "This is a &dmultiblock&r with a few rules, but they are easy:",
+        "",
+        "- It can't be bigger than &n&c7 blocks&r on each direction.",
+        "",
+        "- It can only be &n&c1 controller multiblock&r on each network.",
+        "",
+        "- It can only have &n&c2 controller adjacent&r on 1 axis.",
+        "",
+        "{@pagebreak}",
+        "But how are we going to transport &achannels&r? Using dense cables of course. They should be cheap if you did your homework. ",
+        "",
+        "You want to use &ddense cables&r to transport &achannels&r from point A to point B, like from your controller in base to your iron farm.",
+        "",
+        "Then, when you have your &ddense cable&r in the location you can, you should use &5smart cables&r to connect to every &bAE2 machine&r that needs it.",
+        "",
+        "Ideally, you should dedicate 1 or more dense cables per setup. ",
+        "For example, you need 34 &achannels&r on your iron farm (somehow), you should dedicate 2 &ddense cables&r for the entire setup and &cdon't use&r the other &achannels&r for other setups.",
+        "Why? Because it can be &4messy&r real quick on large setups. But if you want, you can do it.",
+        "",
+        "{@pagebreak}",
+        "Now, for the &dcontroller&r, a 3x3x3 hollow cube should be more than enough for most people, like the following:",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/initial_controller.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.3C5127DBF60F0B95.quest_subtitle": "Why 20?",
+    "quest.3C5127DBF60F0B95.title": "&bME Controller",
+    "quest.3C8046AB0A97EAF5.quest_subtitle": "We have made a sandwich",
+    "quest.3FA9E1842C9810EB.quest_desc": [
+        "This is basically an expensive requester"
+    ],
+    "quest.3FA9E1842C9810EB.quest_subtitle": "Basically a requester",
+    "quest.402002D607F79B06.quest_desc": [
+        "There are quest for &cstorage&r on the main &bAE2&r quests"
+    ],
+    "quest.402002D607F79B06.quest_subtitle": "Storage",
+    "quest.402002D607F79B06.title": "Storage",
+    "quest.4276CB4072A6F022.quest_desc": [
+        "While you can use pickaxes to mine cables, you use &edurability&r (in most cases).",
+        "With these wrenches, you can mine it without using durability.",
+        "",
+        "- Sneak + right click to get the item.",
+        "",
+        "- Right click to rotate the &bAE2 machines&r"
+    ],
+    "quest.4276CB4072A6F022.quest_subtitle": "The most useful thing",
+    "quest.448F99A9197C7EAD.quest_subtitle": "Don't use these",
+    "quest.448F99A9197C7EAD.title": "Covered Cable",
+    "quest.455950B18235B335.quest_desc": [
+        "Allows 10 more slots for cells, just you can't check them on the block model"
+    ],
+    "quest.455950B18235B335.quest_subtitle": "More space",
+    "quest.460CB2F19CF27EAA.quest_desc": [
+        "This is how you interact with your &dnetwork&r at the beginning.",
+        "Each terminal needs &dsmart cables&r and 1 &achannel&r.",
+        "",
+        "It allows you to &acraft&r stuff from the terminal, &binput&r things from your inventory or &eoutput&r things to your inventory. ",
+        "Also has cool &dfunctions&r on the side, check them!",
+        "",
+        "And you will find a &chammer&r on the top right, if you click on that, it will show your &bCPU&rs and what they are doing."
+    ],
+    "quest.460CB2F19CF27EAA.quest_subtitle": "Now we are talking",
+    "quest.477D1FD7543A473E.quest_desc": [
+        "&7Silicon&r is used a lot in &bAE2&r, since most machines uses some kind of processor.",
+        "",
+        "It would be a good idea to have it on &epassive&r or at least, make a lot of them in &6batches&r, for example, 200 at the time.",
+        "",
+        "A part from that, &7printed silicon&r is used in every single &aprocessor&r, so you probably want to &ddouble&r or even &ctriple&r your &7printed silicon&r.",
+        "",
+        "While the quests just ask for 5 &dinscribers&r, you would really need more on the long run, unless you check &bAE2&r's &aaddons&r ;)"
+    ],
+    "quest.477D1FD7543A473E.quest_subtitle": "Read this",
+    "quest.477D1FD7543A473E.title": "Silicom",
+    "quest.49286C762F383267.quest_desc": [
+        "&bDiamonds.&r...",
+        "",
+        "Well, I've told you that we would need them."
+    ],
+    "quest.49286C762F383267.quest_subtitle": "&bBottom&r",
+    "quest.49286C762F383267.title": "&bPrinted Enginnering Circuit",
+    "quest.4B09BF91C8CBFBD3.quest_desc": [
+        "[ \"You probably want to start \", { \"text\": \"bee quests\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"232345A9C9EFDC9B\" } }, \", before doing this one.\" ]",
+        "",
+        "But if you did, &dcongrats&r, you have another &6powerful&r way to generate &bcertus&r and &bcertus dust&r, which we will need in industrial quantities ;)"
+    ],
+    "quest.4B09BF91C8CBFBD3.quest_subtitle": "bzzzzzzzz",
+    "quest.4CB758202B13207D.quest_desc": [
+        "These &dcables&r are one of the main way to transport &achannels&r around your base.",
+        "They have some limitations, like they can only connect to &bAE2 machines&r that uses the &centire block&r, like interfaces or pattern providers.",
+        "",
+        "Here is an example:",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/dense_cable_example.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.4CB758202B13207D.quest_subtitle": "Big, bigger, better",
+    "quest.4CB758202B13207D.title": "Dense Smart Cable",
+    "quest.4D34F7914A316C16.quest_desc": [
+        "Allows machines to be &credstone&r controlled"
+    ],
+    "quest.4D34F7914A316C16.quest_subtitle": "&cRedstone&r on",
+    "quest.4DE741EB46FCCEAD.quest_desc": [
+        "Are you fed of changing 500 &6patterns&r and all their ingredients one by one? No?",
+        "",
+        "Well, this is the item you want to use to change a lot of &6pattern&r fast, like instead of doing 1 cobble to 1 stone, you can do 100 cobble to 100 stone in a moment, faster than using the terminal to change the rate"
+    ],
+    "quest.4E4EB5E9324A5432.quest_desc": [
+        "This is as simple as you can get. You should always be sending &bcertus&r to the top chest",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/charged_certus.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.4E4EB5E9324A5432.quest_subtitle": "Certe loaded",
+    "quest.4EBBCFC689A62689.quest_desc": [
+        "These are used a lot on some situations.",
+        "",
+        "- &eCable anchors&r separate cables if they are connected",
+        "",
+        "- &aQuartz fibers&r do the same as cable anchors, but allow energy to pass. Only use this when needed",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/cables.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.4EBBCFC689A62689.quest_subtitle": "Fundamentals",
+    "quest.4FDE9B1603E03F07.quest_desc": [
+        "Yep, this is one of the best way you can generate it.",
+        "",
+        "Also check &6bees&r and &aXyCraft&r"
+    ],
+    "quest.4FDE9B1603E03F07.quest_subtitle": "The easy way",
+    "quest.5039AE0EED4C0CE4.quest_desc": [
+        "First, we need this crystal, maybe some &credstone&r, &5fluix&r and &9water&r should be enough? No?"
+    ],
+    "quest.5039AE0EED4C0CE4.quest_subtitle": "First step",
+    "quest.5054E284525D0EEF.quest_desc": [
+        "Well, we are going to dupe the &acrystal&r.",
+        "",
+        "First, we need to turn it to a dust, and then with &5fluix&r on a &dreaction chamber&r, we get 64 &aentro&r crystals.",
+        "",
+        "We are getting 32 for free basically."
+    ],
+    "quest.5054E284525D0EEF.quest_subtitle": "AdvancedAE",
+    "quest.506BF99DA7D09C35.quest_desc": [
+        "Just allow to change colors on your cables without breaking it. ",
+        "Needs a cell to work.",
+        "More info on the &bAE2 guide&r"
+    ],
+    "quest.506BF99DA7D09C35.quest_subtitle": "Color on demand",
+    "quest.506BF99DA7D09C35.title": "Color Applicator",
+    "quest.50975CD6F96E5A96.quest_desc": [
+        "Needed for the &5CPU&r, make sure you have a few of them"
+    ],
+    "quest.50975CD6F96E5A96.quest_subtitle": "We have made a sandwich",
+    "quest.5154EABFFD85F34D.quest_desc": [
+        "Now, you are thinking, why do we need to do this?",
+        "",
+        "Well, I'm going to show you a way to have &dwireless&r for basically free energy and cross-dimensional and basically infinite range.",
+        "",
+        "But first, start pumping some &9water&r to a matter condenser set to make &dsingularities&r",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/singularities.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.5154EABFFD85F34D.quest_subtitle": "Use &9water&r!!!!",
+    "quest.5154EABFFD85F34D.title": "&dWireless terminal path",
+    "quest.51FE6BCEA111CD86.quest_desc": [
+        "There are 2 &cmain&r difference between the &aExtended&r version and the regular one:",
+        "",
+        "- &aExtended&r can tell you where exactly is a &6pattern provider&r",
+        "",
+        "- You can search in the patterns with &aExtended&r"
+    ],
+    "quest.51FE6BCEA111CD86.quest_subtitle": "The best one",
+    "quest.53643D15A00F2F56.quest_desc": [
+        "These &bAE2 machines&r uses 1 &achannel&r each and can only be placed on &dsmart cables&r.",
+        "",
+        "They allow to &aimport&r things to the &dnetwork&r's &cstorage&r or &eoutput&r things from the &dnetwork&r's &cstorage&r.",
+        "",
+        "They are like interfaces, but worse.",
+        "Only good thing is that they allow more &afiltering&r."
+    ],
+    "quest.53643D15A00F2F56.quest_subtitle": "IO operations",
+    "quest.53643D15A00F2F56.title": "Import / Export bus",
+    "quest.544A7541FE5D1A8D.quest_desc": [
+        "For you to be able to encode &6patterns&r, you need this terminal.",
+        "",
+        "Here is a &atip&r, click on &callow substitution&r and &bfluids&r (iron ingot and bucket), it will save you a few steps if it can ;)"
+    ],
+    "quest.544A7541FE5D1A8D.quest_subtitle": "Patterns encoded",
+    "quest.545CECD192055BC0.quest_desc": [
+        "Using some of your &bcertus&r on an inscriber or a &aMekanism&r's &ecrusher&r to get &bcertus dust&r.",
+        "",
+        "Then, smelt some of it on a &efurnace&r, and boom, you get &7silicon&r.",
+        "You probably want to make a stack of both."
+    ],
+    "quest.545CECD192055BC0.quest_subtitle": "Silex, 14",
+    "quest.545CECD192055BC0.title": "Silicon",
+    "quest.54F0F61ECC99DA21.quest_desc": [
+        "Now, we can consider starting &bAE2&r.",
+        "You might have seen words like network, channels and system around the quests.",
+        "Time to explain.",
+        "",
+        "A &dnetwork&r is a serie of &bAE2 machines&r connected with each other. It can consist of &bmachines&r, &cstorage&r and &edisplays&r.",
+        "",
+        "These &dnetworks&r can be big or small, but they have some \"limits\", &achannels&r.",
+        "What is a &achannel&r? It's how many machines you can connect to a cable.",
+        "It can be 8 &bmachines&r or 32 &bmachines&r.",
+        "",
+        "You can disable &achannels&r, you would need OP, but once you get how they work, they will become easy. More info later."
+    ],
+    "quest.54F0F61ECC99DA21.quest_subtitle": "The begin.... another &5Déjà vu&r?",
+    "quest.54F0F61ECC99DA21.title": "&5Fluix cables",
+    "quest.55DB4A314B7F2DCA.quest_desc": [
+        "Just allow you to &cstore&r more &aenergy&r on the allowed items"
+    ],
+    "quest.55DB4A314B7F2DCA.quest_subtitle": "Bigger",
+    "quest.55E29E9A46EE9A16.quest_desc": [
+        "It's just here because it's needed on &aExtendedAE&r for 1 multiblock ;)"
+    ],
+    "quest.55E29E9A46EE9A16.quest_subtitle": "Paintballs",
+    "quest.568CB75768EE2157.quest_desc": [
+        "These are the main ingredient for a lot of &eitems&r in this &aaddon&r, so probably good idea to have &dsingularities&r on demand ;)"
+    ],
+    "quest.568CB75768EE2157.quest_subtitle": "This is not a singularity",
+    "quest.5735C6D3BF055470.quest_desc": [
+        "Now, we need all presses that the quest ask to continue with &bAE2&r, break the &8mysterious cube&r in the center of the meteorite or make them or buy them.",
+        "",
+        "After that, we need at least 5 &dinscribers&r, one for each press we got and 1 to combine.",
+        "{@pagebreak}",
+        "This is an example on how you can setup your Inscriber Automation!",
+        "{image:catalyst:textures/quest_images/applied_energetic/basic_inscriber_setup.png width:200 height:150 align:center}"
+    ],
+    "quest.5735C6D3BF055470.quest_subtitle": "Pressing, pressing, ....",
+    "quest.5735C6D3BF055470.title": "Presses",
+    "quest.5888EC05989B8B92.quest_subtitle": "Don't use these",
+    "quest.5888EC05989B8B92.title": "Dense Covered Cable",
+    "quest.5A9877BE128E8A85.quest_desc": [
+        "This is only when you can't find a meteor, which is pretty common issue.",
+        "",
+        "They allow for easy &bcertus&r and &dfluix&r early on, but doesn't scale up very well later on"
+    ],
+    "quest.5A9877BE128E8A85.quest_subtitle": "Early farm",
+    "quest.5A9877BE128E8A85.title": "&aVillager",
+    "quest.5BB1C96280007519.quest_desc": [
+        "This block allows you to store anything, from items to chemicals inside, except nuclear stuff."
+    ],
+    "quest.5BB1C96280007519.quest_subtitle": "SFM: &cTriggered",
+    "quest.5BBF553C6FB4A625.quest_desc": [
+        "It deletes items when an inventory is full"
+    ],
+    "quest.5BBF553C6FB4A625.quest_subtitle": "&cWarning",
+    "quest.5BC01A68BD6802A7.quest_desc": [
+        "Now, we need a way to store the recipes.",
+        "",
+        "These are placed inside &6pattern providers&r and there are different kind:",
+        "",
+        "- &dCrafting patterns&r: Needs a molecular assembler to craft them",
+        "",
+        "- &6Processing patterns&r: Needs a machine from another mod, like a furnace.",
+        "",
+        "- &aCutting pattern&r: Needs a molecular assembler (&mthey said its not worth it to do it another way&r)",
+        "",
+        "- &7Smithing pattern&r: You guess it, molecular assembler too"
+    ],
+    "quest.5BC01A68BD6802A7.quest_subtitle": "Domination of the &6crafting&r tree",
+    "quest.5BC01A68BD6802A7.title": "Patterns",
+    "quest.5CE2A10C711EC3C9.quest_desc": [
+        "This is the same as last one, but it includes 9 slots for upgrades.",
+        "",
+        "If you have this tool on your &ainventory&r (&cnot&r backpack or in your network), it will show all upgrades. It's a little nice touch when doing massive setups.",
+        "",
+        "Also, if you right click on any &dcable&r, you will see a tab with information, like energy used or generated"
+    ],
+    "quest.5CE2A10C711EC3C9.quest_subtitle": "Wrench v2",
+    "quest.5D07E1630119890C.quest_desc": [
+        "Yes, we can automate &5fluix&r now without using &dseeds&r or &6bees&r.",
+        "",
+        "These machines needs 1 &bchannel&r to work and needs an inventory to store blocks.",
+        "[ \"There is a \", { \"text\": \"setup\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2992DF31EA2F37F1\" } }, \" explaining more.\" ]"
+    ],
+    "quest.5D07E1630119890C.quest_subtitle": "&5Fluix&r automation",
+    "quest.5D4D3DB66B0E09C6.quest_desc": [
+        "Now, before continue to the next part, i just want to say that changing your inscriber setup for this one is worth.",
+        "",
+        "Also, did you made the &aEntro&r &6bee&r? Or at least &ddupe&r the crystal?"
+    ],
+    "quest.5D4D3DB66B0E09C6.quest_subtitle": "We have a few, yes",
+    "quest.5D4D3DB66B0E09C6.title": "The begin.... another &5Déjà vu&r?",
+    "quest.5DB2AD4CE960445A.quest_desc": [
+        "The same as before but with a bigger buffer.",
+        "You should only need 1 of these on medium scale setups, unless you use &dSpatial IO&r"
+    ],
+    "quest.5DB2AD4CE960445A.quest_subtitle": "Bigger = better?",
+    "quest.5E011689613A583E.quest_desc": [
+        "Now, you can filter your cells in situ"
+    ],
+    "quest.5E011689613A583E.quest_subtitle": "No more blocks",
+    "quest.5E65F944050BD507.quest_desc": [
+        "&aExtended&r &6Pattern Provider&r are the same as the old ones, but provides &c&nanother&r 27 slots for &apatterns&r!",
+        "",
+        "For the &dmoleculars assemblers&r... They are another history:",
+        "",
+        "- They can do 4 &drecipes&r at the same time",
+        "",
+        "- They are &efaster&r than the normal version, x2 to be exact",
+        "",
+        "- You &ccan't&r place patterns inside",
+        "",
+        "For the pattern providers, there is an upgrade than you can use in case you don't want to break them"
+    ],
+    "quest.5E65F944050BD507.quest_subtitle": "Now, time to upgrade your &6autocrafting",
+    "quest.5F8B4DA147FFBF10.quest_desc": [
+        "For example, you enter redstone dust on your network and this card convert it to redstone blocks"
+    ],
+    "quest.5F8B4DA147FFBF10.quest_subtitle": "Compress",
+    "quest.60A2AE588A7D600C.quest_desc": [
+        "Energy: &cON&r",
+        "Capacity required: &4ERROR&r",
+        "",
+        "Yep, basically that, you need a lot of &achannels&r and &eenergy&r, by a lot",
+        "",
+        "The guide has more info on how this mechanic works, i tried but it was longer and worse.",
+        "Also, if you have friends, you can trap them inside ;)"
+    ],
+    "quest.60A2AE588A7D600C.quest_subtitle": "It's a trap!!!",
+    "quest.62FF49268DF92CDB.quest_desc": [
+        "Luckily, these &bprocessors&r are the most used, which they are basically free.",
+        "",
+        "While I ask for 16, you probably want to do 32 or 64"
+    ],
+    "quest.62FF49268DF92CDB.quest_subtitle": "We have made a sandwich",
+    "quest.62FF49268DF92CDB.title": "Calculation Processor",
+    "quest.638AA96CA3E3787D.quest_desc": [
+        "This is used a lot, so you probably want to make a &bcertus&r farm first, and a quartz, and a &credstone&r one....",
+        "",
+        "Drop all of these ingredients on &9water&r, wait and collect the &5fluix&r.",
+        "While I only ask for the ingredients to make 2, you should make 4 stacks of &5fluix&r, which it will be used later on"
+    ],
+    "quest.638AA96CA3E3787D.quest_subtitle": "Fluixium aurium",
+    "quest.638AA96CA3E3787D.title": "&5Fluix",
+    "quest.65C2A7ACDD2D9947.quest_desc": [
+        "You should use these &dcables&r for your setups. Why? Simple, they show you how many &achannels&r you use, on the cable and if you look at them, they will also tell you.",
+        "",
+        "But we haven't talked how to get &achannels&r, just that &bmachines&r uses &achannels&r.",
+        "Well, it's easy, place 8 cables and an energy acceptor, give it power and you have 8 free channels.",
+        "Now, you can only place 8 &bAE2 machines&r, if you try to place 9 machines, the network will stop.",
+        "",
+        "{@pagebreak}",
+        "Sooooo... how do we &cscale&r up things? &dControllers&r! They are a fundamental part of this mod, so you should make them. &eQuests&r will guide you and tell you which &bmachines&r uses &achannels&r.",
+        "",
+        "&dSmart cables&r and &5fluix cables&r can only connect to 8 machines. You should check on &ddense cables&r.",
+        "Also, tip here, use different colors, at least 2 colors and fluix colors. That way they don't connect to each other.",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/cables.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.65C2A7ACDD2D9947.quest_subtitle": "Now we are talking",
+    "quest.65C2A7ACDD2D9947.title": "Smart cables",
+    "quest.66D36EAA72C8C2E0.quest_desc": [
+        "Now, we can consider started on &aExtendedAE&r mod.",
+        "",
+        "This is the &afundamental&r ingot of this mod, since it needed for processors, which you should check on the main AE2 quests ;)"
+    ],
+    "quest.66D36EAA72C8C2E0.quest_subtitle": "The ingot",
+    "quest.6744017ED4BEE958.quest_subtitle": "&0Bottom",
+    "quest.6744017ED4BEE958.title": "&0Printed Accumulation Circuit",
+    "quest.68F03CFFA6A021A8.quest_desc": [
+        "Basically, adds a bigger energy capacity to supported tools"
+    ],
+    "quest.68F03CFFA6A021A8.quest_subtitle": "POWAH!!!!",
+    "quest.690BCDCCE7DCDF19.quest_desc": [
+        "The same as a normal &binterface&r, but it gives you another 27 slots!"
+    ],
+    "quest.690BCDCCE7DCDF19.quest_subtitle": "The same",
+    "quest.697A5E53CC53ADDB.quest_desc": [
+        "You are starting to &6bee&r fed up with that many amount of manual crafting.",
+        "Well, time to change that.",
+        "There are tons of setups for &6autocrafting&r, but I will ask you to make one of the simplest.",
+        "",
+        "You can expand later with &cmore&r &atowers&r or another setups. For this, you need 8 channels, so basically, a &dsmart cable&r.",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/pattern_provider.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.697A5E53CC53ADDB.quest_subtitle": "How to automate things",
+    "quest.697A5E53CC53ADDB.title": "&6Autocrafting",
+    "quest.69E5E1E33F978ABE.quest_desc": [
+        "This is used for armor, basically"
+    ],
+    "quest.69E5E1E33F978ABE.quest_subtitle": "Expensive",
+    "quest.6AE86F948D9A4472.quest_desc": [
+        "Now, time for some &breal&r &dmagic&r. ",
+        "We need an mateor compass, which you need a compass and a &dcharger&r (later on reused)",
+        "For now, make a crank.",
+        "",
+        "It will points to the nearest meteorite with a mysterious cube (needed for later) and some certus buds.",
+        "",
+        "&cBreak&r every buds &cexcept&r for flawless buds, which you need to use the box on those.",
+        "&bFlawless buds&r don't degrade over time if you don't break it."
+    ],
+    "quest.6AE86F948D9A4472.quest_subtitle": "You need both",
+    "quest.6B50E447E97394A8.quest_desc": [
+        "We need a &bcertus farm&r, but how do we make it?",
+        "You can go with &6bees&r, &dseeds&r or &cdupe&r method from AdvancedAE, but this is the intented way on AE2. (Probably easier to use seeds and bees)",
+        "",
+        "This quest comes from the guide, which has a &e3D&r view of the farm. Search on examples and &b&nsimple certus farm&r. But we are doing a small modification to make it produce a bit more.",
+        "",
+        "This way we can fit 3 annihilation plane for more production.",
+        "",
+        "&2Photo on the next page&r",
+        "",
+        "{@pagebreak}",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/first_farm_certus.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.6B50E447E97394A8.quest_subtitle": "Can you go higher?",
+    "quest.6B50E447E97394A8.title": "&bCertus farm",
+    "quest.6B552B61C702C105.quest_desc": [
+        "Have you hear about parallelism? No? Well, you will"
+    ],
+    "quest.6B552B61C702C105.quest_subtitle": "&bBottom&r",
+    "quest.6B552B61C702C105.title": "&bPrinted Concurrent Circuit",
+    "quest.6C6D6015BDFF4BD3.quest_desc": [
+        "This is the &bAE2 machine&r that allows to use &cstorage&r from other mods.",
+        "It uses 1 &achannel&r and can only be placed on &dsmart cables&r.",
+        "",
+        "They have cool functionally in the GUI, so check them out, but the important are:",
+        "",
+        "- &aFiltering&r: So 500 different thing doesn't go into the same thing",
+        "",
+        "- &dExtraction&r: You can set them to extract only or insert only or both"
+    ],
+    "quest.6C6D6015BDFF4BD3.quest_subtitle": "Storing in other mods? Are u cheating on me?",
+    "quest.6D20BEE603706F69.quest_desc": [
+        "Yep, we are using a lot of &dsingularities&r, and &9water&r because are you making them with &9water&r, &1&lright&r?",
+        "",
+        "The fluid from before and some materials, and you get 1 ingot.",
+        "Now, why do we need 9 ingots? For &5processors&r!"
+    ],
+    "quest.6D20BEE603706F69.quest_subtitle": "Water bill: 9999999999€",
+    "quest.6FBE162F8B5157F3.quest_desc": [
+        "While you won't ever need to use this tool, I need to tell you.",
+        "",
+        "Convert some materials to another, like lava to obsidian.",
+        "Only useful to get snow balls or ice at the beginning until you get &6bees&r or &dseeds&r"
+    ],
+    "quest.6FBE162F8B5157F3.quest_subtitle": "Mostly useless, but i have to tell you",
+    "quest.6FF0A677B6BDD946.quest_desc": [
+        "Yes, we can automate &5fluix&r now without using &dseeds&r or &6bees&r.",
+        "",
+        "These machines needs 1 &bchannel&r to work and can't place blocks by themselves.",
+        "[ \"There is a \", { \"text\": \"setup\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2992DF31EA2F37F1\" } }, \" explaining more.\" ]"
+    ],
+    "quest.6FF0A677B6BDD946.quest_subtitle": "&5Fluix&r automation",
+    "quest.704E87C0BBB8172A.quest_desc": [
+        "Useless if you have the &5reaction chamber&r from &dAdvancedAE&r, since these charger are slow.",
+        "",
+        "But compared to the normal &dcharger&r, they can do 4 items at the same time"
+    ],
+    "quest.72D771A50AF4DA84.quest_desc": [
+        "Make the &dinscriber&r press and check again the main quests from &bAE2&r"
+    ],
+    "quest.72E88C43AB28C4AF.quest_desc": [
+        "Basically, 2 interfaces on 1 block, not worth making them"
+    ],
+    "quest.72E88C43AB28C4AF.quest_subtitle": "More slots",
+    "quest.73BDA8383A3F8E97.quest_desc": [
+        "While I only ask for 16, you will probably use a lot more."
+    ],
+    "quest.73BDA8383A3F8E97.quest_subtitle": "&8Top",
+    "quest.73BDA8383A3F8E97.title": "&8Printed silicon",
+    "quest.73E9E699F0159BDE.quest_desc": [
+        "&6Gold&r? &ePiglings&r won't attack you? There is only one way to test that"
+    ],
+    "quest.73E9E699F0159BDE.quest_subtitle": "&6Bottom&r",
+    "quest.73E9E699F0159BDE.title": "&6Printed Logic Circuit",
+    "quest.745CFBC93B74DDC0.quest_desc": [
+        "Now, they work exactly as ME Precise Storage Bus, but it exports things from the &dnetwork&r"
+    ],
+    "quest.745CFBC93B74DDC0.quest_subtitle": "SFM competition? Nope",
+    "quest.758C5531BE35B33A.quest_desc": [
+        "As the name say, they import and export, but how?",
+        "Well, you have to select your 1 or more inventory's slots in order to work:",
+        "",
+        "- &dImport card&r: Imports stuff from your inventory into the network. Basically a &amagnet&r card",
+        "",
+        "- &dExport card&r: It's like a stock option when you are building"
+    ],
+    "quest.758C5531BE35B33A.quest_subtitle": "Wireless action",
+    "quest.758C5531BE35B33A.title": "Import / Export Card",
+    "quest.76606EA7D4EC4D64.quest_desc": [
+        "They are basically a &credstone&r on a cable",
+        "If a condition is met, like you having more than 5000 cobblestone on a &anetwork&r, then it will turn on.",
+        "",
+        "They have more options, but this is the general idea."
+    ],
+    "quest.76606EA7D4EC4D64.quest_subtitle": "Redstone on cable",
+    "quest.76B53E4955C5CE8D.quest_desc": [
+        "Now, have you ever get &cfrustated&r by sides? Like &aMekanism&r machines?",
+        "",
+        "Well, not anymore, with this wonderful &bmachine&r, you can select the side where the ingredient is going to be inserted"
+    ],
+    "quest.771543603CFE5506.quest_desc": [
+        "The guide has a simpler explanation on how to use them."
+    ],
+    "quest.771543603CFE5506.title": "More Export buses",
+    "quest.7743458DF29237C3.quest_desc": [
+        "Now, what is a &abyte&r?",
+        "",
+        "A &abyte&r is 8 items from the same type. So, no, 1k cell isn't 1k items.",
+        "",
+        "Now, one tip, if you want to mass &cstorage&r something in &bAE2&r, you only want a cell using 1 &dtype&r, it will have more space in general"
+    ],
+    "quest.7743458DF29237C3.quest_subtitle": "NASv.2: ON",
+    "quest.7743458DF29237C3.title": "4K Storage Component",
+    "quest.77544FB030619A81.quest_desc": [
+        "Put any ingot (you want to use the cheapest one, like &6copper&r) and this tool on a &acrafting table&r and you get cable anchors, more info later.",
+        "",
+        "Also, if you right click on an &bAE2 machine&r, you can raname it without using an &aanvil&r."
+    ],
+    "quest.77544FB030619A81.quest_subtitle": "Cable anchor",
+    "quest.77F4898316628800.quest_desc": [
+        "Allows to add more filters options to &bAE2 machines&r"
+    ],
+    "quest.77F4898316628800.quest_subtitle": "More filters",
+    "quest.79EB6D948B0779CD.quest_desc": [
+        "Yep, we should skip this one and go to the next quest.",
+        "",
+        "Make this terminal and I will explain later."
+    ],
+    "quest.79EB6D948B0779CD.quest_subtitle": "Not the good one, next",
+    "quest.79FF22CAEE62FF38.quest_subtitle": "NASv7: ON",
+    "quest.79FF22CAEE62FF38.title": "1M Storage Component",
+    "quest.7AFCF59B8827E96E.quest_desc": [
+        "This should be more than enough for your needs in most &emodpacks&r.",
+        "",
+        "If you need more &cstorage&r, continue doing quests, and you will find a replacement for &adrawers&r"
+    ],
+    "quest.7AFCF59B8827E96E.quest_subtitle": "NASv.4: ON",
+    "quest.7AFCF59B8827E96E.title": "64K Storage Component",
+    "quest.7B0F658E2D3D4A37.quest_desc": [
+        "Now, we are talking about.",
+        "",
+        "This is basically the main ingredient for all machines."
+    ],
+    "quest.7B0F658E2D3D4A37.quest_subtitle": "The base",
+    "quest.7B1F9C4F3E3A5504.quest_desc": [
+        "Basically, it allows you to &ccopy&r and &apaste&r settings from one machine to another or setup P2P.",
+        "Also &6recipes&r if you have blank patterns on your inventory!"
+    ],
+    "quest.7B1F9C4F3E3A5504.quest_subtitle": "Remember",
+    "quest.7BC38AFED126D412.quest_desc": [
+        "Using some of your &5fluix&r on an inscriber or a &aMekanism&r's &ecrusher&r to get &5fluix dust&r.",
+        "",
+        "You will need it, so probably a good idea to make a stack."
+    ],
+    "quest.7BC38AFED126D412.quest_subtitle": "Fluixium dustum",
+    "quest.7DAFF96A46DCEB6D.quest_desc": [
+        "I don't need to tell you why, do i need?"
+    ],
+    "quest.7DAFF96A46DCEB6D.quest_subtitle": "&6Bees",
+    "quest.7DF7DE4654985DE5.quest_desc": [
+        "&aArs Nouveau&r &cStorage&r for &dsource&r, what in the world needs 50000000000000 &dsource&r?"
+    ],
+    "quest.7DF7DE4654985DE5.quest_subtitle": "Wait, source too?",
+    "quest.7E4EF758E4B3C965.quest_desc": [
+        "\"&bParallelism&r\", we are using &econcurrency&r. I guess computers lied to you.... or not?",
+        "",
+        "This processor is used a lot on &aExtendedAE&r mod, which you will be using"
+    ],
+    "quest.7E4EF758E4B3C965.quest_subtitle": "We have made a sandwich",
+    "quest.7E612BBEFD799749.quest_desc": [
+        "The guide has a simpler explanation on how to use them."
+    ],
+    "quest.7E612BBEFD799749.title": "More Storage buses",
+    "quest.7E85802387BC7ECE.quest_subtitle": "We have made a sandwich",
+    "quest.7F1A9B044B5F9703.quest_desc": [
+        "These &bprocessors&r are not used a lot, compared to the others, 16 should be enough to start with"
+    ],
+    "quest.7F1A9B044B5F9703.quest_subtitle": "We have made a sandwich",
+    "quest.7F1A9B044B5F9703.title": "Engineering Processor"
+}

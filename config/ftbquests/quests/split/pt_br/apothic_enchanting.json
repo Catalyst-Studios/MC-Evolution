@@ -1,0 +1,342 @@
+{
+    "quest.01B5A1E674D7AF1E.quest_desc": [
+        "Está com problemas para conseguir um Tridente em Monumentos Oceânicos ou de Afogados? Bem, agora você pode criar um &bTridente Inerte&r e infundi-lo para um Tridente normal!",
+        "",
+        "Você precisará de &94x Estantes de Sculk Ecoante&r, &a1x Estante de Melancia&r, e &21x Estante de Livros Normal&r e estar pelo menos no &bnível 40&r."
+    ],
+    "quest.01B5A1E674D7AF1E.quest_subtitle": "Garfo de plástico",
+    "quest.02D23779EC7C72E4.quest_desc": [
+        "Assim como as &4Estantes Infernais&r, as &9Estantes das Profundezas Tocadas por Almas&r fornecem mais &aEterna&r e &cQuanta&r!",
+        "",
+        "Você precisará criar &95x Estantes das Profundezas Tocadas por Almas&r."
+    ],
+    "quest.02D23779EC7C72E4.quest_subtitle": "Estante Infernal 2.0",
+    "quest.02D23779EC7C72E4.title": "&9Estante das Profundezas Tocada por Almas",
+    "quest.04787EFC50B743C2.quest_desc": [
+        "A &dEstante de End Dracônica&r é a última peça do quebra-cabeça da configuração de encantamento perfeita.",
+        "",
+        "Ela fornece apenas &a+20 Eterna&r, mas pode fornecer até um máximo de &a100 Eterna&r! A maior quantidade de Eterna possível!"
+    ],
+    "quest.04787EFC50B743C2.quest_subtitle": "Cortem-lhe a cabeça!",
+    "quest.04787EFC50B743C2.title": "&dEstante de End Dracônica",
+    "quest.0539774D6FEBD2D4.quest_desc": [
+        "Já quis saber o que você vai conseguir quando encanta?",
+        "",
+        "A &3Estante Infernal da Visão&r permite que você visualize &b1 encantamento&r. Você pode colocar quantas quiser em uma configuração."
+    ],
+    "quest.0539774D6FEBD2D4.title": "&3Pistas de Encantamento",
+    "quest.06193F4FCFE796C6.quest_desc": [
+        "Você pode criar a &9Estante de Sculk Tocada por Almas&r somente depois de derrotar o chefe mais difícil do Minecraft vanilla, o &9Warden&r!",
+        "",
+        "Você precisará atualizar todas as 5 de suas &9Estantes das Profundezas Tocadas por Almas&r para esta variante de &9Estante de Sculk&r.",
+        "",
+        "A variante de &9Estante de Sculk&r também fornece &3+1 Pistas de Encantamento&r, além de ter um máximo de &aEterna&r de &a80&r!"
+    ],
+    "quest.06193F4FCFE796C6.quest_subtitle": "É Hora do Warden",
+    "quest.06193F4FCFE796C6.title": "&o&9Estante de Sculk Tocada por Almas",
+    "quest.091E5C879772310D.quest_desc": [
+        "Você já conseguiu um peitoral de netherita com &bInquebrável X&r, &bEspinhos V&r e &4Maldição da Ligação&r que era impossível de quebrar porque você não conseguia tirá-lo? &oNão? Só eu?&r",
+        "",
+        "Bem, agora você pode combinar esse item amaldiçoado com uma &bTeia de Aranha Prismática&r em uma &bigorna&r para remover a maldição!"
+    ],
+    "quest.091E5C879772310D.quest_subtitle": "Tira isso daqui!",
+    "quest.0DB2F08E593B2B93.quest_desc": [
+        "Agora vamos precisar de um &dAmetista em Botão&r, felizmente o Apothic Enchanting nos dá uma receita de infusão!",
+        "",
+        "Coloque &b10x Estantes de Mar Cristalino&r e &25x Estantes de Livros Normais&r, depois infunda um &dBloco de Ametista&r!"
+    ],
+    "quest.0DB2F08E593B2B93.title": "&5Ametista em Botão",
+    "quest.0E96A0AEBFCAD34D.quest_desc": [
+        "A &5Estante de Livros de Estabilidade Encapsulada em Geodo&r fornece &6Estabilidade Quântica&r, o que significa que você tem praticamente a &ogarantia&r de obter encantamentos de alto nível!"
+    ],
+    "quest.0E96A0AEBFCAD34D.quest_subtitle": "Encantamentos de baixo nível, desapareçam!",
+    "quest.0E96A0AEBFCAD34D.title": "&5Estante de Livros de Estabilidade Encapsulada em Geodo",
+    "quest.102001E8C574EFD3.quest_subtitle": "Garfo de metal",
+    "quest.162694C7F0BA16A9.quest_desc": [
+        "&9Estantes das Profundezas Adormecidas&r são praticamente inúteis por si só, então você precisará \"despertá-las\" (ou seja, infundi-las)",
+        "",
+        "Crie &910x Estantes das Profundezas Adormecidas&r e passe para o próximo passo."
+    ],
+    "quest.162694C7F0BA16A9.quest_subtitle": "&oBocejo...",
+    "quest.162694C7F0BA16A9.title": "&9Estante das Profundezas Adormecida",
+    "quest.170499F17B55FDCD.quest_desc": [
+        "&bCristais Sintonizados com Espírito&r do Occultism dão &a+3 Eterna&r até um máximo de &a45 Eterna&r."
+    ],
+    "quest.170499F17B55FDCD.quest_subtitle": "Cristais realmente te dão poderes...",
+    "quest.170499F17B55FDCD.title": "&aMais Eterna!",
+    "quest.1B7D92A34E8743E2.quest_desc": [
+        "&oEspere, não é assim que o ditado diz...&r",
+        "",
+        "Enfim, &aEstantes de Melancia&r dão um debuff de &a-2 Eterna&r e &c-10% Quanta&r, perfeito para ajustar esses valores."
+    ],
+    "quest.1B7D92A34E8743E2.quest_subtitle": "Quando a vida te dá melancias...",
+    "quest.1C2725141CCA39D7.quest_desc": [
+        "O &bTomo da Desmontagem Superior&r extrai todos os encantamentos, mas &odestrói&r o item.",
+        "",
+        "Você precisará de &93x Estantes de Sculk Tocadas por Almas&r e &d1x Estante do End Dracônica&r para esta configuração de infusão e ter pelo menos o &bnível 50&r."
+    ],
+    "quest.1C2725141CCA39D7.quest_subtitle": "Eu sempre posso criar outro...",
+    "quest.1C2725141CCA39D7.title": "Tomo da Desmontagem Superior",
+    "quest.1EE93E4C80945A97.quest_desc": [
+        "Agora que você tem todas as estantes, é hora de fazer a melhor configuração de encantamentos. ",
+        "",
+        "Terá &95x Estantes de Sculk Tocadas por Almas&r, &95x Estantes de Sculk Ecoantes&r, &d1x Estante do End Dracônica&r, &61x Estante das Profundezas de Tesouros Arcanos&r, e &51x Estante de Livros de Estabilidade Envolta em Geodo&r.",
+        "",
+        "&e&o_Lembre-se que esta configuração também incluirá maldições!_&r",
+        "",
+        "&bOpcional:&r Você pode filtrar qualquer encantamento encaixando o livro dele em uma ",
+        "{ \"text\": \"Estante Marinha de Filtragem Aquática\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"55B5FB4DF51A59B7\" } }"
+    ],
+    "quest.1EE93E4C80945A97.quest_subtitle": "Apenas os melhores encantamentos!",
+    "quest.1EE93E4C80945A97.title": "&a&l&oConfiguração Máxima de Encantamento",
+    "quest.254B7CA3BF8C296B.quest_desc": [
+        "A &6Beeshelf&r dá um debuff de &a-30 Eterna&r, mas em troca dá &c+100% Quanta&r! ",
+        "",
+        "Você sempre pode equilibrar a &aEterna&r com mais estantes de livros."
+    ],
+    "quest.254B7CA3BF8C296B.quest_subtitle": "Buzz Buzz",
+    "quest.2818BDCD7EDDDDDB.quest_desc": [
+        "A &bEstante Marinha Forjada pelo Coração&r dá muita &aEterna&r e &5Arcana&r e pode ser usada em outras configurações de encantamento.",
+        "",
+        "Sinta-se à vontade para experimentar outras configurações se quiser!"
+    ],
+    "quest.2818BDCD7EDDDDDB.quest_subtitle": "Atingido no coração!",
+    "quest.2818BDCD7EDDDDDB.title": "&bEstante Marinha Forjada pelo Coração",
+    "quest.29ABE9033578C179.quest_desc": [
+        "Você pode criar a &9Estante de Sculk Ecoante&r somente depois de derrotar o chefe mais difícil do Minecraft vanilla, o &9Warden&r! ",
+        "",
+        "Você precisará melhorar todas as suas 5 &9Estantes das Profundezas Ecoantes&r para esta variante de &9Estante de Sculk&r.",
+        "",
+        "A variante &9Estante de Sculk&r também fornece &3+1 Pistas de Encantamento&r, além de ter uma &aEterna&r máxima de &a80&r!"
+    ],
+    "quest.29ABE9033578C179.quest_subtitle": "É hora do Warden",
+    "quest.29ABE9033578C179.title": "&o&9Estante de Sculk Ecoante",
+    "quest.2FE7E18D413274B6.quest_desc": [
+        "Agora você está no nível mais alto de estantes, as &dEstantes do End&r. No entanto, essas estantes precisam de um ingrediente especial, o &dBafo de Dragão Infundido&r.",
+        "",
+        "Você pode infundir o Bafo de Dragão normal usando &95x Estantes de Sculk Ecoantes&r, &a5x Estantes de Melancia&r, &25x Estantes de Livros Normais&r, &92x Estantes de Sculk Tocadas por Almas&r e &51x Estante de Livros de Estabilidade Envolta em Geodo&r."
+    ],
+    "quest.2FE7E18D413274B6.quest_subtitle": "Você precisa ver um dentista",
+    "quest.2FE7E18D413274B6.title": "&dBafo de Dragão Infundido",
+    "quest.3292668B69E6A25D.quest_desc": [
+        "As &dEstantes do End&r são o nível mais alto de estantes e fornecem no máximo &a90 Eterna&r, perfeito para encantamentos do dia a dia.",
+        "",
+        "Você também pode usá-las para criar &dEstantes do End Dracônicas&r."
+    ],
+    "quest.3292668B69E6A25D.quest_subtitle": "O End?",
+    "quest.3292668B69E6A25D.title": "&dEstante do End",
+    "quest.35052C9371FE6843.quest_desc": [
+        "A &4Estante Infernal Ardente&r não é normalmente usada em encantamentos normais, pois tem um &cdebuff de -1 Pista de Encantamento&r. É normalmente usada em configurações de infusão.",
+        "",
+        "Não a usaremos nesta linha de missões, mas você é livre para experimentar outras configurações usando esta estante!"
+    ],
+    "quest.35052C9371FE6843.quest_subtitle": "&oVamos apostar!",
+    "quest.35052C9371FE6843.title": "&6Estante Infernal Ardente",
+    "quest.35570C818FB1333F.quest_desc": [
+        "Para obter a &bBiblioteca de Alexandria&r, você precisará infundi-la em vez de fabricá-la. Ela pode conter mais encantamentos do que a Biblioteca de Encantamentos.",
+        "",
+        "Você precisará de &96x Estantes de Sculk Ecoantes&r, &a3x Estantes de Melancia&r, &d2x Estantes do End Dracônicas&r e &b2x Estantes Marinhas Infundidas&r e estar pelo menos no &bnível 100&r."
+    ],
+    "quest.35570C818FB1333F.quest_subtitle": "&oEspero que esta não pegue fogo...",
+    "quest.3A651E06C7FBF861.quest_desc": [
+        "&cQuanta&r é o atributo principal das &4Estantes Infernais,&r você precisará criar &412x Estantes Infernais&r."
+    ],
+    "quest.3A651E06C7FBF861.quest_subtitle": "Está ficando quente aqui",
+    "quest.3A651E06C7FBF861.title": "&4Estantes Infernais",
+    "quest.3DF1A6F2F4DE5EA3.quest_desc": [
+        "Tenho certeza de que fabricá-las é muito mais fácil, mas...",
+        "",
+        "Se você quiser infundi-las, precisará de &25x Estantes de Livros Normais&r e &61x Estante Infernal Ardente&r."
+    ],
+    "quest.3DF1A6F2F4DE5EA3.quest_subtitle": "&oNão seria mais fácil fabricar isso?",
+    "quest.413527F17F167F3F.quest_desc": [
+        "Você pode converter um &bFrasco de Mel&r em &bFrascos de XP&r!",
+        "",
+        "Existem 3 configurações diferentes, mas todas exigem apenas &b1x Frasco de Mel&r.",
+        "",
+        "1x Frasco: &92x Estante de Livros Ecoante de Sculk&r",
+        "",
+        "8x Frascos: &95x Estante de Livros Ecoante de Sculk&r e &91x Estante de Livros de Sculk Tocado pela Alma&r",
+        "",
+        "32x Frascos: &95x Estante de Livros Ecoante de Sculk&r, &93x Estante de Livros de Sculk Tocado pela Alma&r e &d1x Estante de Livros Dracônica do End&r"
+    ],
+    "quest.413527F17F167F3F.quest_subtitle": "A alquimia em sua melhor forma",
+    "quest.43A8D8D6947220F4.quest_desc": [
+        "A &dEstante de Livros Perolada do End&r fornece &a+10 Eterna&r até um máximo de &a90&r, &c+7.5% Quanta&r e &5+7.5% Arcana&r.",
+        "",
+        "Esta é a versão melhorada da &dEstante de Livros do End&r e pode ser usada para encantamentos do dia a dia, se você quiser!"
+    ],
+    "quest.43A8D8D6947220F4.quest_subtitle": "Quase perfeito",
+    "quest.43A8D8D6947220F4.title": "&dEstante de Livros Perolada do End",
+    "quest.484B493059391887.quest_desc": [
+        "O &bTomo da Extração&r extrairá todos os encantamentos &oe&r manterá seu item.",
+        "",
+        "Você precisará de &94x Estante de Livros de Sculk Tocado pela Alma&r e &d1x Estante de Livros Dracônica do End&r para esta configuração de infusão e ter pelo menos o &bnível 60&r."
+    ],
+    "quest.484B493059391887.quest_subtitle": "Eu quero tudo!",
+    "quest.484B493059391887.title": "Tomo da Extração",
+    "quest.4DCBA85D24DFDC5C.quest_desc": [
+        "Precisa de um pouco de &cQuanta&r extra? Coloque alguns &bcrânios&r por perto para aumentar!",
+        "",
+        "&bCrânios normais&r dão &c+5% de Quanta&r enquanto &0crânios de Wither&r dão &c+10% de Quanta&r."
+    ],
+    "quest.4DCBA85D24DFDC5C.quest_subtitle": "Cortem-lhes as cabeças!",
+    "quest.4DCBA85D24DFDC5C.title": "&cMais Quanta!",
+    "quest.4EC0AED4959AB074.quest_desc": [
+        "&5Arcana&r é o atributo principal das &bEstantes Marinhas,&r você precisará criar &b15x Estantes Marinhas&r e depois colocá-las no chão."
+    ],
+    "quest.4EC0AED4959AB074.quest_subtitle": "Suspeito!",
+    "quest.4EC0AED4959AB074.title": "&bEstantes Marinhas",
+    "quest.514B2D0B6F8E1E04.quest_desc": [
+        "Agora pegue sua &bEstante Marinha&r extra e infunda-a. Você deve ver uma opção de infusão por &b3 EXP&r.",
+        "",
+        "Agora substitua uma das &bEstantes Marinhas&r não infundidas pela sua &bEstante Marinha Infundida&r.",
+        "",
+        "Repita isso até que todas as 15 &bEstantes Marinhas&r sejam &bEstantes Marinhas Infundidas&r."
+    ],
+    "quest.514B2D0B6F8E1E04.quest_subtitle": "Ainda mais suspeito!",
+    "quest.514B2D0B6F8E1E04.title": "&bEstantes Marinhas Infundidas",
+    "quest.51970F01EFF7AA39.quest_desc": [
+        "Sempre quis mais &bFragmentos de Eco&r? Agora você pode duplicá-los em &b4x&r!",
+        "",
+        "Você precisará de &95x Estantes de Livros Ecoantes de Sculk&r e &d1x Estante de Livros Dracônica do End&r."
+    ],
+    "quest.51970F01EFF7AA39.quest_subtitle": "&7&oOlá?&r &8&oOlá?&r &0&oOlá?&r ",
+    "quest.51B99D1198D30855.quest_desc": [
+        "Agora que você tem todas as suas &bEstantes Marinhas Infundidas&r, você precisará criar &b12x Estantes Marinhas Cristalinas&r para poder fazer a próxima estante!"
+    ],
+    "quest.51B99D1198D30855.title": "&bEstante Marinha Cristalina",
+    "quest.51EF51862695FB96.quest_desc": [
+        "A &3Estante Infernal da Visão Magistral&r é ainda melhor e te dá a habilidade de prever &b2 encantamentos&r!"
+    ],
+    "quest.51EF51862695FB96.title": "&3Pistas de Encantamento 2.0",
+    "quest.55B5FB4DF51A59B7.quest_desc": [
+        "Quer filtrar encantamentos irritantes/inúteis como &bRepulsão&r, &bRicochete,&r ou &4Maldições&r? ",
+        "",
+        "A &bEstante Marinha de Filtragem Aquática&r permite que você insira até &b6 livros de encantamento único&r para adicioná-los à sua lista negra de encantamentos.",
+        "",
+        "&aLembre-se:&r Só pode haver &o&61 encantamento&r por livro para que funcione!"
+    ],
+    "quest.55B5FB4DF51A59B7.quest_subtitle": "Encantador exigente",
+    "quest.55B5FB4DF51A59B7.title": "Filtragem de &bEncantamentos",
+    "quest.5CF3600A45D365F5.quest_desc": [
+        "Você vai querer fazer &912x Estantes das Profundezas&r ",
+        "",
+        "Se você seguiu o caminho da &bEstante Marinha&r, coloque &b12x Estantes Marinhas Cristalinas&r e infunda-as",
+        "",
+        "Se você seguiu o caminho da &4Estante Infernal&r, coloque &412x Estantes Infernais Brilhantes&r e infunda-as.",
+        "",
+        "O próximo passo tem 2 partes."
+    ],
+    "quest.5CF3600A45D365F5.quest_subtitle": "Agora que está acordado...",
+    "quest.5CF3600A45D365F5.title": "&9Estante das Profundezas",
+    "quest.617BBE7ACB125208.quest_desc": [
+        "O &bApothic Enchanting&r reformula todo o sistema de encantamento, permitindo que você obtenha exatamente o que deseja. Ele também introduz uma mecânica chamada &bInfusão&r que você pode usar para fazer itens mais poderosos!",
+        "",
+        "Existem &b3&r status de encantamento diferentes:",
+        "",
+        "&aEterna&r é o status principal de encantamento e aumenta o nível máximo de encantamento.",
+        "",
+        "&cQuanta&r controla o quão baixo ou alto o nível do encantamento fica.",
+        "",
+        "&5Arcana&r controla a frequência com que encantamentos raros aparecem.",
+        "",
+        "Você sempre pode clicar no &b'?' no canto superior direito da tela de encantamento&r para ver todos os encantamentos e raridades possíveis!"
+    ],
+    "quest.61EE5D51D5CB807B.quest_desc": [
+        "A Stoneshelf dá um debuff de &a-3 Eterna&r e &5-7.5% Arcana&r."
+    ],
+    "quest.61EE5D51D5CB807B.quest_subtitle": "Pedra, Papel, Tesoura!",
+    "quest.69A81468F8BB8871.quest_desc": [
+        "O &bApothic Enchanting&r adiciona tomos especiais que se encaixam em qualquer categoria de armadura, arma ou ferramenta.",
+        "",
+        "Isso permite que você encante &o\"sem riscos\"&r, permitindo que você descarte (ou divida) quaisquer encantamentos que não queira."
+    ],
+    "quest.69A81468F8BB8871.quest_subtitle": "Escolha e pegue!",
+    "quest.69A81468F8BB8871.title": "Tomos Encantáveis",
+    "quest.69D74428BB9CC623.quest_desc": [
+        "Sempre quis &bReparação,&r &bPasso Furtivo&r, ou &bPassos Gelados&r? A &6Estante Profunda de Tesouros Arcanos&r habilita todos os encantamentos de tesouro como esses!",
+        "",
+        "&oMas cuidado&r, isso significa que &4maldições&r também estarão nessa lista!",
+        "",
+        "Veja a próxima página para uma lista de todos os encantamentos válidos!",
+        "{@pagebreak}",
+        "Aqui está uma lista de todos os encantamentos de tesouro em Little Bit Large!",
+        "",
+        "- Reparação",
+        "- Passo Furtivo",
+        "- Passos Gelados",
+        "- Velocidade da Alma",
+        "- Rajada de Vento",
+        "- &4Maldição da Ligação&r",
+        "- &4Maldição do Desaparecimento&r",
+        "- Ponta Envenenada",
+        "- Roubo de Vida",
+        "- Não Uso"
+    ],
+    "quest.69D74428BB9CC623.quest_subtitle": "O X marca o local!",
+    "quest.69D74428BB9CC623.title": "&6Obtendo Encantamentos de Tesouro",
+    "quest.6C10C757F924E1DD.quest_desc": [
+        "A &bBiblioteca de Encantamentos&r permite que você armazene livros de encantamento.",
+        "",
+        "A &6Capacidade de Nível&r refere-se ao nível mais alto de encantamento que ela pode armazenar, neste caso é o &bnível XVI (16)&r. &oNo entanto,&r isso não importa no &bLittle Bit Large&r porque os níveis de encantamento não chegam tão alto.",
+        "",
+        "Você só pode retirar o livro de encantamento de &bnível mais alto&r que você colocou. Por exemplo, se você colocar um livro de &bAfiação V&r, você &onão pode&r retirar um livro de Afiação VI, apenas nível V e abaixo",
+        "",
+        "Você pode &bShift-Clique&r para retirar o nível mais alto de encantamento."
+    ],
+    "quest.6C10C757F924E1DD.quest_subtitle": "Armazenamento de Encantamentos!",
+    "quest.6D00948588B44926.quest_desc": [
+        "As &bvelas&r da vanilla dão &5+1.25% de Arcana&r por vela, enquanto as &bvelas grandes&r do Occultism dão &5+4% de Arcana&r por vela."
+    ],
+    "quest.6D00948588B44926.quest_subtitle": "Qual é o cheiro de areia rosa, afinal?",
+    "quest.6D00948588B44926.title": "&5Mais Arcana!",
+    "quest.6D4FB5CE5BA905D2.quest_desc": [
+        "Assim como as &bEstantes Marinhas&r, as &9Estantes Profundas Ecoantes&r fornecem maior &aEterna&r e &5Arcana&r!",
+        "",
+        "Você precisará criar &95x Estantes Profundas Ecoantes&r."
+    ],
+    "quest.6D4FB5CE5BA905D2.quest_subtitle": "Estante Marinha 2.0",
+    "quest.6D4FB5CE5BA905D2.title": "&9Estante de Livros Profunda Ecoante",
+    "quest.6D8AF09174D7779D.quest_desc": [
+        "Agora você vai fazer &412x Estantes Infernais Infundidas&r.",
+        "",
+        "Coloque &215x Estantes de Livros Normais&r e &45x Estantes Infernais&r para baixo para que você possa infundir o resto das &4Estantes Infernais.&r",
+        "",
+        "Você pode substituir as estantes não infundidas por infundidas à medida que avança."
+    ],
+    "quest.6D8AF09174D7779D.quest_subtitle": "Está ainda mais quente!",
+    "quest.6D8AF09174D7779D.title": "&4Estante de Livros Infernal Infundida",
+    "quest.6D93652BDFA881F0.quest_desc": [
+        "Agora que você infundiu todas as suas estantes em &412x Estantes Infernais Infundidas&r, transforme todas elas em &4Estantes Infernais Brilhantes&r, você deve ter 12 no final."
+    ],
+    "quest.6D93652BDFA881F0.quest_subtitle": "Pelo menos temos luz?",
+    "quest.6D93652BDFA881F0.title": "&4Estante de Livros Infernal Brilhante",
+    "quest.70B9826E828AF96C.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em qualquer pacote público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões do &bApothic Enchanting&r feita por: &5ArcTrooper&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.70B9826E828AF96C.quest_subtitle": "Estas missões incríveis foram feitas para a &4Catalyst Studios&r",
+    "quest.70B9826E828AF96C.title": "&l&4Missões da Catalyst Studios",
+    "quest.76C1268FC04633AD.quest_desc": [
+        "Little Bit Large tem algumas maneiras de desencantar itens.",
+        "",
+        "A maneira mais barata de desencantar é soltar uma &bBigorna&r em seu item e alguns &blivros&r sobre &bobsidiana&r como na imagem abaixo.",
+        "{image:catalyst:textures/quest_images/apotheosis/anvil_example.png width:200 height:200 align:center}",
+        "",
+        "A &bMesa de Desencantamento&r é outra escolha fácil.",
+        "",
+        "&bApothic Enchanting&r também tem &btomos&r que extrairão encantamentos."
+    ],
+    "quest.76C1268FC04633AD.quest_subtitle": "Eu não quero esse",
+    "quest.76C1268FC04633AD.title": "Desencantando",
+    "quest.774EF435A320B705.quest_desc": [
+        "&bApothic Attributes&r adiciona amuletos de poção que são muito convenientes e quebram com bastante facilidade, mas você pode &binfundi-los&r para torná-los &bInquebráveis.&r",
+        "",
+        "Você precisará de &d5x Estantes do End Dracônicas&r, &92x Estantes das Profundezas Ecoantes&r, &a1x Estante de Melancia&r, e &d1x Estante do End&r."
+    ],
+    "quest.774EF435A320B705.quest_subtitle": "Efeitos de poção infinitos!"
+}

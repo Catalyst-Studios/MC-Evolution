@@ -1,0 +1,10 @@
+{
+  "values": {
+    "#c:lava": {
+      "temperature": 1000
+    },
+    "catalystcore:liquid_light": {
+      "temperature": 5000
+    }
+  }
+}

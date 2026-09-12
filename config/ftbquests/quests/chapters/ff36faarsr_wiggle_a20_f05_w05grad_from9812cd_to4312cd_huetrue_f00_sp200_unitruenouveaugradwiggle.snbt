@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "72EE991883D29341"
 			image: "ars_nouveau:item/bookwyrm_charm"
 			rotation: 0.0d
 			width: 2.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5022381140B4F579"
 			image: "ars_additions:item/nexus_warp_scroll"
 			rotation: 0.0d
 			width: 2.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6728B2B9CC61518B"
 			image: "ars_nouveau:item/familiar_drygmy"
 			rotation: 30.0d
 			width: 2.0d
@@ -291,7 +294,7 @@
 			tasks: [
 				{
 					id: "2276DAA7E3D24902"
-					item: { count: 1, id: "ars_elemental:anima_essence" }
+					item: { count: 1, id: "sauce:anima_essence" }
 					type: "item"
 				}
 				{
@@ -396,6 +399,12 @@
 				id: "ars_nouveau:enchanting_apparatus"
 			}
 			id: "7D5CAE3AB604B96B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "664467ED2B971529"
+				table_id: 7722860157658462880L
+				type: "loot"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -878,12 +887,44 @@
 		{
 			dependencies: ["3E11AE50D4868884"]
 			id: "69C52B5841E4CA8F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "45E0C8DA514ED1BD"
-				table_id: 1619107266169054195L
-				type: "all_table"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "45E0C8DA514ED1BD"
+					table_id: 1619107266169054195L
+					type: "all_table"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E10BEFDE54FED54"
+					table_id: 1619107266169054195L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "46D73D5F978F6558"
+					table_id: 7722860157658462880L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0D2B0F375D5A8F5B"
+					table_id: 2603984746984705958L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6EB7062E8F225154"
+					table_id: 7722860157658462880L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3C6EDCEA67A5C37E"
+					table_id: 2603984746984705958L
+					type: "loot"
+				}
+			]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -1242,6 +1283,27 @@
 			}]
 			x: 10.5d
 			y: 1.0d
+		}
+		{
+			dependencies: ["29B79BA6B084ED4A"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ars_nouveau:block/warp_portal"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1FC99D53AB93C9E2"
+			rewards: [{
+				id: "7D027A0B227B1BD6"
+				type: "xp_levels"
+				xp_levels: 400
+			}]
+			tasks: [{
+				id: "352B0AD1E1EDA421"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -4.0d
 		}
 	]
 }

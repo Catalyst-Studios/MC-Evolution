@@ -17,8 +17,12 @@ ItemEvents.modifyTooltips(catalyst => {
     };
 
     const excludedEssences = new Set([
-        'inferium', 'prudentium', 'imperium', 'supremium', 'tertium'
+        'inferium', 'prudentium', 'imperium', 'supremium', 'tertium', 'sculk'
     ]);
+
+    const excludedSeeds = new Set([
+        'sculk'
+    ])
 
     function modifyMA(itemName, options)
     {
@@ -37,7 +41,7 @@ ItemEvents.modifyTooltips(catalyst => {
             });
         }
 
-        if(Item.exists(seedsId))
+        if(Item.exists(seedsId) && !excludedSeeds.has(itemName))
         {
             catalyst.modify(seedsId, text => {
                 text.removeLine(2);
@@ -50,13 +54,13 @@ ItemEvents.modifyTooltips(catalyst => {
 
                 if(biome)
                 {
-                    text.insert(2, Text.of("Needs biome to grow on ").append(Text.of("farmland").green()).append(": "));
+                    text.insert(2, Text.of("Needs biome to grow on ").append(Text.of("farmland").green()));
                     text.removeLine(3);
                 }
 
                 if(noPlant)
                 {
-                    text.add(Text.warn("Cannot be planted nor it will growth, use machines to farm them!"));
+                    text.add(Text.warn("Cannot be planted, it will not grow. Try using machines to farm them instead!"));
                 }
 
                 text.add(creditText);
@@ -82,15 +86,20 @@ ItemEvents.modifyTooltips(catalyst => {
         ['arcane'],
         ['industrial'],
         ['plastic'],
+        ['black_quartz'],
+        ['enriched_copper'],
         ['prosperity'],
         ['xychorium'],
-        ['dark_gem',   { biome: true }],
+        ['dark_gem'],
         ['entro'],
         ['flux',       { noPlant: true }],
-        ['sculk',      { tier: 'mag', biome: true, noPlant: true }],
+        ['sculk',      { tier: 'mag', noPlant: true }],
         ['dire',       { tier: 'tech', noPlant: true }],
         ["fluxite"],
-        ["force_gem"]
+        ["force_gem"],
+        ["mystical_diamond",       { noPlant: true }],
+        ["mystical_emerald",       { noPlant: true }],
+        ["mystical_netherite",     { noPlant: true }],
     ];
 
     items.forEach(([name, options]) => modifyMA(name, options));

@@ -1,0 +1,34 @@
+{
+  "values": {
+    "minecraft:magma_block": {
+      "temperature": 800
+    },
+    "eternalores:blaze_block": {
+      "temperature": 1500
+    },
+    "eternalores:uranium_block": {
+      "temperature": 2000
+    },
+    "eternalores:uraninite_block": {
+      "temperature": 2000
+    },
+    "powah:blazing_crystal_block": {
+      "temperature": 2800
+    },
+    "eternalores:compressed_nether_star_block_2x": {
+      "temperature": 5000
+    },
+    "create_new_age:solid_corium": {
+      "temperature": 8000
+    },
+    "create_new_age:corium": {
+      "temperature": 10000
+    },
+    "eternalores:antimatter_block": {
+      "temperature": 20000
+    },
+    "eternalores:catalyrium_block": {
+      "temperature": 50000
+    }
+  }
+}

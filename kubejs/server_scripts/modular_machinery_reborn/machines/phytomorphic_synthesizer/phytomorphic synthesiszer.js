@@ -5,7 +5,7 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 MMREvents.machines(catalyst => {
     catalyst.create("mmr:phytomorphic_synthesiszer")
         .color('#ff202020')
-        .name('Phytomorphic synthesiszer')
+        .name(Component.translatable("catalyst.mmr.machine.phytomorphic_synthesiszer"))
         .structure(
             MMRStructureBuilder.create()
                 .pattern([
@@ -17,7 +17,9 @@ MMREvents.machines(catalyst => {
                     "a": ["modular_machinery_reborn:casing_plain",
                         '#modular_machinery_reborn:energyinputhatch',
                         '#modular_machinery_reborn:itembus',
-                        '#modular_machinery_reborn:fluidhatch'
+                        '#modular_machinery_reborn:fluidhatch',
+                        "eternalores:ultimatitanium_block",
+                        '#modular_machinery_reborn:parallelhatch'
                     ],
                     "b": ["mysticalagradditions:insanium_farmland"],
                     "c": ["mysticalagriculture:awakened_supremium_growth_accelerator"],

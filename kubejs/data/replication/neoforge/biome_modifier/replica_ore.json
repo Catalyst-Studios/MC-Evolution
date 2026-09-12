@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:none",
+  "biomes": "#minecraft:is_overworld",
+  "features": ["replication:replica_ore_deepslate"],
+  "step": "underground_ores"
+}

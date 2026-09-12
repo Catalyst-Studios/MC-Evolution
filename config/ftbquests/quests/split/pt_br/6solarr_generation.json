@@ -1,0 +1,97 @@
+{
+    "quest.00BBFAADA2C905D4.quest_desc": [
+        "&e64&r... Isso agora gera um pack inteiro de energia!"
+    ],
+    "quest.00BBFAADA2C905D4.quest_subtitle": "Não Exatamente o Painel Solar de Redstone",
+    "quest.00BBFAADA2C905D4.title": "&l&ePainel Solar de Redstone",
+    "quest.0EB614A5D08D59BD.title": "Capacete Solar &l&5V7",
+    "quest.15BA38377EA9D7A2.quest_desc": [
+        "Agora que estamos gerando 4096FE/t, podemos começar a expandir nossa fábrica com mais máquinas..."
+    ],
+    "quest.15BA38377EA9D7A2.quest_subtitle": "Fiquei Sem Subtítulos",
+    "quest.15BA38377EA9D7A2.title": "&l&3Painel Solar Ressonante",
+    "quest.1DB14DCD4CD04E24.quest_desc": [
+        "Agora estamos gerando 8FE/t, o que não é muito, eu sei. Mas é melhor do que gerar 1FE/t.",
+        "",
+        "Mas deve ser mais que suficiente para sustentar pelo menos &d1&r máquina."
+    ],
+    "quest.1DB14DCD4CD04E24.quest_subtitle": "Melhor Que o Painel Solar de Leadstone",
+    "quest.1DB14DCD4CD04E24.title": "&l&7Painel Solar Endurecido",
+    "quest.269D02D4BFFC0190.quest_desc": [
+        "Se você pensou que este mod só adicionava painéis solares... então você está correto...",
+        "",
+        "Mas podemos nos exibir um pouco andando pelas ruas com este capacete para gerar energia enquanto recebemos os &m&8mortais&r &ladoráveis&r raios laser do nosso sol.",
+        "",
+        "Honestamente, sugiro que você esqueça o banho de sol e se torne um ser senciente ambulante que gera &l&cenergia&r!"
+    ],
+    "quest.269D02D4BFFC0190.title": "Capacete Solar &lV1",
+    "quest.3822CD1546F0BC9B.quest_desc": [
+        "Isso é mais que suficiente para começar a carregar &djetpacks&r, &6dispositivos&r e até sustentar 2 ou 4 máquinas!",
+        "",
+        "Dependendo se a máquina tem melhorias de energia/velocidade, é claro..."
+    ],
+    "quest.3822CD1546F0BC9B.quest_subtitle": "Agora a Coisa Ficou Séria",
+    "quest.3822CD1546F0BC9B.title": "&l&cPainel Solar de Signalum",
+    "quest.3E24D52CA683A3F1.title": "Capacete Solar &l&cV4",
+    "quest.4BF589FF795C4125.quest_desc": [
+        "Agora isso é ainda melhor, 32768&rFE/t é uma ótima quantidade de geração de FE para sustentar um grande &aarmazenamento digital&r!"
+    ],
+    "quest.4BF589FF795C4125.quest_subtitle": "Quase lá!",
+    "quest.4BF589FF795C4125.title": "&l&1Painel Solar Avançado",
+    "quest.4CDF67A932172054.quest_desc": [
+        "Podemos ter tido alguns problemas ao criar esses painéis solares, mas finalmente conseguimos...",
+        "",
+        "              &4262144FE&r/t finalmente."
+    ],
+    "quest.4CDF67A932172054.quest_subtitle": "Poder Ilimitado...",
+    "quest.4CDF67A932172054.title": "&l&5Painel Solar Supremo",
+    "quest.5E635799470EEF47.quest_desc": [
+        "Bem-vindo ao mod &eSolar Generation&r, onde nosso principal objetivo é gerar energia... do &6&lSOL&r!",
+        "",
+        "Este incrível mod adiciona &d7&r novos painéis solares que precisam de muitos materiais para gerar muita energia.",
+        "",
+        "Esses geradores receberão a dose diária de raios &cUV&r que deveríamos receber... Mas, por que fazer tudo manualmente quando podemos realmente usar uma máquina para isso?",
+        "",
+        "Eu recomendo que você comece qualquer mod de &ageração&r de &erecursos&r para criar todos esses painéis solares.",
+        "",
+        "Mod criado por: &63divad99"
+    ],
+    "quest.5E635799470EEF47.title": "&l&6Solar Generation",
+    "quest.6069D3860B38504C.title": "Capacete Solar &l&1V6",
+    "quest.62F972854AA43136.quest_desc": [
+        "Estas incríveis missões foram feitas para o &l&4Catalyst Studios&r e fazem parte de seu projeto e pertencem a eles.",
+        "",
+        "Linha de Missões do Solar Generation feita por: &aRadz&8Ratz&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.62F972854AA43136.title": "&l&4Missões do Catalyst Studios",
+    "quest.64363D9756720A6B.title": "Capacete Solar &l&eV3",
+    "quest.6CBD797B715195F9.quest_desc": [
+        "Sendo nosso primeiro painel solar... não gerará uma quantidade enorme de FE...",
+        "",
+        "                      &4&lMAS!&r",
+        "",
+        "Quanto mais nos aprofundarmos neste mod, a geração de energia se tornará melhor, eu prometo.",
+        "",
+        "Algo importante a notar é que a taxa de transferência será muito maior que a taxa de geração.",
+        "",
+        "Outra coisa a lembrar é que esses painéis solares têm um buffer de energia interno, que é recomendado deixar enquanto ele gera mais energia!",
+        "",
+        "E o mais importante, ele precisa de uma visão clara do sol."
+    ],
+    "quest.6CBD797B715195F9.quest_subtitle": "O Começo",
+    "quest.6CBD797B715195F9.title": "&lPainel Solar de Leadstone",
+    "quest.6D36292892EA5781.title": "Capacete Solar &l&7V2",
+    "quest.6F365DC5EC358354.title": "Capacete Solar &l&3V5",
+    "quest.72E024F538AAFA84.quest_desc": [
+        "Antes de podermos começar a fabricar todos os nossos painéis solares, precisamos de alguns materiais primeiro.",
+        "",
+        "Para o primeiro nível de painéis solares, o Nível &lLeadstone&r, precisaremos de &9lápis-lazúli&r para nossas células &dfotovoltaicas&r, pó de &4redstone&r e um núcleo de &7leadstone&r para montar tudo!",
+        "",
+        "Tenha em mente que o primeiro nível de painéis solares precisa dos materiais mencionados, enquanto os outros painéis solares requerem &n&a8&r painéis solares do nível &n&canterior&r e seu respectivo &n&5núcleo&r.",
+        "",
+        "E para aprimorar os núcleos solares, também precisamos do núcleo do nível anterior."
+    ],
+    "quest.72E024F538AAFA84.title": "Itens Necessários"
+}

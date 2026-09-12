@@ -1,0 +1,174 @@
+{
+    "quest.008B0E57B2AA91AD.quest_desc": [
+        "Permite que você &cenvie&r &eitens&r para uma direção &despecífica&r",
+        "",
+        "Pode &bnão&r funcionar em &6gavetas&r de 1x2 e 2x2"
+    ],
+    "quest.008B0E57B2AA91AD.quest_subtitle": "Fora daqui!!!!",
+    "quest.04AA4C90B32A7AF6.quest_desc": [
+        "Armazena 32 &abaldes&r, mas pode armazenar 2 &dtipos&r diferentes de &bfluidos&r, 16 &ebaldes&r de cada tipo."
+    ],
+    "quest.04AA4C90B32A7AF6.quest_subtitle": "Os Tanques Dinamo do &aMekanism&r deveriam ter medo",
+    "quest.0633DAA68EA70CB9.quest_desc": [
+        "[{\"text\":\"A melhor \",\"color\":\"#FFFFFF\"},{\"text\":\"melhoria\",\"color\":\"#FF55FF\"},{\"text\":\", mas a mais \",\"color\":\"#FFFFFF\"},{\"text\":\"dolorosa\",\"color\":\"#FF5555\"},{\"text\":\" para automatizar. É basicamente 2 \",\"color\":\"#FFFFFF\"},{\"text\":\"Melhorias de Diamante\",\"color\":\"#25e6dc\"},{\"text\":\" adicionadas.\",\"color\":\"#FFFFFF\"}]",
+        "",
+        "[{\"text\":\"A capacidade máxima é \",\"color\":\"#FFFFFF\"},{\"text\":\"o valor máximo de um inteiro \",\"color\":\"#25e62e\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"Clique aqui para abrir a página web para mais informações\"}},\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://docs.oracle.com/javase/8/docs/api/java/lang/Integer.html#MAX_VALUE\"}}]"
+    ],
+    "quest.0633DAA68EA70CB9.quest_subtitle": "durus",
+    "quest.0B83EF9E32D2E3EB.quest_desc": [
+        "Armazena 2000 &ditens&r de um &aúnico&r tipo.",
+        "",
+        "Bem, um pouco &cmais&r :p"
+    ],
+    "quest.0B83EF9E32D2E3EB.quest_subtitle": "O armazenamento final",
+    "quest.0DF7413E300B22CD.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em nenhum modpack público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões de &bFunctional Storage&r feita por: &dHancock4903&r e &cTito&ep&c54&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.0DF7413E300B22CD.quest_subtitle": "Estas missões incríveis foram feitas para a &4Catalyst Studios&r",
+    "quest.0DF7413E300B22CD.title": "&l&4Missões da Catalyst Studios",
+    "quest.0E42A6572FA858A2.quest_desc": [
+        "O gabinete armazena quase todas as &dferramentas&r e &5armaduras&r do jogo.",
+        "",
+        "Isso pode &4destruir&r seu mundo se você &earmazenar&r muito &blixo&r"
+    ],
+    "quest.0E42A6572FA858A2.quest_subtitle": "&cdestruidor&r de NBT",
+    "quest.16AF18C38EF60A2D.quest_desc": [
+        "Imagine que sua &5gaveta&r enche, e você quer que sua &cfábrica&r continue fazendo coisas.",
+        "",
+        "Se você &dquiser&r isso, então, esta é a sua &6melhoria&r. &cDeleta&r qualquer excesso."
+    ],
+    "quest.16AF18C38EF60A2D.quest_subtitle": "&cAviso&r Lata de Lixo",
+    "quest.17F8365B32191F2D.quest_desc": [
+        "Armazena 2000 &aitens&r, mas pode armazenar 2 &dtipos diferentes&r de &6itens&r, 1000 &eitens&r de cada tipo.",
+        "",
+        "Só um pouquinho &cmais&r que 2000 :p"
+    ],
+    "quest.17F8365B32191F2D.quest_subtitle": "Dividido?",
+    "quest.1ACFC9C3988684A8.quest_desc": [
+        "Mais &carmazenamento&r por menos &eaprimoramentos&r? Onde eu assino?",
+        "",
+        "[{\"text\":\"Bem, como antes, são 2 \",\"color\":\"#FFFFFF\"},{\"text\":\"Aprimoramentos de Ouro\",\"color\":\"#e6cd29\"},{\"text\":\" adicionados \",\"color\":\"#FFFFFF\"},{\"text\":\"juntos\",\"color\":\"#FF55FF\"}]",
+        "",
+        "Agora é uma &aboa&r hora para te dizer algo, se você &dclicar com o botão direito&r com um aprimoramento melhor, ele é colocado &6automaticamente&r e o &5antigo&r é &bdevolvido&r!"
+    ],
+    "quest.1ACFC9C3988684A8.quest_subtitle": "[{\"text\":\"adamas\",\"color\":\"#25e6dc\"}]",
+    "quest.1D7DA58D3763308B.quest_desc": [
+        "[{\"text\":\"Similar aos \",\"color\":\"#FFFFFF\"},{\"text\":\"Aprimoramentos de Cobre\",\"color\":\"#e69429\"},{\"text\":\", te dá mais \",\"color\":\"#FFFFFF\"},{\"text\":\"capacidade\",\"color\":\"#e62962\"},{\"text\":\" mas a um custo \",\"color\":\"#FFFFFF\"},{\"text\":\"maior\",\"color\":\"#29e69e\"}]",
+        "",
+        "[{\"text\":\"As estatísticas\",\"color\":\"#FF55FF\"},{\"text\":\" são basicamente 2 \",\"color\":\"#FFFFFF\"},{\"text\":\"Aprimoramentos de Cobre\",\"color\":\"#e69429\"},{\"text\":\" somados\",\"color\":\"#FFFFFF\"}]"
+    ],
+    "quest.1D7DA58D3763308B.quest_subtitle": "[{\"text\":\"aurum\",\"color\":\"#e6cd29\"}]",
+    "quest.22AF4040C1A46CC5.quest_desc": [
+        "Armazena 32 &abaldes&r, mas pode armazenar 4 &ddiferentes&r tipos de &bfluidos&r, 8 &ebaldes&r de cada tipo."
+    ],
+    "quest.22AF4040C1A46CC5.quest_subtitle": "A melhor? &bAE2&r é o melhor",
+    "quest.24C643819B58EEB3.quest_desc": [
+        "&dGera&r um bloco de obsidiana a cada 15 &6segundos&r, o que é &bbasicamente&r de graça.",
+        "",
+        "Além disso, esta é uma fazenda de &5lava&r &cmelhor&r do que aquelas melhorias de &clava&r"
+    ],
+    "quest.24C643819B58EEB3.quest_subtitle": "Esta é uma fazenda de lava melhor",
+    "quest.25AA7045FE48B0C6.quest_desc": [
+        "Armazena 2000 &aitens&r, mas pode armazenar 4 &ddiferentes&r tipos de &6itens&r, 512 &eitens&r de cada tipo."
+    ],
+    "quest.25AA7045FE48B0C6.quest_subtitle": "Em 4 pedaços, por favor",
+    "quest.284F1943971EC8C8.quest_desc": [
+        "Tem um &balcance&r, que pode ser &dmelhorado&r usando &6melhorias&r.",
+        "",
+        "Você pode conectar diferentes &2gavetas&r a ele usando a Ferramenta de &bVinculação&r se elas estiverem em sua área.",
+        "",
+        "Você pode &eentrar&r e &csair&r com qualquer item ou fluido das gavetas &5vinculadas&r"
+    ],
+    "quest.284F1943971EC8C8.quest_subtitle": "O gerenciador",
+    "quest.2D705818128B31D1.quest_desc": [
+        "Configure a &6gaveta&r para conter 1 pack de &eitens&r ou 1 &bbalde&r.",
+        "",
+        "Isso é como &5dividir&r seu &carmazenamento&r por 8"
+    ],
+    "quest.2D705818128B31D1.quest_subtitle": "Você fica menor?",
+    "quest.333EBCACA0935EDC.quest_desc": [
+        "&dGera&r 1 balde de &clava&r a cada 50 &6segundos&r, não é impressionante, mas é melhor que o &evanilla&r"
+    ],
+    "quest.333EBCACA0935EDC.quest_subtitle": "Lava infinita",
+    "quest.3390B157AFDD3C90.quest_desc": [
+        "[{\"text\":\"Bem, esta é a sua \",\"color\":\"#FFFFFF\"},{\"text\":\"primeira\",\"color\":\"#b0e629\"},{\"text\":\" melhoria, dando a você as \",\"color\":\"#FFFFFF\"},{\"text\":\"seguintes\",\"color\":\"#aa29e6\"},{\"text\":\" estatísticas:\",\"color\":\"#FFFFFF\"}]",
+        "",
+        "- &d8x&r o armazenamento da sua gaveta (&eItens&r)",
+        "- &54x&r o armazenamento da sua gaveta (&bFluidos&r)",
+        "- Aumenta o raio do &controlador&r (2x)",
+        "",
+        "Estas &6melhorias&r são &dmultiplicativas&r, isso significa que você pode ter 8 milhões de &6itens&r em uma gaveta usando &capenas&r estas!"
+    ],
+    "quest.3390B157AFDD3C90.quest_subtitle": "Mais espaço!",
+    "quest.36966EE349090D83.quest_desc": [
+        "&dComprime&r e &edescomprime&r itens, como ametista.",
+        "",
+        "Se você se &cconectar&r à sua rede &bAE2&r, poderá &6ver&r que tem 4 ametistas e 1 &ebloco&r de ametista, mas você &4só&r tem 1 deles."
+    ],
+    "quest.36966EE349090D83.quest_subtitle": "Compressum",
+    "quest.3A0AA809E5E72877.quest_desc": [
+        "Cada Gaveta do &2Ender&r tem sua própria &dfrequência&r",
+        "",
+        "Você pode copiar a &dfrequência&r de uma gaveta &eclicando com o botão esquerdo&r nela com uma &bFerramenta de Vinculação&r",
+        "",
+        "Então você pode &6clicar com o botão direito&r em outra Gaveta do &2Ender&r e então elas terão seus &cconteúdos&r sincronizados"
+    ],
+    "quest.3A0AA809E5E72877.quest_subtitle": "O enderchest baratinho",
+    "quest.3AE420164B082C74.quest_desc": [
+        "Emite um sinal de &credstone&r proporcional ao quão &6cheia&r está.",
+        "",
+        "Você &epode&r selecionar um &bespaço&r se sua gaveta tiver &dmais&r de 1"
+    ],
+    "quest.3AE420164B082C74.quest_subtitle": "Controlador de Redstone",
+    "quest.4993E2F13B366D77.quest_desc": [
+        "Coleta &6itens&r do &echão&r em uma direção"
+    ],
+    "quest.4993E2F13B366D77.quest_subtitle": "Coletor sem fio",
+    "quest.50FEE6D19ABFC8DF.quest_desc": [
+        "Sim, a especialidade do mod, &carmazenamento&r",
+        "",
+        "Há muitos &dbons&r &6detalhes&r sobre isso, você deveria &eler&r a missão"
+    ],
+    "quest.50FEE6D19ABFC8DF.quest_subtitle": "[{\"text\":\"Passe o cursor sobre o \",\"color\":\"#FFFFFF\"},{\"text\":\"título\",\"color\":\"#29e6ca\"},{\"text\":\"!\",\"color\":\"#FFFFFF\"}]",
+    "quest.50FEE6D19ABFC8DF.title": "[{\"text\":\"Bem-vindo ao \",\"color\":\"#FFFFFF\"},{\"text\":\"Functional\",\"color\":\"#29e6ca\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"O mod focado em armazenamento em massa\"}}},{\"text\":\" Storage!\",\"color\":\"#FFFFFF\"}]",
+    "quest.522A132CF63CFDC9.quest_desc": [
+        "Armazena 32 &dbaldes&r de um &aúnico&r fluido."
+    ],
+    "quest.522A132CF63CFDC9.quest_subtitle": "Tanque baratinho",
+    "quest.52836EEC41C4AB77.quest_desc": [
+        "Esta &apequena&r ferramenta permite que você evite tantas tarefas &etediosas&r, como colocar portas de &darmazenamento&r em todas as suas &2gavetas&r.",
+        "",
+        "Você deve &cler&r a dica de ferramenta para melhores informações"
+    ],
+    "quest.52836EEC41C4AB77.quest_subtitle": "Conectando o Inconectável",
+    "quest.567FAD3B2066C769.quest_desc": [
+        "&dComprimir&r e &edescomprimir&r itens, como barras de &dmetal&r.",
+        "",
+        "Se você se &cconectar&r à sua rede &bAE2&r, poderá &6ver&r que tem 9 barras e 1 &ebloco&r de ametista e &6às vezes&r 81 pepitas, mas você &4só&r tem 1 desses."
+    ],
+    "quest.567FAD3B2066C769.quest_subtitle": "Ultra compressum",
+    "quest.5AF5E6D9EAB19CAC.quest_desc": [
+        "&dGera&r 2 baldes de &bágua&r a cada &n0,05&r &6segundos&r"
+    ],
+    "quest.5AF5E6D9EAB19CAC.quest_subtitle": "Água infinita",
+    "quest.61C788DB174954B8.quest_desc": [
+        "O principal &auso&r desta ferramenta é &ctravar&r suas &2gavetas&r, para que coisas aleatórias não entrem quando estiverem &dvazias&r.",
+        "",
+        "Se você fizer a &6ação&r em um &dcontrolador&r de gavetas, ele fará essa ação em &c&ltodas&r as gavetas &5vinculadas&r"
+    ],
+    "quest.61C788DB174954B8.quest_subtitle": "Trancado",
+    "quest.716B490BA3FF5E41.quest_desc": [
+        "Bem, faz o &6oposto&r da &dmelhoria&r de empurrar"
+    ],
+    "quest.716B490BA3FF5E41.quest_subtitle": "ENTRA!!!",
+    "quest.75DB986A776BE10C.quest_desc": [
+        "Basicamente, ele &6permite&r que você tenha mais lados em seu &acontrolador&r.",
+        "",
+        "&cNão&r &eestende&r seu alcance"
+    ],
+    "quest.75DB986A776BE10C.quest_subtitle": "O não contado"
+}

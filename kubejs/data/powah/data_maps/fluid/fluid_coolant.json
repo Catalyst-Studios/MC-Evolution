@@ -1,0 +1,10 @@
+{
+  "values": {
+    "#c:water": {
+      "temperature": 0
+    },
+    "catalystcore:liquid_darkness": {
+      "temperature": -35
+    }
+  }
+}

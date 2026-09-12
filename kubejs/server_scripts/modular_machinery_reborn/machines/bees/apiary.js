@@ -6,7 +6,7 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 MMREvents.machines(catalyst => {
     catalyst.create("mmr:advanced_apiary")
         .color("#ff603b91")
-        .name("Magical Apiary")
+        .name(Component.translatable("catalyst.mmr.machine.magical_apiary"))
         .structure(
             MMRStructureBuilder.create()
                 .pattern([
@@ -28,8 +28,8 @@ MMREvents.machines(catalyst => {
                         "#modular_machinery_reborn:outputbus",
                         "#modular_machinery_reborn:fluidinputhatch",
                         "#modular_machinery_reborn:inputbus",
-                        "#modular_machinery_reborn:parallelhatch",
-                        "modular_machinery_reborn:casing_plain"
+                        "modular_machinery_reborn:casing_plain",
+                        '#modular_machinery_reborn:parallelhatch'
                     ],
                     "b": ["ars_nouveau:sourcestone_large_bricks"],
                     "c": ["ars_additions:polished_sourcestone_lantern"],
@@ -44,7 +44,7 @@ MMREvents.machines(catalyst => {
                     "l": ["ars_nouveau:archwood_planks"],
                     "n": ["#c:storage_blocks/honeycombs"],
                     "o": ["minecraft:honey_block"],
-                    "p": ["ars_nouveau:source_gem_block"],
+                    "p": ['eternalores:source_block'],
                     "q": ["modular_machinery_reborn:casing_firebox"],
                     "r": ["modular_machinery_reborn:casing_reinforced"],
                     "s": ["#c:storage_blocks/honeycombs"],

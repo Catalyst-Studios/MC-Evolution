@@ -1,0 +1,393 @@
+{
+    "quest.0120F94F0DB55575.quest_subtitle": "I Can See... I Can FIGHT!",
+    "quest.0120F94F0DB55575.title": "I See Spirits...",
+    "quest.01948A35B9155A51.quest_desc": [
+        "This orb will be one of the first creations we do over the &cBlood Infuser&r."
+    ],
+    "quest.06FD532ABD84C9EA.title": "&lThe Portal of All",
+    "quest.0A691F71CA79DCB0.quest_desc": [
+        "This is one of my favourite fluid tanks within all of modded mc, it's quite cheap and it's incredibly similar to the Mekanism Tanks!",
+        "",
+        "It can be used as a bucket to place any type of fluid.",
+        "",
+        "Another thing about this tank, is that if we create a 2nd tank, we can combine it in any crafting grid to increase it's capacity."
+    ],
+    "quest.0A691F71CA79DCB0.quest_subtitle": "Can store any fluid",
+    "quest.0A691F71CA79DCB0.title": "Dark Tank",
+    "quest.0AC4D069AEA88579.quest_desc": [
+        "To get our very first block of Hardened Blood, we can use 2 methods...",
+        "",
+        "{ \"text\": \"1.- By taking a look at this quest\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"47C942BC0BD3D01E\" } }",
+        "",
+        "2.- By doing the original method, that requires the player to grab a bucket of &cblood&r and let it dry. This in-world event might take a bit of time, but once the blood hardens you will need to break it using a &eFlint and Steel&r. Be wary, if you break this block by hand or with any tool it will turn into a fluid and if the rain touches it will also turn into a fluid once more..."
+    ],
+    "quest.0AC4D069AEA88579.title": "Drying Our Blood",
+    "quest.0D205F4DB23CF931.quest_desc": [
+        "The &dNecromancer's Staff&r is one of my favourite tools in all of Evilcraft. We can summon zombies to protect us from incoming damage and overwhelm our enemies... However, we still need blood to use this staff..."
+    ],
+    "quest.0E8C2C8D2D00843A.quest_desc": [
+        "If you thought there were only Promises that increased internal tank capacity, then you are wrong.",
+        "",
+        "The &4Promise of Velocity&r speeds up any Evilcraft functional block by a 2x modifier. This will help quite a lot on reducing the process time over our Blood Infuser.",
+        "",
+        "The &9Promise of Productivity&r decreases how much blood is used every process by a 1.5x making it more effective.",
+        "",
+        "We can do a combination of these promises to 'upgrade' our machines/blocks for a better performance in each process, there are 3 slots for these promises, so go wild and look at whats best for your machines!"
+    ],
+    "quest.0E8C2C8D2D00843A.title": "Useful Promises",
+    "quest.0FB79B7ACDEDBA93.quest_desc": [
+        "You might be wondering... What's the difference between the non-empowered exalted crafters from the &dEmpowered Exalted Crafters&r.",
+        "",
+        "The only difference is that these crafters are &4unbreakable&r and cannot &cdespawn&r if left on the ground!",
+        "",
+        "We have to use the &6Sanguinary Enviromental Accumulator&r to charge it."
+    ],
+    "quest.0FB79B7ACDEDBA93.quest_subtitle": "I am Indestructible!",
+    "quest.0FB79B7ACDEDBA93.title": "Empowered Crafters",
+    "quest.16359AA62D3FE75B.quest_desc": [
+        "The Spirit Furnace is a way to farm mob drops by using a trapped spirit on the Spirit Box, kinda similar to a &dSimulation Chamber&r from Hostile Neural Networks. The only difference here, is that this is a multiblock and it uses &4blood&r instead of &cenergy&r!",
+        "",
+        "To build this multiblock you'll need to do a 3x3x3 using Blood Bricks and the Spirit Furnace (aka the multiblock controller), like it's shown on the image below. Important thing about this multiblock, is that it's inside must be empty.",
+        "{image:catalyst:textures/quest_images/evilcraft/spirit_furnace_1.png width:100 height:100 align:center}",
+        "Sometimes, some mobs we place inside of this multiblock will require a taller spirit furnace, so instead of building it as a 5b tall, we will increase it's size by 2 or 3 blocks.",
+        "{@pagebreak}",
+        "We can even use SFM to automate our Spirit Furnace easily without making use of the Entangled Chalice to Input Blood and output the generated items!",
+        "",
+        "Keep in mind that if we want to automate this furnace, the pipe and our label must be on the Furnace Controller.",
+        "{image:catalyst:textures/quest_images/evilcraft/spirit_furnace_3.png width:100 height:100 align:center}",
+        "Do recommend the following 'script' for this setup.",
+        "{image:catalyst:textures/quest_images/evilcraft/spirit_furnace_4.png width:200 height:125 align:center}"
+    ],
+    "quest.16359AA62D3FE75B.quest_subtitle": "Mob Farming",
+    "quest.16359AA62D3FE75B.title": "The Furnace of Spirits",
+    "quest.165A7D91617BACC0.quest_desc": [
+        "Naturally we can use the &aEnviromental Weather Accumulator&r we found in the &cdark temple&r to get these weathers inside of bottles.",
+        "",
+        "By simply tossing an empty weather container over the &aEWA&r it will absorb and contain said weather.",
+        "",
+        "The weathers we can contain over these bottles are; &6Sunshine&r, &9Rain&r and &eLightning Storms&r.",
+        "",
+        "If we contain our sunshine it may start a downpour after storing it.",
+        "",
+        "But it is recommended to use the &cSanguinary Enviromental Accumulator&r, it will use blood to simulate any weather and it will store it."
+    ],
+    "quest.165A7D91617BACC0.quest_subtitle": "Message in a Bottle?",
+    "quest.168EED6FD983AC79.quest_desc": [
+        "In case you didn't knew about this!",
+        "",
+        "You can automate the collection of vengeance essence using &6Drgymys&r from &dArs Nouveau&r, the &aWannabee&r from &eProductive Bees&r, and the &cCrusher&r from &3Industrial Foregoing&r.",
+        "",
+        "The Vengeance spirit might be invisible, but with the Vengeance Focus you can keep this spirit on it's place, whether you use Bees, machines or Drygmys it is recommended to farm these essence's automatically."
+    ],
+    "quest.168EED6FD983AC79.title": "&lEvilcraft Tip&r #2",
+    "quest.181DFA60A3F29580.title": "Collecting our Blood",
+    "quest.1A4A8AB28AEE3D91.quest_desc": [
+        "This pickaxe is not entirely needed to progress through Evilcraft, but its quite nice that it comes with &6Fortune V&r and... curse of vengeance?",
+        "",
+        "Yep, the &dCurse of Vengeance&r enchantment will spawn Vengeance Spirits, which to be fair, they are a tad annoying, but easy to handle...",
+        "",
+        "But, there is a \"&cspecial block&r\" that will help you disenchant this pickaxe if you want to get rid of the curse or the Fortune V enchantment"
+    ],
+    "quest.1A4A8AB28AEE3D91.title": "The Evil Pickaxe",
+    "quest.1AF45B00853ADE5F.quest_desc": [
+        "The Box of Eternal Enclosure will help us trap those annoying Vengeance Spirits.",
+        "",
+        "Look at it like a &eGhost Trap&r from the &lGhostbusters&r movie.",
+        "",
+        "To trap these spirits inside of it, we need to place this &6box&r near a &dvengeance spirit&r and then use a &cVengeance Focus&r to freeze it and encase it on the box."
+    ],
+    "quest.1AF45B00853ADE5F.quest_subtitle": "for spirits of course...",
+    "quest.1AF45B00853ADE5F.title": "It's a Trap!",
+    "quest.1CFF013971504D07.quest_desc": [
+        "These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them.",
+        "",
+        "EvilCraft Questline made by: &aRadz&8Ratz&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.1CFF013971504D07.title": "&l&4Catalyst Studios Quests",
+    "quest.1D97AF1C2B29F342.quest_desc": [
+        "With this scepter we can strike our foes with lightning!",
+        "",
+        "Downside is... &oit can only be used once&r"
+    ],
+    "quest.1D97AF1C2B29F342.quest_subtitle": "Strike me down Zeus!",
+    "quest.21248F5410430924.quest_subtitle": "Thunderstruck?",
+    "quest.21248F5410430924.title": "Lightning in a Bottle",
+    "quest.27E705A8E21A5236.quest_desc": [
+        "The &6Promises&r are the most important thing when it comes in progressing the mod. Each promise &cincreases&r the Blood Infuser and other functional blocks from Evilcraft tank capacity... That Being said, the &lPromise of Tenacity I&r will increase the machine Internal Buffer from 10,000mb to &540,000&rmb.",
+        "",
+        "And we can only process Tier I crafts inside our Blood Infuser and if we want to process Tier II crafts... we need the Promise of Tenacity II!"
+    ],
+    "quest.27E705A8E21A5236.quest_subtitle": "An Upgrade in the form of a Promise...",
+    "quest.27E705A8E21A5236.title": "Our First &lPromise",
+    "quest.295B9BC524CA6E40.title": "Burning GemStone",
+    "quest.2ABDA47F00454485.quest_desc": [
+        "This Item can only be obtained by slaying a &dvengeance spirit&r... Yeah, I know that it sounds weird, due to this mob being a spirit so its technically dead, but you gotta slay it to get this specific Item?",
+        "",
+        "Oh... and also a bit of exp apparently...",
+        "",
+        "But to slay this mob you need the &4Piercing Vengeance Focus&r, but in case you don't want to farm this mob manually, I suggest you take a look to the 2nd Tip quest within this questline!",
+        "",
+        "&8&opssst... Its above this one in case you didn't find it&r"
+    ],
+    "quest.2DF5FEC4EEC8EFA7.quest_desc": [
+        "The second tier of promises, this promise increases tank capacity to &d180,000&rmb... 4x as much as the past tier!",
+        "",
+        "With this new &ePromise of Tenacity II&r we can now process Tier II crafts inside the Blood Infuser and the best part is that we can process Tier I crafts with this one!"
+    ],
+    "quest.2DF5FEC4EEC8EFA7.title": "The Second &l&ePromise",
+    "quest.2EBE89C376E89639.quest_desc": [
+        "The Blood chest is one of Evilcraft best machines! We can start repairing our Items without any problem with it and it only needs blood to repair the items... ",
+        "",
+        "But, all nice things come with a small price!",
+        "",
+        "And this price, is that one of our items may recieve the \"&l&4curse of breaking&r\" enchantment, which can be a bit problematic, but what if I told you that there are plenty of ways to disenchant an Item? ",
+        "",
+        "And oh boy, Evilcraft has a fun way to do it!"
+    ],
+    "quest.2EBE89C376E89639.title": "Reparing Items with &l&4Blood",
+    "quest.2FE1CD6DDFDF2F31.quest_desc": [
+        "Congratulations... Somehow you managed to overwhelm the terrible spirits, sacrificed plenty of mobs to gather the needed blood and crafted the unimaginable, The Creative Blood Drop.",
+        "",
+        "This item is uncraftable at the moment, but it may become craftable in a near future... Heads up for future updates and see you next time!"
+    ],
+    "quest.2FE1CD6DDFDF2F31.title": "&l¿The &4End&r?",
+    "quest.348C191492897716.quest_desc": [
+        "To get these &4Gems&r we simply need to place at least 5 blood buckets and throw our &0Dark Gems&r on the blood pool.",
+        "",
+        "It may or not take a while to transform, but once we get these I truly advise you on doing the Blood Infuser, with it, the creation of these gems will be easier and faster!"
+    ],
+    "quest.348C191492897716.title": "The &cDarkest&r of Gems",
+    "quest.369F69559064623C.title": "Extracting Biomes",
+    "quest.3A5E0A470630131E.quest_desc": [
+        "The Blood-Waxed Coal is just like a normal coal, it has quite a few differences and i think you might like it a bitsy...",
+        "",
+        "Normal Coal 1600t (8 items per coal) - Blood-Waxed Coal 3200t (16 items per coal)"
+    ],
+    "quest.3A5E0A470630131E.title": "Blood Coal",
+    "quest.3BEA955788837733.quest_desc": [
+        "This block is quite interesting, it can Disenchant Items and take any Potion effect from any mob!",
+        "",
+        "To begin our &dDisenchanting&r with the &cPurifier&r we will need this block filled with blood and a &4Blook&r (it can only be made via the Blood Infuser), after all these requirements are fulfilled you only need to place your Enchanted Item and let the magic begin!",
+        "",
+        "(It will disenchant the item, but it will only take one random enchant from the item itself, so if you want to fully disenchant an item \"the vengeance pickaxe as an example\", you will need 2 Blooks for it)",
+        "{@pagebreak}",
+        "To take the potion effect from any mob, you only need the Purifier filled with blood and the mob inside of it, it can be tricky though, but once all of this is done you just need to wait a bit and then throw an Empty Bottle to take this Potion and free that mob from it. ",
+        "",
+        "(&oI'm looking at you wandering trader that apparently has an infinite amount of invis potions...&r)"
+    ],
+    "quest.3BEA955788837733.title": "Disenchanting with &l&4Blood",
+    "quest.45CEDE5DDED5ADC2.quest_subtitle": "Sunshine of your Love?",
+    "quest.45CEDE5DDED5ADC2.title": "Sunshine in a Bottle",
+    "quest.47C942BC0BD3D01E.quest_desc": [
+        "&3Integrated Dynamics&r mod is a QOL using Evilcraft mod.",
+        "",
+        "With the &6Drying Basin&r we can get the &4Hardened Blood Block&r more easily. No need to wait for a while until the in-world event finishes, just toss a bucket of blood and it will dry it out!",
+        "",
+        "And after we get the hardened blood block, we simply need to throw it into a furnace to get the 9 Hardened Blood Shards"
+    ],
+    "quest.47C942BC0BD3D01E.title": "&lEvilcraft Tip&r #1",
+    "quest.4B3625968F4E4331.quest_subtitle": "Walk Faster and More Efficiently Effortlessly",
+    "quest.4B9C8F1028E7BAEB.quest_desc": [
+        "To start off our adventure with Evilcraft, we need to dig deep &8underground&r to find some &0Dark Gems&r.",
+        "",
+        "These gems are the most valuable thing in all Evilcraft, so i suggest you find 18 of these and create a Dark Gem Bee!"
+    ],
+    "quest.4B9C8F1028E7BAEB.title": "The Most Essential Gem",
+    "quest.4C1A7052ABFCCF72.quest_desc": [
+        "This book is the in-game guide for Evilcraft. We can uncover everything this mod adds with this book, but to obtain it, we might want to craft a &8darkened apple&r and feed it to any mob... After that this mob behaviour will change completely so i suggest you throw a book at it to calm it down!",
+        "",
+        "Who knows, maybe something will appear after that..."
+    ],
+    "quest.4C1A7052ABFCCF72.quest_subtitle": "Forbidden Knowledge",
+    "quest.4C1A7052ABFCCF72.title": "&lOrigins Of Darkness",
+    "quest.4D3F2DA049C32098.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&4EvilCraft&r questline made by: &aRadz&7Ratz&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.4D3F2DA049C32098.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.4D3F2DA049C32098.title": "&l&4Catalyst Studios Quests",
+    "quest.4DC0C27803D50263.quest_desc": [
+        "The last tier of promises we will need and use in all of Evilcraft... ",
+        "",
+        "This time, the promise modifier to the blocks is 8x times! Meaning, each functional block that has this new &bPromise of Tenacity III&r will store the tiny amount of &d640,000&rmb"
+    ],
+    "quest.4DC0C27803D50263.title": "The Last &l&bPromise",
+    "quest.522CADC3ADB94B74.quest_desc": [
+        "This item can be quite helpful from time to time."
+    ],
+    "quest.522CADC3ADB94B74.quest_subtitle": "that uses blood",
+    "quest.522CADC3ADB94B74.title": "&lInfinite&r Ender Pearl",
+    "quest.53B435B6F12C773E.quest_subtitle": "It is infinite, but not quite",
+    "quest.53B435B6F12C773E.title": "&lInfinite&r &4Blood",
+    "quest.54EFAC2D8A37689C.quest_desc": [
+        "We are one step closer to fight these spirits, but this version will only freeze the vengeance spirits.",
+        "",
+        "Perfect to setup any &6farm&r that can get their drops!"
+    ],
+    "quest.5571630621763AA6.quest_desc": [
+        "The path to get the &cRejuvenated Flesh&r might be annoying, but there is a way that not many people know to get this easily.",
+        "",
+        "And that is by finding a &dWolverian&r (which turns into a Werewolf if a full moon is present)",
+        "",
+        "This new type of villager can be found over any village, however, its not guaranteed to spawn. But we can turn any villager into a wolverian by throwing some &elightning&r to it.",
+        "",
+        "This can be quite confusing, due to villagers turning into &5witches&r when stricking them down with lightning...",
+        "",
+        "It may or may not work, but to me, by doing the Lightning Ritual from Ars Nouveau turned the villager into a wolverian! But in case this tablet/ritual isn't avaible, then try your luck with the &6Scepter of Thunder&r.",
+        "",
+        "And later encase this mob (once it turns into a werewolf) in amber for the Wannabee or in a containment jar for the Drygmys."
+    ],
+    "quest.5571630621763AA6.title": "&lEvilcraft Tip&r #3",
+    "quest.5C5BF198EA21687B.quest_desc": [
+        "The Dark Temple is the only structure we will find from Evilcraft... But don't let your eyes decieve you, this temple has one of the \"machines\" that will come in handy later on.",
+        "",
+        "We may also find loot chests within this temple!"
+    ],
+    "quest.5C5BF198EA21687B.title": "Dark Temple",
+    "quest.610C7735CF3C7BF5.quest_desc": [
+        "Now you've become the most powerful being...",
+        "",
+        "After a while you managed to claim victorious throughout the hordes of vengeful spirits, spirits that were trying to prevent this horrendous nightmare to happen... And yet, it &4&ldid&r.",
+        "",
+        "This item is used to craft the Spirit Portal, but it may be used in other recipes, so i suggest you craft a few of these!"
+    ],
+    "quest.610C7735CF3C7BF5.quest_subtitle": "The Calm Before The Storm...",
+    "quest.610C7735CF3C7BF5.title": "&lThe &eEntangled &5Spirit &4Agglomeratio",
+    "quest.62AE066A0F40D92D.quest_desc": [
+        "The &cPiercing Vengeance Focus&r is one of our Weapons to fight of the Vengeance Spirits... Some spirits may be invisible, but with mods like Journey Map we can track their steps and fight them off!",
+        "",
+        "Once we manage to send a spirit back to oblivion it will drop a strange dust..."
+    ],
+    "quest.62AE066A0F40D92D.quest_subtitle": "Piercing the Veil imma right?",
+    "quest.6A4C0711EE98332C.quest_desc": [
+        "This pendant is quite a life saver... It will automatically get rid of any bad potion effects our player recieves by using a bit of blood!"
+    ],
+    "quest.6CA5C21D757AA820.quest_desc": [
+        "The Vengeance ring is the first step to fight off those Vengeance Spirits!",
+        "",
+        "We will need a bit of Iron and some Dark Gem dust to craft it, but this version will attract vengeance spirits..."
+    ],
+    "quest.70DB2794CED4718C.quest_desc": [
+        "The &cUndead Sapling&r is one of the many ways to generate Blood from Evilcraft.",
+        "",
+        "We only need to wait for the tree to grow for it to start &ldripping&r blood, to collect this blood, we can use the Blood Collector or we can use a Sanguinary Pedestal to collect it automatically.",
+        "",
+        "Check the Sanguinary Pedestal quest to learn more about it!"
+    ],
+    "quest.7135BB6943B21402.quest_desc": [
+        "This chest is pretty much the same as the normal blood chest. But, with this upgraded version our tools will not recieve the Curse of Breaking enchant.",
+        "",
+        "This sophisticated blood chest is a must if we want to repair quite a lot of tools at the same time, and the best part of it, is that the more tools it has, the faster it will repair.",
+        "",
+        "We can still pipe in and out items without any effort!",
+        "",
+        "To build this multiblock we will need &625&r Reinforced Undead Planks and a Colossal Chest block, and the multiblock size is a &d3x3x3&r like it's shown in the image below.",
+        "{image:catalyst:textures/quest_images/evilcraft/colossal_chest.png width:100 height:100 align:center}"
+    ],
+    "quest.7135BB6943B21402.quest_subtitle": "A blood chest, but bigger",
+    "quest.7135BB6943B21402.title": "&lColossal&r &4Blood&r Chest",
+    "quest.725CAFF6779487BC.quest_desc": [
+        "The &4Blood Infuser&r is our very first machine in all Evilcraft, without it, we cannot progress throughout the whole mod.",
+        "",
+        "This machine requires &cblood&r to function, we can place our blood collector with blood on it to store this blood and begin our infusions or simply by piping in the blood from any &8tank&r.",
+        "",
+        "Our main objective with the Blood Infuser is creating the &6promises&r, but we can also create plenty of other stuff to aid us on our bizarre adventure... Another thing to note, is that we can craft the &cDark Power Gems&r more easily with this machine.",
+        "",
+        "We can even automate it with &dAE2&r or &3ID&r!"
+    ],
+    "quest.725CAFF6779487BC.title": "Bloody Infusions",
+    "quest.7509E3311610BE2B.quest_subtitle": "November Rain?",
+    "quest.7509E3311610BE2B.title": "Rain in a Bottle",
+    "quest.75719D26D5D57A77.quest_desc": [
+        "The &l&5Empowered Inverted Potentia&r is the key to get the strongest weapons from all Evilcraft...",
+        "",
+        "This Item can be crafted by using the &6Enviromental Accumulator&r from the Dark Temple or with the &4Sanguinary Eviromental Accumulator&r. Simply throw the Empowered Potentia to any of these machines and after 5 seconds you'll recieve this new Item!"
+    ],
+    "quest.76890D74EE32B4CF.quest_desc": [
+        "Welcome to &lEvilCraft&r, where magic meets technology in a unique yet &4bloody&r way.",
+        "",
+        "Evilcraft mod adds plenty of stuff to craft and use, we can &cmanipulate&r weather, store and change &2biomes&r at will, unholy &5technology&r, &6weapons&r and a &bbroom&r?",
+        "",
+        "Either way! If you want to become powerful i suggest you dive into Evilcraft and uncover it's secrets...",
+        "",
+        "Mod Created by: &4Kroeser"
+    ],
+    "quest.76890D74EE32B4CF.title": "&l&4EvilCraft",
+    "quest.77BC1DE1D0D6D03B.quest_desc": [
+        "This machine can be quite useful to bring back some mobs back to live...",
+        "",
+        "We will need a trapped &dVengeance Spirit&r of any kind of mob in a &6Box of Eternal Closure&r inside of this machine to make it work.",
+        "",
+        "{ \"text\": \"Over this quest we talk about the Box of Eternal Closure.\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1AF45B00853ADE5F\" } }",
+        "",
+        "It will need &4Blood&r to operate and bring the dead back to the living."
+    ],
+    "quest.77BC1DE1D0D6D03B.title": "Bringing Spirits to Life",
+    "quest.7A3A78C25AC9D033.quest_desc": [
+        "Both tools use blood to function properly.",
+        "",
+        "The &eKineticator&r will help us attract any type of drop is within its radious.",
+        "",
+        "The &dRepelling Kineticator&r will push any drop it enters its radious.",
+        "",
+        "To activate both tools we need to press \"shift + rmb\" to enable and disable their functionality and to increase their strength, by simply doing \"rmb\" it will set its force to 0 or 4 max."
+    ],
+    "quest.7A3A78C25AC9D033.quest_subtitle": "Still doesn't attract love...",
+    "quest.7A3A78C25AC9D033.title": "Kinecticators",
+    "quest.7AB09B6B6E9206C4.quest_desc": [
+        "Evilcraft adds plenty of stuff, including a way to store items and craft within it's inventory!",
+        "",
+        "The Exalted Crafters comes in &62&r different tastes, the &eWooden Exalted Crafter&r can only store items and use those to craft inside of it's crafting grid.",
+        "",
+        "But, the &5Exalted Crafter&r is quite the opposite, while it's inventory size is the same as a normal chest and similar to the wooden exalted crafter, this crafter is bound to the vanilla &dEnder Chest&r!",
+        "",
+        "Quite useful when it comes in organazing or separating items from chests. We can even set a &aKeybind&r (&lC&r) by default, to open it without having it on the hand."
+    ],
+    "quest.7AB09B6B6E9206C4.quest_subtitle": "an evil backpack",
+    "quest.7AB09B6B6E9206C4.title": "Exalted Crafter",
+    "quest.7C25C9EA04C8FB96.quest_desc": [
+        "The &4Sanguinary Pedestal&r let's us collect those blood staines our &6tree&r has generated, we can pipe this pedestal to extrat the blood, or even better, place a &8Dark Tank&r or an &eEntangled Chalice&r to store that blood.",
+        "",
+        "This pedestal has an internal buffer of 10,000mb, so it'll take a bit of time for it to fill up!",
+        "",
+        "Important note: We can even cut down some logs from our Undead Tree to place our pedestal at the very middle of our tree!",
+        "{image:catalyst:textures/quest_images/evilcraft/sanguinary_pedestal.png width:200 height:125 align:center}"
+    ],
+    "quest.7C25C9EA04C8FB96.quest_subtitle": "Auto-Blood Collector",
+    "quest.7D5439BA46732CEB.quest_desc": [
+        "Before we start creating &cmachines&r and &6multiblocks&r, we'll need to craft this core first.",
+        "",
+        "It ain't that hard to craft, but, if we want a collection of blocks and items this mod adds, i suggest you craft &eplenty&r of them."
+    ],
+    "quest.7D5439BA46732CEB.title": "The Core for Everything",
+    "quest.7D75C832762D3851.quest_desc": [
+        "Running out of blood, but you managed to get some &4Dark Power Gems&r?",
+        "",
+        "Then, I suggest you craft this... &cdagger&r!",
+        "",
+        "When slaying mobs with the Vein Sword, we will extract more blood, way more convinient than using a 'vanilla' weapon. Only downside to this sword is it's durability, i truly suggest you enchant it with &amending&r and &dsharpness&r!",
+        "",
+        "But, being an enchanted item, we can only apply more enchants using an anvil... We may find a way to &bdisenchant&r items using blood soon™..."
+    ],
+    "quest.7D75C832762D3851.title": "Extra Blood Collection",
+    "quest.7F6E4C605AD3DC95.quest_desc": [
+        "This is my favorite thing in all Evilcraft... This Broom will come in hand in case you don't like using &ejetpacks&r that might contaminate our precious air.",
+        "",
+        "But, before we dive and rush to craft our broom we have to talk about it's &cparts&r.",
+        "",
+        "Each and every single piece of our broom has modifiers... That will impact our broom's &dspeed&r, our &amaneuverability&r with this thing and the &8acceleration&r.",
+        "",
+        "There are other modifiers, but these are the most important. And I suggest you take a look at The Origins of Darkness to learn more about these, but we can also press &lshift&r key to see what modifiers these pieces have.",
+        "",
+        "It doesn't matter which &5cap&r, &5brush&r and &5rod&r we use, once we have all the required items we can combine them inside of any crafting table to assemble our broom.",
+        "",
+        "And finally, we will need to fill it with &4blood&r to use it correctly. You can fill it by using &lrmb&r on any tank that's filled with Blood."
+    ],
+    "quest.7F6E4C605AD3DC95.quest_subtitle": "In the form of a Broom!",
+    "quest.7F6E4C605AD3DC95.title": "&l&eCreative Flight"
+}

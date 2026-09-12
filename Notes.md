@@ -1,0 +1,1 @@
+Delete mods folder, index.toml, pack.toml and resourcepack folder when shipping with Questi

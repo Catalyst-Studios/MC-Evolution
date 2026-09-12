@@ -5,7 +5,7 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 MMREvents.machines(catalyst => {
     catalyst.create("mmr:neutron_injector")
         .color('#F43e3b3e')
-        .name('Neutron Injector')
+        .name(Component.translatable("catalyst.mmr.machine.neutron_injector"))
         .structure(
             MMRStructureBuilder.create()
             .pattern([

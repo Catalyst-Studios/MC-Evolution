@@ -1,0 +1,907 @@
+{
+    "quest.00A581210C183A0D.title": "&lBarras de Combustível",
+    "quest.018A9B49A3D7066F.quest_desc": [
+        "O addon Inventory Proxy nos concede a habilidade de selecionar slots específicos para Entrada ou Saída de nossos Itens ou Fluidos!",
+        "",
+        "Qualquer que seja a escolha, ele só pode inserir ou extrair a partir deste addon, o que significa que teremos que verificar onde estão os lados originais de Entrada e Saída de nossas máquinas."
+    ],
+    "quest.018A9B49A3D7066F.title": "&lAddon de Proxy de Inventário de Máquina",
+    "quest.05C7721E747E540C.quest_desc": [
+        "Precisa ser construído em uma estrutura de máquina para funcionar.",
+        "",
+        "Semelhante ao Plano de Formação do AE2, esta máquina colocará qualquer bloco que tiver em seu buffer!",
+        "",
+        "Também é aconselhável usar esta máquina junto com o Fertilizante."
+    ],
+    "quest.05C7721E747E540C.quest_subtitle": "colocador de blocos?",
+    "quest.05C7721E747E540C.title": "&lBloco Colocador",
+    "quest.0626AA26FA0E56B4.quest_desc": [
+        "As Portas de Combustível também são outro bloco necessário para o nosso reator nuclear, sem elas... bem... não será possível alimentar nosso reator com guloseimas e picantes biscoitos de urânio.",
+        "",
+        "Elas ficam &aacima&r das nossas barras de combustível."
+    ],
+    "quest.0626AA26FA0E56B4.title": "&lPorta de Combustível do Reator",
+    "quest.073EF978A924805E.quest_desc": [
+        "O Absorvedor de Táquions é um dos geradores de energia mais eficientes do Oritech. Ele captura a energia liberada de colisões de partículas de alta velocidade, convertendo-a em uma fonte de energia utilizável.",
+        "",
+        "Além disso, ele pode extrair energia residual de uma dilatação do espaço-tempo, se uma se formar acidentalmente..."
+    ],
+    "quest.0753F7659A0FB241.quest_desc": [
+        "Não pergunte por que isso está aqui, apenas &oaproveite..."
+    ],
+    "quest.0753F7659A0FB241.title": "&lLe Banan...",
+    "quest.08CA4A967521AAC0.quest_desc": [
+        "O único propósito desta máquina é extrair qualquer tipo de fluido abaixo dela!",
+        "",
+        "Perfeito para uma fonte de água infinita ou fonte de lava."
+    ],
+    "quest.08CA4A967521AAC0.title": "&lBomba",
+    "quest.0C1ADC4C9F6E5921.quest_desc": [
+        "O Anel Guia é essencial para direcionar as partículas no acelerador.",
+        "",
+        "Os anéis podem ficar virados para direções diferentes. Clicar com o botão direito em um anel adiciona uma curva de 45°, permitindo que você manobre as partículas de forma mais eficiente e estenda a distância de viagem em velocidades mais altas.",
+        "",
+        "{image:catalyst:textures/quest_images/oritech/guide_ring.png width:100 height:50 align:center}",
+        "",
+        "{image:catalyst:textures/quest_images/oritech/guide_ring_connection.png width:100 height:50 align:center}",
+        "",
+        "Não se esqueça desta fórmula — é crucial!",
+        "",
+        "Distância Máxima: &lclamp(sqrt(velocidade), 2, 10) — velocidade maior = distâncias maiores&r.",
+        "",
+        "&l&eDica&r: Se as partículas saírem do curso, verifique o posicionamento e as distâncias dos anéis.",
+        "",
+        "&l&4Aviso: Pode quebrar blocos e matar você com um só golpe se manuseado incorretamente&f!"
+    ],
+    "quest.0C1ADC4C9F6E5921.title": "&lAnel Guia do Acelerador de Partículas",
+    "quest.0FEEF242CE736765.quest_desc": [
+        "Isto é um machado, mas elétrico e mais chique!",
+        "",
+        "Ao fazer shift+lmb, podemos derrubar uma árvore inteira com facilidade."
+    ],
+    "quest.0FEEF242CE736765.quest_subtitle": "alguém aí curte chainsaw man?",
+    "quest.0FEEF242CE736765.title": "&lMotosserra",
+    "quest.101AB1B91E3FD48F.quest_subtitle": "A Melhor Ferramenta",
+    "quest.101AB1B91E3FD48F.title": "&lChave Inglesa Oritech",
+    "quest.104632D15E3A3270.quest_subtitle": "Uma mistura de Netherita e Platina",
+    "quest.104632D15E3A3270.title": "&l&0Barra de Duratium",
+    "quest.138B1E0670F27C35.quest_desc": [
+        "O Gerador a Combustível é um dos meus geradores de energia preferidos no Oritech. Ele usa &0Óleo&r como seu combustível principal e também outro combustível chamado &6Óleo Turbo&r!",
+        "",
+        "- Óleo dura 160t (8s) no total. Pode ser encontrado no Mundo Superior.",
+        "",
+        "- Óleo Turbo dura 480t (24s) no total. É gerado combinando Óleo e Fluxita na nossa Centrífuga.",
+        "",
+        "E se eu fosse você, instalaria alguns addons para produzir ainda mais energia!"
+    ],
+    "quest.138B1E0670F27C35.title": "&lGerador a Combustível",
+    "quest.14457BC2EC4E43C4.quest_desc": [
+        "Precisa ser construído em uma estrutura de máquina para funcionar.",
+        "",
+        "Similar ao Plano de Aniquilação do AE2, esta máquina quebrará qualquer bloco que estiver à sua vista!",
+        "",
+        "Também é aconselhável usar esta máquina junto com o Fertilizador e o Bloco Colocador. Outra recomendação é usá-la como uma pedreira."
+    ],
+    "quest.14457BC2EC4E43C4.quest_subtitle": "destruidor de blocos?",
+    "quest.14457BC2EC4E43C4.title": "&lBloco Destruidor",
+    "quest.146104BABCD8DE9C.quest_desc": [
+        "Mais uma picareta melhor, não elétrica infelizmente, mas com um visual bem chique!",
+        "",
+        "Esta picareta tem 2 modos.",
+        "",
+        "1.- Área de efeito. Facilitando a quebra de blocos.",
+        "",
+        "2.- Toque Suave. Não há muito o que dizer sobre este efeito, já que todos nós já sabemos o que ele faz!",
+        "",
+        "Para alternar entre os modos, simplesmente faça shift+rmb enquanto olha para o ar."
+    ],
+    "quest.146104BABCD8DE9C.title": "&l&6Picareta de Prometheum",
+    "quest.1462C9B3FF493EEB.quest_desc": [
+        "O Porto de Drones é uma máquina muito útil, não só vem com outra animação estética, como também é capaz de mover Itens de um lado para o outro com facilidade!",
+        "",
+        "Outra ferramenta de E/S útil para qualquer situação.",
+        "",
+        "Também podemos usar um addon de Redstone para controlar quando nossos Itens partirão."
+    ],
+    "quest.1462C9B3FF493EEB.title": "&lPorto de Drones",
+    "quest.1616B7F6050B98A3.quest_desc": [
+        "Estes são os aumentos adicionados pela Estação de Pesquisa Arcana:",
+        "",
+        "- &2Visão de Minério&r",
+        "",
+        "- &dPortal&r",
+        "",
+        "- &7Alcance Longo&r",
+        "",
+        "- &eManto&r",
+        "",
+        "- &9Gravidade Reduzida&r",
+        "",
+        "- &cGolpes Psiônicos&r",
+        "",
+        "- &3Sorte&r"
+    ],
+    "quest.1616B7F6050B98A3.title": "&l&dEstação de Pesquisa Arcana",
+    "quest.164880BEA3EFEE2B.quest_desc": [
+        "Agora que estamos no \"Nível 2\" dentro do Oritech, começamos a acelerar a fábrica de máquinas!",
+        "",
+        "E eu sugiro que você comece a construir uma Linha de Processamento de Minério para dobrar a quantidade de barras que obtemos a cada processo.",
+        "",
+        "Lembre-se que alguns processos darão um &l&6Subproduto&r dependendo do tipo de minério que está sendo processado. E para esses, sugiro que você os envie para um &9AutoCrafter&r.",
+        "",
+        "Pode haver configurações melhores, mas, eu recomendo fortemente que você use a seguinte configuração!",
+        "",
+        "&eBloco de Minério &d->&r &aForja de Fragmentos &d->&r &6Minério Bruto &d->&r &aForja de Fragmentos &d->&r &aForja de Fragmentos &d->&r &3Centrífuga&r com &bAddon de Fluido &d->&r &cFundição"
+    ],
+    "quest.164880BEA3EFEE2B.title": "&lLinha de Processamento de Minério",
+    "quest.16970DB9D29B7EC5.quest_desc": [
+        "Estes são os aumentos adicionados pela Estação de Pesquisa Quântica:",
+        "",
+        "- &aVelocidade de Mineração Hiper&r",
+        "",
+        "- &dVisão Noturna&r",
+        "",
+        "- &cAlcance da Arma&r",
+        "",
+        "- &bSistema Égide&r",
+        "",
+        "- &3Fortaleza Viva&r",
+        "",
+        "- &2Passos Relâmpago&r",
+        "",
+        "- &4Matriz Hiper-Redundante&r"
+    ],
+    "quest.16970DB9D29B7EC5.title": "&l&bEstação de Pesquisa Quântica",
+    "quest.17A408FE8956DD79.quest_desc": [
+        "Este addon permite que algumas de nossas máquinas produzam vapor!",
+        "",
+        "É recomendado colocá-lo nos geradores de lava ou bio. Fazendo isso, o gerador deixará de gerar energia, no entanto, este vapor pode ser usado para alimentar muitos motores a vapor."
+    ],
+    "quest.17A408FE8956DD79.title": "&lAddon de Caldeira a Vapor",
+    "quest.182A11339EB59E7B.quest_desc": [
+        "Isto é uma picareta, mas elétrica e mais chique!"
+    ],
+    "quest.182A11339EB59E7B.quest_subtitle": "isto não é uma furadeira!",
+    "quest.182A11339EB59E7B.title": "&lFuradeira de Mão",
+    "quest.1A7C2E3CEE6AC91C.quest_desc": [
+        "Devemos ter extremo cuidado ao manipular o Acelerador de Partículas...",
+        "",
+        "Certos elementos podem puxar o &cNether&r para mais perto do &aMundo Superior&r ao viajar a 5.000 Joules, enquanto outros podem trazer o &dEnd&r perigosamente para perto a 10.000 Joules... &4E o que quer que você faça, não deixe esses itens excederem 10.000 Joules.&r",
+        "",
+        "Níveis de energia tão imprudentes poderiam desencadear uma &6Incursão Dimensional&r, atraindo &4atenção indesejada&r — ou pior — criando uma &0&lDilatação&r entre o &b&lEspaço&r e o &e&lTempo&r... e acredite em mim, você não quer descobrir o que acontece a seguir."
+    ],
+    "quest.1A7C2E3CEE6AC91C.quest_subtitle": "Não diga que eu não avisei'",
+    "quest.1A7C2E3CEE6AC91C.title": "&l&4Aviso Final",
+    "quest.1B483EE3B4662384.quest_desc": [
+        "A Forja Atômica é, de longe, minha máquina favorita!",
+        "",
+        "Com esta máquina, agora somos capazes de criar materiais tecnológicos surpreendentes para escalar nossa fábrica."
+    ],
+    "quest.1B483EE3B4662384.title": "&l&cForja Atômica",
+    "quest.1BE5F0B57F46AC37.quest_desc": [
+        "Este pode ser um dos primeiros geradores de energia que podemos criar em todo o Oritech, ele usa carvão e carvão vegetal como seu principal combustível.",
+        "",
+        "Ele só pode gerar 32FE/t e pode armazenar um total de 50k FE em seu buffer de energia."
+    ],
+    "quest.1BE5F0B57F46AC37.title": "&lGerador Básico",
+    "quest.1C1FE94DE8D48309.quest_desc": [
+        "O Motor a Vapor pode ser um pouco confuso.",
+        "",
+        "Sua taxa de geração é de 1FE/t.... sim... e não suporta nenhum addon...",
+        "",
+        "                      &6MAS&r",
+        "",
+        "       Não se preocupe, pois é intencional!",
+        "",
+        "Para aumentar a produção de FE e a eficiência desta máquina, precisamos adicionar mais motores a vapor em seus lados, o que significa que podemos acabar com &elinhas&r de motores a vapor encadeados para produzir mais energia.",
+        "",
+        "           Quanto mais, melhor!"
+    ],
+    "quest.1C1FE94DE8D48309.title": "&lMotor a Vapor",
+    "quest.1C576EB5C4A85273.quest_subtitle": "Carrega Itens de Energia Equipados",
+    "quest.1C576EB5C4A85273.title": "&lPeitoral Exo",
+    "quest.1DD215C9864E6026.quest_desc": [
+        "Você deve ter encontrado alguns pequenos &edepósitos de minério&r em suas aventuras na superfície... E deixe-me dizer que eles não estão lá sem motivo!",
+        "",
+        "Bem abaixo desses Depósitos de Minério, podemos encontrar Minérios dentro da &7bedrock&r chamados &6nós de recursos&r.",
+        "",
+        "Esses nós de recursos são &dINFINITOS&r, não precisa se preocupar com eles quebrando, pois são feitos de bedrock e estaremos extraindo seu conteúdo com a máquina correta.",
+        "",
+        "Para completar esta missão, você só precisa observar cada um desses nós!"
+    ],
+    "quest.1DD215C9864E6026.title": "&l&6Extração &bInfinita &ede Minério",
+    "quest.1E9B91AB1CD4463E.quest_desc": [
+        "Construir este reator é bastante simples, mas precisaremos de muitos recursos para construí-lo.",
+        "",
+        "Vamos começar construindo um reator 5x5x5.",
+        "",
+        "{image:catalyst:textures/quest_images/oritech/reactor_1.png width:200 height:100 align:center}",
+        "{@pagebreak}",
+        "Primeiro, colocaremos uma, duas ou quatro barras de combustível para moldar o interior do reator.",
+        "",
+        "Pelo menos uma barra de combustível de qualquer tipo é necessária para formar o multiblock.",
+        "",
+        "Não importa onde você as coloque, apenas certifique-se de deixar espaço para os blocos de resfriamento!",
+        "{image:catalyst:textures/quest_images/oritech/fuel_rod_1.png width:200 height:100 align:center}",
+        "{image:catalyst:textures/quest_images/oritech/fuel_rods_2.png width:200 height:100 align:center}",
+        "{@pagebreak}",
+        "Em seguida, colocaremos Absorvedores de Calor diretamente adjacentes às barras de combustível para resfriá-las.",
+        "{image:catalyst:textures/quest_images/oritech/heat_absorbers.png width:200 height:100 align:center}",
+        "{@pagebreak}",
+        "Agora, instalaremos tubos de calor para distribuir o calor, evitando um colapso junto com os Absorvedores de Calor ou Exaustores de Calor.",
+        "",
+        "Se o reator for mais largo, exaustores de calor são necessários para dissipar todo o excesso de calor!",
+        "",
+        "Além disso, coloque um Refletor de Nêutrons no centro das barras de combustível para aumentar a eficiência e impulsionar a produção de energia.",
+        "{image:catalyst:textures/quest_images/oritech/layer_1.png width:150 height:100 align:center}",
+        "{@pagebreak}",
+        "Uma vez que tudo isso esteja configurado, continuaremos adicionando camadas. No entanto, devemos colocar Portas de Barra de Combustível diretamente acima das barras de combustível e uma Porta de Absorvedor de Refrigerante para introduzir Refrigerante (Blocos de Gelo, neste caso).",
+        "{image:catalyst:textures/quest_images/oritech/neutron_and_rods.png width:200 height:100 align:center}",
+        "{@pagebreak}",
+        "No topo do multiblock, paredes de reator adicionais não são necessárias — você pode deixá-lo aberto sem causar problemas.",
+        "",
+        "No entanto, se preferir uma aparência mais limpa, pode vedá-lo para fins estéticos.",
+        "",
+        "Finalmente, precisamos colocar uma Porta de Energia e um Controlador em qualquer lugar nas paredes do reator para completar a estrutura multiblock.",
+        "{image:catalyst:textures/quest_images/oritech/full_reactor.png width:100 height:100 align:center}",
+        "{@pagebreak}",
+        "Se tudo foi construído corretamente, agora temos um reator nuclear totalmente funcional!",
+        "{image:catalyst:textures/quest_images/oritech/reactor_controller_build.png width:200 height:100 align:center}"
+    ],
+    "quest.1E9B91AB1CD4463E.title": "&lConstruindo Nosso Reator",
+    "quest.20B90CB484A3AE7B.quest_desc": [
+        "O addon Synergy Matrix é indispensável!",
+        "",
+        "Ele aumenta tanto a velocidade quanto a eficiência sem afetar um ou o outro.",
+        "",
+        "Está disponível apenas nos estágios posteriores do Oritech, mas com certeza é o melhor addon para todas as nossas máquinas."
+    ],
+    "quest.20B90CB484A3AE7B.title": "&lAddon Synergy Matrix",
+    "quest.22530C57215BC0AB.quest_desc": [
+        "Esta será nossa primeira máquina em todo o Oritech.",
+        "",
+        "É bem simples de criar, se posso dizer, mas para montar esta máquina, precisaremos de um bloco Assembler e três Núcleos de Máquina de qualquer tier.",
+        "",
+        "Se &l&eclicarmos com o botão direito do mouse&r no controlador desta máquina, veremos lugares específicos destacados!",
+        "",
+        "- &eMão vazia&r: Destaca onde os Núcleos de Máquina devem ser colocados.",
+        "",
+        "- &eSegurando Núcleos de Máquina&r: Coloca-os automaticamente.",
+        "",
+        "Uma vez que todos os núcleos estejam no lugar, pressione &l&eclicarmos com o botão direito do mouse&r novamente no Controlador do Assembler para completar o multibloco!"
+    ],
+    "quest.22530C57215BC0AB.quest_subtitle": "Vingadores Av... esquece, essa piada não é boa",
+    "quest.22530C57215BC0AB.title": "&lO Assembler",
+    "quest.22BE285408BF2C14.quest_desc": [
+        "Agora, isso pode parecer estranho, mas este mod introduz níveis de qualidade dentro de nossas máquinas.",
+        "",
+        "Quanto maior a qualidade, mais addons você pode instalar. O Núcleo &ePrimitivo&r, sendo o tier mais baixo, não aguenta muitos addons.",
+        "",
+        "(&cMax&r: 14, se usar um &dExtensor de Máquina&r)",
+        "",
+        "Agora, eu sei que 14 não parece tão baixo, mas quando você entender este sistema, você será capaz de criar Núcleos &bBásicos&r e &3Avançados&r para tornar suas máquinas mais rápidas e eficientes.",
+        "",
+        "A melhor parte? Você pode criar tanto o Núcleo Básico quanto o Núcleo Avançado quase desde o início — você pode até pular o Primitivo completamente!",
+        "",
+        "&o&8(...mas esta missão precisa dele, então... apenas aceite.)&r"
+    ],
+    "quest.22BE285408BF2C14.quest_subtitle": "nos importamos com você... espera, não era cuidar?",
+    "quest.22BE285408BF2C14.title": "&lNúcleos e Você",
+    "quest.23207ADB116913AB.quest_desc": [
+        "Este addon é perfeito para o Bloco Destruidor e o Laser Endérico.",
+        "",
+        "Ele aumenta a área de trabalho deles um pouco, tornando essas máquinas muito melhores do que qualquer outra máquina ou ferramenta similar."
+    ],
+    "quest.23207ADB116913AB.title": "&lAddon de Pedreira",
+    "quest.26D44B4B4C66FC51.quest_desc": [
+        "Oritech não oferece apenas máquinas chiques... mas também nos oferece múltiplas maneiras de automatizar tudo o que vemos!",
+        "",
+        "Bem... a maioria das coisas."
+    ],
+    "quest.26D44B4B4C66FC51.title": "&lBlocos de Utilidade",
+    "quest.2707AD39B9821F55.quest_desc": [
+        "O Controlador de Gerador é mais um método disponível para gerar qualquer tipo de criatura que queiramos farmar.",
+        "",
+        "Para usá-lo, basta criá-lo, colocá-lo e deixar a criatura desejada &3andar sobre&r o gerador. Depois disso, estamos prontos para começar nossa fazenda de criaturas!",
+        "",
+        "Dependendo do tipo de criatura, precisamos criar uma Gaiola feita de Gaiolas de Geração (&6esta Gaiola varia dependendo da criatura; por exemplo, um Enderman requer uma Gaiola mais alta, não mais larga&r). O Controlador de Gerador irá &bdestacar&r uma área adequada para aquela criatura específica. Lembre-se que o Controlador de Gerador deve ser colocado antes de montar a Gaiola.",
+        "",
+        "Uma vez que tudo esteja configurado corretamente, a Gaiola exibirá a alma da criatura dentro dela.",
+        "",
+        "Para ativá-lo, precisamos alimentar o Controlador de Gerador com &9Almas&r. Uma vez que almas suficientes tenham sido fornecidas, ele começará a gerar a criatura sem problemas!"
+    ],
+    "quest.2707AD39B9821F55.title": "&lControlador de Gerador",
+    "quest.278FFA052CCBD2F5.quest_desc": [
+        "Não há muito que eu possa dizer sobre esta máquina chique, é uma fornalha, mas &celétrica&r!"
+    ],
+    "quest.278FFA052CCBD2F5.quest_subtitle": "Uma fornalha, mas elétrica",
+    "quest.278FFA052CCBD2F5.title": "&lFornalha Energizada",
+    "quest.2AF4E2ACA37140A7.quest_desc": [
+        "As Portas Absorvedoras de Refrigerante são uma das muitas coisas necessárias para formar completamente um reator nuclear, sem elas não conseguimos introduzir nossos blocos de refrigerante.",
+        "",
+        "Estas vão &bacima&r dos nossos Absorvedores de Calor."
+    ],
+    "quest.2AF4E2ACA37140A7.title": "&lPorta Absorvedora de Refrigerante do Reator",
+    "quest.2B49A35615F0110A.quest_desc": [
+        "O &l&ePulverizador&r é uma das poucas máquinas que podemos construir no início do Oritech, com esta máquina podemos criar pós de forma mais eficiente e começar a &dduplicar&r alguns dos nossos minérios.",
+        "",
+        "É uma proporção de 1:2, semelhante aos Martelos do &9Eternal Ores&r, mas elétrico e mais chique!"
+    ],
+    "quest.2B49A35615F0110A.title": "&lPulverizador",
+    "quest.2B93A49A25BDA49C.quest_desc": [
+        "      Outro tanque portátil chique?",
+        "",
+        "                    sim senhor!"
+    ],
+    "quest.2B93A49A25BDA49C.title": "&lTanque Portátil",
+    "quest.2CEAF24B0C9264D1.quest_desc": [
+        "Este addon torna nossas máquinas mais eficientes em suas tarefas.",
+        "",
+        "Permitindo-nos fazer uma combinação de addons de Eficiência e addons de Velocidade!"
+    ],
+    "quest.2CEAF24B0C9264D1.title": "&lAddon de Eficiência de Máquina",
+    "quest.2DC19671FC685343.quest_desc": [
+        "Este addon permite que nossas máquinas manuseiem fluidos dentro delas.",
+        "",
+        "Perfeito para a Centrífuga começar a processar uma grande quantidade de nossos Minérios."
+    ],
+    "quest.2DC19671FC685343.title": "&lAddon de Fluido de Máquina",
+    "quest.2E15EDE995B7E44C.quest_desc": [
+        "O &dCatalisador Arcano&r é uma forma OP de encantar nossos itens, permitindo-nos criar Itens Hiper Encantados. É bem simples de configurar, mas há algumas coisas a serem lembradas...",
+        "",
+        "Primeiro de tudo, esta máquina precisa de &9almas&r para funcionar! Essas almas podem ser coletadas de duas maneiras:",
+        "",
+        "- &cMatando&r criaturas ao redor do Catalisador Arcano.",
+        "",
+        "- Criando a &3Flor da Alma&r. Toda vez que você colhe esta flor, ela libera algumas almas, prontas para serem coletadas pelo Catalisador Arcano.",
+        "",
+        "&4Brincar com o arcano pode ter consequências graves&r... Se manuseada incorretamente, esta máquina pode explodir, destruindo-se e causando um incêndio ao redor.",
+        "",
+        "No entanto, podemos manipular esse efeito com &5Lasers Endéricos&r!",
+        "",
+        "Esta máquina não requer energia para funcionar, mas usar Lasers Endéricos estabilizará o Catalisador Arcano, impedindo que ele &cexploda&r.",
+        "",
+        "Uma vez que todas essas condições sejam atendidas, estamos prontos para usar esta máquina.",
+        "{@pagebreak}",
+        "Para encantar nossos itens, basta colocar um livro encantado no máximo dentro do Catalisador Arcano e inserir o item que deseja encantar.",
+        "",
+        "Com almas suficientes, o encantamento será aplicado ao item. Cada nível exigirá mais almas até atingir o nível máximo estabelecido pelo próprio livro!",
+        "",
+        "Uma vez que o item atinja o nível máximo, o livro encantado desaparecerá, permitindo que o item ultrapasse os limites normais — por exemplo, alcançando &aBênção da Terra VI&r. Este sistema também permite combinar encantamentos normalmente incompatíveis, como &dRemendo&r e &3Infinidade&r em arcos. (A compatibilidade varia dependendo do tipo de item e do tipo de encantamento, é claro.)",
+        "",
+        "&l&4Quanto maior o nível do encantamento, mais almas ele consumirá, e pode se tornar instável&r."
+    ],
+    "quest.2E15EDE995B7E44C.title": "&l&dCatalisador Arcano",
+    "quest.2E29462D9AD049C8.quest_desc": [
+        "Este cano de energia é o melhor!",
+        "",
+        "Para mim, é uma quantidade excessiva de energia para lidar, mas por que precisa de uma missão só para ele, você deve estar se perguntando...",
+        "",
+        "E a resposta é que eu queria fazer toda a linha de missões o mais simétrica possível (o que, de fato, parece incrível e bonito), mas em certos pontos não está... E isso me atrapalha completamente.",
+        "",
+        "Mas deixando tudo isso de lado, ele é necessário para criar o &6&lAcelerador de Partículas&f!"
+    ],
+    "quest.2E29462D9AD049C8.title": "&lA Mãe dos Canos de Energia",
+    "quest.2EA4BF9A9B390F5F.quest_desc": [
+        "Operar este reator nuclear não é brincadeira. Antes mesmo de pensar em abastecê-lo, você precisa garantir que os protocolos de segurança adequados estejam em vigor. Reatores podem gerar um &ccalor&r imenso e, sem o &bresfriamento&r adequado, as coisas podem sair do controle... &4rápido&r.",
+        "",
+        "Certifique-se de que seu reator tenha um sistema de resfriamento estável, seja com Tubos de Calor, Absorvedores de Calor ou Exaustores de Calor. Monitore sua temperatura regularmente e nunca, sob nenhuma circunstância, sobrecarregue-o além de seus limites seguros. Um colapso não apenas arruinará sua configuração — ele pode destruir tudo ao seu redor, como mostrado na imagem abaixo...",
+        "{image:catalyst:textures/quest_images/oritech/reactor_boom.png width:200 height:100 align:center}",
+        "",
+        "Isso, no entanto, irá &6IGNORAR CHUNKS PROTEGIDOS&r, então certifique-se de não encontrar nenhum tipo de problema.",
+        "",
+        "Além disso, em caso de um &ccolapso&r... bem... você sabe o que pode acontecer, mas deixe-me garantir que você não precisa se preocupar com &aradiação&r de forma alguma!"
+    ],
+    "quest.2EA4BF9A9B390F5F.quest_subtitle": "Por que meu Reator está brilh...",
+    "quest.2EA4BF9A9B390F5F.title": "&lMedidas de Segurança",
+    "quest.2FCF7589D9EB31B9.quest_desc": [
+        "O addon de banco de energia aumenta o buffer de energia interno de nossas máquinas para configurações mais rápidas e eficientes.",
+        "",
+        "É também um bloco muito útil para o Grande Armazenamento de Energia."
+    ],
+    "quest.2FCF7589D9EB31B9.title": "&lAddon de Banco de Energia",
+    "quest.32D7F45EEF23FB81.quest_desc": [
+        "Este addon de Filtro de Colheita permite que nosso Bloco Destruidor colha nossas plantações automaticamente ou use o Laser Êndrico para farmar animais com facilidade.",
+        "",
+        "Ele pulará automaticamente plantações não crescidas e animais.",
+        "",
+        "Sim, você leu certo!"
+    ],
+    "quest.32D7F45EEF23FB81.title": "&lAddon de Filtro de Colheita",
+    "quest.35A0BF8336B17F86.quest_desc": [
+        "Este é o núcleo do nosso Acelerador de Partículas!",
+        "",
+        "Dentro deste controlador, você pode rastrear detalhes importantes sobre a partícula sendo acelerada, incluindo sua distância máxima de guia e distância mínima de curva.",
+        "",
+        "É também onde você insere o item que deseja acelerar — simplesmente coloque-o dentro, e o processo começará.",
+        "",
+        "&l&eDica&f: Você pode ter dois controladores em um único acelerador para permitir colisões de partículas!&r",
+        "",
+        "{image:catalyst:textures/quest_images/oritech/controller_info.png width:200 height:100 align:center}",
+        "",
+        "Ou seja como eu enquanto aprendia sobre isso... 2 Aceleradores de Partículas um perto do outro :D"
+    ],
+    "quest.35A0BF8336B17F86.title": "&lAcelerador de Partículas",
+    "quest.363B4A5668EF9FFB.quest_desc": [
+        "Este é o controlador do nosso Reator Nuclear.",
+        "",
+        "Dentro dele, poderemos ler sua &btempe&cratura, &eprodução de energia&r e, o mais importante, \"&l&6o quão estável ele está&r...",
+        "{image:catalyst:textures/quest_images/oritech/reactor_controller_gui.png width:200 height:100 align:center}",
+        "",
+        "Será uma tarefa e tanto equilibrar a produção de FE e sua temperatura, mas temos muitas ferramentas para nos ajudar nessa tarefa!"
+    ],
+    "quest.363B4A5668EF9FFB.title": "&l&4Painel de Controle do Reator Nuclear",
+    "quest.364B91C3F2AC5C3C.quest_desc": [
+        "O &5Composto Endérico&r é um dos itens necessários para criar as próximas máquinas.",
+        "",
+        "Poderíamos ter criado o composto antes sem problemas, mas agora que temos a Forja de Fragmentos, é aconselhável usar esta máquina, pois ela tem a melhor receita para ele."
+    ],
+    "quest.364B91C3F2AC5C3C.title": "&lComposto Endérico",
+    "quest.3A075D348101ADDD.quest_subtitle": "Aumenta a velocidade de movimento",
+    "quest.3A075D348101ADDD.title": "&lExo-Calças",
+    "quest.3BF285CF0C810B22.quest_desc": [
+        "Esta máquina aumenta a quantidade de Fluidos ou Itens que estamos movendo com os canos da Oritech!"
+    ],
+    "quest.3BF285CF0C810B22.quest_subtitle": "Impulsionador de Cano",
+    "quest.3BF285CF0C810B22.title": "&lImpulsionador de Cano?",
+    "quest.3CAF5F8284FFC1BA.quest_desc": [
+        "O único propósito desta máquina é criar Gelo e Neve de uma maneira muito mais fácil e elegante!",
+        "",
+        "Podemos ter muitas maneiras de criar esses blocos, mas se eu fosse você, ficaria com a estética da Oritech!"
+    ],
+    "quest.3CAF5F8284FFC1BA.title": "&lResfriador Industrial",
+    "quest.3DC47265861A4FCD.quest_desc": [
+        "Absorvedores de Calor são &6OBRIGATÓRIOS&r em nosso reator nuclear, sem eles, ele pode explodir e fazer um &cburaco&r em nossa base, o que não é bom."
+    ],
+    "quest.3DC47265861A4FCD.title": "&lAbsorvedor de Calor do Reator",
+    "quest.3F064B3E47458592.quest_desc": [
+        "Estes são os augments adicionados pela Estação de Pesquisa Cibernética:",
+        "",
+        "- &7Punho de Aço&r",
+        "",
+        "- &eMúsculo Sintético&r",
+        "",
+        "- &bRespiração Aquática&r",
+        "",
+        "- &6Velocidade de Mineração&r",
+        "",
+        "- &4Placas Endurecidas&r",
+        "",
+        "- &9Miniaturização&r",
+        "",
+        "- &dGigantismo&r",
+        "",
+        "- &2Assistência de Passo&r",
+        "",
+        "- &3Pulmões Reforçados com Carbono&r",
+        "",
+        "- &aAlimentador Automático&r",
+        "",
+        "- &8Ímã&r",
+        "",
+        "- &cPlacas Reativas&r",
+        "",
+        "- &5Alcance de Bloco&r"
+    ],
+    "quest.3F064B3E47458592.title": "&lEstação de Pesquisa Cibernética",
+    "quest.409C2BEADCB1C3A9.quest_desc": [
+        "A produção base do Gerador de Lava é de 64FE/t.",
+        "",
+        "É sugerido e aconselhado colocar alguns adicionais de velocidade e eficiência para multiplicar sua taxa de geração!"
+    ],
+    "quest.409C2BEADCB1C3A9.title": "&lGerador de Lava",
+    "quest.4186A6EC2E0EFC82.quest_desc": [
+        "Estes canos são necessários para mover o calor em nosso reator, por si só não fazem nada, mas com a configuração correta podem salvar vidas!"
+    ],
+    "quest.4186A6EC2E0EFC82.title": "&lCano de Calor do Reator",
+    "quest.4290772E39EF863B.quest_desc": [
+        "Com o porto de drones pronto, é hora de fazer o impensável...",
+        "",
+        "Usar máquinas para enviar itens por aí sem limitações!",
+        "",
+        "Para usar o Porto de Drones, precisaremos de pelo menos 2 dessas máquinas.",
+        "",
+        "Com o &6designador de alvo&r que construímos antes, faremos novamente &eshift+botão direito do mouse&r para copiar a informação do nosso lado de &dEntrada&r (sendo este nosso segundo porto de drones) e simplesmente viajaremos para outro porto de drones onde queremos &aenviar&r nossos itens, abriremos sua GUI e colocaremos nosso designador no slot com a mesma sobreposição do designador.",
+        "",
+        "Se feito corretamente e tivermos itens disponíveis dentro do porto de drones à nossa frente, veremos um belo drone se elevar e realizar esta tarefa!",
+        "",
+        "Esses portos de drones precisam estar em um raio máximo de 50 blocos! (e ambos os lados precisam estar carregados)"
+    ],
+    "quest.4290772E39EF863B.title": "&lLoucura Logística",
+    "quest.4415B28A2A0E8933.quest_desc": [
+        "Os Refletores de Nêutrons aumentarão a produção de energia do nosso reator, basta colocá-los perto de uma ou várias de nossas barras de combustível para impulsionar sua produção!",
+        "",
+        "Mas ao impulsionar sua produção, ele precisará de um sistema de resfriamento melhor..."
+    ],
+    "quest.4415B28A2A0E8933.title": "&lRefletor de Nêutrons do Reator",
+    "quest.47F2997846F7A54C.quest_desc": [
+        "O Extrator de Bedrock é outra das minhas máquinas favoritas!",
+        "",
+        "Com esta máquina, podemos extrair uma quantidade &6INFINITA&r de recursos de um lugar muito especial que você pode ter encontrado em suas aventuras!",
+        "",
+        "Não podemos usar nenhum tipo de cano de energia ou pontos de fluxo para alimentá-lo, ele requer o Laser Endérico para operar em sua melhor forma.",
+        "",
+        "E não pode lidar com nenhum tipo de adicional..."
+    ],
+    "quest.47F2997846F7A54C.quest_subtitle": "Uma pedreira, mas MELHOR!!!",
+    "quest.47F2997846F7A54C.title": "&lExtrator de Bedrock",
+    "quest.4A1EFCDE1B4F604B.quest_desc": [
+        "O Sensor de Partículas mede a velocidade da partícula e fornece um sinal de redstone com base nessa velocidade. A saída do comparador varia de 0 a 15, aumentando à medida que a velocidade da partícula aumenta.",
+        "",
+        "{image:catalyst:textures/quest_images/oritech/sensor_linear.png width:200 height:100 align:center}",
+        "",
+        "Velocidades chave para os níveis de sinal:",
+        "",
+        "0 m/s → 0",
+        "10 m/s → 1",
+        "50 m/s → 2",
+        "75 m/s → 3",
+        "100 m/s → 4",
+        "150 m/s → 5",
+        "250 m/s → 6",
+        "500 m/s → 7",
+        "750 m/s → 8",
+        "1000 m/s → 9",
+        "2500 m/s → 10",
+        "5000 m/s → 11",
+        "7500 m/s → 12",
+        "10000 m/s → 13",
+        "15000 m/s → 14",
+        "",
+        "&l&eDica&f: Sensores são ótimos para automação! Use-os para acionar motores ou anéis de guia com base na velocidade da partícula.&f"
+    ],
+    "quest.4A1EFCDE1B4F604B.title": "&lSensor do Acelerador de Partículas",
+    "quest.4A89D1DA1F69F48F.quest_desc": [
+        "Esta máquina nos permite carregar completamente nosso equipamento.",
+        "",
+        "Seja do Oritech ou de qualquer outro mod, o que é fantástico!"
+    ],
+    "quest.4A89D1DA1F69F48F.title": "&lCarregador de Equipamento",
+    "quest.4A8B26BCE7021636.quest_subtitle": "mas melhor",
+    "quest.4A8B26BCE7021636.title": "&lElitros",
+    "quest.4BD32A677BF0C516.quest_desc": [
+        "Terceiro nível de componentes do Oritech."
+    ],
+    "quest.4BD32A677BF0C516.title": "&l&eComponentes Avançados",
+    "quest.4EC581DCFFFD7E29.quest_desc": [
+        "O complemento perfeito para o Laser Endérico!",
+        "",
+        "Com este complemento, agora podemos caçar criaturas vivas com facilidade, como zumbis, esqueletos, creepers e comerciantes errantes. Quem precisa de uma ordem de restrição quando se tem um LASER!"
+    ],
+    "quest.4EC581DCFFFD7E29.title": "&lAdicional de Caçador de Máquinas",
+    "quest.4F97E9808F237AD0.quest_subtitle": "do Oritech",
+    "quest.4F97E9808F237AD0.title": "&lJetpacks",
+    "quest.503295EA20A20B2E.quest_desc": [
+        "O adicional de Rendimento é, na minha opinião, o melhor adicional para a Forja de Fragmentos, pode ser usado no Laser Endérico e no Bloco Destruidor, mas a forja de fragmentos sendo uma das muitas máquinas necessárias para iniciar nossa configuração de processamento de minério, será muito útil!",
+        "",
+        "Por que é tão especial, você pergunta? Bem, em poucas palavras, &edobra&r a quantidade de &6Subprodutos&r dados por cada processo de todas essas máquinas."
+    ],
+    "quest.503295EA20A20B2E.title": "&lAdicional de Rendimento da Máquina",
+    "quest.5157228531940A0C.quest_desc": [
+        "Tendo geradores de energia, talvez queiramos armazenar toda essa energia produzida...",
+        "",
+        "O &6Grande Armazenamento de Energia&r é uma das muitas chaves para isso, ele pode conter até 50MFE dentro dele sem nenhum problema!",
+        "",
+        "E fica muito melhor com o Adicional de Banco de Energia."
+    ],
+    "quest.516B2ED91CD19E2A.quest_desc": [
+        "O Encantador Estabilizado é um bloco MUITO mais poderoso para encantar nossos itens.",
+        "",
+        "Esta máquina é muito mais fácil de entender em comparação com o Catalisador Arcano, com menos coisas para se preocupar!",
+        "",
+        "Ao inserir um item encantável dentro desta máquina, uma nova GUI aparecerá, exibindo todos os encantamentos disponíveis para aquele item. Para aplicar um encantamento, precisaremos tanto de &9Almas&r quanto de &6Energia&r.",
+        "",
+        "A energia pode ser fornecida diretamente para a máquina, então não há necessidade de configurar outro Laser Endérico. No entanto, para as almas, precisaremos colocar múltiplos &dCatalisadores Arcanos&r para alimentá-la.",
+        "",
+        "Dentro da GUI da máquina, podemos ver quantas &9almas&r e &dCatalisadores Arcanos&r são necessários para encantar nosso item. A cada processo, o encantamento &asubirá de nível&r, permitindo que quebremos completamente os limites padrão de encantamento!"
+    ],
+    "quest.516B2ED91CD19E2A.title": "&l&dEncantador Estabilizado",
+    "quest.51C668E8BD092586.quest_desc": [
+        "Sendo este um mod sobre tecnologia e máquinas, obviamente precisamos começar a gerar energia para nosso novo maquinário.",
+        "",
+        "Para começar, o Oritech adiciona várias maneiras de alimentar nossas máquinas, desde a &ageração de energia básica&r até a &dgeração de energia avançada&r.",
+        "",
+        "Podemos usar qualquer tipo de geração de energia para estas máquinas, mas para ser honesto, a geração de energia do Oritech é extremamente divertida! E mais ainda com o &b&lAbsorvedor de Táquions&r."
+    ],
+    "quest.51C668E8BD092586.title": "&lGeradores de Energia",
+    "quest.52249CDB82582B27.quest_desc": [
+        "Eu te dou as boas-vindas ao &l&bOritech&r!",
+        "",
+        "Este novo mod de tecnologia adiciona muitas máquinas novas que são bem bonitas... na forma de &5Multiblocos&r",
+        "",
+        "As coisas que podemos criar com este mod são maravilhosas!",
+        "",
+        "Tão fantástico que vem com seu próprio conjunto de &bFerramentas&f e&e Armaduras&r que são extremamente fortes, também tem uma maneira de &dProcessar&f todos os nossos minérios e &aDuplicá-los&f, múltiplas maneiras de gerar &cenergia&r e... um [&0&mREDACTED&r]?",
+        "",
+        "Como mencionamos, este mod adiciona muitas coisas que não cabem nesta única missão, então aconselho você a reunir alguns &6recursos&r antes de começar com este mod incrível!",
+        "",
+        "Mod criado por: &6Rearth"
+    ],
+    "quest.52249CDB82582B27.quest_subtitle": "o começo de algo?",
+    "quest.52249CDB82582B27.title": "&lOriTech",
+    "quest.529FB0C5407FB09B.quest_desc": [
+        "Este bloco é bastante útil para prevenir qualquer tipo de derretimento em nosso reator, um sistema à prova de falhas em poucas palavras...",
+        "",
+        "Clicando com o botão direito nele, podemos mudar seu modo para controlar a &btempe&cratura, &6energia&r armazenada ou se não há &acombustível&r suficiente dentro dele.",
+        "",
+        "Você pode construir seu reator sem um desses, mas é melhor prevenir do que remediar!"
+    ],
+    "quest.529FB0C5407FB09B.title": "&lPorta de Redstone do Reator",
+    "quest.532C4FFB18B50604.quest_desc": [
+        "Temos múltiplos tipos de combustíveis para nossos reatores, estes são essenciais para fazer nosso reator funcionar e produzir energia!",
+        "",
+        "Para começar, criaremos as Pellets de &aUrânio&r, que têm uma duração de &6200&r tiques (100s) cada. Sabendo disso, talvez precisemos adicionar mais varetas de combustível em nosso reator.",
+        "",
+        "Assim que tivermos materiais suficientes, sugiro que você crie as Pellets de &9Plutônio&r, estas são de longe o MELHOR tipo de combustível que podemos usar em nossos reatores... ",
+        "",
+        "Por quê? Simplesmente porque cada pellet tem uma duração de &620.000&r tiques (1000s)!"
+    ],
+    "quest.532C4FFB18B50604.title": "&lCombustíveis do Reator",
+    "quest.5448EAA6F02667A4.quest_subtitle": "Previne Dano de Queda",
+    "quest.5448EAA6F02667A4.title": "&lExo-Botas",
+    "quest.5721FCF3AFC744DC.quest_desc": [
+        "A produção base do Biogerador é de 64FE/t.",
+        "",
+        "É sugerido e aconselhado colocar alguns addons de velocidade e eficiência para multiplicar sua taxa de geração!"
+    ],
+    "quest.5721FCF3AFC744DC.title": "&lBiogerador",
+    "quest.5A86360E5888389C.quest_desc": [
+        "O último nível de componentes que usaremos no Oritech...",
+        "",
+        "Será este o significado do fim?"
+    ],
+    "quest.5A86360E5888389C.title": "&lComponentes &dAltamente Avançados",
+    "quest.5B35722761CF6D75.quest_desc": [
+        "O Laser Endérico é uma máquina e tanto.",
+        "",
+        "Ele pode quebrar blocos, enviar energia e evaporar comerciantes ambulantes irritantes com facilidade!",
+        "",
+        "Mas como isso funciona exatamente?",
+        "",
+        "Bem, primeiro precisamos criar nosso &dLaser&r e um &bDesignador de Alvo&r. Em seguida, com nosso designador de alvo, simplesmente precisaremos &eshift+clicar com o botão direito&r na entidade ou bloco &cindesejado&r e depois clicar com o botão direito no Laser com ele e pronto!",
+        "",
+        "Com esta máquina, podemos obter Fluxite, basta apontar este laser para um Broto de Ametista e pronto!",
+        "",
+        "Ele precisa de energia para funcionar, mas fora isso, é uma máquina legal!",
+        "",
+        "E é a única coisa que pode alimentar o &lExtrator de Bedrock&r.",
+        "",
+        "(&c&nse mal manuseado, pode destruir tudo à vista, incluindo você&r)"
+    ],
+    "quest.5B35722761CF6D75.quest_subtitle": "&ocomo isso é perigoso?",
+    "quest.5B35722761CF6D75.title": "&lLaser Endérico",
+    "quest.5BD1004FF3460C89.quest_subtitle": "Uma mistura de Fluxite e Níquel",
+    "quest.5BD1004FF3460C89.title": "Barra de &l&dEnergite",
+    "quest.5D9B11078B6F3AD2.quest_desc": [
+        "Os blocos da parede do reator são o começo do nosso reator Nuclear, felizmente eles são bem baratos de fazer.",
+        "",
+        "Este maravilhoso multiblock pode ser de qualquer tamanho! ",
+        "",
+        "Tamanho &emín&r 3x3x3 - Tamanho &6máx&r 64x64x64"
+    ],
+    "quest.5D9B11078B6F3AD2.title": "&lParede do Reator",
+    "quest.5E1F29521570F22A.quest_desc": [
+        "Para começar a construção da nossa fábrica, devemos criar certos componentes para construir nossas máquinas.",
+        "",
+        "No início, isso pode ser tedioso, mas com o &lMontador&r será muito mais fácil e muito mais rápido... e também mais barato!"
+    ],
+    "quest.5E1F29521570F22A.title": "&lComponentes Básicos",
+    "quest.5E46635CEBF05866.quest_desc": [
+        "Este addon nos permite alimentar nossas máquinas com energia sem precisar colocá-lo em um dos slots de entrada de energia especificados.",
+        "",
+        "Simplesmente conecte seu cano de energia ou método de energia sem fio diretamente nele!"
+    ],
+    "quest.5E46635CEBF05866.title": "&lAddon Aceitador de Máquina",
+    "quest.5F3A317A8E8976EC.quest_desc": [
+        "As Saídas de Calor permitirão um sistema de refrigeração adequado dentro de nossos reatores, pode haver casos em que não sejam necessárias... Mas elas são úteis quando a temperatura de nossos reatores está acima de 1.000."
+    ],
+    "quest.5F3A317A8E8976EC.title": "&lSaída de Calor do Reator",
+    "quest.602C4D5E5998377C.quest_desc": [
+        "Este addon é, de longe, o melhor addon que podemos inserir em nossos geradores de energia.",
+        "",
+        "Permitindo que essas máquinas movam mais energia sem serem limitadas por sua taxa de transferência de E/S base, enquanto aumenta seu buffer de energia."
+    ],
+    "quest.602C4D5E5998377C.title": "&lAddon de Capacitor de Máquina",
+    "quest.60E25D5D198D589F.quest_desc": [
+        "Este addon é o melhor e outro item obrigatório!",
+        "",
+        "Ele permite que nossas máquinas trabalhem em paralelo sem esforço ao custo de 50% da eficiência das máquinas, mas com outros addons isso pode ser contornado em pouco tempo."
+    ],
+    "quest.60E25D5D198D589F.title": "&lAddon de Câmara de Processamento Auxiliar",
+    "quest.639436196C0BE005.quest_desc": [
+        "A Fundição é a única máquina capaz de criar as novas ligas que precisaremos.",
+        "",
+        "Mas esse não é o único uso para ela, agora podemos criar Barras de &8Netherite&r, &7Aço&r e &eElectrum&r de uma maneira mais fácil.",
+        "",
+        "E se fizermos uma configuração de processamento de minério com as máquinas da Oritech, podemos misturar algumas gemas de metal para obter mais materiais."
+    ],
+    "quest.639436196C0BE005.quest_subtitle": "Fundidor de Ligas",
+    "quest.639436196C0BE005.title": "&lFundição",
+    "quest.63F9CD64F568517E.quest_desc": [
+        "O &eCentro de Augmentação Cibernética&r é onde a ciência encontra os limites do corpo humano. Esta instalação permite que você instale &daumentações&r cibernéticas, aprimorando permanentemente suas capacidades físicas.",
+        "",
+        "Em vez de depender de armaduras volumosas ou poções temporárias, os aumentos se integram diretamente ao seu corpo, oferecendo benefícios como:",
+        "",
+        "- &6Força e Velocidade Aumentadas&r.",
+        " ",
+        "- &eMova-se e acerte mais rápido do que nunca&r.",
+        "",
+        "- &bRespire debaixo d'água&r e &9visão noturna&r infinita.",
+        "",
+        "Uma vez instaladas, essas augmentações não requerem manutenção ou combustível!",
+        "",
+        "No entanto, antes de poder aplicar uma augmentação, ela deve primeiro ser pesquisada usando Estações de Pesquisa especializadas.",
+        "",
+        "Um novo atalho de teclado também foi adicionado. Por padrão, \"G\" abrirá uma nova GUI para ativar ou desativar essas augmentações com facilidade!",
+        "",
+        "Esta estação por si só não faz nada, infelizmente, então você precisa se esforçar para criar as outras 3 Estações de Pesquisa para aplicar essas novas augmentações!",
+        "",
+        "Nas próximas 3 missões, mencionaremos quais augmentações são desbloqueadas com cada estação,"
+    ],
+    "quest.63F9CD64F568517E.title": "&lCentro de Augmentação Cibernética",
+    "quest.65041E2312518AE3.quest_desc": [
+        "E para começar a criar estes materiais tecnológicos, precisaremos desta pastilha para criar o Motor de Computação Avançada para outras máquinas!"
+    ],
+    "quest.65041E2312518AE3.quest_subtitle": "Não é um Waffle",
+    "quest.65041E2312518AE3.title": "&lPastilha de Silício",
+    "quest.6575172F5CF3941F.quest_desc": [
+        "Este bloco é importante se quisermos extrair a energia produzida em nosso reator, você pode colocá-lo em qualquer lugar sobre as paredes do nosso reator!"
+    ],
+    "quest.6575172F5CF3941F.title": "&lPorta de Energia do Reator",
+    "quest.695D2D4B299452DA.quest_desc": [
+        "O Motor Linear do Acelerador de Partículas é usado para aumentar a velocidade da partícula.",
+        "",
+        "Quando uma partícula passa por um motor, sua velocidade aumenta em 1 m/s, consumindo RF/FE com base na velocidade atual da partícula. Velocidades mais altas requerem mais energia, então um posicionamento eficiente do motor é crucial.",
+        "",
+        "{image:catalyst:textures/quest_images/oritech/linear_motor.png width:200 height:100 align:center}",
+        "",
+        "&l&6Dica&f: Coloque múltiplos motores ao longo do caminho da partícula para alcançar velocidades mais altas de forma mais eficiente!"
+    ],
+    "quest.695D2D4B299452DA.title": "&lMotor Linear do Acelerador de Partículas",
+    "quest.69CC686485001A33.quest_subtitle": "Concede Visão Noturna",
+    "quest.69CC686485001A33.title": "&lCapacete Exo",
+    "quest.6B159418F332B368.quest_desc": [
+        "Você libertou uma força imparável...",
+        "",
+        "Agora, se eu fosse você, começaria a tocar Super Massive Black Hole do Muse enquanto olhava para essa beleza, honestamente, nem se atreva a tocá-la.",
+        "",
+        "&4&lNão há nada que você possa fazer para pará-la... &ra não ser que você trapaceie para sair deste problema com o &dModo Criativo&r.",
+        "",
+        "Ela também pode desaparecer sem deixar rastros, dependendo do valor no arquivo de configuração, mas honestamente não sugiro isso.",
+        "",
+        "É melhor você dar uma olhada na missão do Absorvedor de Táquions se ainda não o fez!"
+    ],
+    "quest.6B159418F332B368.quest_subtitle": "É o Fim do Mundo",
+    "quest.6B159418F332B368.title": "&l&0O QUE VOCÊ FEZ",
+    "quest.6B959ECB2BE3A6B2.quest_desc": [
+        "A &dForja de Fragmentos&r é um passo crucial para progredir para o Nível 3!",
+        "",
+        "Com esta bela máquina, podemos obter Fluxita de uma maneira mais fácil, processando &l&bPlatina&r!",
+        "",
+        "Alguns processos podem demorar um pouco mais, mas eu sugiro fortemente dar a esta adorável máquina alguns &6Adicionais de Velocidade&r!"
+    ],
+    "quest.6B959ECB2BE3A6B2.title": "&lForja de Fragmentos",
+    "quest.6C70C640F57B50E5.quest_desc": [
+        "Este adicional faz a máquina ir brrrr~~~",
+        "",
+        "Mas se a máquina vai brrrr~~~ ela usará mais energia, o que é ruim!"
+    ],
+    "quest.6C70C640F57B50E5.title": "&lAdicional de Velocidade de Máquina",
+    "quest.6E27D25E4952662D.quest_desc": [
+        "Oritech não oferece apenas máquinas, processos e um sistema logístico incríveis.",
+        "",
+        "Ele vem com seu próprio Equipamento!",
+        "",
+        "Alguns são extremamente fortes, mas exigem bastante trabalho para criar..."
+    ],
+    "quest.6E27D25E4952662D.title": "&lEquipamento do Oritech",
+    "quest.6E2E961DA7DAE824.quest_desc": [
+        "Muitos dos componentes mais importantes para o crescimento da nossa fábrica!"
+    ],
+    "quest.6E2E961DA7DAE824.title": "&l&bMelhores Componentes",
+    "quest.70B4A9811B52D633.quest_desc": [
+        "Quem precisa cortar essas árvores à mão quando se tem essa máquina chique para fazer isso!"
+    ],
+    "quest.70B4A9811B52D633.title": "&lCortador de Árvores",
+    "quest.72D5EC0F7E7D185C.quest_desc": [
+        "O Extensor de Máquina será um dos blocos mais usados em toda a sua fábrica!",
+        "",
+        "Por quê? Simplesmente porque este bloco dá espaço extra para nossos adicionais sobre nossas máquinas, algumas máquinas por padrão só podem lidar com 3 ou até 1 adicional de cada vez, mas com isso nossas possibilidades crescem exponencialmente quando se trata disso.",
+        "",
+        "                     &l&cMAS&r",
+        "",
+        "Se quisermos adicionar ainda mais \"adicionais\", precisamos de melhores &6Núcleos de Máquinas&r."
+    ],
+    "quest.72D5EC0F7E7D185C.quest_subtitle": "Melhorias e MAIS melhorias",
+    "quest.72D5EC0F7E7D185C.title": "&lMaquinário Maior",
+    "quest.732DC7BDCF57B2AC.quest_desc": [
+        "Precisa ser construído em uma estrutura de máquina para funcionar.",
+        "",
+        "Outra ferramenta perfeita para acelerar nossas plantações!",
+        "",
+        "Funciona com plantações da vanilla e de mods."
+    ],
+    "quest.732DC7BDCF57B2AC.title": "&lBloco Fertilizante",
+    "quest.76A5A2E984E8F630.quest_desc": [
+        "Este addon nos permite controlar a maioria de nossas máquinas com um pulso de redstone.",
+        "",
+        "Permitindo-nos expandir exponencialmente como gerenciaremos nossa fábrica!"
+    ],
+    "quest.76A5A2E984E8F630.title": "&lAddon de Unidade de Controle de Redstone",
+    "quest.777F6A0F95BCF073.quest_desc": [
+        "Ainda um machado melhor, infelizmente não elétrico, mas com uma aparência bem chique!",
+        "",
+        "Ao fazer shift+botão esquerdo do mouse, somos capazes de derrubar uma árvore inteira com facilidade, mesmo protocolo da motosserra."
+    ],
+    "quest.777F6A0F95BCF073.title": "&6&lMachado de Batalha de Prometheum",
+    "quest.7916318663251B93.quest_desc": [
+        "Sim, você leu o título da missão corretamente!",
+        "",
+        "Não pode ser um reator nuclear sem nenhum tipo de perigo, sabe...",
+        "",
+        "Nosso Reator Nuclear precisará de uma quantidade decente de refrigerante para funcionar e manter a temperatura em um nível decente."
+    ],
+    "quest.7916318663251B93.title": "&lRefrigerantes",
+    "quest.79E61E1354DF27A1.quest_desc": [
+        "A &6Centrífuga&r é a segunda máquina que precisaremos para progredir neste mod e precisaremos de &d2&r no total para as próximas receitas!",
+        "",
+        "Antes de continuarmos, aconselho vivamente que dê uma olhada na missão abaixo.",
+        "&n&6                                                  &r",
+        "",
+        "{ \"text\": \"                  Bem Aqui!                   \", \"underlined\": false, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"72D5EC0F7E7D185C\" } }",
+        "&n&6                                                  &r",
+        "",
+        "        E crie o &bAddon de Fluido&r!"
+    ],
+    "quest.79E61E1354DF27A1.title": "&lCentrífuga",
+    "quest.7B598DB1E1571973.quest_desc": [
+        "No Oritech Base, precisaremos misturar 2 &6Barras de Níquel&r e 2 &bDiamantes&r para fazer 1 &3Barra de Adamant&r.",
+        "",
+        "Mas agora você precisará de 3 &bPós de Diamante&r e 3 &6Pós de Níquel&r para obter 3 &3Pós de Adamant&r!",
+        "",
+        "Esta receita foi melhorada em &l&9Little Bit Large&r usando &5KubeJS&r para que você possa acelerar sua fábrica!",
+        "",
+        "De qualquer forma, você precisa desta Barra para fazer o Montador."
+    ],
+    "quest.7B598DB1E1571973.quest_subtitle": "ADAAAA!!!",
+    "quest.7B598DB1E1571973.title": "&l&3Barra de Adamant&r&l",
+    "quest.7CC2CA0E5BF2150A.quest_desc": [
+        "Deixe-me dizer algo, ao longo do Oritech, usaremos muitos canos para transportar &bFluidos&r, &eItens&r e muita &cEnergia&r. ",
+        "",
+        "Esta missão é completamente opcional, mas eu aconselho fortemente que você crie pelo menos os canos de energia..."
+    ],
+    "quest.7CC2CA0E5BF2150A.title": "&lLogística Básica do Oritech",
+    "quest.7D6063FFF0A68794.quest_desc": [
+        "\"Então, você quer construir um Acelerador de Partículas?\"",
+        "",
+        "Construir este multibloco é uma tarefa e tanto...",
+        "",
+        "Não porque é difícil, mas porque você vai questionar cada decisão de vida que já tomou enquanto o monta!",
+        "",
+        "Antes mesmo de pensar em colocar um único bloco, lembre-se desta fórmula:",
+        "\"&l&dclamp(sqrt(speed), 2, 10)&r\"",
+        "Isso define o quão distantes os blocos guia podem estar, permitindo velocidades mais altas sem o risco de transformar seu acelerador em um gerador de explosões muito caro.",
+        "{@pagebreak}",
+        "",
+        "Aviso: &4Será rápido, mas a palavra \"rápido\" em um acelerador de partículas é muito, muito &alemon&4 perigosa...&f.",
+        "",
+        "Certifique-se de planejar seu layout corretamente, pois quanto maior o acelerador, maiores as velocidades que ele pode alcançar. A imagem abaixo mostra exemplos de diferentes tamanhos possíveis – de um círculo humilde a uma macarronada profana de destruição em alta velocidade.",
+        "",
+        "{image:catalyst:textures/quest_images/oritech/particle_accel.png width:200 height:100 align:center}",
+        "",
+        "{image:catalyst:textures/quest_images/oritech/particle_accel_big_boi.png width:200 height:100 align:center}",
+        "",
+        "Agora, vá e construa! E lembre-se... se começar a brilhar, corra."
+    ],
+    "quest.7D6063FFF0A68794.quest_subtitle": "A coisa mais complexa",
+    "quest.7D6063FFF0A68794.title": "&lO Acelerador de Partículas",
+    "quest.7DA06F3048FD6038.title": "&lFiltro de Item",
+    "quest.7E4327903A20ADEC.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em qualquer pacote público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões de &bOritech&r feita por: &aRadz&7Ratz&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.7E4327903A20ADEC.title": "&lLinha de Missões da Catalyst Studios"
+}

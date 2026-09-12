@@ -1,0 +1,272 @@
+{
+    "quest.04BA44C84D598B0C.quest_desc": [
+        "A vara de adivinhação torna o processo de encontrar Iesnium significativamente mais fácil.",
+        "",
+        "Para sintonizá-la com Iesnium, você simplesmente clica com shift e o botão direito em qualquer netherrack e ela será sintonizada.",
+        "",
+        "Agora você pode usar o botão direito e ela deve disparar um fluxo de partículas rosa para o Iesnium mais próximo.",
+        "",
+        "se por algum motivo isso não funcionar, a animação da vara funcionará como um jogo de quente e frio."
+    ],
+    "quest.04BA44C84D598B0C.quest_subtitle": "prospecção",
+    "quest.078639E7470871B6.quest_desc": [
+        "Se você está cansado de ver este mundo em cores normais, então estes são os óculos para você. Eles adicionarão um tom rosa à sua visão.",
+        "",
+        "&4Eles têm o efeito colateral de lhe dar o efeito do terceiro olho.&r",
+        "",
+        "Isso permite que você interaja com Otherstone e árvores do outro mundo sem ingerir o sonho do demônio.",
+        "no entanto, ainda resta um recurso que requer meios mais fortes para ser trazido de volta para o nosso mundo"
+    ],
+    "quest.078639E7470871B6.quest_subtitle": "Óculos rosa",
+    "quest.078639E7470871B6.title": "óculos especiais",
+    "quest.09AA28D69D0D696E.quest_desc": [
+        "Velas são usadas na maioria, se não em todos os rituais"
+    ],
+    "quest.09AA28D69D0D696E.title": "Velas orgânicas",
+    "quest.0AE1D9E720C989FD.quest_desc": [
+        "As bolsas são uma forma de armazenar todos os seus materiais de ritual. Existem 3 níveis, onde cada um traz um nível crescente de funcionalidade.",
+        "",
+        "O primeiro nível, no entanto, é puramente para armazenamento."
+    ],
+    "quest.0AE1D9E720C989FD.quest_subtitle": "Muito giz?",
+    "quest.0CF08FDDD9D56E04.quest_desc": [
+        "Esta bolsa, assim como seu nível anterior, permite que você armazene todos os seus materiais rituais. Esta, no entanto, permite que você clique na pré-visualização do ritual que você coloca com o livro e a bolsa colocará a vela, crânio, giz ou cristal correto."
+    ],
+    "quest.11AD62DE17CEDB14.quest_desc": [
+        "Troncos de Outromundo são necessários para fazer giz.",
+        "",
+        "Para conseguir este tronco, você primeiro precisa obter árvores de Outromundo. Para fazer isso, você precisa jogar uma muda de carvalho em um fogo espiritual e cultivá-la.",
+        "",
+        "Uma vez que a árvore cresce, ela parecerá uma árvore de carvalho normal até você entrar no estado de sonho demoníaco (Terceiro Olho) comendo uma semente ou fruta do sonho do demônio.",
+        "",
+        "&4NOTA! (troncos de Outromundo só cairão enquanto o status de terceiro olho estiver ativo) &r"
+    ],
+    "quest.11AD62DE17CEDB14.quest_subtitle": "Carvalho, mas diferente",
+    "quest.11AD62DE17CEDB14.title": "Madeira de Outromundo",
+    "quest.12CAFBD9C7290E95.quest_desc": [
+        "criado ao jogar andesito no fogo espiritual"
+    ],
+    "quest.12CAFBD9C7290E95.quest_subtitle": "Cheira a queimado",
+    "quest.1AD0B6FC4101DE41.quest_desc": [
+        "Este item age como um terminal remoto и permite que você acesse seu armazenamento de qualquer lugar do seu mundo."
+    ],
+    "quest.1AD0B6FC4101DE41.title": "Acesso Remoto",
+    "quest.1D15906567D49376.quest_desc": [
+        "Os rituais podem ser um pouco mais complicados de automatizar do que o fogo, mas não é tão difícil assim.",
+        "",
+        "As tigelas sacrificiais normais podem receber itens por canos; elas contêm apenas um item cada, então você не precisa se preocupar com o acúmulo de itens.",
+        "",
+        "A tigela dourada, no entanto, precisa que seu item seja clicado após os outros itens terem sido inseridos por canos. para isso, você pode usar um roteador ou simulação de jogador, etc.",
+        "",
+        "Se você estiver utilizando o sistema AE para essas criações ou similar, pode ou não encontrar um problema de nbt com os livros, onde ele não reconhece o livro. se for o caso, o livro pode ser vinculado no local com algo como um Criador Rft ou similar.",
+        "",
+        "Se você estiver usando uma sub-rede para entregar os itens, colocar o provedor no modo de bloqueio deve ser suficiente. caso contrário, é aconselhável utilizar o modo de travamento até que o resultado tenha sido retornado.",
+        "",
+        "nota: o provedor de padrão respeita a ordem dos itens no padrão, então você pode usar isso a seu favor para garantir que os itens entrem na ordem correta (livro por último). você pode ler mais sobre isso na seção ae",
+        "",
+        "Por último, o item será dropado quando terminar, então um coletor de itens pode ser usado para coletar o resultado.",
+        "{@pagebreak}",
+        "",
+        "O ritual usado no exemplo é um ritual de invocação de triturador, mas é aplicável a qualquer ritual. rituais maiores podem exigir que você use um controlador na sub-rede",
+        "exemplo de configuração:",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_front.png width:100 height:100 align:center fit:true}",
+        "Sub-rede simples com interface no provedor. não se esqueça da fibra de quartzo para energia. mais informações, verifique as missões ae.",
+        "&4Certifique-se de habilitar o modo de bloqueio ou travamento no provedor de padrão&r",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_side.png width:100 height:100 align:center fit:true}",
+        "O porta de armazenamento no baú está definido para prioridade mais baixa e tem uma lista negra para os itens do ritual. você pode tentar fazer uma lista branca, embora os dados nbt possam dificultar isso. alternativamente, um porta de armazenamento de tag ou mod poderia funcionar.",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_storage_bus_pri.png width:150 height:100 align:center fit:true}",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_player_sim_config.png width:200 height:100 align:center}",
+        "O simulador de jogador não requer programação ou configuração. no entanto, se você quiser que ele seja colocado remotamente como no exemplo, você precisa de aprimoramento de peça: deslocamento para aprimorar o alcance do simulador de jogador e definir a localização no menu que está marcado",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_player_sim_visualiser.png width:100 height:100 align:center fit:true}",
+        "A chave inglesa do Integrated Dynamics permite que você veja a localização em que o simulador está trabalhando.",
+        "&4Se você ainda não o fez, certifique-se de habilitar jogadores falsos nas equipes do ftb.&r",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_pattern.png width:200 height:100 align:center}",
+        "Por último, os padrões do ae respeitam a ordem em que você coloca os itens. prioridade: esquerda->direita, de cima->para baixo. então, ao usar um porta de baixa prioridade, você quer o livro por último.",
+        "&6Se você tiver problemas de nbt com os livros, pode substituir o livro por um não vinculado e substituir o baú por algo como um Criador Rft configurado para vincular os livros.&r"
+    ],
+    "quest.1D15906567D49376.quest_subtitle": "Interface de Ritual da Máquina de Ressonância Magnética",
+    "quest.1D15906567D49376.title": "Rituais Automáticos",
+    "quest.20A79BCC4B9EC78B.quest_desc": [
+        "Gemas Sintonizadas com Espírito são feitas jogando um diamante em um fogo espiritual.",
+        "",
+        "O cristal é feito combinando 4 em uma grade de criação",
+        "",
+        "estes são usados em alguns dos rituais"
+    ],
+    "quest.20A79BCC4B9EC78B.quest_subtitle": "brilhante",
+    "quest.20A79BCC4B9EC78B.title": "Cristal Sintonizado com Espírito",
+    "quest.2281F1237556660F.quest_desc": [
+        "Ao olhar para um ritual no livro guia de espíritos, a pré-visualização terá um pequeno ícone de olho no canto inferior esquerdo que você pode clicar para ativar a pré-visualização no mundo para você seguir"
+    ],
+    "quest.2281F1237556660F.quest_subtitle": "Foi aqui que você errou",
+    "quest.2281F1237556660F.title": "Projetor 3D",
+    "quest.234A684181B4B277.quest_desc": [
+        "Este é o nível mais alto de bolsa e construirá o ritual inteiro se você clicar na pré-visualização. Ele também permitirá que você limpe instantaneamente o ritual clicando na tigela do ritual"
+    ],
+    "quest.2BFA19AD4DCEC687.quest_desc": [
+        "Livros de ligação são usados como o ingrediente final em um ritual.",
+        "",
+        "No entanto, para que o livro seja funcional, você primeiro precisa vinculá-lo a um espírito, criando-o com um livro guia de espírito."
+    ],
+    "quest.3171E159C4D05AD4.quest_desc": [
+        "Criar fogo espiritual é tão simples quanto jogar uma Fruta do Sonho do Demônio no chão e atear fogo nela"
+    ],
+    "quest.3171E159C4D05AD4.title": "Criando fogo Demoníaco",
+    "quest.35F498CAE76F3C31.quest_desc": [
+        "O Occultism é baseado em fazer rituais e invocações. Esses rituais podem ser encontrados no guia espiritual e fornecem um guia de construção para você seguir.",
+        "",
+        "Esses rituais devem conter uma tigela sacrificial dourada e quantas tigelas sacrificiais seu ritual exigir.",
+        "",
+        "A tigela sacrificial dourada sempre vai no meio, enquanto as tigelas normais podem ir a qualquer lugar dentro de um raio de 8 blocos do centro (área de 13x13)",
+        "",
+        "Se o seu ritual exigir um sacrifício, ele é realizado depois que o livro é colocado na tigela."
+    ],
+    "quest.35F498CAE76F3C31.quest_subtitle": "Sem volta",
+    "quest.35F498CAE76F3C31.title": "Rituais para iniciantes",
+    "quest.3DFD32A1A229E04F.quest_desc": [
+        "Um dos tipos de velas que você pode usar no Occultism é a vela de sebo.",
+        "",
+        "O sebo é obtido matando vacas, porcos, cavalos, lhamas ou ovelhas com uma faca de açougueiro"
+    ],
+    "quest.3DFD32A1A229E04F.quest_subtitle": "agora, para onde foi aquele mercador",
+    "quest.3DFD32A1A229E04F.title": "açougueiro local",
+    "quest.3E884D06714017F1.quest_desc": [
+        "Os trituradores são usados para multiplicação de minérios.",
+        "",
+        "O triturador mais básico produz 2 pós por minério bruto e melhora a cada nível, chegando a 6 por minério bruto para o Marid.",
+        "",
+        "A vida útil e a velocidade dos demônios também aumentam com o nível, onde o Marid durará para sempre."
+    ],
+    "quest.3E884D06714017F1.quest_subtitle": "Multiplicação de minério",
+    "quest.4821A8015B2F5FA1.quest_desc": [
+        "Um dos 4 gizes usados em rituais."
+    ],
+    "quest.48A0DC661D3F37C7.quest_desc": [
+        "Alternativamente, velas podem ser feitas com cera ou favo de abelhas"
+    ],
+    "quest.4BE9FE70FD274586.quest_desc": [
+        "Maneira automática de obter minérios do nada, veja no JEI/EMI os recursos. Níveis mais altos têm minérios melhores e o nível superior pode até obter Iesnium.",
+        "",
+        "As lâmpadas funcionam com base em uma tabela de saque, onde gerarão minérios aleatoriamente com base em seu peso.",
+        "",
+        "O reparo automático da lâmpada de mineração pode ser feito com algo capaz de ler a durabilidade, como o Integrated Dynamics."
+    ],
+    "quest.4C3233E2F465F5C7.quest_desc": [
+        "Um dos 4 gizes usados em rituais"
+    ],
+    "quest.4C3233E2F465F5C7.quest_subtitle": "é Ouro",
+    "quest.4DA0BC20061D0D9A.quest_desc": [
+        "Onde a lâmpada faz seu trabalho"
+    ],
+    "quest.4EB2763EB94E73AB.quest_desc": [
+        "Esta picareta é necessária para poder minerar Iesnium.",
+        "",
+        "Suas alucinações regulares já não são mais suficientes."
+    ],
+    "quest.4EB2763EB94E73AB.title": "Extração frágil",
+    "quest.5604B8154E8EF7CE.quest_desc": [
+        "Já que invocar um demônio com o único propósito de fazer uma única pedra do fim triturada não é divertido, vamos fazer uma troca e pular o demônio intermediário."
+    ],
+    "quest.5604B8154E8EF7CE.title": "Acordo de bastidores",
+    "quest.562FCF662B270719.quest_desc": [
+        "Este pacote tem integração Ars Nouveau e Occultism, o que significa que você pode colocar alguns espíritos em frascos em vez de tê-los no mundo como entidades",
+        "leia o caderno gasto do Ars Nouveau em Ars Ocultas para mais informações"
+    ],
+    "quest.562FCF662B270719.title": "Demônios Engarrafados",
+    "quest.56E3D43BA11853B0.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em qualquer modpack público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões do &dOccultism&r feita por: &aApex&r &dSlayer&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.56E3D43BA11853B0.quest_subtitle": "Estas missões incríveis foram feitas para a &4Catalyst Studios&r",
+    "quest.56E3D43BA11853B0.title": "&l&4Missões da Catalyst Studios",
+    "quest.5A83782E4EB80DB5.quest_desc": [
+        "O livro Guia Espiritual é tanto um guardião do conhecimento quanto uma ferramenta para vincular espíritos aos seus livros de vinculação.",
+        "",
+        "Ele pode ser criado combinando uma Semente do Sonho do Demônio e um livro"
+    ],
+    "quest.5A83782E4EB80DB5.quest_subtitle": "Conhecimento proibido",
+    "quest.5A83782E4EB80DB5.title": "Guia Espiritual",
+    "quest.5D6F17D952C6BAEB.quest_desc": [
+        "Agora que você tem os óculos do outro mundo e a picareta infundida, pode obter um pouco de Iesnium, que é um material necessário para os rituais mais avançados que este mod tem a oferecer.",
+        "",
+        "Recomenda-se que você use a adivinhação para isso, embora não seja estritamente necessário."
+    ],
+    "quest.5D6F17D952C6BAEB.title": "metal estranho",
+    "quest.5E01C4D06EB98F26.quest_desc": [
+        "Este bloco age como um terminal e pode ser colocado em qualquer lugar para permitir que você acesse sua rede."
+    ],
+    "quest.5E01C4D06EB98F26.title": "terminais",
+    "quest.5F4141ED4F80C8B6.quest_desc": [
+        "Componentes para giz",
+        "",
+        "Cinzas do outro mundo criadas jogando toras do outro mundo no fogo espiritual",
+        "",
+        "Pedra do Outro Mundo Queimada criada fundindo Pedra do Outro Mundo"
+    ],
+    "quest.610462533974587C.quest_desc": [
+        "Esta seção explicará como você pode automatizar suas artes proibidas"
+    ],
+    "quest.610462533974587C.quest_subtitle": "Para aqueles alérgicos ao trabalho manual",
+    "quest.610462533974587C.title": "Criação Automática",
+    "quest.64185463F33F5F35.quest_desc": [
+        "Giz Branco, o mais básico e fundamental dos 4 gizes funcionais.",
+        "O Giz Branco é usado na maioria dos rituais que este mod tem a oferecer.",
+        "",
+        "Todo giz é purificado no fogo espiritual",
+        "",
+        "O giz pode ser encantado para prolongar a vida"
+    ],
+    "quest.64185463F33F5F35.quest_subtitle": "Ocultista Novato",
+    "quest.648EA810839EEB7F.quest_desc": [
+        "Se você quer fazer rituais contendo runas vermelhas, precisa lutar contra afrit",
+        "",
+        "afrit pode ser invocado usando a conjuração aberta Abras",
+        "",
+        "Procure o ritual no livro guia espiritual"
+    ],
+    "quest.648EA810839EEB7F.title": "invocando Afrit",
+    "quest.6609A4E0D6EE9C8D.quest_desc": [
+        "útil para remover giz"
+    ],
+    "quest.6609A4E0D6EE9C8D.quest_subtitle": "Comece a esfregar",
+    "quest.6E829868DFC46DB8.quest_desc": [
+        "O fogo espiritual pode ser automatizado simplesmente colocando uma calha, uma caixa aberta ou uma sub-rede de plano de formação ao lado do seu provedor de padrões e um coletor de itens para trazer os itens de volta.",
+        "",
+        "exemplo de automação:",
+        "{image:catalyst:textures/quest_images/occultism/automation_spirit_fire.png width:200 height:200 align:center}"
+    ],
+    "quest.6E829868DFC46DB8.title": "Fogo Automático",
+    "quest.6EBB0FDF36D7CC3A.quest_desc": [
+        "Occultism vem com seu próprio sistema de armazenamento.",
+        "",
+        "Este bloco permite que você armazene uma grande quantidade de itens e vem com uma grade de criação e pode ser acessado remotamente mais tarde através dos buracos de minhoca estáveis ou do acessador de armazenamento.",
+        "",
+        "para mais informações sobre função e aprimoramento, veja o dicionário de espíritos."
+    ],
+    "quest.75AA4C3AD7901E39.quest_desc": [
+        "Para aqueles que querem ir direto ao ponto, o livro tem um botão no canto superior direito onde você pode marcar todas as abas abertas como lidas.",
+        "",
+        "shift+clique para desbloquear o livro inteiro."
+    ],
+    "quest.75AA4C3AD7901E39.quest_subtitle": "Sem tempo a perder",
+    "quest.75AA4C3AD7901E39.title": "Pular adiante",
+    "quest.781D98EE5538B3F8.quest_desc": [
+        "agora você possui todos os gizes necessários para os rituais em Occultism"
+    ],
+    "quest.781D98EE5538B3F8.title": "Mestre Ocultista",
+    "quest.7903FA4DBF99A4D6.quest_desc": [
+        "Versão mais robusta da picareta infundida"
+    ],
+    "quest.7ACE109B69EDE436.quest_desc": [
+        "A Fruta do Sonho do Demônio é essencial para começar no occultism.",
+        "",
+        "Ela permite que você interaja com o Outro Mundo no nível mais básico.",
+        "",
+        "Sua semente pode ser adquirida quebrando grama."
+    ],
+    "quest.7ACE109B69EDE436.quest_subtitle": "Influência profana",
+    "quest.7ACE109B69EDE436.title": "Entrando no Sonho do Demônio"
+}

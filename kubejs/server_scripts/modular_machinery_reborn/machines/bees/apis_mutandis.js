@@ -5,7 +5,7 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 MMREvents.machines(catalyst => {
     catalyst.create("mmr:apis_mutandis")
         .color("#ff603b91")
-        .name("Apis Mutandis")
+        .name(Component.translatable("catalyst.mmr.machine.apis_mutandis"))
         .structure(
             MMRStructureBuilder.create()
                 .pattern([
@@ -40,7 +40,7 @@ MMREvents.machines(catalyst => {
                         "modular_machinery_reborn:casing_plain"
                     ],
                     "f": ["ars_nouveau:archwood_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]"],
-                    "g": ["modular_machinery_reborn:casing_reinforced"],
+                    "g": ['ars_nouveau:smooth_sourcestone_large_bricks'],
                     "h": ["ars_nouveau:sourcestone_large_bricks"],
                     "i": ["#c:storage_blocks/honeycombs"],
                     "j": ["ars_nouveau:archwood_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]"],
@@ -70,7 +70,7 @@ MMREvents.machines(catalyst => {
                     "J": ["ars_additions:sourcestone_wall"],
                     "K": ["ars_additions:sourcestone_magelight_lantern[hanging=false,level=0,waterlogged=false]"],
                     "L": ["ars_additions:golden_lantern[hanging=false,waterlogged=false]"],
-                    "M": ["ars_nouveau:source_gem_block"],
+                    "M": ['eternalores:source_block'],
                     "N": ["ars_additions:sourcestone_wall"],
                     "O": ["ars_additions:sourcestone_wall"],
                     "P": ["ars_additions:sourcestone_wall"],

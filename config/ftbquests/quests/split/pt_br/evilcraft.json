@@ -1,0 +1,393 @@
+{
+    "quest.0120F94F0DB55575.quest_subtitle": "Eu Posso Ver... Eu Posso LUTAR!",
+    "quest.0120F94F0DB55575.title": "Eu Vejo Espíritos...",
+    "quest.01948A35B9155A51.quest_desc": [
+        "Este orbe será uma das primeiras criações que faremos no &cInfusor de Sangue&r."
+    ],
+    "quest.06FD532ABD84C9EA.title": "&lO Portal de Tudo",
+    "quest.0A691F71CA79DCB0.quest_desc": [
+        "Este é um dos meus tanques de fluido favoritos em todo o minecraft modificado, é bem barato e é incrivelmente semelhante aos Tanques do Mekanism!",
+        "",
+        "Pode ser usado como um balde para colocar qualquer tipo de fluido.",
+        "",
+        "Outra coisa sobre este tanque é que se criarmos um segundo tanque, podemos combiná-lo em qualquer grade de criação para aumentar sua capacidade. Isso se aplica a qualquer tanque escuro que esteja abaixo de &61.024.000&rmB."
+    ],
+    "quest.0A691F71CA79DCB0.quest_subtitle": "Pode armazenar qualquer fluido",
+    "quest.0A691F71CA79DCB0.title": "Tanque Escuro",
+    "quest.0AC4D069AEA88579.quest_desc": [
+        "Para obter nosso primeiro bloco de Sangue Endurecido, podemos usar 2 métodos...",
+        "",
+        "{ \"text\": \"1.- Dando uma olhada nesta missão\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"47C942BC0BD3D01E\" } }",
+        "",
+        "2.- Fazendo o método original, que exige que o jogador pegue um balde de &csangue&r e deixe secar. Este evento no mundo pode levar um pouco de tempo, mas uma vez que o sangue endureça, você precisará quebrá-lo usando um &ePederneira e Aço&r. Cuidado, se você quebrar este bloco com a mão ou com qualquer ferramenta, ele se transformará em um fluido e, se a chuva o tocar, ele também se transformará em um fluido mais uma vez..."
+    ],
+    "quest.0AC4D069AEA88579.title": "Secando Nosso Sangue",
+    "quest.0D205F4DB23CF931.quest_desc": [
+        "O &dCajado do Necromante&r é uma das minhas ferramentas favoritas em todo o Evilcraft. Podemos invocar zumbis para nos proteger de danos recebidos e sobrepujar nossos inimigos... No entanto, ainda precisamos de sangue para usar este cajado..."
+    ],
+    "quest.0E8C2C8D2D00843A.quest_desc": [
+        "Se você pensou que só existiam Promessas que aumentavam a capacidade interna do tanque, então você está errado.",
+        "",
+        "A &4Promessa de Velocidade&r acelera qualquer bloco funcional do Evilcraft por um modificador de 2x. Isso ajudará bastante a reduzir o tempo de processo do nosso Infusor de Sangue.",
+        "",
+        "A &9Promessa de Produtividade&r diminui a quantidade de sangue usada em cada processo por 1.5x, tornando-o mais eficaz.",
+        "",
+        "Podemos fazer uma combinação dessas promessas para 'melhorar' nossas máquinas/blocos para um melhor desempenho em cada processo, existem 3 slots para essas promessas, então vá em frente e veja o que é melhor para suas máquinas!"
+    ],
+    "quest.0E8C2C8D2D00843A.title": "Promessas Úteis",
+    "quest.0FB79B7ACDEDBA93.quest_desc": [
+        "Você pode estar se perguntando... Qual é a diferença entre os criadores exaltados não potencializados e os &dCriadores Exaltados Potencializados&r.",
+        "",
+        "A única diferença é que esses criadores são &4inquebráveis&r e não podem &cdesaparecer&r se deixados no chão!",
+        "",
+        "Temos que usar o &6Acumulador Ambiental Sanguinário&r para carregá-lo."
+    ],
+    "quest.0FB79B7ACDEDBA93.quest_subtitle": "Eu sou Indestrutível!",
+    "quest.0FB79B7ACDEDBA93.title": "Criadores Potencializados",
+    "quest.16359AA62D3FE75B.quest_desc": [
+        "A Fornalha Espiritual é uma forma de farmar drops de criaturas usando um espírito aprisionado na Caixa de Espíritos, algo semelhante a uma &dCâmara de Simulação&r do Hostile Neural Networks. A única diferença aqui é que este é um multiblock e usa &4sangue&r em vez de &cenergia&r!",
+        "",
+        "Para construir este multiblock, você precisará fazer um 3x3x3 usando Tijolos de Sangue e a Fornalha Espiritual (ou seja, o controlador do multiblock), como mostrado na imagem abaixo. Uma coisa importante sobre este multiblock é que seu interior deve estar vazio.",
+        "{image:catalyst:textures/quest_images/evilcraft/spirit_furnace_1.png width:100 height:100 align:center}",
+        "Às vezes, algumas criaturas que colocamos dentro deste multiblock exigirão uma fornalha espiritual mais alta, então, em vez de construí-la com 5 blocos de altura, aumentaremos seu tamanho em 2 ou 3 blocos.",
+        "{@pagebreak}",
+        "Podemos até usar o SFM para automatizar nossa Fornalha Espiritual facilmente, sem usar o Cálice Entrelaçado para inserir Sangue e retirar os itens gerados!",
+        "",
+        "Lembre-se que se quisermos automatizar esta fornalha, o cano e nosso rótulo devem estar no Controlador da Fornalha.",
+        "{image:catalyst:textures/quest_images/evilcraft/spirit_furnace_3.png width:100 height:100 align:center}",
+        "Recomendo o seguinte 'script' para esta configuração.",
+        "{image:catalyst:textures/quest_images/evilcraft/spirit_furnace_4.png width:200 height:125 align:center}"
+    ],
+    "quest.16359AA62D3FE75B.quest_subtitle": "Fazenda de Criaturas",
+    "quest.16359AA62D3FE75B.title": "A Fornalha dos Espíritos",
+    "quest.165A7D91617BACC0.quest_desc": [
+        "Naturalmente, podemos usar o &aAcumulador de Clima Ambiental&r que encontramos no &ctemplo escuro&r para obter esses climas dentro de garrafas.",
+        "",
+        "Simplesmente jogando um recipiente de clima vazio sobre o &aEWA&r, ele irá absorver e conter o referido clima.",
+        "",
+        "Os climas que podemos conter nessas garrafas são; &6Sol&r, &9Chuva&r e &eTempestades de Raios&r.",
+        "",
+        "Se contermos nosso sol, pode começar a chover depois de armazená-lo.",
+        "",
+        "Mas é recomendado usar o &cAcumulador Ambiental Sanguinário&r, ele usará sangue para simular qualquer clima e o armazenará."
+    ],
+    "quest.165A7D91617BACC0.quest_subtitle": "Mensagem na Garrafa?",
+    "quest.168EED6FD983AC79.quest_desc": [
+        "Caso você não soubesse disso!",
+        "",
+        "Você pode automatizar a coleta de essência da vingança usando &6Drgymys&r de &dArs Nouveau&r, a &aWannabee&r de &eProductive Bees&r, e o &cTriturador&r de &3Industrial Foregoing&r.",
+        "",
+        "O espírito da Vingança pode ser invisível, mas com o Foco da Vingança você pode manter este espírito em seu lugar. Quer você use Abelhas, máquinas ou Drygmys, é recomendado farmar essas essências automaticamente."
+    ],
+    "quest.168EED6FD983AC79.title": "&lDica de Evilcraft&r #2",
+    "quest.181DFA60A3F29580.title": "Coletando nosso Sangue",
+    "quest.1A4A8AB28AEE3D91.quest_desc": [
+        "Esta picareta não é totalmente necessária para progredir no Evilcraft, mas é bem legal que ela venha com &6Fortuna V&r e... maldição da vingança?",
+        "",
+        "Sim, o encantamento &dMaldição da Vingança&r irá gerar Espíritos da Vingança, que, para ser justo, são um pouco irritantes, mas fáceis de lidar...",
+        "",
+        "Mas, existe um \"&cbloco especial&r\" que irá ajudá-lo a desencantar esta picareta se você quiser se livrar da maldição ou do encantamento de Fortuna V."
+    ],
+    "quest.1A4A8AB28AEE3D91.title": "A Picareta do Mal",
+    "quest.1AF45B00853ADE5F.quest_desc": [
+        "A Caixa de Confinamento Eterno nos ajudará a aprisionar aqueles irritantes Espíritos da Vingança.",
+        "",
+        "Veja-a como uma &eArmadilha de Fantasmas&r do filme &lOs Caça-Fantasmas&r.",
+        "",
+        "Para aprisionar esses espíritos dentro dela, precisamos colocar esta &6caixa&r perto de um &despírito da vingança&r e então usar um &cFoco da Vingança&r para congelá-lo e encapsulá-lo na caixa."
+    ],
+    "quest.1AF45B00853ADE5F.quest_subtitle": "para espíritos, é claro...",
+    "quest.1AF45B00853ADE5F.title": "É uma Armadilha!",
+    "quest.1CFF013971504D07.quest_desc": [
+        "Estas missões incríveis foram feitas para a &l&4Catalyst Studios&r e fazem parte de seu projeto e pertencem a eles.",
+        "",
+        "Linha de Missões do EvilCraft feita por: &aRadz&8Ratz&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.1CFF013971504D07.title": "&l&4Missões Catalyst Studios",
+    "quest.1D97AF1C2B29F342.quest_desc": [
+        "Com este cetro podemos atingir nossos inimigos com raios!",
+        "",
+        "A desvantagem é... &osó pode ser usado uma vez&r."
+    ],
+    "quest.1D97AF1C2B29F342.quest_subtitle": "Atinge-me com um raio, Zeus!",
+    "quest.21248F5410430924.quest_subtitle": "Atingido por um raio?",
+    "quest.21248F5410430924.title": "Relâmpago na Garrafa",
+    "quest.27E705A8E21A5236.quest_desc": [
+        "As &6Promessas&r são a coisa mais importante quando se trata de progredir no mod. Cada promessa &caumenta&r a capacidade do tanque do Infusor de Sangue e outros blocos funcionais do Evilcraft... Dito isto, a &lPromessa de Tenacidade I&r aumentará o Buffer Interno da máquina de 10.000mb para &540.000&rmb.",
+        "",
+        "E só podemos processar criações de Tier I dentro do nosso Infusor de Sangue e se quisermos processar criações de Tier II... precisamos da Promessa de Tenacidade II!"
+    ],
+    "quest.27E705A8E21A5236.quest_subtitle": "Uma Melhoria na forma de uma Promessa...",
+    "quest.27E705A8E21A5236.title": "Nossa Primeira &lPromessa",
+    "quest.295B9BC524CA6E40.title": "Pedra Preciosa Ardente",
+    "quest.2ABDA47F00454485.quest_desc": [
+        "Este Item só pode ser obtido matando um &despírito da vingança&r... Sim, eu sei que soa estranho, já que esta criatura é um espírito, então tecnicamente está morta, mas você tem que matá-lo para obter este Item específico?",
+        "",
+        "Ah... e também um pouco de exp aparentemente...",
+        "",
+        "Mas para matar esta criatura você precisa do &4Foco da Vingança Perfurante&r, mas caso você não queira farmar esta criatura manualmente, sugiro que dê uma olhada na segunda missão de Dica dentro desta linha de missões!",
+        "",
+        "&8&opssst... Está acima desta, caso você não a tenha encontrado&r"
+    ],
+    "quest.2DF5FEC4EEC8EFA7.quest_desc": [
+        "O segundo tier de promessas, esta promessa aumenta a capacidade do tanque para &d180.000&rmb... 4x mais que o tier anterior!",
+        "",
+        "Com esta nova &ePromessa de Tenacidade II&r, agora podemos processar criações de Tier II dentro do Infusor de Sangue e a melhor parte é que podemos processar criações de Tier I com esta!"
+    ],
+    "quest.2DF5FEC4EEC8EFA7.title": "A Segunda &l&ePromessa",
+    "quest.2EBE89C376E89639.quest_desc": [
+        "O Baú de Sangue é uma das melhores máquinas do Evilcraft! Podemos começar a reparar nossos itens sem problemas com ele e só precisa de sangue para reparar os itens... ",
+        "",
+        "Mas, todas as coisas boas vêm com um pequeno preço!",
+        "",
+        "E este preço é que um de nossos itens pode receber o encantamento \"&l&4maldição da quebra&r\", o que pode ser um pouco problemático, mas e se eu te dissesse que existem muitas maneiras de desencantar um item? ",
+        "",
+        "E nossa, o Evilcraft tem uma maneira divertida de fazer isso!"
+    ],
+    "quest.2EBE89C376E89639.title": "Reparando Itens com &l&4Sangue",
+    "quest.2FE1CD6DDFDF2F31.quest_desc": [
+        "Parabéns... De alguma forma, você conseguiu subjugar os espíritos terríveis, sacrificou uma abundância de criaturas para coletar o sangue necessário e criou o inimaginável, A Gota de Sangue Criativa.",
+        "",
+        "Este item não pode ser fabricado no momento, mas pode se tornar fabricável em um futuro próximo... Fique atento para futuras atualizações e até a próxima!"
+    ],
+    "quest.2FE1CD6DDFDF2F31.title": "&lO &4End&r?",
+    "quest.348C191492897716.quest_desc": [
+        "Para obter estas &4Gemas&r, simplesmente precisamos colocar pelo menos 5 baldes de sangue e jogar nossas &0Gemas Sombrias&r na poça de sangue.",
+        "",
+        "Pode ou não demorar um pouco para se transformar, mas assim que as conseguirmos, eu realmente aconselho a fazer o Infusor de Sangue, com ele, a criação dessas gemas será mais fácil e rápida!"
+    ],
+    "quest.348C191492897716.title": "A mais &cEscura&r das Gemas",
+    "quest.369F69559064623C.title": "Extraindo Biomas",
+    "quest.3A5E0A470630131E.quest_desc": [
+        "O Carvão Encerado com Sangue é como um carvão normal, tem algumas diferenças e acho que você pode gostar um pouquinho...",
+        "",
+        "Carvão Normal 1600t (8 itens por carvão) - Carvão Encerado com Sangue 3200t (16 itens por carvão)"
+    ],
+    "quest.3A5E0A470630131E.title": "Carvão de Sangue",
+    "quest.3BEA955788837733.quest_desc": [
+        "Este bloco é bastante interessante, ele pode Desencantar Itens e pegar qualquer efeito de Poção de qualquer criatura!",
+        "",
+        "Para começar nosso &dDesencantamento&r com o &cPurificador&r, precisaremos deste bloco cheio de sangue e um &4Blook&r (só pode ser feito através do Infusor de Sangue), depois que todos esses requisitos forem cumpridos, você só precisa colocar seu Item Encantado e deixar a mágica começar!",
+        "",
+        "(Ele desencantará o item, mas só pegará um encantamento aleatório do próprio item, então se você quiser desencantar completamente um item \"a picareta da vingança como exemplo\", você precisará de 2 Blooks para isso)",
+        "{@pagebreak}",
+        "Para pegar o efeito de poção de qualquer criatura, você só precisa do Purificador cheio de sangue e da criatura dentro dele, pode ser complicado, mas uma vez que tudo isso for feito, você só precisa esperar um pouco e então jogar uma Garrafa Vazia para pegar esta Poção e libertar essa criatura dela.",
+        "",
+        "(&oEstou olhando para você, aldeão errante, que aparentemente tem uma quantidade infinita de poções de invisibilidade...&r)"
+    ],
+    "quest.3BEA955788837733.title": "Desencantando com &l&4Sangue",
+    "quest.45CEDE5DDED5ADC2.quest_subtitle": "Brilho do Sol do seu Amor?",
+    "quest.45CEDE5DDED5ADC2.title": "Luz do Sol em uma Garrafa",
+    "quest.47C942BC0BD3D01E.quest_desc": [
+        "O mod &3Integrated Dynamics&r é uma melhoria de qualidade de vida usando o mod Evilcraft.",
+        "",
+        "Com a &6Bacia de Secagem&r, podemos obter o &4Bloco de Sangue Endurecido&r mais facilmente. Não é preciso esperar um tempo até o evento no mundo terminar, basta jogar um balde de sangue e ele secará!",
+        "",
+        "E depois de obtermos o bloco de sangue endurecido, simplesmente precisamos jogá-lo em uma fornalha para obter os 9 Fragmentos de Sangue Endurecido."
+    ],
+    "quest.47C942BC0BD3D01E.title": "&lDica do Evilcraft&r #1",
+    "quest.4B3625968F4E4331.quest_subtitle": "Ande Mais Rápido e de Forma Mais Eficiente sem Esforço",
+    "quest.4B9C8F1028E7BAEB.quest_desc": [
+        "Para começar nossa aventura com o Evilcraft, precisamos cavar fundo no &8subsolo&r para encontrar algumas &0Gemas Sombrias&r.",
+        "",
+        "Essas gemas são a coisa mais valiosa em todo o Evilcraft, então sugiro que você encontre 18 delas e crie uma Abelha de Gema Sombria!"
+    ],
+    "quest.4B9C8F1028E7BAEB.title": "A Gema Mais Essencial",
+    "quest.4C1A7052ABFCCF72.quest_desc": [
+        "Este livro é o guia do jogo para o Evilcraft. Podemos descobrir tudo que este mod adiciona com este livro, mas para obtê-lo, talvez queiramos criar uma &8maçã escurecida&r e alimentá-la a qualquer criatura... Depois disso, o comportamento dessa criatura mudará completamente, então sugiro que você jogue um livro nele para acalmá-lo!",
+        "",
+        "Quem sabe, talvez algo apareça depois disso..."
+    ],
+    "quest.4C1A7052ABFCCF72.quest_subtitle": "Conhecimento Proibido",
+    "quest.4C1A7052ABFCCF72.title": "&lOrigens da Escuridão",
+    "quest.4D3F2DA049C32098.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em qualquer modpack público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões do &4EvilCraft&r feita por: &aRadz&7Ratz&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.4D3F2DA049C32098.quest_subtitle": "Estas missões incríveis foram feitas para a &4Catalyst Studios&r",
+    "quest.4D3F2DA049C32098.title": "&l&4Missões da Catalyst Studios",
+    "quest.4DC0C27803D50263.quest_desc": [
+        "O último nível de promessas que precisaremos e usaremos em todo o Evilcraft...",
+        "",
+        "Desta vez, o modificador da promessa para os blocos é 8x! O que significa que cada bloco funcional que tiver esta nova &bPromessa da Tenacidade III&r armazenará a pequena quantidade de &d640.000&rmb"
+    ],
+    "quest.4DC0C27803D50263.title": "A Última &l&bPromessa",
+    "quest.522CADC3ADB94B74.quest_desc": [
+        "Este item pode ser bastante útil de vez em quando."
+    ],
+    "quest.522CADC3ADB94B74.quest_subtitle": "que usa sangue",
+    "quest.522CADC3ADB94B74.title": "Pérola de Ender &lInfinita&r",
+    "quest.53B435B6F12C773E.quest_subtitle": "É infinito, mas não exatamente",
+    "quest.53B435B6F12C773E.title": "&4Sangue&r &lInfinito",
+    "quest.54EFAC2D8A37689C.quest_desc": [
+        "Estamos um passo mais perto de lutar contra esses espíritos, mas esta versão apenas congelará os espíritos da vingança.",
+        "",
+        "Perfeito para configurar qualquer &6fazenda&r que possa obter seus drops!"
+    ],
+    "quest.5571630621763AA6.quest_desc": [
+        "O caminho para obter a &cCarne Rejuvenescida&r pode ser irritante, mas há uma maneira que poucas pessoas conhecem para conseguir isso facilmente.",
+        "",
+        "E isso é encontrando um &dWolverian&r (que se transforma em um Lobisomem se houver lua cheia)",
+        "",
+        "Este novo tipo de aldeão pode ser encontrado em qualquer vila, no entanto, não é garantido que ele apareça. Mas podemos transformar qualquer aldeão em um wolverian jogando um &eraio&r nele.",
+        "",
+        "Isso pode ser bastante confuso, devido aos aldeões se transformarem em &5bruxas&r quando atingidos por um raio...",
+        "",
+        "Pode ou não funcionar, mas para mim, ao fazer o Ritual do Relâmpago do Ars Nouveau, o aldeão se transformou em um wolverian! Mas caso esta tábua/ritual não esteja disponível, tente a sua sorte com o &6Cetro do Trovão&r.",
+        "",
+        "E depois encapsule esta criatura (uma vez que ela se transforme em um lobisomem) em âmbar para o Wannabee ou em um frasco de contenção para os Drygmys."
+    ],
+    "quest.5571630621763AA6.title": "&lDica de Evilcraft&r #3",
+    "quest.5C5BF198EA21687B.quest_desc": [
+        "O Templo Sombrio é a única estrutura que encontraremos de Evilcraft... Mas não se deixe enganar, este templo tem uma das \"máquinas\" que será útil mais tarde.",
+        "",
+        "Também podemos encontrar baús de tesouro dentro deste templo!"
+    ],
+    "quest.5C5BF198EA21687B.title": "Templo Sombrio",
+    "quest.610C7735CF3C7BF5.quest_desc": [
+        "Agora você se tornou o ser mais poderoso...",
+        "",
+        "Depois de um tempo, você conseguiu sair vitorioso das hordas de espíritos vingativos, espíritos que tentavam impedir que este pesadelo horrendo acontecesse... E ainda assim, &4&laconteceu&r.",
+        "",
+        "Este item é usado para criar o Portal Espiritual, mas pode ser usado em outras receitas, então sugiro que você crie alguns destes!"
+    ],
+    "quest.610C7735CF3C7BF5.quest_subtitle": "A Calma Antes da Tempestade...",
+    "quest.610C7735CF3C7BF5.title": "&lA &eAglomeração &5Espiritual &4Entrelaçada",
+    "quest.62AE066A0F40D92D.quest_desc": [
+        "O &cFoco da Vingança Perfurante&r é uma de nossas Armas para lutar contra os Espíritos da Vingança... Alguns espíritos podem ser invisíveis, mas com mods como o Journey Map podemos rastrear seus passos e combatê-los!",
+        "",
+        "Uma vez que conseguimos mandar um espírito de volta para o esquecimento, ele dropará um pó estranho..."
+    ],
+    "quest.62AE066A0F40D92D.quest_subtitle": "Perfurando o Véu, certo?",
+    "quest.6A4C0711EE98332C.quest_desc": [
+        "Este pingente é um verdadeiro salva-vidas... Ele se livrará automaticamente de quaisquer efeitos de poção ruins que nosso jogador receba usando um pouco de sangue!"
+    ],
+    "quest.6CA5C21D757AA820.quest_desc": [
+        "O anel da Vingança é o primeiro passo para lutar contra esses Espíritos da Vingança!",
+        "",
+        "Precisaremos de um pouco de Ferro e um pouco de pó de Gema Sombria para fabricá-lo, mas esta versão atrairá espíritos da vingança..."
+    ],
+    "quest.70DB2794CED4718C.quest_desc": [
+        "A &cMuda Morta-Viva&r é uma das muitas maneiras de gerar Sangue do Evilcraft.",
+        "",
+        "Só precisamos esperar a árvore crescer para que ela comece a &lgotejar&r sangue, para coletar este sangue, podemos usar o Coletor de Sangue ou podemos usar um Pedestal Sanguinário para coletá-lo automaticamente.",
+        "",
+        "Confira a missão do Pedestal Sanguinário para aprender mais sobre ele!"
+    ],
+    "quest.7135BB6943B21402.quest_desc": [
+        "Este baú é praticamente o mesmo que o baú de sangue normal. Mas, com esta versão aprimorada, nossas ferramentas não receberão o encantamento Maldição da Quebra.",
+        "",
+        "Este sofisticado baú de sangue é indispensável se quisermos reparar muitas ferramentas ao mesmo tempo, e a melhor parte é que, quanto mais ferramentas ele tiver, mais rápido ele irá reparar.",
+        "",
+        "Ainda podemos inserir e retirar itens sem nenhum esforço!",
+        "",
+        "Para construir este multibloco, precisaremos de &625&r Tábuas de Morto-Vivo Reforçadas e um bloco de Baú Colossal, e o tamanho do multibloco é de &d3x3x3&r como mostrado na imagem abaixo.",
+        "{image:catalyst:textures/quest_images/evilcraft/colossal_chest.png width:100 height:100 align:center}"
+    ],
+    "quest.7135BB6943B21402.quest_subtitle": "Um baú de sangue, mas maior",
+    "quest.7135BB6943B21402.title": "&lBaú de&r &4Sangue&r &lColossal&r",
+    "quest.725CAFF6779487BC.quest_desc": [
+        "O &4Infusor de Sangue&r é nossa primeira máquina em todo o Evilcraft, sem ele, não podemos progredir por todo o mod.",
+        "",
+        "Esta máquina requer &csangue&r para funcionar, podemos colocar nosso coletor de sangue com sangue nele para armazenar este sangue e começar nossas infusões ou simplesmente canalizando o sangue de qualquer &8tanque&r.",
+        "",
+        "Nosso principal objetivo com o Infusor de Sangue é criar as &6promessas&r, mas também podemos criar muitas outras coisas para nos ajudar em nossa aventura bizarra... Outra coisa a notar é que podemos criar as &cDark Power Gems&r mais facilmente com esta máquina.",
+        "",
+        "Podemos até automatizá-la com &dAE2&r ou &3ID&r!"
+    ],
+    "quest.725CAFF6779487BC.title": "Infusões Sangrentas",
+    "quest.7509E3311610BE2B.quest_subtitle": "Chuva de Novembro?",
+    "quest.7509E3311610BE2B.title": "Chuva em uma Garrafa",
+    "quest.75719D26D5D57A77.quest_desc": [
+        "A &l&5Potentia Invertida Empoderada&r é a chave para obter as armas mais fortes de todo o Evilcraft...",
+        "",
+        "Este Item pode ser criado usando o &6Acumulador Ambiental&r do Templo Negro ou com o &4Acumulador Ambiental Sanguinário&r. Simplesmente jogue a Potentia Empoderada em qualquer uma dessas máquinas e após 5 segundos você receberá este novo Item!"
+    ],
+    "quest.76890D74EE32B4CF.quest_desc": [
+        "Bem-vindo ao &lEvilCraft&r, onde a magia encontra a tecnologia de uma forma única, porém &4sangrenta&r.",
+        "",
+        "O mod Evilcraft adiciona muitas coisas para criar e usar, podemos &cmanipular&r o clima, armazenar e mudar &2biomas&r à vontade, &5tecnologia&r profana, &6armas&r e uma &bvassoura&r?",
+        "",
+        "De qualquer forma! Se você quer se tornar poderoso, sugiro que mergulhe no Evilcraft e descubra seus segredos...",
+        "",
+        "Mod Criado por: &4Kroeser"
+    ],
+    "quest.76890D74EE32B4CF.title": "&l&4EvilCraft",
+    "quest.77BC1DE1D0D6D03B.quest_desc": [
+        "Esta máquina pode ser bastante útil para trazer algumas criaturas de volta à vida...",
+        "",
+        "Precisaremos de um &dEspírito de Vingança&r aprisionado de qualquer tipo de criatura em uma &6Caixa de Confinamento Eterno&r dentro desta máquina para fazê-la funcionar.",
+        "",
+        "{ \"text\": \"Nesta missão, falamos sobre a Caixa de Confinamento Eterno.\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1AF45B00853ADE5F\" } }",
+        "",
+        "Ela precisará de &4Sangue&r para operar e trazer os mortos de volta à vida."
+    ],
+    "quest.77BC1DE1D0D6D03B.title": "Trazendo Espíritos à Vida",
+    "quest.7A3A78C25AC9D033.quest_desc": [
+        "Ambas as ferramentas usam sangue para funcionar corretamente.",
+        "",
+        "O &eKineticator&r nos ajudará a atrair qualquer tipo de drop que esteja dentro de seu raio.",
+        "",
+        "O &dRepelling Kineticator&r empurrará qualquer drop que entre em seu raio.",
+        "",
+        "Para ativar ambas as ferramentas, precisamos pressionar \"shift + botão direito do mouse\" para habilitar e desabilitar sua funcionalidade e para aumentar sua força, simplesmente fazendo \"botão direito do mouse\", ele definirá sua força para 0 ou 4 no máximo."
+    ],
+    "quest.7A3A78C25AC9D033.quest_subtitle": "Ainda não atrai amor...",
+    "quest.7A3A78C25AC9D033.title": "Kinecticators",
+    "quest.7AB09B6B6E9206C4.quest_desc": [
+        "Evilcraft adiciona muitas coisas, incluindo uma maneira de armazenar itens e criar dentro de seu inventário!",
+        "",
+        "Os Exalted Crafters vêm em &62&r sabores diferentes, o &eExalted Crafter de Madeira&r só pode armazenar itens e usá-los para criar dentro de sua grade de criação.",
+        "",
+        "Mas, o &5Exalted Crafter&r é bem o oposto, embora seu tamanho de inventário seja o mesmo de um baú normal e semelhante ao exalted crafter de madeira, este crafter está vinculado ao &dBaú do Ender&r vanilla!",
+        "",
+        "Bastante útil quando se trata de organizar ou separar itens de baús. Podemos até definir uma &aTecla de Atalho&r (&lC&r) por padrão, para abri-lo sem tê-lo na mão."
+    ],
+    "quest.7AB09B6B6E9206C4.quest_subtitle": "uma mochila do mal",
+    "quest.7AB09B6B6E9206C4.title": "Exalted Crafter",
+    "quest.7C25C9EA04C8FB96.quest_desc": [
+        "O &4Pedestal Sanguinário&r nos permite coletar as manchas de sangue que nossa &6árvore&r gerou, podemos canalizar este pedestal para extrair o sangue, ou melhor ainda, colocar um &8Tanque Escuro&r ou um &eCálice Entrelaçado&r para armazenar esse sangue.",
+        "",
+        "Este pedestal tem um buffer interno de 10.000mb, então levará um tempo para encher!",
+        "",
+        "Nota importante: Podemos até cortar alguns troncos de nossa Árvore Morta-Viva para colocar nosso pedestal bem no meio da nossa árvore!",
+        "{image:catalyst:textures/quest_images/evilcraft/sanguinary_pedestal.png width:200 height:125 align:center}"
+    ],
+    "quest.7C25C9EA04C8FB96.quest_subtitle": "Coletor de Sangue Automático",
+    "quest.7D5439BA46732CEB.quest_desc": [
+        "Antes de começarmos a criar &cmáquinas&r e &6multiblocos&r, precisaremos criar este núcleo primeiro.",
+        "",
+        "Não é tão difícil de criar, mas, se quisermos uma coleção de blocos e itens que este mod adiciona, sugiro que você crie &emuitos&r deles."
+    ],
+    "quest.7D5439BA46732CEB.title": "O Núcleo para Tudo",
+    "quest.7D75C832762D3851.quest_desc": [
+        "Ficando sem sangue, mas conseguiu algumas &4Gemas de Poder Sombrio&r?",
+        "",
+        "Então, sugiro que você crie esta... &cadaga&r!",
+        "",
+        "Ao matar criaturas com a Espada Venosa, extrairemos mais sangue, muito mais conveniente do que usar uma arma 'vanilla'. A única desvantagem desta espada é sua durabilidade, eu realmente sugiro que você a encante com &areparação&r e &dafiação&r!",
+        "",
+        "Mas, sendo um item encantado, só podemos aplicar mais encantamentos usando uma bigorna... Podemos encontrar uma maneira de &bdesencantar&r itens usando sangue em breve™..."
+    ],
+    "quest.7D75C832762D3851.title": "Coleta Extra de Sangue",
+    "quest.7F6E4C605AD3DC95.quest_desc": [
+        "Esta é a minha coisa favorita em todo o Evilcraft... Esta Vassoura será útil caso você não goste de usar &ejetpacks&r que possam contaminar nosso precioso ar.",
+        "",
+        "Mas, antes de mergulharmos e corrermos para criar nossa vassoura, temos que falar sobre suas &cpartes&r.",
+        "",
+        "Cada peça de nossa vassoura tem modificadores... Isso impactará a &dvelocidade&r da nossa vassoura, nossa &amaneabilidade&r com esta coisa e a &8aceleração&r.",
+        "",
+        "Existem outros modificadores, mas estes são os mais importantes. E sugiro que você dê uma olhada em The Origins of Darkness para aprender mais sobre eles, mas também podemos pressionar a tecla &lshift&r para ver quais modificadores essas peças têm.",
+        "",
+        "Não importa qual &5cabo&r, &5escova&r e &5vara&r usemos, uma vez que tenhamos todos os itens necessários, podemos combiná-los dentro de qualquer mesa de trabalho para montar nossa vassoura.",
+        "",
+        "E, finalmente, precisaremos enchê-la com &4sangue&r para usá-la corretamente. Você pode enchê-la usando &lbotão direito do mouse&r em qualquer tanque que esteja cheio de Sangue."
+    ],
+    "quest.7F6E4C605AD3DC95.quest_subtitle": "Na forma de uma Vassoura!",
+    "quest.7F6E4C605AD3DC95.title": "&l&eVoo Criativo"
+}

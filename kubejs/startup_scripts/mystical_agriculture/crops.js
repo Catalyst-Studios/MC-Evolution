@@ -20,7 +20,7 @@ StartupEvents.init(catalyst => {
 
         let $ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
         let $Ingredient = Java.loadClass('net.minecraft.world.item.crafting.Ingredient')
-        let $Component = Java.loadClass('net.minecraft.network.chat.Component')
+        let Component = Java.loadClass('net.minecraft.network.chat.Component')
         let $ChatFormatting = Java.loadClass('net.minecraft.ChatFormatting')
         let $BuiltInRegistries = Java.loadClass('net.minecraft.core.registries.BuiltInRegistries')
 
@@ -66,6 +66,7 @@ StartupEvents.init(catalyst => {
             let _fertilizable = true
             let _secondary = true
             let _chance = 0.1
+            let _key = "";
 
             return {
                 value: function(v)
@@ -105,6 +106,11 @@ StartupEvents.init(catalyst => {
                     _chance = c;
                     return this
                 },
+                translationKey: function(key)
+                {
+                    _key = key;
+                    return this;
+                },
                 register: function()
                 {
                     let id = $ResourceLocation.parse('mysticalagriculture:'+ _idStr)
@@ -118,8 +124,16 @@ StartupEvents.init(catalyst => {
                     {
                         newTier.setFarmland(() => $BuiltInRegistries.BLOCK.get($ResourceLocation.parse(_farmland)))
                     }
-                    
-                    newTier.setDisplayName($Component.literal(_name))
+
+                    if(_key.trim() !== "")
+                    {
+                        newTier.setDisplayName(Component.translatable(_key))
+                    }
+                    else
+                    {
+                        newTier.setDisplayName(Component.literal(_name))
+                    }
+
                     registryInstance.registerTier(newTier)
                     TIERS[`mysticalagriculture:${_idStr}`] = newTier
                     console.info(`[CatJS] Registered Tier: ${_idStr}`)
@@ -139,6 +153,7 @@ StartupEvents.init(catalyst => {
             let _essence = null
             let _glint = false
             let _dontPlant = false
+            let _key = ""
 
             return {
                 tier: function(t)
@@ -186,12 +201,18 @@ StartupEvents.init(catalyst => {
                     _dontPlant = true;
                     return this
                 },
+                translationKey: function(key)
+                {
+                    _key = key;
+                    return this;
+                },
                 register: function()
                 {
+                    global.recipesSeedToRemove.push(`mysticalagriculture:${_idStr}`)
                     let id = $ResourceLocation.parse('mysticalagriculture:'+ _idStr)
                     let tier = getTier(_tierId)
                     let type = getType(_typeId)
-                    let textures = TEXTURE_PATTERNS[_pattern]
+                    let textures = (typeof _pattern === 'string') ? TEXTURE_PATTERNS[_pattern] : _pattern;
 
                     if(!tier || !type || !textures)
                     {
@@ -204,14 +225,22 @@ StartupEvents.init(catalyst => {
 
                     let craftingMaterial = $LazyIngredient.item(_ingredient)
                     let newCrop = new $Crop(id, tier, type, craftingMaterial)
-                    newCrop.setCraftingMaterial(null)
+                    //newCrop.setCraftingMaterial(null)
                     
                     newCrop.setFlowerColor(_color).setSeedColor(_color)
                     newCrop.getTextures().setFlowerTexture(textures.getFlowerTexture())
                                          .setEssenceTexture(textures.getEssenceTexture())
                                          .setSeedTexture(textures.getSeedTexture())
                     
-                    newCrop.setDisplayName($Component.literal(_name))
+                    if(_key.trim() !== "")
+                    {
+                        newCrop.setDisplayName(Component.translatable(_key))
+                    }
+                    else
+                    {
+                        newCrop.setDisplayName(Component.literal(_name))
+                    }
+
                     if(_glint) newCrop.setHasEffect(true)
                     if(_crux) newCrop.setCruxBlock(() => $BuiltInRegistries.BLOCK.get($ResourceLocation.parse(_crux)))
                     
@@ -232,7 +261,6 @@ StartupEvents.init(catalyst => {
                     {
                         if(registryInstance.getCropById(id) != null)
                         {
-                            global.recipesSeedToRemove.push(`mysticalagriculture:${_idStr}`)
                             if(_dontPlant) global.dontPlantSeeds.push(_idStr)
                             console.info(`[CatJS] Registered Custom Crop: ${idStr}`)
                         }
@@ -247,6 +275,7 @@ StartupEvents.init(catalyst => {
             .color(0xD800FF)
             .format('LIGHT_PURPLE')
             .noSecondary()
+            .translationKey('catalyst.tier.6')
             .register()
 
         TierBuilder('mystic', 'Mystic')
@@ -254,14 +283,16 @@ StartupEvents.init(catalyst => {
             .color(0x00FFFF)
             .format('AQUA')
             .noSecondary()
+            .translationKey('catalyst.tier.mystic')
             .register()
 
         TierBuilder('magical', 'Magical')
             .value(8)
             .color(0xD800FF)
             .format('LIGHT_PURPLE')
-            .farmland('kubejs:magical_farmland')
+            .farmland('catalystcore:magical_farmland')
             .noSecondary()
+            .translationKey('catalyst.tier.magical')
             .register()
 
         TierBuilder('technology', 'Technology')
@@ -269,6 +300,7 @@ StartupEvents.init(catalyst => {
             .color(0x708090)
             .format('GRAY')
             .noSecondary()
+            .translationKey('catalyst.tier.technology')
             .register()
 
         // Tier 1
@@ -277,6 +309,7 @@ StartupEvents.init(catalyst => {
             .pattern('dust')
             .color(0xd5dee0)
             .crux('mekanism:block_salt')
+            .translationKey('catalyst.crop.salt')
             .register()
 
         // Tier 2
@@ -284,12 +317,21 @@ StartupEvents.init(catalyst => {
             .tier('2')
             .pattern('gem')
             .color(0xa66ecb)
+            .translationKey('catalyst.crop.fluxite')
             .register()
         
         CropBuilder('force_gem', 'Force Gem')
             .tier('2')
             .pattern('gem')
             .color(0xf7e922)
+            .translationKey('catalyst.crop.force_gem')
+            .register()
+
+        CropBuilder('black_quartz', 'Black Quartz')
+            .tier('2')
+            .pattern('gem')
+            .color(0x182326)
+            .translationKey('catalyst.crop.black_quartz')
             .register()
 
         // Tier 3
@@ -297,30 +339,42 @@ StartupEvents.init(catalyst => {
             .tier('3')
             .pattern('dust')
             .color(0x0092FC)
+            .translationKey('catalyst.crop.prosperity')
             .register()
 
         CropBuilder('industrial', 'Industrial')
             .tier('3')
             .pattern('ingot')
             .color(0xbcc3d4)
+            .translationKey('catalyst.crop.industrial')
             .register()
 
         CropBuilder('plastic', 'Plastic')
             .tier('3')
             .pattern('ingot')
             .color(0xbcc3d4)
+            .translationKey('catalyst.crop.plastic')
             .register()
 
         CropBuilder('xychorium', 'Xychorium Gem')
             .tier('3')
             .pattern('gem')
             .color(0x14091F)
+            .translationKey('catalyst.crop.xychorium')
             .register()
 
         CropBuilder('arcane', 'Arcane')
             .tier('3')
             .pattern('rock')
             .color(0xAC32C7)
+            .translationKey('catalyst.crop.arcane')
+            .register()
+
+        CropBuilder('enriched_copper', 'Quartz Enriched Copper')
+            .tier('3')
+            .pattern(TEXTURE_PATTERNS.ingot)
+            .color(0xe09e19)
+            .translationKey('catalyst.crop.enriched_copper')
             .register()
 
         // Tier 4
@@ -330,6 +384,8 @@ StartupEvents.init(catalyst => {
             .color(0x008020)
             .crux('mysticalagriculture:imperium_block')
             .essence('mysticalagriculture:prudentium_essence')
+            .dontPlant()
+            .translationKey('catalyst.crop.prudentium')
             .register()
 
         CropBuilder('dark_gem', 'Dark Gem')
@@ -338,12 +394,14 @@ StartupEvents.init(catalyst => {
             .color(0x320E63)
             .crux('minecraft:sculk_catalyst')
             .glint()
+            .translationKey('catalyst.crop.dark_gem')
             .register()
 
         CropBuilder('entro', 'Entro')
             .tier('4')
             .pattern('rock')
             .color(0x40F76E)
+            .translationKey('catalyst.crop.entro')
             .register()
 
         // Tier 5
@@ -353,6 +411,8 @@ StartupEvents.init(catalyst => {
             .color(0xA73F01)
             .crux('mysticalagriculture:supremium_block')
             .essence('mysticalagriculture:tertium_essence')
+            .dontPlant()
+            .translationKey('catalyst.crop.tertium')
             .register()
 
         CropBuilder('flux', 'Flux')
@@ -360,6 +420,7 @@ StartupEvents.init(catalyst => {
             .pattern('face')
             .color(0x000000)
             .crux('fluxnetworks:flux_block')
+            .translationKey('catalyst.crop.flux')
             .register()
 
         // Tier 6
@@ -369,6 +430,8 @@ StartupEvents.init(catalyst => {
             .color(0x0092FC)
             .crux('mysticalagradditions:insanium_block')
             .essence('mysticalagriculture:imperium_essence')
+            .dontPlant()
+            .translationKey('catalyst.crop.imperium')
             .register()
 
         CropBuilder('cognizian', 'Cognizian')
@@ -376,6 +439,8 @@ StartupEvents.init(catalyst => {
             .pattern('dust')
             .color(0xA73F01)
             .essence('mysticalagriculture:cognizant_dust')
+            .dontPlant()
+            .translationKey('catalyst.crop.cognizian')
             .register()
 
         // Tier Elemental
@@ -384,6 +449,7 @@ StartupEvents.init(catalyst => {
             .pattern('dust')
             .color(0x000000)
             .glint()
+            .translationKey('catalyst.crop.darkness')
             .register()
 
         CropBuilder('magic', 'Magic')
@@ -391,6 +457,7 @@ StartupEvents.init(catalyst => {
             .pattern('dust_gem')
             .color(0xAA45ED)
             .glint()
+            .translationKey('catalyst.crop.magic')
             .register()
 
         CropBuilder('mystical', 'Mystical')
@@ -398,6 +465,7 @@ StartupEvents.init(catalyst => {
             .pattern('dust_flame')
             .color(0x3DE0DB)
             .glint()
+            .translationKey('catalyst.crop.mystical')
             .register()
 
         CropBuilder('technology', 'Technology')
@@ -405,6 +473,36 @@ StartupEvents.init(catalyst => {
             .pattern('dust_ingot')
             .color(0xEDC45F)
             .glint()
+            .dontPlant()
+            .translationKey('catalyst.crop.technology')
+            .register()
+
+        // Tier Mystic (9)
+        CropBuilder("mystical_diamond", "Mystical Diamond")
+            .tier("mystic")
+            .pattern(TEXTURE_PATTERNS.gem)
+            .color(0x2bf5fb)
+            .glint()
+            .dontPlant()
+            .translationKey('catalyst.crop.mystical_diamond')
+            .register()
+
+        CropBuilder("mystical_emerald", "Mystical Emerald")
+            .tier("mystic")
+            .pattern(TEXTURE_PATTERNS.gem)
+            .color(0x35fb2b)
+            .glint()
+            .dontPlant()
+            .translationKey('catalyst.crop.mystical_emerald')
+            .register()
+
+        CropBuilder("mystical_netherite", "Mystical Netherite")
+            .tier("mystic")
+            .pattern(TEXTURE_PATTERNS.ingot)
+            .color(0x271c05)
+            .glint()
+            .dontPlant()
+            .translationKey('catalyst.crop.mystical_netherite')
             .register()
 
         // Tier Magical (8)
@@ -414,6 +512,8 @@ StartupEvents.init(catalyst => {
             .color(0xDF0101)
             .crux('mysticalagradditions:insanium_block')
             .essence('mysticalagriculture:supremium_essence')
+            .dontPlant()
+            .translationKey('catalyst.crop.supremium')
             .register()
 
         // Tier Technology (9)
@@ -421,8 +521,10 @@ StartupEvents.init(catalyst => {
             .tier('technology')
             .pattern('dust')
             .color(0x640099)
-            .crux('kubejs:magical_block')
+            .crux('mysticalagradditions:insanium_block')
             .essence('mysticalagradditions:insanium_essence')
+            .dontPlant()
+            .translationKey('catalyst.crop.insanium')
             .register()
 
         CropBuilder('dire', 'Dire Thing')
@@ -430,6 +532,8 @@ StartupEvents.init(catalyst => {
             .pattern('ingot')
             .color(0x4ebade)
             .crux('justdirethings:time_crystal_budding_block')
+            .dontPlant()
+            .translationKey('catalyst.crop.dire')
             .register()
 
         registryInstance.setAllowRegistration(false)

@@ -1,0 +1,10 @@
+{
+  "values": {
+    "#c:lava": {
+      "energy_produced": 10000
+    },
+    "catalystcore:liquid_light": {
+      "energy_produced": 500000
+    }
+  }
+}

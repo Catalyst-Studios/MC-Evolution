@@ -1,0 +1,228 @@
+{
+    "quest.00A4BAA33D1DA358.quest_desc": [
+        "&dPrimeiro&r passo (ou &asegundo&r) para obter &5combustível Físsil&r, o combustível do reator de &efissão&r.",
+        "",
+        "Coloque um pouco de &eenxofre&r em um oxidante &dquímico&r"
+    ],
+    "quest.092873428BF87547.quest_desc": [
+        "Você vai &cprecisar&r de um pouco de &bágua&r para começar"
+    ],
+    "quest.0C2DE3DDB6BFD375.title": " ",
+    "quest.0CA10AE04D6AEA7B.quest_desc": [
+        "O &dinterior&r do reator de &efissão&r consiste em um padrão de tabuleiro de &bxadrez&r, um espaço &ccheio&r e outro &dvazio&r.",
+        "",
+        "Existem 6 &5coisas&r que você deve &aconsiderar&r:",
+        "",
+        "- Se você tem &eplanos&r de produzir mais de 700 mB/t, use &7sódio&r, senão, &9água&r",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"- Se você usar \"},{\"text\":\"sódio\",\"color\":\"#AAAAAA\"},{\"text\":\", \"},{\"text\":\"não\",\"color\":\"#FF5555\"},{\"text\":\" \"},{\"text\":\"encha\",\"color\":\"#55FF55\"},{\"text\":\" completamente o \"},{\"text\":\"reator\",\"color\":\"#FF55FF\"},{\"text\":\" ou você pode causar uma explosão \"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"}]",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"- Se o tanque de lixo \"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\" estiver \"},{\"text\":\"cheio\",\"color\":\"#FF55FF\"},{\"text\":\", ele será \"},{\"text\":\"liberado\",\"color\":\"#FFAA00\"},{\"text\":\" no \"},{\"text\":\"ar\",\"color\":\"#55FF55\"},{\"text\":\".\"}]",
+        "",
+        "- Se o tanque de &7vapor&r estiver &dcheio&r, isso não &cparará&r o reator",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"- Em caso de uma explosão \"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\", você \"},{\"text\":\"pode\",\"color\":\"#FF55FF\"},{\"text\":\" ter que \"},{\"text\":\"esperar\",\"color\":\"#55FF55\"},{\"text\":\" 14H na vida real para voltar para a \"},{\"text\":\"área\",\"color\":\"#FFAA00\"},{\"text\":\" se você não \"},{\"text\":\"trapacear\",\"color\":\"#55FFFF\"}]",
+        "",
+        "- Você &5pode&r querer adicionar uma &cproteção contra falhas&r por precaução, mas se você fez uma &aboa&r configuração, não vai &eprecisar&r dela"
+    ],
+    "quest.11DABCC90AF0B4DF.quest_desc": [
+        "Em um infusor &dquímico&r, coloque um pouco de &cdeutério&r e um pouco de &atrítio&r"
+    ],
+    "quest.12F9EC1494D192A6.quest_desc": [
+        "&dCombustível de Fissão&r é o combustível para o seu Reator de &eFissão&r, o único problema é que você &busa&r muito dele, a menos que mantenha sua &6produção&r baixa."
+    ],
+    "quest.12F9EC1494D192A6.title": "&dCombustível de Fissão",
+    "quest.17715EC2B27B20A4.quest_desc": [
+        "Com um pouco de &3fluorita&r, você pode obter Ácido &7Hidrofluórico&r.",
+        "",
+        "Eu &drecomendo&r usar 9B de &6Ácido Sulfúrico&r e 1 bloco de &3fluorita&r."
+    ],
+    "quest.17715EC2B27B20A4.title": "Ácido Hidrofluórico",
+    "quest.1F0FFB21D724CF6C.quest_desc": [
+        "Basicamente vapor"
+    ],
+    "quest.20E53823E7DF68A4.quest_desc": [
+        "Em alguma &dTorre de Evaporação&r, coloque um pouco de &9água&r para obter &eSalmoura&r, você precisa aquecê-la:",
+        "",
+        "- Usando painéis &6solares&r (só funciona durante o dia)",
+        "",
+        "- Usando um aquecedor &bresistivo&r em uma porta de &eválvula&r"
+    ],
+    "quest.31E43273BF407641.quest_desc": [
+        "Você &cprecisaria&r de um pouco de &bágua&r de alguma &dfonte&r, não importa se é água ou água pesada"
+    ],
+    "quest.32381A77968498FB.quest_desc": [
+        "Ácido &7Fluorídrico&r e um pouco de &ebolo amarelo&r para obter um líquido &averde&r....",
+        "",
+        "&4NOJENTO&r!"
+    ],
+    "quest.3DB72482CFC08930.quest_desc": [
+        "&bEletrolise&r um pouco de &9água&r para obter um pouco de &aoxigênio&r, você vai &dusá-lo&r muito"
+    ],
+    "quest.3FB4008DC4FE767C.quest_desc": [
+        "O melhor reator de &5fusão&r pode te dar 400M FE por tique, mas ele &dprecisa&r de muitas &bturbinas&r para &6processar&r todo o &7vapor&r que pode produzir.",
+        "",
+        "A única &6coisa&r que pode &bconsumir&r essa quantidade é um &dSPS&r, que você &aprovavelmente&r já tem.",
+        "",
+        "Agora, para &carmazenamento&r, existem 2 maneiras:",
+        "",
+        "- &bApplied&r&aFlux&r -> Armazena muita &aenergia&r, especialmente com a &eversão&r de 256M",
+        "",
+        "- Matriz de &5Indução&r -> Armazena &aenergia&r, tem &dlimites&r de entrada/saída de energia e uma capacidade &cvariável&r, depende do que está &adentro&r. Você pode &aignorar&r o limite de entrada/saída com o &cSFM&r"
+    ],
+    "quest.40501DAE73600660.quest_desc": [
+        "Coloque uma bomba &aelétrica&r com uma melhoria de &dfiltro&r sobre a &9água&r"
+    ],
+    "quest.474762067F687EC6.quest_desc": [
+        "&dEletrolise&r um pouco de água &9pesada&r"
+    ],
+    "quest.4BE4DEF7BE609CED.quest_desc": [
+        "Os &dprincipais&r usos são os seguintes:",
+        "",
+        "- Obter &5combustível físsil&r com uma pequena perda, útil quando você só quer &aenergia&r",
+        "",
+        "- Relacionado ao drive &eQIO&r",
+        "",
+        "- &5SPS&r"
+    ],
+    "quest.4F09224ECBE6AF12.quest_desc": [
+        "Você &cprecisaria&r de um pouco de &bágua&r para começar.",
+        "",
+        "E algumas &dmáquinas&r &agrandes&r!"
+    ],
+    "quest.4F74130EBAF02EFF.quest_desc": [
+        "[{\"text\":\"\"},{\"text\":\"Em uma câmara de \"},{\"text\":\"enriquecimento\",\"color\":\"#FF55FF\"},{\"text\":\", jogue um pouco de \"},{\"text\":\"urânio\",\"color\":\"#48cf63\"},{\"text\":\" para obter \"},{\"text\":\"bolo de urânio\",\"color\":\"#FFFF55\"},{\"text\":\".\"}]",
+        "",
+        "&4Não&r coma, eu sei que parece &6delicioso&r"
+    ],
+    "quest.4F74130EBAF02EFF.title": "[{\"text\":\"\"},{\"text\":\"Bolo\",\"color\":\"#FFFF55\"},{\"text\":\" de \"},{\"text\":\"Urânio\",\"color\":\"#48cf63\"},{\"text\":\" Amarelo\"}]",
+    "quest.50015003F884A788.quest_desc": [
+        "[{\"text\":\"\"},{\"text\":\"A maneira \"},{\"text\":\"mais fácil\",\"color\":\"#FF55FF\"},{\"text\":\" de \"},{\"text\":\"eliminar\",\"color\":\"#FF5555\"},{\"text\":\" o \"},{\"text\":\"lixo nuclear\",\"color\":\"#48cf63\"},{\"text\":\" ou o lixo \"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\" gasto é colocá-lo em um \"},{\"text\":\"barril\",\"color\":\"#FFAA00\"},{\"text\":\" e \"},{\"text\":\"quebrá-lo\",\"color\":\"#FF55FF\"},{\"text\":\", colocar o \"},{\"text\":\"barril\",\"color\":\"#FF55FF\"},{\"text\":\" novamente e repetir.\"}]",
+        "",
+        "Isso deve ser feito em uma &adimensão&r de &bbolso&r ou &clonge&r da sua base....",
+        "",
+        "&oOu &c&labaixo&r&o da base do seu &eamigo&r&o :)&r"
+    ],
+    "quest.50015003F884A788.quest_subtitle": "Ponto extra se a base for sua",
+    "quest.50015003F884A788.title": "Despejando o conteúdo na base do seu amigo!",
+    "quest.51B8F9EF2A2DD4F1.quest_desc": [
+        "Precisa de &6sol&r &ddireto&r e deve ser de &edia&r para usá-lo.",
+        "",
+        "É uma &cdor de cabeça&r, eu sei.",
+        "",
+        "Produz &aPolônio&r, que não &5decaí&r em um barril"
+    ],
+    "quest.51B8F9EF2A2DD4F1.quest_subtitle": "Solarium",
+    "quest.51DB91041E12EBA6.quest_desc": [
+        "Coloque um pouco de &eSalmoura&r em outra torre de &devaporação&r"
+    ],
+    "quest.61B1A8BE38F9B61C.quest_desc": [
+        "Em outro infusor &dquímico&r, combine Vapor de &9Água&r e um pouco de &cTrióxido de Enxofre&r para obter &6Ácido Sulfúrico&r.",
+        "",
+        "Provavelmente seria uma &5boa&r ideia &bescalar&r esta configuração"
+    ],
+    "quest.652F6C54857044E4.quest_desc": [
+        "Precisa de &aenergia&r para funcionar. Apenas isso.",
+        "",
+        "Produz &3Plutônio&r, que não &ddecaí&r em um barril"
+    ],
+    "quest.652F6C54857044E4.quest_subtitle": "Centrífuga &4UHV&r",
+    "quest.657AB7296D5DF24B.quest_desc": [
+        "[{\"text\":\"\"},{\"text\":\"Urânio\",\"color\":\"#48cf63\"},{\"text\":\", o mais \"},{\"text\":\"poderoso\",\"color\":\"#FFFF55\"},{\"text\":\" dos elementos....\"}]",
+        "",
+        "Se não fosse pelo fato de que a &dAntimatéria&r é melhor.",
+        "",
+        "Você vai &ausar&r muito esta barra, mais do que &6qualquer&r outra coisa"
+    ],
+    "quest.657AB7296D5DF24B.title": "[{\"text\":\"\"},{\"text\":\"Barra\",\"color\":\"#48cf63\"},{\"text\":\" de Urânio\"}]",
+    "quest.65AAE405AC91FB85.quest_desc": [
+        "&dBasicamente&r, uma maneira de ter menos &dmáquinas&r, útil apenas para &aenergia&r"
+    ],
+    "quest.6DC5821F6D927EDA.quest_desc": [
+        "&aPolônio&r é como ferro, usado em muitas coisas relacionadas à &6criação&r, mas os &dprincipais&r usos são:",
+        "",
+        "- &dAntimatéria&r",
+        "",
+        "- &5SPS&r",
+        "",
+        "- &aMeka&rSuit",
+        "",
+        "- &cFusão&r",
+        "",
+        "- Coisas relacionadas ao &eQIO&r"
+    ],
+    "quest.73693A4E319A9E8F.quest_desc": [
+        "Esta &dlinha de missões&r guia você pelo &cendgame&r do &aMekanism&r, &efissão&r e &5fusão&r.",
+        "",
+        "Eles são bem &bcaros&r, eu &3recomendaria&r ter uma base e pelo menos um sistema de &carmazenamento&r decente pronto.",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"Especialmente um bom suprimento de \"},{\"text\":\"urânio\",\"color\":\"#48cf63\"},{\"text\":\"......\"}]"
+    ],
+    "quest.73693A4E319A9E8F.quest_subtitle": "Uma verdadeira experiência GregTech?",
+    "quest.77AEFEB65AA226B9.quest_desc": [
+        "&eEnxofre&r pode ser obtido de algumas &afontes&r, como &6abelhas&r ou &dsementes&r"
+    ],
+    "quest.78F14ACE6B96AB31.quest_desc": [
+        "Embora você possa &dmisturar&r &cdeutério&r e &atritium&r no reator de &5fusão&r, ele gera menos &aenergia&r ou você precisaria construir mais &ereatores&r para a mesma &3saída&r de um reator de &5Combustível DT&r.",
+        "",
+        "Você pode &biniciá-lo&r de 2 maneiras:",
+        "",
+        "- &5Lasers&r -> Mais &aeficiente&r em termos de &aenergia&r, mas leva um pouco de &atempo&r",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"- \"},{\"text\":\"Calor\",\"color\":\"#FF5555\"},{\"text\":\" -> Usando um \"},{\"text\":\"aquecedor resistivo\",\"color\":\"#55FFFF\",\"underlined\":true,\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"mekanism:resistive_heater\",\"count\":1}}},{\"text\":\" e 1 GFe, você pode \"},{\"text\":\"iniciar\",\"color\":\"#FF55FF\"},{\"text\":\" um \"},{\"text\":\"reator\",\"color\":\"#FFFF55\"},{\"text\":\" (8 de energia de \"},{\"text\":\"melancia\",\"color\":\"#55FF55\"},{\"text\":\" básica dão \"},{\"text\":\"energia\",\"color\":\"#55FF55\"},{\"text\":\" suficiente para isso)\"}]",
+        "",
+        "Este &ereator&r é um pouco complicado porque você precisa manter um &acalor&r &aconstante&r dentro dele, ou precisaria &4iniciá-lo&r novamente, então não bombeie &9água&r o mais rápido que puder!",
+        "",
+        "Você pode obter &aenergia&r diretamente do &ereator&r, mas é menos eficaz.",
+        "{@pagebreak}",
+        "Esta é a estrutura &bgeral&r:",
+        "O &evidro do reator&r pode ser trocado por &aportas&r ou outro componente de fusão (exceto o &bcontrolador&r)",
+        "",
+        "{image:catalyst:textures/quest_images/mekanism/fusion_1.png width:100 height:100 align:center fit:true}",
+        "",
+        "Se o &6controlador&r tiver esta textura, significa que está &cligado&r:",
+        "",
+        "{image:catalyst:textures/quest_images/mekanism/fusion_2.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.78F14ACE6B96AB31.quest_subtitle": "O futuro",
+    "quest.78F14ACE6B96AB31.title": "Reator de Fusão",
+    "quest.7AA0505F34FBEFD7.quest_desc": [
+        "Este é o tamanho &5mínimo&r para um reator de &efissão&r.",
+        "Você pode ir até &a18x18x18&r na parte &d&nexterna&r.",
+        "",
+        "Há algumas &ecoisas&r que você precisa &aconsiderar&r:",
+        "",
+        "- Quanto &5Combustível Físsil&r você pode fornecer a ele",
+        "",
+        "- &9Água&r ou &7Sódio&r?",
+        "",
+        "- &bProcessar&r o &dlixo nuclear&r ou descartá-lo?",
+        "",
+        "- &eFissão&r para &aenergia&r?",
+        "{@pagebreak}",
+        "O &ainterior&r é um padrão de &dxadrez&r, com o topo sendo uma &aVara de Controle&r",
+        "",
+        "É &dassim&r que &bse parece&r:",
+        "",
+        "",
+        "{image:catalyst:textures/quest_images/mekanism/min_fission.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.7AA0505F34FBEFD7.quest_subtitle": "&cKaboom&r Feliz",
+    "quest.7AA0505F34FBEFD7.title": "Reator de Fissão",
+    "quest.7E750D68728A7049.quest_desc": [
+        "Este é um dos multiblocos que &d&lmais&r consomem &aenergia&r no jogo &6inteiro&r, capaz de consumir 400Mfe em pouco &etempo&r",
+        "",
+        "Aqui estão todos os &5blocos&r necessários para &bconstruí-lo&r!",
+        "A &aEnergia&r entra na porta do &dSPS&r onde as &6bobinas&r estão",
+        "",
+        "{image:catalyst:textures/quest_images/mekanism/sps.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.7E750D68728A7049.quest_subtitle": "&aVerde&r para entrada, &cvermelho&r para saída!",
+    "quest.7E750D68728A7049.title": "Construa um SPS",
+    "quest.7F6855051CEBDDF2.quest_desc": [
+        "Em um &dNeutron&r Ativado por &6Solar&r, coloque um pouco de &6lítio&r dentro"
+    ],
+    "quest.7F83596D79A438C7.quest_desc": [
+        "Em um infusor &dquímico&r, combine &7Dióxido de Enxofre&r e um pouco de &boxigênio&r para obter &cTrióxido de Enxofre&r"
+    ]
+}

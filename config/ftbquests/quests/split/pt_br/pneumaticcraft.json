@@ -1,0 +1,552 @@
+{
+    "quest.01AC9F09A84155B8.quest_desc": [
+        "Esta é a bomba de vácuo básica, ela gerará sucção quando conectada à pressão",
+        "",
+        "O vácuo é usado para algumas coisas neste mod, como criar e extrair núcleos de gerador e desencantar. ",
+        "",
+        "Aplicar pressão negativa a uma grade de ar fará com que ela sugue as coisas em vez de afastá-las."
+    ],
+    "quest.01AC9F09A84155B8.quest_subtitle": "Sucção",
+    "quest.01C22467B074967C.quest_desc": [
+        "A estrutura de calor pode ser colocada em cima de qualquer inventário e é usada para criar obsidiana, gelo e plástico ",
+        "",
+        "Para fazer isso, você precisará manter a estrutura abaixo da temperatura de solidificação do que quer que esteja tentando fazer, o que é explicado nas missões de calor anteriores",
+        "",
+        "Os tanques do pnc são úteis para isso, pois eles comportam vários baldes, então você não precisa ficar lá trocando baldes o dia todo."
+    ],
+    "quest.01C22467B074967C.quest_subtitle": "Banho de gelo",
+    "quest.0335AE18355F438B.quest_desc": [
+        "O plástico derretido é feito na planta de processamento termopneumático e é feito com GLP ou biodiesel junto com carvão."
+    ],
+    "quest.0335AE18355F438B.quest_subtitle": "Nada como o cheiro de plástico queimado pela manhã",
+    "quest.057C34F21922414A.quest_desc": [
+        "A caixa de luz UV é usada para aumentar a chance de sucesso da corrosão em seus PCBs vazios. Quanto mais tempo eles ficam lá, maior a chance de sucesso",
+        "",
+        "O projeto de PCB é trocado no Amadron ou com o aldeão do pnc."
+    ],
+    "quest.05CBF1076C1E21DF.quest_desc": [
+        "Agora, se você não quiser quebrar a câmara toda vez que desejar fazer uma criação, você vai querer pelo menos 2 destes.",
+        "",
+        "Eles permitem importar e exportar da câmara de pressão.",
+        "",
+        "Eles exportam ou importam da câmara com base na direção em que você os coloca, o lado azul é entrada e o lado laranja é saída &e(quando olhados de fora)&r.",
+        "",
+        "Eles exportarão automaticamente para um inventário adjacente, mas não puxarão de um inventário adjacente e você não pode operá-los manualmente, então você terá que usar canos/funis para inserir.",
+        "",
+        "&e(nota: toda vez que eles abrem e fecham, você perde um pouco de ar. Para minimizar isso, você pode atualizá-los com melhorias de velocidade)&r"
+    ],
+    "quest.05CBF1076C1E21DF.quest_subtitle": "E/S",
+    "quest.08F416131D7643D3.quest_desc": [
+        "Você está cansado de canos arruinando sua configuração limpa?",
+        "",
+        "Então esta é a ferramenta para você!",
+        "",
+        "O aplicador de camuflagem é capaz de esconder canos, entre outras coisas."
+    ],
+    "quest.08F416131D7643D3.quest_subtitle": "Canos feios? não tema",
+    "quest.0BBC615579A094E2.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em qualquer modpack público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões do &ePneumaticCraft&r feita por: &aRadz&7Ratz&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.0BBC615579A094E2.quest_subtitle": "Estas missões incríveis foram feitas para a &4Catalyst Studios&r",
+    "quest.0BBC615579A094E2.title": "&l&4Missões da Catalyst Studios",
+    "quest.0C3E31C1CC7C09B1.quest_desc": [
+        "Esses drones interagirão com inventários que possuem quadros de logística neles em uma área de 31x31x31 centrada onde você os implantou.",
+        "",
+        "O comportamento deles é baseado em como você programa os quadros.",
+        "",
+        "Uma vez que você consiga fazer um drone de propósito geral, você pode fazer uma versão mais poderosa deste recurso com o widget de logística.",
+        "",
+        "&e(nota: drones podem ter muitas melhorias que podem ser benéficas para sua operação. As melhorias são explicadas na interface do carregador &r&4(seta acima do slot de carga)&r&e)&r"
+    ],
+    "quest.0C3E31C1CC7C09B1.quest_subtitle": "Entrega aérea",
+    "quest.0EF171C9D1A27B99.quest_desc": [
+        "O PNC vem com um aldeão útil que troca tudo o que você pode precisar, exceto plástico. Na verdade, ele é tão bom que, se você tiver estes, nem precisa construir uma câmara de pressão.",
+        "",
+        "veja a página 2 para as trocas.",
+        "",
+        "{@pagebreak}",
+        "",
+        "Despejo de informações sobre as trocas do aldeão:",
+        "",
+        "COMPRESSED_IRON_BLOCK",
+        "PRESSURE_TUBE",
+        "AIR_CANISTER",
+        " ",
+        "&7LOGISTICS_CORE&r",
+        "&7TRANSISTOR&r",
+        "&7CAPACITOR&r",
+        "&7TURBINE_BLADE&r",
+        "",
+        "",
+        "",
+        "&eLOGISTICS_DRONE&r",
+        "&eHARVESTING_DRONE&r",
+        "&eCOLLECTOR_DRONE&r",
+        "&eGUARD_DRONE&r",
+        "&ePNEUMATIC_CYLINDER&r",
+        "&eGUN_AMMO&r",
+        "",
+        "",
+        "&aGUN_AMMO_FREEZING&r",
+        "&aGUN_AMMO_WEIGHTED&r",
+        "&aGUN_AMMO_AP&r",
+        "&aGUN_AMMO_EXPLOSIVE&r",
+        "&aGUN_AMMO_INCENDIARY&r",
+        "&aPROGRAMMING_PUZZLE&r",
+        "&aNUKE_VIRUS&r",
+        "&aSTOP_WORM&r",
+        "",
+        "&bPRINTED_CIRCUIT_BOARD&r",
+        "&bMICROMISSILES&r",
+        "&bDRONE&r"
+    ],
+    "quest.0EF171C9D1A27B99.quest_subtitle": "Dane-se isso",
+    "quest.0EF171C9D1A27B99.title": "Válvula de Desvio",
+    "quest.0F68267B2DC0E06A.quest_desc": [
+        "É aqui que você pode construir programas para seus drones. Você pode selecionar a complexidade do programa no canto inferior direito.",
+        "",
+        "Programas consistem em widgets que você encaixa, e o widget só aceitará um widget que se encaixe.",
+        "",
+        "Você começa com o bloco de início e então constrói seu programa para baixo.",
+        "",
+        "Volumes negativos/listas negras, etc., vão no lado esquerdo do widget, e listas brancas e volumes vão no lado direito dos widgets. Você pode adicionar quantos widgets quiser em uma fileira para criar filtros e volumes mais complexos (alguns widgets aceitam apenas áreas cúbicas).",
+        "",
+        "Quando você cria um programa e o coloca em um drone ou API, você tem que pagar com peças de quebra-cabeça que podem ser criadas ou trocadas com aldeões.",
+        "",
+        "O sistema de programação é bastante intuitivo e não aprofundarei mais nele. Se você estiver curioso sobre um widget, veja o livro e passe o mouse sobre ele no programador."
+    ],
+    "quest.0F68267B2DC0E06A.quest_subtitle": "Junte as peças",
+    "quest.10B2FF4D07F806B7.quest_desc": [
+        "O tubo de pressão é usado para mover e conter seu ar.",
+        "",
+        "O tubo mais básico é capaz de lidar com 5 bars de pressão; muito mais e eles explodirão aleatoriamente.",
+        "",
+        "A pressão leva um tempo para viajar, então é aconselhável manter as distâncias ao mínimo neste modo. Se desejar, esses tubos durarão até o tubo de nível mais alto."
+    ],
+    "quest.10B2FF4D07F806B7.quest_subtitle": "Igual, mas diferente",
+    "quest.1144B308B2C7245F.quest_desc": [
+        "Quando colocado em um cano com pelo menos 3 bars de pressão, ele se conectará a todos os outros módulos de logística na rede.",
+        "",
+        "A rede se estende apenas aos canos conectados.",
+        "",
+        "Por si só, eles não fazem nada, mas quando voltados para uma estrutura de logística, eles transferirão itens entre os inventários, dependendo de como você configurou suas estruturas de logística.",
+        "",
+        "&4(NOTA! o módulo precisa estar voltado para a estrutura de logística, não pode estar em qualquer face)&r"
+    ],
+    "quest.1144B308B2C7245F.quest_subtitle": "Logística por canos",
+    "quest.1292C85BF4C73D7A.quest_desc": [
+        "Este gerador produz pressão com base no diferencial de calor em lados opostos; quanto maior a diferença, mais rápido ele é. Veja os capítulos sobre calor para mais informações sobre calor."
+    ],
+    "quest.13060BF8D2D4AB76.quest_desc": [
+        "O extrator de gerador é colocado em um gerador, então você aplica pressão negativa para começar a extrair o núcleo.",
+        "",
+        "o resultado será um núcleo com 100% de essência do tipo de gerador que você extraiu e um gerador vazio que você usa para criar o gerador pressurizado."
+    ],
+    "quest.13060BF8D2D4AB76.quest_subtitle": "Suco de Gerador",
+    "quest.13647F5B0F6745E5.quest_desc": [
+        "Se você quiser fazer núcleos de gerador personalizados, vai precisar disso.",
+        "",
+        "Eles precisam ser preenchidos com experiência na planta de processamento termopneumático para poderem ser preenchidos com criaturas."
+    ],
+    "quest.13647F5B0F6745E5.quest_subtitle": "Estrutura",
+    "quest.1A36052DF194B26A.quest_desc": [
+        "O drone de guarda atacará criaturas em uma área de 31x31 e 8 para cima e 5 para baixo do inventário em que for colocado. Este inventário deve conter armas ou munição de minigun se a melhoria de minigun estiver instalada.",
+        "",
+        "Observe que esses drones têm vida e podem morrer; existem melhorias de armadura и de regeneração para eles.",
+        "",
+        "&e(nota: drones podem ter muitas melhorias que podem ser benéficas para sua operação. As melhorias são explicadas na interface do carregador &r&4(seta acima do slot de carga)&r&e)&r"
+    ],
+    "quest.1A36052DF194B26A.quest_subtitle": "Controle de pragas",
+    "quest.1B100B1D5C5E7F0B.quest_desc": [
+        "Quando você começa a trabalhar com pressões mais altas, pode encontrar máquinas que ainda requerem 5 ou 10 bar, mesmo que você esteja produzindo 20 bar.",
+        "",
+        "Para isso, você pode usar o regulador para reduzir uma linha de 20 ou 10 para 5 Bar com a versão básica e qualquer pressão que desejar com a versão aprimorada.",
+        "",
+        "Você quer que sua fonte de pressão esteja no lado grande e sua saída no lado pequeno.",
+        "",
+        "Com a versão aprimorada, você pode usar um sinal de redstone para regular quanta pressão ele deixa passar.",
+        "",
+        "&4(NOTA! não regula a pressão em ambos os sentidos.)&r"
+    ],
+    "quest.1D3E958C900ADD0E.quest_desc": [
+        "feito na planta de processamento termopneumático e permite que você lide com 10 bars de pressão"
+    ],
+    "quest.1D3E958C900ADD0E.quest_subtitle": "10 Bar",
+    "quest.1EACFBCABFF93EE6.quest_desc": [
+        "Se você ainda não tiver outro tipo de experiência líquida para usar para encher os núcleos de gerador, você pode usar este item para armazenar experiência e então usá-lo em um tanque para obter essência da memória."
+    ],
+    "quest.218624C62F3E436E.quest_desc": [
+        "O tablet Amadron pode ser usado para negociar por várias coisas úteis como lubrificante para melhorias de velocidade e para obter o projeto do pcb para produzir suas próprias placas de circuito",
+        "",
+        "",
+        "Para usar o tablet, você primeiro precisa carregá-lo em uma estação de carregamento.",
+        " ",
+        "Então você seleciona o local de coleta/entrega, é aqui que você coloca suas esmeraldas, etc., e recebe seus produtos comprados, &ese você quiser negociar por líquidos, você precisa definir um tanque também para coleta/entrega.&r"
+    ],
+    "quest.218624C62F3E436E.quest_subtitle": "Compras online",
+    "quest.232EB86E5AD07B82.quest_desc": [
+        "Irá coletar itens e depositá-los no inventário em que foi colocado. ",
+        "",
+        "Se for colocado em um inventário com itens, ele filtrará para os itens no inventário no momento da implantação. A única maneira de definir um novo filtro é pegar o drone e colocá-lo novamente.",
+        "",
+        "Seu alcance é por padrão 17x17x17 centrado no inventário e pode ser melhorado com aumentos de alcance",
+        "",
+        "&e(nota: drones podem ter muitas melhorias que podem ser benéficas para sua operação; as melhorias são explicadas na interface do carregador&r&4(seta acima do slot de carga)&r&e)&r"
+    ],
+    "quest.2489A5EDFFCD05C3.quest_desc": [
+        "Usado para definir coordenadas em programas, entre outras coisas.",
+        "",
+        "Ajuste a localização segurando shift e rolando enquanto olha na direção que deseja ajustar",
+        "",
+        "para colar coordenadas no programa, segure o gps sobre o widget para o qual deseja colar e clique nele"
+    ],
+    "quest.24CBEE1570C4CCAD.quest_desc": [
+        "Essas molduras, quando colocadas em inventários, permitem que drones/programas/módulos de logística interajam com eles (explicado nas próximas missões).",
+        "",
+        "existem 5 tipos e estes se conectarão a qualquer inventário, não apenas baús",
+        "",
+        "&4provedor passivo: fornecerá itens a solicitantes que serão priorizados sobre todas as outras molduras.&r",
+        "",
+        "&5provedor ativo: empurrará itens para o armazenamento de solicitantes e molduras de armazenamento padrão, se possível.&r",
+        "",
+        "&1solicitante: são capazes de solicitar itens de provedores ativos, provedores passivos, armazenamento e armazenamento padrão.&r",
+        "",
+        "&earmazenamento: armazena itens de provedores ativos.&r",
+        "",
+        "&2armazenamento padrão: só será preenchido se não houver outro lugar para depositar e será retirado antes do armazenamento e envia seus itens para molduras de armazenamento normais, se possível.&r",
+        "",
+        "Você pode definir uma transferência mínima no ícone de grade em sua GUI para tornar a transferência mais eficiente.",
+        "",
+        "Funciona mais ou menos como o sistema de logística do Factorio."
+    ],
+    "quest.24CBEE1570C4CCAD.quest_subtitle": "Factorio, é você?",
+    "quest.25081C81DD7C47E9.quest_desc": [
+        "O núcleo do gerador é inserido no gerador pressurizado para que ele gere quaisquer criaturas que estejam no núcleo.",
+        "",
+        "Personalizados podem ser feitos na armadilha a vácuo com núcleos criados do zero.",
+        "",
+        "O núcleo que você obteve ao extrair um gerador pode ser colocado de volta assim que você o transformar em um gerador pressurizado, se você quiser aquela criatura em particular."
+    ],
+    "quest.2794DEFAA6E8DD10.quest_desc": [
+        "Versão melhorada, esta tem 2 coordenadas e pode até selecionar diferentes formas."
+    ],
+    "quest.2794DEFAA6E8DD10.quest_subtitle": "Isso está saindo de controle, agora há dois deles",
+    "quest.2BA4BE93A61B7015.quest_desc": [
+        "pnc introduz calor. O calor pode ser transmitido através de cabos de calor, blocos de ferro comprimido e máquinas que geram/requerem calor.",
+        "",
+        "Às vezes, você precisa gerar calor, o que pode ser feito colocando blocos quentes como lava ou blocos de magma ao lado da máquina ou blocos de ferro comprimido conectados à máquina, mas estes perderão calor com o tempo e eventualmente se converterão em outros materiais, então isso não é aconselhável, pois é realmente ineficiente.",
+        "",
+        "A alternativa é usar um tubo de vórtice, que usará pressão para criar um lado quente (o lado vermelho) и um lado frio (o lado azul)",
+        "",
+        "Livrando-se do calor",
+        "Se você precisar se livrar do calor, pode usar o método dos blocos, mas com coisas frias como gelo, etc. ou pode usar o lado frio de um tubo de vórtice ou o método mais barato e fácil é o dissipador de calor.",
+        "",
+        "todos os blocos que podem reter/transferir calor perderão naturalmente calor através de qualquer lado aberto que não esteja coberto por um bloco ou isolamento térmico, mas colocar um dissipador de calor acelerará muito esse processo"
+    ],
+    "quest.2BA4BE93A61B7015.quest_subtitle": "Esquentando aqui",
+    "quest.2BA4BE93A61B7015.title": "Calor 101",
+    "quest.2BA68052B62D7EBF.quest_desc": [
+        "O gerador pressurizado é um gerador poderoso que rivaliza com o Gerador Apothic.",
+        "",
+        "uma vez totalmente melhorado e funcionando a 20 bar, este gerador funcionará a taxas semelhantes às do gerador Apoth e é capaz de conter um núcleo com uma grande quantidade de criaturas diferentes em um único gerador",
+        "",
+        "&4(NOTA! a pressão operacional mínima para o gerador é de 10 Bar, use com cuidado.)&r"
+    ],
+    "quest.2E6E63F5C8849B56.quest_subtitle": "Orgânico",
+    "quest.31A03D303C9D7543.quest_desc": [
+        "Este é o bloco que você usa para carregar seu equipamento no PNC.",
+        "Também é usado para carregar drones se você tiver uma melhoria de ejetor nele."
+    ],
+    "quest.3232A5D2408F36A7.quest_desc": [
+        "Usado para interagir com molduras logísticas"
+    ],
+    "quest.32CA71F95A2FE5D3.quest_desc": [
+        "Esses tijolos são usados em vários blocos neste mod, como compressores, carregadores, etc."
+    ],
+    "quest.32CA71F95A2FE5D3.quest_subtitle": "Pedra dura",
+    "quest.32CA71F95A2FE5D3.title": "Pedra reforçada",
+    "quest.35F5804D9B6BB176.quest_desc": [
+        "A planta de processamento termopneumático é uma das estruturas que requer calor e pressão para operar.",
+        "",
+        "É usada em vários pontos ao longo da linha de produção de plástico, bem como no craqueamento de óleo."
+    ],
+    "quest.386792182535EFAE.quest_desc": [
+        "Este módulo é colocado em seus canos para mantê-los seguros; eles liberarão pressão a 4.9 Bar em um tubo básico e reforçado e 19.9 em um tubo avançado.",
+        "",
+        "Se você quiser definir seus próprios limites, pode usar um cartão de expansão de módulo nele mais tarde.",
+        "",
+        "A versão aprimorada pode regular seu limiar com base no nível de redstone.",
+        "",
+        "&4(NOTA! estes podem ser sobrecarregados se receberem muita pressão)&r"
+    ],
+    "quest.386792182535EFAE.quest_subtitle": "Apito de alerta",
+    "quest.387749084DD040D9.quest_desc": [
+        "No PNC, a maioria, se não todos os itens, têm dicas úteis que geralmente explicam muito bem o que as diferentes coisas fazem.",
+        "",
+        "É aqui também que você pode ver as pressões nominais das máquinas."
+    ],
+    "quest.39182BE15900BF10.quest_desc": [
+        "Para usar a armadilha de vácuo, simplesmente aplique pressão negativa, insira o núcleo do gerador vazio e clique com shift no bloco para abri-lo.",
+        "",
+        "&4(NOTA! não substituirá a essência armazenada, então você precisa inserir um núcleo que não esteja já cheio.)&r",
+        "",
+        "Aqui está um exemplo do que você pode fazer com os núcleos personalizados.",
+        "toda vez que tentar gerar criaturas, ele escolherá aleatoriamente entre as que estão na tag.",
+        "{image:catalyst:textures/quest_images/pneumaticcraft_repressurized/spawner_core.png width:100 height:200 align:center}"
+    ],
+    "quest.39182BE15900BF10.quest_subtitle": "Caça-fantasmas",
+    "quest.398B22B8D9E1149A.quest_desc": [
+        "funciona em uma área de 17x17x17 e colherá qualquer cultura totalmente crescida se colocado em um inventário e uma enxada for colocada nesse inventário, ele replantará as culturas.",
+        "",
+        "&4(não coletará itens)&r",
+        "",
+        "&e(nota: drones podem ter muitas melhorias que podem ser benéficas para sua operação; as melhorias são explicadas na interface do carregador &r&4(seta acima do slot de carga)&r&e)&r"
+    ],
+    "quest.3A25C866395DB478.quest_desc": [
+        "Seu primeiro PCB. É aconselhável usar seus primeiros PCBs no multibloco de montagem, pois ele permite que você faça PCBs muito mais facilmente"
+    ],
+    "quest.3A25C866395DB478.quest_subtitle": "Rocha pensante",
+    "quest.3C99340DB19C8333.quest_desc": [
+        "A interface aérea permite a interação com seu inventário; isso pode ser reabastecimento automático de equipamentos com RF, não apenas ar, e você pode até bombear EXP para dentro e fora do seu jogador.",
+        "",
+        "",
+        "exemplo de carregamento automático do traje PNC",
+        "{image:catalyst:textures/quest_images/pneumaticcraft_repressurized/autocharging.png width:200 height:200 align:center}",
+        "{image:catalyst:textures/quest_images/pneumaticcraft_repressurized/autocharging2.png width:220 height:200 align:center}"
+    ],
+    "quest.3F160D913BA62B9B.quest_desc": [
+        "Esta provavelmente será sua primeira forma de gerar pressão de forma rápida e suja.",
+        "",
+        "Ele queima qualquer material com valor de combustível, como carvão, tábuas, etc., e pode ser regulado com redstone.",
+        "",
+        "&4(NOTA! Este compressor continuará gerando pressão até que o combustível atualmente em queima termine, mesmo quando desativado por redstone, então é aconselhável usar um combustível com baixo valor, como carvão minúsculo.)&r"
+    ],
+    "quest.3F160D913BA62B9B.quest_subtitle": "você provavelmente vai explodir alguns desses",
+    "quest.3F417D2CB3BBBC04.quest_desc": [
+        "Este é um compressor de nicho que usa raios para gerar pressão. Consulte o livro para obter informações sobre como configurar.",
+        "",
+        "&e(nota: raios artificiais não funcionarão; o gerador convocará raios aleatoriamente com base no clima e na configuração que você tiver)&r"
+    ],
+    "quest.3F417D2CB3BBBC04.quest_subtitle": "emocionante",
+    "quest.3F502A343332B9DB.quest_desc": [
+        "O plástico é usado em vários componentes e blocos no PNC, como placas de circuito e várias máquinas"
+    ],
+    "quest.3F502A343332B9DB.quest_subtitle": "Hora de lego",
+    "quest.3F6C63BFB8373722.quest_desc": [
+        "Componente usado em itens de logística"
+    ],
+    "quest.40FF3CEA25F2CB54.quest_desc": [
+        "A câmara de pressão é a peça central do PNC,",
+        "",
+        "Não só permite fazer ferro comprimido na proporção de 1:1, ao contrário da compressão explosiva, mas também permite fazer vários componentes úteis necessários neste mod.",
+        "",
+        "A não ser que você tenha seguido a rota do aldeão, nesse caso você não precisa dela de jeito nenhum....",
+        "",
+        "A câmara vem em 3 tamanhos: 3x3x3, 4x4x4 e 5x5x5.",
+        "",
+        "Você pode substituir qualquer bloco nas paredes por válvulas, portos, janelas ou interfaces de câmara de pressão, &4exceto pelas bordas e cantos externos.&r"
+    ],
+    "quest.40FF3CEA25F2CB54.title": "Câmara de Pressão",
+    "quest.4611B03649489FE8.quest_desc": [
+        "Se você quer fazer PCBs desmontados a partir de PCBs vazios, terá que gravá-los.",
+        "",
+        "Para fazer isso, você precisará de ácido de gravação e um tanque de gravação.",
+        "(o ácido de gravação é feito na câmara de pressão)",
+        "",
+        "por padrão, o tanque de gravação não consome nenhum ácido, a menos que você o aqueça.",
+        "",
+        "Quanto mais quente o tanque de gravação, mais rápido ele vai, mas aí você também tem que reabastecer o ácido.",
+        "",
+        "&e(PCBs com falha podem ser reciclados em uma fornalha)&r",
+        "",
+        "&4(NOTA! se você obterá uma gravação bem-sucedida depende da chance de sucesso da gravação, a chance aumenta quanto mais tempo você a mantém na caixa de luz)&r"
+    ],
+    "quest.4611B03649489FE8.quest_subtitle": "Um tanque de ácido falso?",
+    "quest.4611B03649489FE8.title": "Gravação",
+    "quest.495DE286325A307B.quest_desc": [
+        "Este multiblock permite que você faça tubos de pressão avançados e PCBs vazios com muito mais facilidade, sem todas as etapas de caixa de luz e gravação.",
+        "",
+        "Estes são todos os blocos que você precisa para fazer uma configuração de montagem totalmente funcional",
+        "",
+        "A plataforma de montagem vai no centro.",
+        "",
+        "O laser e a broca devem estar tocando a estação de montagem, diagonais não contam.",
+        "",
+        "A E/S pode ir em um 3x3 centrado na plataforma de montagem, estes exportarão e importarão para qualquer inventário dentro de um 3x3 centrado neles mesmos, isso pode ser um baú ou, por exemplo, uma interface.",
+        "",
+        "Por último, o controlador pode ir a qualquer lugar, desde que esteja tocando o resto do multiblock, é aqui que você alimenta a pressão e insere seu programa.",
+        "",
+        "&4(NOTA! todos os blocos devem estar se tocando)&r"
+    ],
+    "quest.495DE286325A307B.title": "Linha de Montagem",
+    "quest.4A0234D2BEB10B56.quest_desc": [
+        "Estes compressores são a versão melhorada da versão básica e um novo compressor (compressor de fluxo).",
+        "Eles gerarão até 20 bars de pressão e o farão com grande velocidade quando melhorados. Note que esses compressores geram calor e perdem eficiência quanto mais quentes ficam, então uma solução de resfriamento é indispensável.",
+        "",
+        "O resfriamento geralmente vem na forma de dissipadores de calor ou dissipadores com ar soprando sobre eles usando uma grade de ar."
+    ],
+    "quest.4AB6901D51226E1B.quest_desc": [
+        "Para aqueles que querem fazer as coisas do jeito difícil",
+        "",
+        "O calor só será transferido para blocos completos; os canos de calor só transferirão calor de blocos completos como máquinas, ferro comprimido e dissipadores de calor; eles não se conectarão a líquidos, para isso você precisa de ferro comprimido."
+    ],
+    "quest.4AB6901D51226E1B.quest_subtitle": "Não diga que não avisei",
+    "quest.4AB6901D51226E1B.title": "Calor 103",
+    "quest.4B59110691340891.quest_desc": [
+        "usado principalmente nos diferentes componentes para os multiblocos de montagem"
+    ],
+    "quest.4C88E4FACA72A4A0.quest_subtitle": "ESTÁ VIVO!",
+    "quest.4C89C5F7446C15CD.quest_desc": [
+        "Se você ainda não encontrou algum como saque de masmorra ou \"realocou\" um aldeão do PNC para negociar, você pode fazer este ferro comprimido explodindo ferro com TNT.",
+        "",
+        "Esteja ciente de que haverá algumas perdas durante este processo",
+        "Tanto barras quanto blocos funcionam para isso"
+    ],
+    "quest.4C89C5F7446C15CD.quest_subtitle": "Explosivo",
+    "quest.4C89C5F7446C15CD.title": "Sob Pressão",
+    "quest.4E23B188C32FFAE5.quest_desc": [
+        "Se ainda houver algo que você esteja se perguntando que não foi abordado nas missões, sempre há o livro.",
+        "",
+        "Se você tiver o livro em seu inventário, pode segurar ctrl sobre um item para ir diretamente para sua página."
+    ],
+    "quest.4E23B188C32FFAE5.quest_subtitle": "Leitor Ávido",
+    "quest.4FCD069CFF4FA112.quest_desc": [
+        "Um drone programável, este drone pode fazer tudo o que os outros drones podem e mais, pode ser programado na estação de programação e pode até executar múltiplos programas com o widget de programa externo e a API de rede.",
+        "",
+        "",
+        "&e(nota: drones podem ter muitas melhorias que podem ser benéficas para sua operação; as melhorias são explicadas na interface do carregador &r&4(seta acima do slot de carga)&r&e)&r"
+    ],
+    "quest.4FCD069CFF4FA112.quest_subtitle": "maquinário versátil",
+    "quest.51A04C8539DD3226.quest_desc": [
+        "Estes são usados principalmente em PCBs e podem ser obtidos do comerciante, em masmorras ou feitos na câmara de pressão."
+    ],
+    "quest.51A04C8539DD3226.title": "Eletrônicos",
+    "quest.54A1827B28374C2A.quest_desc": [
+        "O resultado da extração de um gerador com o extrator de gerador usado no gerador pressurizado"
+    ],
+    "quest.56FA78391A94AFE6.quest_desc": [
+        "feito no multiblock de montagem e permite que você manuseie 20 barras, o máximo que o mod tem a oferecer."
+    ],
+    "quest.56FA78391A94AFE6.quest_subtitle": "20 Barras",
+    "quest.5767DCAD635EB0D5.quest_desc": [
+        "Sua primeira PCB gravada com sucesso, tudo o que falta são os eletrônicos."
+    ],
+    "quest.5767DCAD635EB0D5.title": "Base de PCB",
+    "quest.57B389A6B2961AC0.quest_desc": [
+        "Drones são uma ferramenta útil e poderosa que pode realizar uma ampla variedade de tarefas.",
+        "",
+        "todos os drones podem ser feitos ou trocados com o aldeão do PNC.",
+        "",
+        "Todos os drones carregarão em carregadores próximos com a melhoria de dispensador, isso é visualizado pelo heliponto que é adicionado ao modelo.",
+        "",
+        "note que todos os drones têm vida e podem ser mortos.",
+        "",
+        "&e(nota: drones podem ter muitas melhorias que podem ser benéficas para sua operação, as melhorias são explicadas na UI do carregador&r&4(seta acima do slot de carga)&r&e)&r"
+    ],
+    "quest.57B389A6B2961AC0.title": "Drones",
+    "quest.5847A76DAFC0F4C2.quest_desc": [
+        "Sensor poderoso capaz de ler uma grande variedade de estados diferentes no mundo, bem como redstone sem fio."
+    ],
+    "quest.5847A76DAFC0F4C2.quest_subtitle": "Estou te vendo",
+    "quest.594A88E613C554B4.quest_desc": [
+        "Este baú é capaz de uma ampla variedade de tarefas como puxar e empurrar, travar slots para um item específico, travar slots para uma quantidade específica de itens, aspirar, soltar itens e armazenará quantas pilhas você definir.",
+        "",
+        "Para saber como definir os slots, veja a GUI do baú na interação de slots do lado esquerdo."
+    ],
+    "quest.594A88E613C554B4.quest_subtitle": "O baú que faz tudo",
+    "quest.5C98018C9726E9D7.quest_desc": [
+        "Petróleo pode ser encontrado ao redor do mundo, você provavelmente já viu esses jorros pelos mapas, eles podem ser colhidos para obter seu petróleo",
+        "",
+        "alternativamente, você pode usar uma perfuratriz a laser de fluidos do Industrial Foregoing para obter um suprimento infinito, veja a missão do Industrial Foregoing"
+    ],
+    "quest.5C98018C9726E9D7.quest_subtitle": "Ouro negro",
+    "quest.5F3191014DED156F.quest_desc": [
+        "Melhorias são usadas para aprimorar suas máquinas e geralmente torná-las melhores.",
+        "",
+        "Começando pela melhoria mais importante de todas, a melhoria de segurança",
+        "",
+        "Esta melhoria garantirá que sua máquina não exploda caso você coloque muita pressão no sistema.",
+        "",
+        "Você pode ver quais melhorias pode colocar na máquina e o que elas fazem na GUI do lado esquerdo e, ao passar o mouse sobre a melhoria, pode ver quais máquinas a aceitam.",
+        "",
+        "&4(NOTA! Esta melhoria não é invisível e se sua máquina estiver significativamente acima da pressão nominal quando você relogar ou descarregar e recarregar um chunk, a máquina ainda explodirá. Desde que a máquina permaneça carregada, é praticamente impossível explodi-la com esta melhoria instalada)&r "
+    ],
+    "quest.5F3191014DED156F.quest_subtitle": "Segurança em primeiro lugar",
+    "quest.5F3191014DED156F.title": "Melhorias",
+    "quest.679E61DE9A872F6B.quest_desc": [
+        "Usado para aprimorar módulos em tubos para aumentar a velocidade ou o controle"
+    ],
+    "quest.679E61DE9A872F6B.quest_subtitle": "Do jeito que eu quero",
+    "quest.6C7CE3884A3A134B.quest_desc": [
+        "A refinaria é um multibloco que pode ter até 4 saídas de refinaria.",
+        "Coloque o controlador e, idealmente, 4 saídas no topo.",
+        "A refinaria requer apenas calor para operar, certifique-se de cobrir os lados abertos com isolamento térmico para não perder todo o calor.",
+        "&e(qualquer bloco funcionará como isolamento térmico, mas eles são mais organizados e você pode interagir com a máquina por trás deles.)&r",
+        " "
+    ],
+    "quest.6CA72FFE06D0D4A2.quest_desc": [
+        "Plástico do IF e do PNC foram unificados, isso significa que você pode usar plástico em vez disso, que é muito mais rápido e fácil de fazer.",
+        "O plástico é usado em vários componentes e blocos no pnc, como placas de circuito e várias máquinas"
+    ],
+    "quest.6CA72FFE06D0D4A2.quest_subtitle": "Atalho",
+    "quest.6CA72FFE06D0D4A2.title": "Plástico",
+    "quest.6DA978E4D7B0B5F6.quest_desc": [
+        "Bomba de vácuo aprimorada, esta bomba é um módulo de tubo e será capaz de lidar com tanta pressão quanto o tubo em que for colocada. Você pode aprimorar ainda mais a bomba com uma carta de expansão de módulo"
+    ],
+    "quest.6E01662992FF940F.quest_desc": [
+        "Você poderia, claro, usar seu balde prático ou um tanque do Mekanism no modo balde para coletar o óleo, mas você também pode usar o elevador a gás para coletá-lo para você.",
+        "Coloque-o acima do reservatório e dê-lhe tubos de perfuração e pressão e ele deve começar a perfurar em busca de óleo."
+    ],
+    "quest.6E01662992FF940F.quest_subtitle": "Turbulência",
+    "quest.705D0129508997FA.quest_desc": [
+        "Usado na produção de plástico."
+    ],
+    "quest.7103EE7A674278B7.quest_subtitle": "Bebida Clandestina",
+    "quest.736D9DEE0F3E836C.quest_desc": [
+        "Como mencionado anteriormente, o dissipador de calor é útil para se livrar do calor/frio, mas para algumas aplicações, mesmo o dissipador de calor normal não é suficiente para se livrar de todo o calor &5(olhando para você, compressor de fluxo)&r",
+        "Para aplicações como essas, você pode adicionar uma grade de ventilação para soprar ar sobre o dissipador, o que aumentará muito sua capacidade de resfriamento."
+    ],
+    "quest.736D9DEE0F3E836C.quest_subtitle": "Quentinho",
+    "quest.736D9DEE0F3E836C.title": "calor 102",
+    "quest.746ABCD05A10E15A.quest_desc": [
+        "Funciona de forma semelhante aos drones normais, excluindo alguns recursos, veja o livro.",
+        "O benefício destes é que eles não requerem um carregador como um drone regular e podem ser alimentados diretamente de uma linha e o drone não é uma entidade real, apenas uma representação visual, então não há envolvimento de busca de caminho.",
+        "Executará programas em apis de rede ou drones colocados dentro dele.",
+        "",
+        "Contém capacidades de carregamento de chunk para si e para seu drone."
+    ],
+    "quest.78F4BD64456FAC4A.quest_desc": [
+        "Usado na criação de biodiesel, requer apenas pressão"
+    ],
+    "quest.795FB25F7FE3F03C.quest_desc": [
+        "O medidor de pressão é usado para regular a pressão em seu sistema.",
+        "Esses módulos de tubo emitirão um sinal de redstone com base na quantidade de pressão no sistema.",
+        "",
+        "se você estiver usando compressores que queimam combustível, você deve pará-los antes que atinjam a pressão desejada, pois há algum atraso entre o sinal de parada e a parada real",
+        "",
+        "se você estiver queimando carvão miúdo, um bom ponto para parar é em torno do nível de redstone 6-7 (linha de redstone com 6-7 de comprimento ou, alternativamente, um bloco que emite em um nível específico de redstone)",
+        "",
+        "Mais tarde, você poderá configurá-los como quiser quando puder atualizá-los com cartões de expansão de módulo, mas até lá eles estarão no nível de redstone 0 a 0 bar e no nível de redstone 15 a 8 bar."
+    ],
+    "quest.795FB25F7FE3F03C.quest_subtitle": "regulação de pressão",
+    "quest.7CC7197C575FF980.quest_desc": [
+        "Ao usar a refinaria, você criará subprodutos que não precisa para muita coisa; todos eles podem ser transformados em GLP, com uma perda de 20% por etapa.",
+        "",
+        "Isso é feito na planta de processamento termopneumático."
+    ],
+    "quest.7E4F9C92570A846E.quest_desc": [
+        "Este traje pode ser aprimorado e permite uma ampla variedade de habilidades.",
+        "",
+        "O traje é geralmente considerado no mesmo nível do traje Mek e é relativamente fácil de fazer (e não causa tanto lag).",
+        "",
+        "Veja a GUI do carregador e clique na seta sobre o slot de carga para informações sobre as melhorias.",
+        "",
+        "Para carregamento automático de armadura, veja a missão da interface aérea"
+    ],
+    "quest.7E4F9C92570A846E.quest_subtitle": "“Gênio, Bilionário, Playboy, Filantropo.”",
+    "quest.7E4F9C92570A846E.title": "Homem de Ferro"
+}

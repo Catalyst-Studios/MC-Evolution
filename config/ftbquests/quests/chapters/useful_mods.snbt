@@ -1,8 +1,9 @@
 {
+	autofocus_id: "77E4F1F6EEB85DBA"
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
 	filename: "useful_mods"
-	group: ""
+	group: "18780F4E46895DDF"
 	icon: {
 		components: {
 			"ftbquests:icon": "minecraft:textures/gui/sprites/hud/heart/full.png"
@@ -13,6 +14,7 @@
 	images: [
 		{
 			height: 4.0d
+			id: "4A606B82DCB47846"
 			image: "catalyst:textures/quest_images/useful_mods/useful_mods.png"
 			order: 1
 			rotation: 0.0d
@@ -23,6 +25,7 @@
 		{
 			color: 4849994
 			height: 9.0d
+			id: "404E7E76A637C1DD"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 2
 			rotation: 0.0d
@@ -33,6 +36,7 @@
 		{
 			color: 6291808
 			height: 6.0d
+			id: "7196757AE2706BF1"
 			image: "xycraft_machines:textures/particles/soft.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -42,6 +46,7 @@
 		{
 			color: 2752554
 			height: 4.0d
+			id: "3E1F80ACF3D64543"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 3
 			rotation: 0.0d
@@ -52,6 +57,7 @@
 		{
 			color: 4194566
 			height: 9.0d
+			id: "0F4A7710F10A6575"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 2
 			rotation: 0.0d
@@ -62,6 +68,7 @@
 		{
 			color: 6947338
 			height: 6.0d
+			id: "79CCF90A2F517807"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 3
 			rotation: 0.0d
@@ -72,6 +79,7 @@
 		{
 			color: 2490628
 			height: 4.0d
+			id: "67C4FEADB3046150"
 			image: "xycraft_machines:textures/particles/soft.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -81,6 +89,7 @@
 		{
 			color: 66374
 			height: 9.0d
+			id: "4020AD236A0AE9FB"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 2
 			rotation: 0.0d
@@ -91,6 +100,7 @@
 		{
 			color: 132190
 			height: 6.0d
+			id: "4CC58AFB08A8A443"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 2
 			rotation: 0.0d
@@ -101,6 +111,7 @@
 		{
 			color: 65832
 			height: 4.0d
+			id: "182FFAD6624117AD"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 3
 			rotation: 0.0d
@@ -111,6 +122,7 @@
 		{
 			color: 10754
 			height: 9.0d
+			id: "51D1A353AB77D766"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 2
 			rotation: 0.0d
@@ -121,6 +133,7 @@
 		{
 			color: 14851
 			height: 6.0d
+			id: "1073F7656DA8E626"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 3
 			rotation: 0.0d
@@ -131,6 +144,7 @@
 		{
 			color: 6657
 			height: 4.0d
+			id: "23F3498A5F0E2974"
 			image: "xycraft_machines:textures/particles/soft.png"
 			order: 2
 			rotation: 0.0d
@@ -394,43 +408,9 @@
 			dependencies: ["16CB243E5678D282"]
 			icon: {
 				components: {
-					"relics:data": {
-						abilities: {
-							abilities: {
-								dissection: {
-									extender: {
-										cooldown: 0
-										cooldownCap: 0
-										ticking: 0b
-									}
-									lock: {
-										breaks: 5
-									}
-									points: 0
-									research: {
-										links: { }
-										researched: 0b
-									}
-									stats: {
-										distance: {
-											initialValue: 29.38186d
-										}
-										time: {
-											initialValue: 7.89114d
-										}
-									}
-								}
-							}
-						}
-						leveling: {
-							experience: 0
-							level: 0
-							luck: 0
-							points: 0
-						}
-					}
+					"ftbquests:icon": "relics:textures/gui/description/icons/holy_locket/blessing.png"
 				}
-				id: "relics:space_dissector"
+				id: "ftbquests:custom_icon"
 			}
 			id: "1F9DD8905A302496"
 			rewards: [{
@@ -438,11 +418,18 @@
 				type: "xp"
 				xp: 100
 			}]
-			tasks: [{
-				id: "0632E133685DC06C"
-				item: { components: { "ftbfiltersystem:filter": "mod(relics)or(item(relics:reflection_necklace)item(relics:magma_walker)item(relics:aqua_walker)item(relics:midnight_robe)item(relics:drowned_belt)item(relics:jellyfish_necklace)item(relics:hunter_belt)item(relics:rage_glove)item(relics:ice_skates)item(relics:bastion_ring)item(relics:chorus_inhibitor)item(relics:holy_locket)item(relics:enders_hand)item(relics:elytra_booster)item(relics:ice_breaker)item(relics:spore_sack)item(relics:roller_skates)item(relics:leather_belt)item(relics:wool_mitten)item(relics:amphibian_boot))", "minecraft:custom_name": "\"Any Relic Curio\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "58D77E3AB2FAA70A"
+					item: { components: { "ftbfiltersystem:filter": "or(item(relics:golden_tooth)item(relics:pet_bone)item(relics:raw_meatball)item(relics:cooked_meatball)item(relics:leafy_mantle)item(relics:springy_boot)item(relics:kinetic_belt)item(relics:reflective_necklace)item(relics:jellyfish_necklace)item(relics:midnight_mantle)item(relics:roller_skate)item(relics:chorus_staff)item(relics:clot_of_time)item(relics:piglin_mask)item(relics:chef_hat)item(relics:cut_glass_boot)item(relics:rider_flute)item(relics:ring_of_the_seven_deadly_sins)item(relics:sphere_of_self_sacrifice)item(relics:hunting_belt)item(relics:experience_disperser))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "7B60B51C8E12A185"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(artifacts:artifacts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 7.0d
 		}
@@ -502,10 +489,7 @@
 			dependencies: ["77E4F1F6EEB85DBA"]
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"ftbquests:icon": "integrateddynamics:aspect/read/block"
-				}
-				id: "ftbquests:custom_icon"
+				id: "minecraft:grass_block"
 			}
 			id: "07B077F7F5D09FDF"
 			size: 1.5d
@@ -522,16 +506,52 @@
 				id: "apothic_enchanting:draconic_endshelf"
 			}
 			id: "116C52D690CC1551"
-			rewards: [{
-				id: "374E1D0799C06C99"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "7830EB2F1F46EF21"
-				item: { count: 1, id: "minecraft:bookshelf" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "374E1D0799C06C99"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "3B2650CC2FB1862E"
+					item: {
+						count: 1
+						id: "apothic_enchanting:helmet_tome"
+					}
+					type: "item"
+				}
+				{
+					id: "41ACC080EE29E2C9"
+					item: {
+						count: 1
+						id: "apotheosis:gem_case"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 2L
+					id: "44E488FAD620B7F1"
+					item: { count: 1, id: "apotheosis:gem_dust" }
+					type: "item"
+				}
+				{
+					id: "3B317B6771FACA5E"
+					item: { count: 1, id: "apotheosis:salvaging_table" }
+					type: "item"
+				}
+				{
+					id: "6B789AC1A9C9BEDD"
+					item: { count: 1, id: "apotheosis:gem_cutting_table" }
+					type: "item"
+				}
+				{
+					id: "4B2791C43C8D30F6"
+					item: { count: 1, id: "apotheosis:simple_reforging_table" }
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: 8.0d
 		}
@@ -999,30 +1019,6 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["77E4F1F6EEB85DBA"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"gateways:gateway": "gateways:hellish_fortress"
-				}
-				id: "gateways:gate_pearl"
-			}
-			id: "0C7FFA80C1B2836F"
-			optional: true
-			rewards: [{
-				id: "00F4EE04625A0B40"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "2DCC7AC6C69CCA90"
-				item: { components: { "ftbfiltersystem:filter": "mod(gateways)not(custom(ModID/Gateways_To_Eternity))", "minecraft:custom_name": "\"Gateways To Eternity\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -2.5d
-			y: -1.5d
-		}
-		{
 			dependencies: ["07B077F7F5D09FDF"]
 			icon: {
 				id: "waystones:warp_scroll"
@@ -1303,6 +1299,7 @@
 			icon: {
 				components: {
 					"ironjetpacks:jetpack_id": "ironjetpacks:creative"
+					"minecraft:rarity": "epic"
 				}
 				id: "ironjetpacks:jetpack"
 			}
@@ -1420,8 +1417,8 @@
 				id: "0FB415644DDFE671"
 				type: "checkmark"
 			}]
-			x: 1.0d
-			y: -2.5d
+			x: -2.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["77E4F1F6EEB85DBA"]
@@ -1476,7 +1473,7 @@
 				xp: 100
 			}]
 			tasks: [{
-				id: "19B6BA05C38FE224"
+				id: "162B53FA9B59633A"
 				item: { count: 1, id: "hyperbox:hyperbox" }
 				type: "item"
 			}]
@@ -1500,6 +1497,23 @@
 			}]
 			x: 7.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["77E4F1F6EEB85DBA"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "xycraft_world:item/xychorium_gem_light"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2456EE8234B18D05"
+			tasks: [{
+				id: "74302622B86A00AB"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -2.5d
 		}
 	]
 }

@@ -1,15 +1,21 @@
-Find out more info on the website: https://kubejs.com/
+This is where all the magic happens, from endgame to starting. 
+There is few things to consider now, there is a list of "tier", as the image.png shows to sort of
+put everything in an order.
+Does it means that you need to follow it on the dot. Not always, we are not in a GT pack
 
-Directory information:
+So here is a summary:
+- server_scripts --> Has all recipes and logic that from custom interactions, like the altar effects
+                     or the custom recipes
 
-assets - Acts as a resource pack, you can put any client resources in here, like textures, models, etc. Example: assets/kubejs/textures/item/test_item.png
-data - Acts as a datapack, you can put any server resources in here, like loot tables, functions, etc. Example: data/kubejs/loot_tables/blocks/test_block.json
+- startup_scripts --> Has the MA seeds script, and some liquid and items
 
-startup_scripts - Scripts that get loaded once during game startup - Used for adding items and other things that can only happen while the game is loading (Can be reloaded with /kubejs reload_startup_scripts, but it may not work!)
-server_scripts - Scripts that get loaded every time server resources reload - Used for modifying recipes, tags, loot tables, and handling server events (Can be reloaded with /reload)
-client_scripts - Scripts that get loaded every time client resources reload - Used for JEI events, tooltips and other client side things (Can be reloaded with F3+T)
+- client_scripts --> Mainly some EMI and JEI integration and some lang file on lang/
 
-config - KubeJS config storage. This is also the only directory that scripts can access other than world directory
-exported - Data dumps like texture atlases end up here
+- assets --> Has the most use. Here is a breakdown
+    - catalyst --> Has quest images, and MMR lang file and a farmland
+    - ftbquests --> Has the textures for some part of the quests and the "how to" file that couldnt pass to catalyst
+    - kubejs --> For 2 liquids and 1 item
+    - MMR --> Lang file for some name
+    - Rest --> Textures for the custom gui colors
 
-You can find type-specific logs in logs/kubejs/ directory
+- data --> Has the altar functions and some ore stuff

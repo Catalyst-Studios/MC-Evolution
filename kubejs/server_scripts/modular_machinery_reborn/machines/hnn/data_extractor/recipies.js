@@ -3,31 +3,31 @@ This script is property of Catalyst Studios for use in the modpack Little Bit La
 It cannot be used or modified outside of Catalyst Studios without explicit permission from Catalyst Studios.
 */
 ServerEvents.recipes(catalyst => {
-    const MAX_STACK = 64;
-    const MIN_TIME = 2;
-    const MAX_TIME = 128;
     let mod = 0;
 
-    /**
-     * Fabrication logic for MMR Data Extractor
-     * Calculates multipliers to maximize output up to 64 items, scaling time and energy.
-     */
     const fabricate = (entity, catalystItem, outputItem, baseAmount) => {
-        const multiplier = Math.min(MAX_STACK, Math.floor(MAX_STACK / baseAmount));
-        const totalOutput = Math.max(1, Math.min(MAX_STACK, multiplier * baseAmount));
-        const totalInput = multiplier; // 1 prediction input per operation cycle
-        const time = MIN_TIME + Math.round(((multiplier - 1) * (MAX_TIME - MIN_TIME)) / (MAX_STACK - 1));
-        const energy = multiplier * 256 * (MAX_TIME / time);
-
-        catalyst.recipes.modular_machinery_reborn.machine_recipe("mmr:data_extractor", time)
+        for(let i = 1; i < 17; i++)
+        {
+            let recipe = catalyst.recipes.modular_machinery_reborn.machine_recipe("mmr:data_extractor", 20*i + 50)
             .progressData(ProgressData.create().x(72).y(20))
             .width(130).height(60)
-            .requireEnergyPerTick(energy, 0, 2)
-            .requireItem(`${totalInput}x hostilenetworks:prediction[hostilenetworks:data_model="hostilenetworks:${entity}"]`, 30, 20)
-            .requireItem(`${catalystItem}`, 50, 20)
-            .produceItem(`${totalOutput}x ${outputItem}`, 98, 20)
-            .id(`catalyst:mmr/data_extractor/${entity}_${mod}`);
+            .requireEnergyPerTick((10000*i)/5, 0, 2)
+            .requireItem(Item.of("hostilenetworks:prediction", i, {
+                "hostilenetworks:data_model": `hostilenetworks:${entity}`
+            }), 30, 20)
+            .requireItem(Item.of(catalystItem), 0, 50, 20)
+            .produceItem(Item.of(outputItem, baseAmount*i), 98, 20)
+
+            if(i > 1)
+            {
+                recipe.hide();
+            }
+
+            recipe.priority(i);
+
+            recipe.id(`catalyst:mmr/data_extractor/${entity}_${mod}`);
             mod++;
+        }
     };
 
     // Recipe Definitions: [Entity ID, Catalyst Item, Output Item, Base Output Amount]
@@ -69,7 +69,7 @@ ServerEvents.recipes(catalyst => {
         ['elder_guardian', 'minecraft:wet_sponge', 'minecraft:wet_sponge', 32],
 
         /* enderman prediction */
-        ['enderman', 'minecraft:ender_pearl', 'minecraft:ender_pearl', 16],
+        ['enderman', 'minecraft:ender_pearl', 'minecraft:ender_pearl', 32],
         ['enderman', 'minecraft:end_crystal', 'minecraft:end_crystal', 1],
         ['enderman', 'evilcraft:ender_tear', 'evilcraft:ender_tear', 4],
 
@@ -156,7 +156,7 @@ ServerEvents.recipes(catalyst => {
         ['slime', 'minecraft:slime_block', 'minecraft:slime_block', 8],
 
         /* snow_golem prediction */
-        ['snow_golem', 'minecraft:snowball', 'minecraft:snowball', 32],
+        ['snow_golem', 'minecraft:snowball', 'minecraft:snowball', 64],
 
         /* spider prediction */
         ['spider', 'minecraft:string', 'minecraft:string', 32],
@@ -202,9 +202,9 @@ ServerEvents.recipes(catalyst => {
         ['zombified_piglin', 'minecraft:gold_ingot', 'minecraft:gold_ingot', 8],
 
         /* ars_nouveau - wilden prediction */
-        ['ars_nouveau/wilden', 'ars_nouveau:wilden_spike', 'ars_nouveau:wilden_spike', 16],
-        ['ars_nouveau/wilden', 'ars_nouveau:wilden_wing', 'ars_nouveau:wilden_wing', 16],
-        ['ars_nouveau/wilden', 'ars_nouveau:wilden_horn', 'ars_nouveau:wilden_horn', 16],
+        ['ars_nouveau/wilden_mobs', 'ars_nouveau:wilden_spike', 'ars_nouveau:wilden_spike', 16],
+        ['ars_nouveau/wilden_mobs', 'ars_nouveau:wilden_wing', 'ars_nouveau:wilden_wing', 16],
+        ['ars_nouveau/wilden_mobs', 'ars_nouveau:wilden_horn', 'ars_nouveau:wilden_horn', 16],
 
         /* twilight_forest - alpha yeti prediction */
         ['twilightforest/alpha_yeti', 'twilightforest:ice_bomb', 'twilightforest:ice_bomb', 32],
@@ -257,7 +257,7 @@ ServerEvents.recipes(catalyst => {
         ['twilightforest/raven', 'twilightforest:raven_feather', 'twilightforest:raven_feather', 16],
 
         /* twilight_forest - snow queen prediction */
-        ['twilightforest/snow_queen', 'minecraft:snowball', 'minecraft:snowball', 32],
+        ['twilightforest/snow_queen', 'minecraft:snowball', 'minecraft:snowball', 64],
         ['twilightforest/snow_queen', 'minecraft:packed_ice', 'minecraft:packed_ice', 24],
         ['twilightforest/snow_queen', 'twilightforest:snow_queen_trophy', 'twilightforest:snow_queen_trophy', 4],
 
@@ -276,9 +276,11 @@ ServerEvents.recipes(catalyst => {
         .progressData(ProgressData.create().x(72).y(20))
         .width(130).height(60)
         .requireEnergyPerTick(16384, 0, 2)
-        .requireItem(`16x hostilenetworks:prediction[hostilenetworks:data_model="hostilenetworks:evoker"]`, 30, 20)
+        .requireItem(Item.of("hostilenetworks:prediction", 16, {
+            "hostilenetworks:data_model": "hostilenetworks:evoker"
+        }), 30, 20)
         .requireItem(`minecraft:totem_of_undying`, 50, 20)
-        .produceItem(`32x minecraft:totem_of_undying`, 98, 20)
+        .produceItem(Item.of("minecraft:totem_of_undying", 64), 98, 20)
         .id(`catalyst:mmr/data_extractor/evoker_totem_${mod}`);
     
     console.log("[CatJS] Added HNN loot fab recipes for MMR multiblock");
@@ -290,6 +292,14 @@ ServerEvents.recipes(catalyst => {
        twilight wraith, twilight druid skeleton, twilight towerwood borer
     */
 });
+
+MMREvents.extraTooltips(event => {
+    event.create("mmr:data_extractor", 'item')
+    .add(Component.translatable("catalyst.mmr.tooltip.data_extractor.item"))
+
+    event.create("mmr:data_extractor", 'gui')
+    .add(Component.translatable("catalyst.mmr.tooltip.data_extractor.gui"))
+})
 
 /*
 This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.

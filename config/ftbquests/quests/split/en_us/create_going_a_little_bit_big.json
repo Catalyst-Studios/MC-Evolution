@@ -1,0 +1,452 @@
+{
+    "quest.0028E63A8B93DB55.quest_desc": [
+        "Put this at the &aexit&r of your &#FFE661SU&r generators, one is enough.",
+        "It &5allows&r you to see how much &#FFE661SU&r you are &eusing&r vs your total &ccapacity&r.",
+        "",
+        "You can use the &zgoggles&r to see exact numbers."
+    ],
+    "quest.0028E63A8B93DB55.quest_subtitle": "Measuring",
+    "quest.014136E4D981B24E.quest_desc": [
+        "This is one of the &#AA88FFforce&r that guide the universe, yet it seems ....",
+        "",
+        "&#FF69B4Weird&r",
+        "",
+        "It might have some uses with some of your &#55FF55seeds&r, we will see in a future"
+    ],
+    "quest.014136E4D981B24E.quest_subtitle": "Ancient light",
+    "quest.0587281F4BE08114.quest_desc": [
+        "First you would need to get some &eitems&r, here is a &6list&r to &dingredients&r you need to get first"
+    ],
+    "quest.0587281F4BE08114.quest_subtitle": "The first line",
+    "quest.0587281F4BE08114.title": "Starting with some &6ingredients&r!",
+    "quest.06F3205FC0167AA4.quest_desc": [
+        "Yeah, this is the &6upgrade&r",
+        "",
+        "Give one to a &#FF2438Blaze&r burner and you will be able to pump &#FF7E30lava&r to them.",
+        "And &#FF7E30lava&r can be generated with no cost!"
+    ],
+    "quest.06F3205FC0167AA4.quest_subtitle": "Straws",
+    "quest.06F3205FC0167AA4.title": "Even more power",
+    "quest.0956324630429985.quest_desc": [
+        "This is a &acheap&r way to take &enotes&r, for example, what &dsteps&r you need to do for a recipe, or the &bingredients&r you need for something.",
+        "",
+        "You can also &6check&r something if you have done it, or even place it on the &dworld&r!"
+    ],
+    "quest.0956324630429985.quest_subtitle": "\"Write that down, write that down Patrick\"",
+    "quest.09FCC8E992E23AFD.quest_desc": [
+        "This little &6wand&r was given a &anew recipe&r, so you should &egive it a try&r!",
+        "",
+        "Basically &bmirrors your placements&r, depending on how many &ddirections&r you set it before placing.",
+        "",
+        "It can mirror in &aone way&r, &e2&r or &5fully&r"
+    ],
+    "quest.09FCC8E992E23AFD.quest_subtitle": "Circles in Minecraft",
+    "quest.0AB930872F01D796.quest_desc": [
+        "Why 3 &ddeployers&r when we have 2 &6ingredients&r? Well, because you &aneed&r to put some twice the rods!"
+    ],
+    "quest.0AB930872F01D796.quest_subtitle": "The rods and plates",
+    "quest.11CDFCDE525AE185.quest_desc": [
+        "Have you ever &awanted&r to make that pretty &ehouse&r but you don't want to &bbuild&r it? We have a &dsolution&r to you!",
+        "",
+        "&5Schematicannon&r allows you to &acopy&r builds easily, share with your &6friends&r and more!",
+        "",
+        "It needs an &cinventory&r like a chest or item vault to get the &eitems&r from. ",
+        "And some &7gunpowder&r of course :p"
+    ],
+    "quest.11CDFCDE525AE185.quest_subtitle": "Building a house from the roof",
+    "quest.1448B00247CB440B.quest_desc": [
+        "Well, this is the &dbest&r way to generate &#FFE661SU&r at the start of your &5factory&r, easy and &arelative&r cheap.",
+        "It just need mostly &6copper&r and some &dshafts&r.",
+        "",
+        "Place the 4 &#D1653Bcampfire&r on a square (2x2), then, place the &bfluid&r tanks on top of it.",
+        "After that put on a &eside&r (&l&cnot&r above the tanks) the steam engine, and in front of it a shaft.",
+        "{@pagebreak}",
+        "Finally, give some &9water&r, which you can get easily in a lot of ways and you have made a decent &estarting&r point for your factory.",
+        "",
+        "You can put multiple &#8AB3BFsteam&r engine, generating each up to &#FFE66132k SU&r at 64 RPM.",
+        "More on this later."
+    ],
+    "quest.1448B00247CB440B.quest_subtitle": "Full power",
+    "quest.1448B00247CB440B.title": "Steam Engine",
+    "quest.150EC09F0D0097A5.quest_desc": [
+        "Although, it's &#FF5555impossible&r to &#55AAFFcontain&r this force, you were able to do so!",
+        "",
+        "This is a &5<glitch>paradox</glitch>&r, you know it, right?"
+    ],
+    "quest.150EC09F0D0097A5.quest_subtitle": "Contaiment: Kepler",
+    "quest.186035C4D00E370E.quest_desc": [
+        "To use the &#FF2438Blaze Cakes&r on your Burners, you would need a ton of &dDeployers&r, one for each burner, or a &6Mechanical Arm&r, which can do &a9&r at the time!"
+    ],
+    "quest.186035C4D00E370E.quest_subtitle": "Arm and a leg",
+    "quest.18A91ACC72C7ED8E.quest_desc": [
+        "These have &#A020F0multiple&r uses, mainly 2:",
+        "",
+        "- &dCogwheels&r -> Connect &amultiple&r machines, like mixers or benders",
+        "",
+        "- &aLarge&r &dCogwheels&r -> Allows you to change &adirection&r, from vertical to horizontal and viceversa.",
+        "",
+        "Wait, there is also &canother&r benefit, but not as &6powerful&r as the other, basically allows to &bchange&r speed. There is &#7155FFanother&r method down the road of the questline easier than this."
+    ],
+    "quest.18A91ACC72C7ED8E.quest_subtitle": "Moving on another direction",
+    "quest.19B0EC1218CEF060.quest_desc": [
+        "You have contained the &5light&r! ",
+        "",
+        "We &amight&r be able to use it for &dsomething&r else..."
+    ],
+    "quest.19B0EC1218CEF060.quest_subtitle": "We did it!",
+    "quest.1A1F8EAE3481F6C6.quest_desc": [
+        "\"The &#5D3FD3darkness&r is everywhere, we can't escape, it just too &#FF5555powerful&r, if you are reading this, &l&#FF0000RUN&r\" - Mechanical Engineer #8534",
+        "",
+        "This is a &#FFAA00dangerous&r material to contain, but some of your &#55FF55seeds&r seems to react to the &#55AAFFcube&r we just made, maybe we need to &dbring&r some of them!"
+    ],
+    "quest.1A1F8EAE3481F6C6.quest_subtitle": "\"TURN OFF THE LIGHT!\"",
+    "quest.1A1F8EAE3481F6C6.title": "Void Ingredients",
+    "quest.1B35ADAA5B1669B0.quest_desc": [
+        "Allows to change &5direction&r or split your &#FFE661SU"
+    ],
+    "quest.1B35ADAA5B1669B0.quest_subtitle": "Movements",
+    "quest.1F376B8A31FF3A98.quest_desc": [
+        "Using a &6Mechanical Squeezer&r from &7IE&r, you can get &amore sugar&r.",
+        "",
+        "&eNot necessary&r, just telling you the &dbest route&r if you want to &#A020F0min-max&r"
+    ],
+    "quest.226AE92086B0EE0B.quest_desc": [
+        "Well, this is a &dpretty&r good way to move around &6stress&r from point A to B.",
+        "Or to move items too, but thats &eanother&r thing.",
+        "",
+        "You would need 2 &7shafts&r and 1 belt per &aline&r"
+    ],
+    "quest.226AE92086B0EE0B.quest_subtitle": "Moving kinetic",
+    "quest.242AA549FB8EAA8B.quest_desc": [
+        "&#74A1FFFirst&r, you would need to &asee&r how much &#FFE661SU&r your machines uses or produce.",
+        "For that, there is a &zspecial&r goggles that tells you exactly that.",
+        "",
+        "It can be used on your &bhelmet&r slot or in your &6Curios&r slot, making them basically free to use.",
+        "A part from that, there isn't much use for the &5Head&r slot a part from decorative or &eoccasional&r usage"
+    ],
+    "quest.242AA549FB8EAA8B.quest_subtitle": "Vision: ON",
+    "quest.25669046E438B028.quest_desc": [
+        "Well, this is the &chard part&r, &6Crushing Wheels&r.",
+        "",
+        "They need to rotate on &ddifferent directions&r, but rotating looking at the &ecenter&r.",
+        "",
+        "Drop the &4netherrack&r and you get &ecinder dust&r!"
+    ],
+    "quest.25669046E438B028.quest_subtitle": "Nether sugar",
+    "quest.26998517A9F47404.quest_desc": [
+        "This little &6item/block&r can be used to &amass produce&r a lot of items from your inventory, just by having a &7autoclicker&r!",
+        "",
+        "Place the &erecipe&r you want, &bright click&r it while having the ingredients in your inventory and you will get the &dresult&r back.",
+        "&eUseful&r if you need to use &9buckets&r!"
+    ],
+    "quest.26998517A9F47404.quest_subtitle": "Fast crafting",
+    "quest.2729E47FCCA9F1F3.quest_desc": [
+        "This &#FFFD58basically&r tells you how &6fast&r is your &7shafts&r and machines spinning.",
+        "",
+        "It goes from 0 (not moving) to 256 (very fast)."
+    ],
+    "quest.2729E47FCCA9F1F3.quest_subtitle": "MORE SPEEEEEED!!!!",
+    "quest.2808FBA959230F52.quest_desc": [
+        "Some &#FF2438hot dust&r, don't touch with &7bare hands&r"
+    ],
+    "quest.2808FBA959230F52.quest_subtitle": "Joke ahead :p",
+    "quest.2808FBA959230F52.title": "Cinder Flour",
+    "quest.2DFCFCE8C631C19B.quest_desc": [
+        "And they can &dalso&r be used as &6fuel&r for your furnaces!"
+    ],
+    "quest.2DFCFCE8C631C19B.quest_subtitle": "Alternative ecological fuel",
+    "quest.2DFCFCE8C631C19B.title": "The best power",
+    "quest.31FE3C95BDDA6496.quest_desc": [
+        "Change those &6campfire&r for the &cburners&r!",
+        "Alone, they won't do much more than a campfire, but give it a bit of coal or any &#FF4045combustible&r fuel to get more heat for your Boiler.",
+        "",
+        "A part from that, here are more &5tips&r for you:",
+        "",
+        "- You can make a 3x8x3 &bfluid&r tank, which it's the &dmaximum&r size of a Boiler.",
+        "",
+        "- You can start making &#FF454ABlaze&r cake, &aallowing&r even more heat (which you usually don't need &eunless&r you use more than 300k &#FFE661SU&r)"
+    ],
+    "quest.31FE3C95BDDA6496.quest_subtitle": "More power",
+    "quest.31FE3C95BDDA6496.title": "Increasing power",
+    "quest.3580A39C481777CB.quest_desc": [
+        "Well, &9water&rwheels are probably the &deasiest&r way to start with &6Create&r, but also not that &dgood&r on the long run.",
+        "This is why people &5complains&r about Create, because of the &bspam&r problem.",
+        "",
+        "We have given a &cnerf&r to this generators, only generating &n&#FF1D8Chalf&r of their original SU capacity.",
+        "You probably want to look at &aother&r methods!"
+    ],
+    "quest.35DD97553C2E6EE7.quest_desc": [
+        "Well, we are making an &7egg&r, so first, we need some &ewheat&r"
+    ],
+    "quest.35DD97553C2E6EE7.quest_subtitle": "Where is this thing?",
+    "quest.4070280EBF55F516.quest_desc": [
+        "You have probably hear of the &dPrecision Mechanism&r, where you have to do &a5 steps&r multiple times to get an &680% chance&r to get one.",
+        "",
+        "Well, that's &cgone&r, you need to do the &a3 steps&r with a &d100% chance&r, no more &egambling&r here.",
+        "",
+        "Aside from that, it's &6simple&r.",
+        "It consists of a series of &dindividual recipes&r performed &esequentially&r.",
+        "However, there is a &ccatch&r: once started, the process must be &6completed&r.",
+        "",
+        "The input item transforms into an '&7incomplete&r' or &etransitional state&r, and it will only become the &afinal product&r once the full sequence is &dfinished&r."
+    ],
+    "quest.4070280EBF55F516.quest_subtitle": "The pain",
+    "quest.413A12D04AA827FB.quest_desc": [
+        "After the &afirst&r time, you would &6need&r to do the &eloop&r again, which can be sometimes &dhard&r to do, but here is a setup that you can &euse&r for any lenght!",
+        "",
+        "This is &cnot&r the best &5setup&r you can make, but it's &aone&r of multiple!",
+        "",
+        "&2Next page for setup&r",
+        "{@pagebreak}",
+        "{image:catalyst:textures/quest_images/create/front_assembly.png width:100 height:100 align:center fit:true}",
+        "{@pagebreak}",
+        "{image:catalyst:textures/quest_images/create/side_assembly.png width:100 height:100 align:center fit:true}",
+        "{image:catalyst:textures/quest_images/create/back_side.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.413A12D04AA827FB.quest_subtitle": "While(1)\\{\\}",
+    "quest.420296203A9D13DF.quest_desc": [
+        "And now you need to put some &6lava&r inside to make them &cextra&r juicy"
+    ],
+    "quest.420296203A9D13DF.quest_subtitle": "Pour some lava",
+    "quest.4321371B79C30DE0.quest_desc": [
+        "Well, the &dwrench&r is basically the hearth of &6Create, a part from the &#FFE661Stress&r generation.",
+        "It allows to &achange&r a lot of machines, like pipes or &#FF89AErotate&r blocks.",
+        "Or even travel!",
+        "",
+        "Yep, this is an &5important&r tool.... or you can use &#E748FFanother&r wrench from another &amod&r...",
+        "",
+        "From this &6point&r, there will be 3 path of &#FFE661SU&r generation, I would &#62FFB5recommend&r combining multiple of them!"
+    ],
+    "quest.4321371B79C30DE0.quest_subtitle": "Changing direction",
+    "quest.43C633EDD20C7744.quest_desc": [
+        "This is a &dpretty&r neat way to move around &eitems&r using packages or you.",
+        "You just need some fast &6speed&r on an end and a &ewrench&r.",
+        "",
+        "After you have it &cpowered&r, using some minecraft &6chains&r, connect to each &bpoint&r (by right clicking and selecting 2 points)",
+        "",
+        "You can have multiple &cpaths&r on the same block.",
+        "Just look at the &ddirection&r you want to &5follow&r it.",
+        "",
+        "You can carry &estress&r with the chains too!"
+    ],
+    "quest.43C633EDD20C7744.quest_subtitle": "Moving packages and having fun",
+    "quest.46BCDA9823887F6C.quest_desc": [
+        "Well, this is pretty simple to understand.",
+        "With some &6stress&r, like a &6crank&r, you can lower it, normally to the &bbottom&r if you want &dfluids&r out",
+        "",
+        "Once on the level you want to, there is &a2 modes&r:",
+        "",
+        "&aPumping&r -> Pump &dfluids&r to the &eworld&r, that is inserted to this block",
+        "",
+        "&cSucking&r -> Gets &dfluids&r from the &eworld&r if you set the &7pipes&r to &bextract&r",
+        "",
+        "This block has a particular thing, with &6lava&r or &9water&r, if they have more or equals to &a10K blocks&r of fluids (either flowing or source), you will get &dinfinite&r amount of them!"
+    ],
+    "quest.46BCDA9823887F6C.quest_subtitle": "Sinking and pumping",
+    "quest.47610F935B200FEA.quest_desc": [
+        "Well, time for &6elevators&r, something &afundamental&r to a big base.",
+        "They are pretty &buseful&r, and can be done in multiple ways:",
+        "",
+        "- Using &cclassical redstone&r",
+        "",
+        "- Using a &6rope pulley&r, which you would need a bit of &credstone&r to control rotation direction and some &7sticky blocks&r :p",
+        "",
+        "- Using an &aelevator&r, which is the &aeasiest way&r, just need to stick the blocks together with &bsuper glue&r, &7redstone contacts&r and a &dcontraption controls&r"
+    ],
+    "quest.47610F935B200FEA.quest_subtitle": "Elevating",
+    "quest.47E66106BCE85324.quest_desc": [
+        "Early on, make one of this, with a &acrank&r.",
+        "Then &aplace&r it the saw part touching a &#C78958tree&r and power it.",
+        "",
+        "Free logs.",
+        "",
+        "You can &econnect&r trees with logs and &6chain&r them!"
+    ],
+    "quest.47E66106BCE85324.quest_subtitle": "Early chopper",
+    "quest.49D5C0B90F866E8A.quest_desc": [
+        "This is the &5simple&r way to generate &#FFE661SU&r for your base, since most &amods&r includes some FE generation.",
+        "",
+        "There are 2 kind of &emotors&r:",
+        "",
+        "- &aElectric&r motor -> Has a fixed &#FFE661SU&r capacity, but can change speed and direction.",
+        "",
+        "- &bBasic&r and &eadvanced&r motors -> Has a fixed speed and direction, but can change &#FFE661SU&r capacity with another block, their extension.",
+        "",
+        "They are &#9FFF2Arelative&r cheap, but the electric motor is gated behind the mechanical &6crafting&r table due to their speed, more on that later"
+    ],
+    "quest.49D5C0B90F866E8A.quest_subtitle": "Mechanical stress",
+    "quest.49D5C0B90F866E8A.title": "Motors",
+    "quest.4ABC8789D7E4A93F.quest_desc": [
+        "This will &aprobably&r be your first step into Create &#FFE661SU&r generation.",
+        "It's &esimple&r and powerful, but costs your &ahunger&r.",
+        "",
+        "There are 2 &dversion&r, the &6cranck&r which is faster but can't control it as easily and the &avalve&r, which is slower but can be controlled with more precision.",
+        "{@pagebreak}",
+        "We have given a little &abuff&r to both:",
+        "",
+        "- &6Cranck&r consumes less hunger and has a bit more SU capacity",
+        "",
+        "- &aValve&r has double SU capacity with less hunger",
+        "",
+        "This was done to give an &bincetive&r on the useful blocks &6Create&r has to offer when you start the game, like the Mechanical &#B4FF17Saw&r to chop down trees fast"
+    ],
+    "quest.4ABC8789D7E4A93F.quest_subtitle": "First step",
+    "quest.4ABC8789D7E4A93F.title": "Hand movements",
+    "quest.4D1D631C473A24CA.quest_desc": [
+        "Another &eQoL&r item that has given a &anew recipe&r.",
+        "This one has some &6simple usage&r, put it on your &7second&r hand to &aextend&r your interaction range, meaning you can &9break&r stuff from far away.",
+        "",
+        "Using it without a &6copper backtank&r will cause &cdamage&r to it."
+    ],
+    "quest.4D1D631C473A24CA.quest_subtitle": "Extend the range",
+    "quest.50BAFB8D81E4BA63.quest_desc": [
+        "This block has some &dinteresting&r uses that you might want to explore:",
+        "",
+        "While on a &6constraction&r, it won't use any &estress&r, but will &amine&r stuff, so you can have a semi automated miner at the start of your game.",
+        "",
+        "If you don't have it on a &6constraction&r, you will need to give &estress&r, but you can do a &7cobble generator&r, for example"
+    ],
+    "quest.50BAFB8D81E4BA63.quest_subtitle": "Drill",
+    "quest.51596947AF4C9BF1.quest_desc": [
+        "&#FF2438Blaze&r cakes are needed in some &6Create&r recipe.",
+        "",
+        "They are &efairly&r easy to get and just need some simple &5automation&r.",
+        "",
+        "We have made a &blittle&r change so you don't need to find &6chickens&r!"
+    ],
+    "quest.51596947AF4C9BF1.quest_subtitle": "Cakes? WHERE?",
+    "quest.51596947AF4C9BF1.title": "&#FF2438Blaze&r Cakes",
+    "quest.51A357489DB7C340.quest_desc": [
+        "But first, we need the &6flour&r to make the &adough&r"
+    ],
+    "quest.51A357489DB7C340.quest_subtitle": "Warning! Too powerful",
+    "quest.51A357489DB7C340.title": "Flour",
+    "quest.57C39342224119C8.quest_desc": [
+        "&6<bounce a=0.31 f=0.3 w=2><pulse base=0.75 a=1.0 f=1.0 w=0.25>Create</pulse></bounce>&r is loved and hated by many &dpeople&r ",
+        "Or they just don't &#A7FF78understand&r it.",
+        "",
+        "Well, we will give you a &#FFBA5Efair&r introduction to this mod.",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"You \"},{\"text\":\"want\",\"color\":\"#FFAA00\"},{\"text\":\" to give it a look at these \"},{\"text\":\"quests\",\"color\":\"#FF55FF\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"58F7844D5535727E\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"text\":\"Click here to change quests screen\"}}},{\"text\":\" first!\\nThey are on the same chapter\"}]",
+        "",
+        "If you feel &dlost&r sometime, &6Create&r has a mini guide system with images!"
+    ],
+    "quest.57C39342224119C8.quest_subtitle": "The fun just began",
+    "quest.58F7844D5535727E.quest_desc": [
+        "These are more of &ageneral&r &etips&r that you can apply to your &5world&r, even if you are not using &6Create&r.",
+        "",
+        "Most of them just need a &dcrank&r or nothing, but they &bsaves&r a lot of time when you start the &#EDFF5Dgame&r! "
+    ],
+    "quest.58F7844D5535727E.quest_subtitle": "Making your experience funnier",
+    "quest.58F7844D5535727E.title": "Useful tips and blocks",
+    "quest.5A8C2ED4C8489002.quest_desc": [
+        "Well, another small &abuff&r if you plan to &6continue&r this route.",
+        "",
+        "Instead of having to do &dblocks&r, you can use sails, which basically &battach&r to the central block, no need for &2Super Glue"
+    ],
+    "quest.5A8C2ED4C8489002.quest_subtitle": "Direct buff",
+    "quest.5E5DA509820E7E26.quest_desc": [
+        "We have made &eanother&r recipe for you!",
+        "",
+        "Now you can use &calmost&r any &aaxe&r (except Oritech ones) to get 1 &6log&r to its &#FFEE73stripped&r version.",
+        "",
+        "Or &#C78958wood&r if you like :p"
+    ],
+    "quest.5E5DA509820E7E26.quest_subtitle": "Easy create",
+    "quest.5ED0B01C321BC245.quest_desc": [
+        "Using a &dMillstone&r, you can get some &eflour&r, to make dough"
+    ],
+    "quest.5ED0B01C321BC245.quest_subtitle": "One rotation or 2?",
+    "quest.5EFA6AFCBAD892A0.quest_subtitle": "Speeeeeeeeed!",
+    "quest.5EFA6AFCBAD892A0.title": "Some sugar",
+    "quest.60917F32F27D5CE8.quest_desc": [
+        "\"We needed to reinforce that &#A020F0crystal chamber&r again, we have &aoverestimated&r it's &#FFAA00power&r, it has almost crack down\" - Mechanical Engineer #4521",
+        "",
+        "Well, it looks like the &#FFAA00light&r was too &#FF5555powerful&r to be &#55AAFFcontained&r, yet we will try, get some &#FFAA00materials&r!"
+    ],
+    "quest.60917F32F27D5CE8.quest_subtitle": "\"We need some light down here!\"",
+    "quest.60917F32F27D5CE8.title": "Radiance Ingredients",
+    "quest.6157B827B57C10EA.quest_subtitle": "Some hot bases",
+    "quest.6157B827B57C10EA.title": "Blaze Cake Base",
+    "quest.61F7A24311801E37.quest_desc": [
+        "&#FEFF7FWindmills&r are generally overlooked because it's either not &agood&r or just doesn't &dfit&r well.",
+        "Well, here we have given another &abuff&r, double its &#FFE661SU&r capacity.",
+        "",
+        "And to start with it, you just need some &6blocks&r like cobblestone and &2Super Glue&r."
+    ],
+    "quest.61F7A24311801E37.quest_subtitle": "Did I say this moves?",
+    "quest.61F7A24311801E37.title": "Windmill",
+    "quest.6316A37DEC3C8117.quest_desc": [
+        "Well, this is one of the &amain&r point people hates &6Create&r, &#C63BFFstress generation&r, but lets have a quick &#FF6142tutorial&r first.",
+        "",
+        "&6Create&r uses &3SU&r or &3Stress unit&r, this are made in the &#7FFF7Fgenerators&r, which there are multiples of them. Each &cmachine&r consumes a set amount of &dSU&r and can go 1 one direction only.",
+        "",
+        "Then, each machine has a &dspeed&r, and depending of the speed, the machine consumes more &#FFE661SU&r or less. This means that a machine that consumes &#FFE6614 SU&r at 1 RPM, can consume &#FFE661512 SU&r at &#FFFF00256 RPM&r.",
+        "{@pagebreak}",
+        "Another thing to take into consideration is that each generator has a &#AA00FFmaximum SU generation&r, for example:",
+        "",
+        "A &7Steam engine&r can produce &#FFE66132K SU&r per block, and you want to put a &#FFDD0033K SU&r setup.",
+        "Well, your network will &#FF5555stop&r because it &#FF5555can't move it&r.",
+        "To solve this, just &#00AA00add more generator&r to your network.",
+        "",
+        "So this makes &#FF8800scaling&r a lot more difficult in general, but we will give you some &#00DD00tips&r to make it easier"
+    ],
+    "quest.6316A37DEC3C8117.quest_subtitle": "Starting stressing",
+    "quest.6316A37DEC3C8117.title": "Rotation Generators",
+    "quest.6443CA2A5392ECC5.quest_desc": [
+        "After putting the &eitems&r, you would need to &6press&r the result on a &dMechanical Press&r, which is the last &astep&r of the loop"
+    ],
+    "quest.652CE69633CF38C7.quest_desc": [
+        "After some \"&ocareful&r\" placement, you will receive a &dcontainer chamber&r, able to hold &elight&r and &5darkness essence&r, both are &#A020F0primordial forces&r guiding the universe."
+    ],
+    "quest.652CE69633CF38C7.quest_subtitle": "The prison",
+    "quest.65890A921AE60989.quest_desc": [
+        "This is a &5simple&r machine, put a large &dcogwheel&r and the &aspeed&r you want.",
+        "After that, you can put &#FFE661SU&r on one side and get the same &#FFE661SU&r but different &aspeed&r on the other side.",
+        "",
+        "&6Input&r side is on the brass part, &eoutput&r side is on the cogwheel.",
+        "",
+        "This &dmachine&r has been given a small buff, not needing the &bprecision&r mechanism, but it's a bit more &#FF36B4expensive&r to make"
+    ],
+    "quest.65890A921AE60989.quest_subtitle": "Radar near you",
+    "quest.66AA59E314E96B28.quest_desc": [
+        "This is one of the &#AA88FFforce&r that guide the universe, yet it seems ....",
+        "",
+        "&#FF69B4Strange&r...",
+        "",
+        "It might have some uses with some of your &#55FF55seeds&r, we will see in a future"
+    ],
+    "quest.66AA59E314E96B28.quest_subtitle": "Ancient darkness",
+    "quest.764D8A9D77084BE7.quest_desc": [
+        "Allows to change from &avertical&r to &6horizontal&r and viceversa, but also have the &7shafts&r rotating on the &dsame&r direction"
+    ],
+    "quest.764D8A9D77084BE7.quest_subtitle": "Moving across dimensions",
+    "quest.7692A6BAFD29528B.quest_desc": [
+        "Combine it with a bit of &9water&r and we have &6dough&r.",
+        "",
+        "Now, pass the dough to some &dsoul flame fan&r to get an egg.",
+        "",
+        "This is not a default recipe from &6Create&r!"
+    ],
+    "quest.7AB79F9B43234C96.quest_desc": [
+        "&7Shafts&r is the basic of &#FFE661SU&r transport, and can only go in &n&done&r axis at the time.",
+        "You can combine multiple &#FFE661SU&r sources, like a &7steam&r engine and multiple &delectric&r motors.",
+        "",
+        "And of course, you can &6change&r the shaft &cdirection&r using multiple ways, more on that later.",
+        "",
+        "But for now, did you know that you can have the &#FFE661SU&r capacity of a &7Steam&r engine, but the speed of a &6electric&r motor? Well, now you know it.",
+        "The &7shafts&r will go at the &5highest&r speed you put, basically "
+    ],
+    "quest.7AB79F9B43234C96.quest_subtitle": "The worst way over distance",
+    "quest.7AB79F9B43234C96.title": "Moving SU around",
+    "quest.7E1DD64F0353A803.quest_desc": [
+        "To make 4 &#FF2438Blaze&r Cakes, we need these ingredients.",
+        "",
+        "You can use a lot of &6automatic&r ways to get them!"
+    ],
+    "quest.7E1DD64F0353A803.quest_subtitle": "Collecting them",
+    "quest.7E1DD64F0353A803.title": "The ingredients of the chef",
+    "quest.7EB35C6B48BD1E63.quest_desc": [
+        "In a &6basin&r with a Mechanical Press, you can get the &dBase&r"
+    ]
+}

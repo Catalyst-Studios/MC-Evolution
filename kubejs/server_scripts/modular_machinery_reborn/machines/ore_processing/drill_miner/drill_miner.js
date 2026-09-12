@@ -5,7 +5,7 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 MMREvents.machines(catalyst => {
     catalyst.create("mmr:drill_miner")
         .color('#FF484949')
-        .name('Head Drill Miner')
+        .name(Component.translatable("catalyst.mmr.machine.head_drill_miner"))
         .structure(
             MMRStructureBuilder.create()
             .pattern([
@@ -28,7 +28,10 @@ MMREvents.machines(catalyst => {
                     "f": ["modular_machinery_reborn:casing_plain"],
                     "h": ["modular_machinery_reborn:casing_circuitry"],
                     "s": ["modular_machinery_reborn:casing_reinforced"],
-                    "Y": ["modular_machinery_reborn:casing_gearbox"],
+                    "Y": [
+                        "modular_machinery_reborn:casing_gearbox",
+                        'industrialforegoingsouls:soul_network_pipe'
+                    ],
                     "N": ["modular_machinery_reborn:entity_detector"],
                     "Z": ["#modular_machinery_reborn:energyinputhatch"],
                     "X": [

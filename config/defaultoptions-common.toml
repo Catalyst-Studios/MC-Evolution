@@ -1,0 +1,7 @@
+#The default difficulty selected for newly created worlds.
+#Allowed Values: PEACEFUL, EASY, NORMAL, HARD
+defaultDifficulty = "NORMAL"
+#Resource pack IDs to have enabled by default on the first run.
+defaultResourcePacks = ["eternalores:virtual", "vanilla", "fabric", "mod_resources", "add_xycraft_overrides_stone", "add_xycraft_overrides_metal", "add_xycraft_overrides_glass", "neovitae_materials", "moonlight:merged_pack", "file/ForceCraft_Retextured.zip", "file/Dyes-Backport-1.1.2.zip", "file/[1.6] Enhanced Boss Bars.zip", "file/SmoothFont_1.21.zip", "file/Catalyst_ui.zip"]
+#Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
+lockDifficulty = false

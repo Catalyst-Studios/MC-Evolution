@@ -1,0 +1,421 @@
+{
+    "quest.038754BCDC1F9CD0.quest_desc": [
+        "Welcome to &aMystical &bAgriculture&r!",
+        "",
+        "This mod is about &2plants&r, who could have guessed....",
+        "",
+        "There are different &6tiers&r, multiples &dweapons&r and utilities, so check them out!",
+        "To start, kill some &cmobs&r or go mining for some &ainferium&r",
+        "",
+        "Most &equests&r would have the same text &dover&r and &5over&r, but there will be rewards, so &ccomplete&r them!"
+    ],
+    "quest.038754BCDC1F9CD0.quest_subtitle": "The start",
+    "quest.038754BCDC1F9CD0.title": "&aInferium&r Essence",
+    "quest.03F8DB89EBBE19F9.quest_desc": [
+        "In this &amodpack&r, they are made a lot &dcheaper&r to start with compared to previous versions, but &charder&r to progress, equally to &aseeds&r",
+        "",
+        "{\"text\":\"You should check these \",\"extra\":[{\"text\":\"quests!\",\"color\":\"#eb9e10\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Click to change to another quest!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"232345A9C9EFDC9B\"}}]}"
+    ],
+    "quest.03F8DB89EBBE19F9.quest_subtitle": "&6Bee&r times",
+    "quest.03F8DB89EBBE19F9.title": "&aInferium&r Bee",
+    "quest.076DB75CCEF71BB3.quest_desc": [
+        "Instead of &ckilling&r more mobs, you can use their &adrops&r to fill the jars faster, specially the more &btedious&r ones!"
+    ],
+    "quest.076DB75CCEF71BB3.quest_subtitle": "No more hunting?",
+    "quest.0A023BB2FD68153A.quest_desc": [
+        "These are the 2 most important &denchantments&r you can have for this mod",
+        "",
+        "- &bSoul&r Syphon -> Allows you to collect more souls per kill. Only for &aMA&r &edaggers&r",
+        "",
+        "- &aMystical&r Enlightment -> You can gain &6cogniziant&r dust from killing a wither or ender dragon. Only for &aMA&r &3swords&r "
+    ],
+    "quest.0A023BB2FD68153A.quest_subtitle": "The enchatments",
+    "quest.0A023BB2FD68153A.title": "Enchanting time!",
+    "quest.0BF9D23CFCF6377D.quest_desc": [
+        "Tier 7? Well, not quite, these &dseeds&r and &aessence&r are just &6crafting&r ingredients that you need to plant",
+        "",
+        "Next time, it might need some &1deep&r &0dark&r biome?"
+    ],
+    "quest.0BF9D23CFCF6377D.quest_subtitle": "Tier 7",
+    "quest.0BF9D23CFCF6377D.title": "&0Darkness&r Essence",
+    "quest.0C3D215FB092DC08.quest_desc": [
+        "You won't get better &6bees&r than these, but you will need this for &clater&r, make a few!"
+    ],
+    "quest.0C3D215FB092DC08.quest_subtitle": "The best bees",
+    "quest.0D968517AACAB080.quest_subtitle": "Mega storage",
+    "quest.0FB83369C2F37DAD.quest_desc": [
+        "It allows you to collect &dcrops&r, this an &ealternative&r to the farm i've proposed in another quest."
+    ],
+    "quest.0FB83369C2F37DAD.quest_subtitle": "Harvest on the fields",
+    "quest.1223102F5940D2EB.quest_desc": [
+        "These armors has special qualities, they can be &caugmented&r",
+        "",
+        "Augments gives different &deffects&r, like the &9night&r vision or &dcreative&r fly, all armors from &aMA&r except one, which has 2 &6slots&r, has 1 &6slot&r.",
+        "",
+        "You can't have the same &baugment&r on 2 different pieces, because it won't &ework&r"
+    ],
+    "quest.1223102F5940D2EB.quest_subtitle": "The helmet",
+    "quest.13ABAD48193BB39E.quest_desc": [
+        "Well, for the 500th time, another &efurnace&r.",
+        "",
+        "What does this have in&b special&r? Well, you don't need to &dbreak&r them to upgrade them like &aMekanism&r machines but they are &efaster&r than those.",
+        "",
+        "The only thing that can compete with a &6awakened&r &4supremium&r furnace is a &0netherite&r furnance with &bfactory&r and &cspeed&r upgrades!"
+    ],
+    "quest.13ABAD48193BB39E.quest_subtitle": "Another one?",
+    "quest.1476B93691B1AC0F.quest_subtitle": "Even more storage",
+    "quest.15D3EA775A53D557.quest_desc": [
+        "&5Insanium&r Essence, one of the most &dpowerful&r &etier&r that the mod can give you.",
+        "",
+        "Normally, you would need some &4supremium&r to make this essence, but now you need &6awakened&r &4supremium&r essence and some new &dseeds&r!",
+        "",
+        "You need to &a&nprogress&r with other mods to &ccontinue&r",
+        "",
+        "I would &acheck&r the &5insanium&r block recipe if you want a &6cheaper&r version and from this point, you can make &bimperium&r seeds and bees, making this progress &ccheaper&r!"
+    ],
+    "quest.15D3EA775A53D557.quest_subtitle": "Tier 6",
+    "quest.15D3EA775A53D557.title": "&5Insanium&r Essence",
+    "quest.1C19F475ABA24D0C.quest_desc": [
+        "These are the minimun &ajars&r needed to make 1 mob seed",
+        "",
+        "You should let &bAE2&r crafts them"
+    ],
+    "quest.1C19F475ABA24D0C.title": "Soul Jars",
+    "quest.1E0B8C4397657ECB.quest_desc": [
+        "They have a limited uses, like any tools, in this case 1000 crafts.",
+        "",
+        "It is used on most tier crafts, like inferium to prudentium.",
+        "",
+        "{\"text\":\"Once you have the \",\"extra\":[{\"text\":\"Master\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Click to change to another quest!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"57FE6873FF11D8B0\"}},{\"text\":\" Infusion Crystal\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Click to change to another quest!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"57FE6873FF11D8B0\"}}]}"
+    ],
+    "quest.1E0B8C4397657ECB.quest_subtitle": "The cheap crystal",
+    "quest.1E5AD1266CDA8B51.quest_desc": [
+        "Yes, this is a new &aseed&r, allowing you to skip some &etiers&r.",
+        "",
+        "These &dseeds&r need a machine to farm them!"
+    ],
+    "quest.1E5AD1266CDA8B51.quest_subtitle": "No way this can be true",
+    "quest.1EAA5C42DC9F5254.quest_desc": [
+        "These have no use, well, yes, but mostly to store a lot of &ainferium&r",
+        "",
+        "{\"text\":\"And well, craft higher tier faster with a \",\"extra\":[{\"text\":\"Master\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Click to change to another quest!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"57FE6873FF11D8B0\"}},{\"text\":\" Infusion Crystal\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Click to change to another quest!\"},\"clickEvent\":{\"action\":\"change_page\",\"value\":\"57FE6873FF11D8B0\"}}]}"
+    ],
+    "quest.1EAA5C42DC9F5254.quest_subtitle": "How to store",
+    "quest.1EAA5C42DC9F5254.title": "&aInferium&r block",
+    "quest.1FA378DE4439A0BB.quest_desc": [
+        "Yep, you will need them, specially the &ascythe&r"
+    ],
+    "quest.1FA378DE4439A0BB.quest_subtitle": "The best tool",
+    "quest.2055A5273612BB17.quest_desc": [
+        "These armors has special qualities, they can be &caugmented&r",
+        "",
+        "Augments gives different &deffects&r, like the &9night&r vision or &dcreative&r fly, all armors from &aMA&r except one, which has 2 &6slots&r, has 1 &6slot&r.",
+        "",
+        "You can't have the same &baugment&r on 2 different pieces, because it won't &ework&r"
+    ],
+    "quest.2055A5273612BB17.quest_subtitle": "The leggings",
+    "quest.2055A5273612BB17.title": "Any MA leggings",
+    "quest.219692AA1DFF30B7.quest_desc": [
+        "Tier 5, &4supremium&r",
+        "",
+        "This &dessence&r is the equivalent to 256 &ainferium&r essences.",
+        "",
+        "In this &6tier&r, you unlock less &dseeds&r than tier 2, but still, you should &bcheck them out&r!",
+        "",
+        "And from this point, you can make &2prudentium&r seeds and bees, making this progress &ccheaper&r!"
+    ],
+    "quest.219692AA1DFF30B7.quest_subtitle": "Tier 5",
+    "quest.219692AA1DFF30B7.title": "&4Supremium&r Essense",
+    "quest.223C19E8E01CF99F.quest_desc": [
+        "Bees are giving a bit more power, giving full &6awakened&r &4supremium&r essence instead of &ecogniziant&r dust but with a higher &ccrafting&r recipe.",
+        "",
+        "Its a small &adifference&r but makes it an important one!"
+    ],
+    "quest.223C19E8E01CF99F.quest_subtitle": "A small change",
+    "quest.2381E03BF9EE9CA8.quest_desc": [
+        "Tier 2, &2prudentium&r",
+        "",
+        "This &dessence&r is the equivalent to 4 &ainferium&r essences.",
+        "",
+        "In this &6tier&r, you unlock a lot of &dseeds&r, you should &acheck them out&r!"
+    ],
+    "quest.2381E03BF9EE9CA8.quest_subtitle": "Tier 2",
+    "quest.2381E03BF9EE9CA8.title": "&2Prudentium&r Essence",
+    "quest.23D9830AF2B0CBCC.quest_desc": [
+        "To get mob seeds, you need to kill them using these &6daggers&r, specially the other &bupgraded&r versions",
+        "",
+        "Put the &djars&r in your &einventory&r and start killing them!"
+    ],
+    "quest.23D9830AF2B0CBCC.quest_subtitle": "Mob seeds",
+    "quest.248A196ADA004598.quest_desc": [
+        "You won't get better &dseeds&r than these, but you will need this for &clater&r, make a few!"
+    ],
+    "quest.248A196ADA004598.quest_subtitle": "The best seeds",
+    "quest.26E7D41ACFA53A93.quest_desc": [
+        "You should check the &aarmors&r quests for more info",
+        "",
+        "This is the &ebase&r for all &daugments&r, choose wisely!"
+    ],
+    "quest.26E7D41ACFA53A93.quest_subtitle": "Base augments",
+    "quest.2BD85B6850F480A8.quest_desc": [
+        "Tier 7, yes, you are right, &5Magic&r Tier!",
+        "",
+        "You need to start with &eArs&r &dNouveau&r to make these &aessences&r, up to the point of killing the &dChimera&r "
+    ],
+    "quest.2BD85B6850F480A8.quest_subtitle": "Tier 7",
+    "quest.2BD85B6850F480A8.title": "&5Magic&r Essence",
+    "quest.2C87246803C6ECEA.quest_desc": [
+        "This is the &6main&r way to get started on any &dseeds&r, you usually need a &bbase&r or another seed and some &ematerials&r",
+        "",
+        "Place the &5altar&r and it will show you have to place the &apilars&r.",
+        "You need a &credstone&r signal to start the &bcraft&r or a wand",
+        "",
+        "Tip here, you can extract only from the &dcenter&r the result, not the input using something like &aPipez&r ;)"
+    ],
+    "quest.2C87246803C6ECEA.quest_subtitle": "The main way",
+    "quest.2ED937FCFC7E5438.quest_desc": [
+        "Basically, you can &eput&r and &6take out&r &daugments&r from tools and armors in this table"
+    ],
+    "quest.2ED937FCFC7E5438.quest_subtitle": "Put augments",
+    "quest.2FEBC7DC526BA9B8.quest_desc": [
+        "The best &6farmland&r!",
+        "",
+        "Although only useful for tier 6 &acrops&r"
+    ],
+    "quest.3037BD495C39A8F1.quest_desc": [
+        "These machines were giving a &abuff&r compared to other version, being &efaster&r and allowing you to use your &5insanium&r farmlands!"
+    ],
+    "quest.3037BD495C39A8F1.quest_subtitle": "The farmer",
+    "quest.33859430B6AE4EE0.quest_desc": [
+        "These &aseeds&r are a substitute to the &5wither&r and &denchatment&r",
+        "",
+        "You should check the &6bees&r for a better option, but if you want, here is an &ealternative&r!"
+    ],
+    "quest.33859430B6AE4EE0.quest_subtitle": "A small difference",
+    "quest.39419E0E5E0E00B7.quest_desc": [
+        "Yes, this is a new &aseed&r, allowing you to skip some &etiers&r.",
+        "",
+        "These &dseeds&r need a machine to farm them!"
+    ],
+    "quest.39419E0E5E0E00B7.quest_subtitle": "Another one?!?",
+    "quest.398BCD889B2B137C.quest_desc": [
+        "Tier 3, &6tertium&r",
+        "",
+        "This &dessence&r is the equivalent to 16 &ainferium&r essences.",
+        "",
+        "In this &6tier&r, you unlock more &dseeds&r than tier 2, you should &2check them out&r!"
+    ],
+    "quest.398BCD889B2B137C.quest_subtitle": "Tier 3",
+    "quest.398BCD889B2B137C.title": "&6Tertium&r Essence",
+    "quest.3EBCF14F021079E8.quest_desc": [
+        "Don't you want a &espawner&r that can change the mob using &dessences&r?",
+        "",
+        "Well, this is the one for you!"
+    ],
+    "quest.3EBCF14F021079E8.quest_subtitle": "Mob farming",
+    "quest.40703D01AED88444.quest_desc": [
+        "Well, what i can say here?"
+    ],
+    "quest.40703D01AED88444.quest_subtitle": "Yep, nerfed too",
+    "quest.412470C3AE1C84A9.quest_desc": [
+        "These &dtools&r are the more important ones from this mod, but there are also others, you should &echeck&r them out!",
+        "",
+        "- &aInferium&r Paxel -> Acts as a pickaxe, shovel and axe at the same time",
+        "",
+        "{\"text\":\"- \",\"extra\":[{\"text\":\"Inferium\",\"color\":\"green\"},{\"text\":\" Scythe -> Allows you to collect your crops, you should \"},{\"text\":\"check them out!\",\"color\":\"#9eeb23\",\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"Click here to watch a tutorial on how to use it\"},\"clickEvent\":{\"action\":\"open_url\",\"value\":\"hola.com\"}}]}",
+        "",
+        "- &aInferium&r Sword -> Allows you to collect &6cogniziant&r dust with the enchantment, only these swords and higher &dtier&r can use it"
+    ],
+    "quest.412470C3AE1C84A9.quest_subtitle": "The main tools",
+    "quest.412470C3AE1C84A9.title": "&aInferium&r tools",
+    "quest.424EF2BE93002E8F.quest_desc": [
+        "They are &6cheap&r, but also basically useless, but here some &einfo&r that you might be interested:",
+        "",
+        "- &aInferium&r &capple&r -> Gives some effects during 3 min, higher tier apples gives more, try them",
+        "",
+        "- &aInferium&r upgrade -> &aMA&r machines has a &eslot&r that allows them to improve them, without changing the block",
+        "",
+        "While I ask for the &bbasic&r one, you should try the higher &6tiers&r!"
+    ],
+    "quest.424EF2BE93002E8F.quest_subtitle": "Upgrades!",
+    "quest.424EF2BE93002E8F.title": "&aInferium&r apple \\& upgrade",
+    "quest.42AF5ACF22DCA75C.quest_desc": [
+        "Yes, this is a new &aseed&r, allowing you to skip some &etiers&r.",
+        "",
+        "These &dseeds&r need a machine to farm them!"
+    ],
+    "quest.42AF5ACF22DCA75C.quest_subtitle": "Wait, is this real?",
+    "quest.44C48011CDF0FB35.quest_desc": [
+        "I have to balance both things"
+    ],
+    "quest.44C48011CDF0FB35.quest_subtitle": "Sorry",
+    "quest.4699468FC07899DA.quest_desc": [
+        "This is the main method to &dfarming&r &ainferium&r by the mod creator",
+        "",
+        "Although, I won't &bcomplain&r if you get more from your mob farm ;)"
+    ],
+    "quest.4699468FC07899DA.quest_subtitle": "&dFarming&r time",
+    "quest.4699468FC07899DA.title": "&aInferium&r Seeds",
+    "quest.473487EE12C5C9AF.quest_desc": [
+        "The &dCreative&r Essence is the pinacle of all creation",
+        "",
+        "If you have &breached&r here, you have &cmastered&r &aMystical&r &bAgriculture&r and how to improve your &esetups&r!"
+    ],
+    "quest.473487EE12C5C9AF.quest_subtitle": "Tier ∞",
+    "quest.473487EE12C5C9AF.title": "&dCreative&r Essence",
+    "quest.483AB0BB4DDF2D1C.quest_subtitle": "More storage",
+    "quest.4871BE9E497DDA4F.quest_desc": [
+        "Yes, this is a new &aseed&r, allowing you to skip some &etiers&r.",
+        "",
+        "These &dseeds&r need a machine to farm them!"
+    ],
+    "quest.4871BE9E497DDA4F.quest_subtitle": "Is this new?",
+    "quest.4EC2757A3B8BB661.quest_desc": [
+        "Sadly, this is the last &capple&r, but also the most &apowerful&r one, even more powerful than &dNotch&r Apple"
+    ],
+    "quest.4EC2757A3B8BB661.quest_subtitle": "No more apples",
+    "quest.50AE3C029FF3D36C.quest_desc": [
+        "Bees got a nerf from &bprevious&r version, now &ccosting&r a bit more",
+        "",
+        "This is to put in the same level the &dseeds&r and &6bees&r only using their mod's contents"
+    ],
+    "quest.50AE3C029FF3D36C.quest_subtitle": "Nerfed?",
+    "quest.5669679F0EEFFC97.quest_subtitle": "The best tier",
+    "quest.56F7FA60DE771901.quest_desc": [
+        "Tier 4, &bimperium&r",
+        "",
+        "This &dessence&r is the equivalent to 64 &ainferium&r essences.",
+        "",
+        "In this &6tier&r, you unlock more &dseeds&r than tier 3, you should &6check them out&r!"
+    ],
+    "quest.56F7FA60DE771901.quest_subtitle": "Tier 4",
+    "quest.56F7FA60DE771901.title": "&bImperium&r Essence",
+    "quest.57FE6873FF11D8B0.quest_desc": [
+        "Although it seems a bit &eexpensive&r at the start, it isn't.",
+        "",
+        "It has &dinfinite&r uses, so don't worry to break it, perfect for automation!"
+    ],
+    "quest.57FE6873FF11D8B0.quest_subtitle": "The best crystal",
+    "quest.57FE6873FF11D8B0.title": "&cMaster&r Infusion Crystal",
+    "quest.5D3F6F242A0D3DC0.quest_desc": [
+        "The last tier, the &emachine&r one!",
+        "",
+        "This tier can't be &aplanted&r, but you will see this on the &btooltip&r, don't worry.",
+        "",
+        "You will need a &6machine&r to farm them, I have put 2 quests for you"
+    ],
+    "quest.5D3F6F242A0D3DC0.quest_subtitle": "Tier 8",
+    "quest.5D3F6F242A0D3DC0.title": "&eTechnology&r Essence",
+    "quest.5DBDB10A35F4A753.quest_desc": [
+        "Well, now we are making into &bhigher&r tiers, things &cmust&r change a bit",
+        "",
+        "To start, you still need to kill the &5wither&r or the &ddragon&r.",
+        "",
+        "Now, you can see there are different &drecipes&r, giving you more &bblocks&r, but needing more &6expesive&r items to get.",
+        "",
+        "This is done for you to think about it a &esecond&r and decide if you want to deal with the same setup or &2change&r a bit!",
+        "",
+        "And from this point, you can make &6tertium&r seeds and bees, making this progress &ccheaper&r!"
+    ],
+    "quest.5DBDB10A35F4A753.quest_subtitle": "Tier 5 v2",
+    "quest.5DBDB10A35F4A753.title": "&6Awakened &4Supremium&r Essence",
+    "quest.5E718194252CA698.quest_subtitle": "More water",
+    "quest.5ED01B81E79BBAA5.quest_desc": [
+        "Cheap but &ballows&r you to activate the altar only when &e&nneeded&r",
+        "",
+        "This can save in &clag&r!"
+    ],
+    "quest.5ED01B81E79BBAA5.quest_subtitle": "Open the magic!",
+    "quest.5F7CDD5FFB77E70D.quest_subtitle": "Compressium storage",
+    "quest.64EC4D5F482E7C30.quest_desc": [
+        "This is the second way to start with some &dseeds&r",
+        "",
+        "There are a few things that is changed from normal &aMA&r, the altar has effects, from circles on the floor to &alightning&r!",
+        "",
+        "You can &cdisable&r these using the following command (for all players):",
+        "",
+        "/&baltareffects&r false",
+        "",
+        "Also, the altar has given more &bimportance&r than before, with more &dcrafts&r and some &aimprovements&r and &cnerfs&r, with more essences for the &evessels&r"
+    ],
+    "quest.64EC4D5F482E7C30.quest_subtitle": "I hope you don't have wood near",
+    "quest.652A100211B39A2B.quest_desc": [
+        "Now you can start &6bees&r for &aMA&r earlier, similar to the &eMA&r ones!"
+    ],
+    "quest.652A100211B39A2B.quest_subtitle": "But i also gave a buff",
+    "quest.67AF1940DCEFE1A7.quest_desc": [
+        "These armors has special qualities, they can be &caugmented&r",
+        "",
+        "Augments gives different &deffects&r, like the &9night&r vision or &dcreative&r fly, all armors from &aMA&r except one, which has 2 &6slots&r, has 1 &6slot&r.",
+        "",
+        "You can't have the same &baugment&r on 2 different pieces, because it won't &ework&r"
+    ],
+    "quest.67AF1940DCEFE1A7.quest_subtitle": "The boots",
+    "quest.67AF1940DCEFE1A7.title": "Any MA boots",
+    "quest.68BAF3282A411796.quest_desc": [
+        "When you are &6farming&r, you have a chance to get extra &dseeds&r if you have the right farmland &atier&r.",
+        "",
+        "You can use them or you can get more &aessence&r using this machine. It needs &apower&r"
+    ],
+    "quest.68BAF3282A411796.quest_subtitle": "GET MOAR!!!",
+    "quest.6CAC0EAE07BD6DD4.quest_subtitle": "A more expensive version",
+    "quest.6EE47C68F53912D5.quest_subtitle": "More watah",
+    "quest.71AE77BF3E94C43A.quest_subtitle": "Worth it",
+    "quest.74FDB5EDE3024323.quest_desc": [
+        "I &ahope&r you don't notice ;)"
+    ],
+    "quest.77EE4AAB07CC4B2A.quest_desc": [
+        "Add a few &6materials&r and experience essence and you can choose many &denchantments&r!",
+        "",
+        "To make the experience seeds, I recommend doing a &aXP&r &bshower&r to fill the XP tanks"
+    ],
+    "quest.77EE4AAB07CC4B2A.quest_subtitle": "The precise enchanting table",
+    "quest.78611D91F0DF7680.quest_desc": [
+        "These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them.",
+        "",
+        "AE2 quests made by: &cTito&ep&c54&r",
+        "",
+        "If you are seeing this, it means you are in editing mode. And you are &4cheating&r so no bueno"
+    ],
+    "quest.78611D91F0DF7680.quest_subtitle": "Cheating is no bueno",
+    "quest.78611D91F0DF7680.title": "Cheater!!!!",
+    "quest.78BC30C836B49D06.quest_subtitle": "Ultra storage",
+    "quest.78FA554642B15674.quest_desc": [
+        "These utils will help you on your &dfarming&r adventure",
+        "",
+        "- &bWatering&r can -> &eSpeeds&r up crops growth, needs water",
+        "",
+        "- &dFertilizer&r -> Also &6speeds&r up crops growth, but only one. Obtained from farming!",
+        "",
+        "- &aInferium&r farmland -> Crops needs their &cfarmland tier&r to growth and to get a bonus. Right click with an &ainferium&r essense on a farmland",
+        "",
+        "- Growth accerelator -> &dSpeeds&r up crops that are above it. They have a &crange&r and you can combine different &etiers&r ;)"
+    ],
+    "quest.78FA554642B15674.quest_subtitle": "More &dfarming",
+    "quest.78FA554642B15674.title": "Farming",
+    "quest.7A8A665FD3020BF2.quest_desc": [
+        "These armors has special qualities, they can be &caugmented&r",
+        "",
+        "Augments gives different &deffects&r, like the &9night&r vision or &dcreative&r fly, all armors from &aMA&r except one, which has 2 &6slots&r, has 1 &6slot&r.",
+        "",
+        "You can't have the same &baugment&r on 2 different pieces, because it won't &ework&r"
+    ],
+    "quest.7A8A665FD3020BF2.quest_subtitle": "The chestplate",
+    "quest.7A8A665FD3020BF2.title": "Any MA chestplate",
+    "quest.7F6FC6E1AFDD6365.quest_desc": [
+        "Well, now the &5wither&r can't break it....",
+        "",
+        "But &dJean&r, the &ddragon&r can"
+    ],
+    "quest.7F6FC6E1AFDD6365.quest_subtitle": "No please",
+    "quest.7FC6D58AD671FB46.quest_desc": [
+        "Yes, another tier 7, &bMystical&r Tier!",
+        "",
+        "These tier is a bit more easy than &5Magic&r Tier, you need to kill mobs, which are mystical....",
+        "",
+        "",
+        "I know, the jokes are bad, but well, lets the &cmob&r &afarm&r start!"
+    ],
+    "quest.7FC6D58AD671FB46.quest_subtitle": "Tier 7",
+    "quest.7FC6D58AD671FB46.title": "&bMystical&r Essence"
+}

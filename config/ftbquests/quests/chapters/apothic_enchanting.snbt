@@ -1,20 +1,18 @@
 {
+	autofocus_id: "617BBE7ACB125208"
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
 	filename: "apothic_enchanting"
 	group: "7DB43C7557896446"
 	icon: {
-		id: "minecraft:enchanting_table"
+		id: "apothic_enchanting:apothic_enchanting_table"
 	}
 	id: "2BBFD07BC2C78262"
 	images: [
 		{
-			click: "https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting"
+			click_action: "open_uri:https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting"
 			height: 2.5d
-			hover: [
-				"Apothic Enchanting"
-				"by Shadows_of_fire!"
-			]
+			id: "3ACAB326B21A0A99"
 			image: "catalyst:textures/quest_images/apotheosis/apoth_enchant_logo.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -23,6 +21,7 @@
 		}
 		{
 			height: 0.9d
+			id: "4F56042FCC7153DF"
 			image: "minecraft:item/dragon_breath"
 			rotation: 0.0d
 			width: 0.9d
@@ -31,6 +30,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7A13F823C9E493C4"
 			image: "minecraft:textures/entity_icon/enderdragon/dragon.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -39,6 +39,7 @@
 		}
 		{
 			height: 0.9d
+			id: "44395270FBC06C24"
 			image: "apothic_enchanting:blocks/filtering_shelf/occupied"
 			rotation: 0.0d
 			width: 0.9d
@@ -47,6 +48,7 @@
 		}
 		{
 			height: 0.9d
+			id: "4691273161ADDA57"
 			image: "apothic_enchanting:blocks/treasure_shelf_side"
 			rotation: 0.0d
 			width: 0.9d
@@ -55,6 +57,7 @@
 		}
 		{
 			height: 0.9d
+			id: "529130E2AC394CCB"
 			image: "apothic_enchanting:blocks/melonshelf"
 			rotation: 0.0d
 			width: 0.9d
@@ -63,6 +66,7 @@
 		}
 		{
 			height: 0.9d
+			id: "27687F58ACECC300"
 			image: "apothic_enchanting:blocks/beeshelf"
 			rotation: 0.0d
 			width: 0.9d
@@ -71,6 +75,7 @@
 		}
 		{
 			height: 0.9d
+			id: "793EDB077522E2A9"
 			image: "apothic_enchanting:blocks/stoneshelf"
 			rotation: 0.0d
 			width: 0.9d
@@ -79,6 +84,7 @@
 		}
 		{
 			height: 0.8d
+			id: "48D9CCC44BEA61BC"
 			image: "occultism:item/spirit_attuned_gem"
 			rotation: 0.0d
 			width: 0.8d
@@ -87,6 +93,7 @@
 		}
 		{
 			height: 0.9d
+			id: "62D8B7F1D489DDA4"
 			image: "minecraft:item/heart_of_the_sea"
 			rotation: 0.0d
 			width: 0.9d
@@ -95,6 +102,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4C93E3B812499FB7"
 			image: "apothic_enchanting:items/warden_tendril"
 			rotation: 0.0d
 			width: 1.0d
@@ -103,6 +111,7 @@
 		}
 		{
 			height: 0.9d
+			id: "22345DAD40E71F5C"
 			image: "minecraft:item/skull_pottery_sherd"
 			rotation: 0.0d
 			width: 0.9d
@@ -111,6 +120,7 @@
 		}
 		{
 			height: 0.7d
+			id: "71B28931224258B1"
 			image: "minecraft:item/candle"
 			rotation: 0.0d
 			width: 0.7d
@@ -118,12 +128,16 @@
 			y: 2.3622448979591866d
 		}
 	]
-	order_index: 2
+	order_index: 4
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["617BBE7ACB125208"]
+			dependencies: [
+				"617BBE7ACB125208"
+				"00FA2658B4F9B420"
+			]
+			dependency_requirement: "one_completed"
 			icon: {
 				id: "apothic_enchanting:seashelf"
 			}
@@ -155,7 +169,7 @@
 		}
 		{
 			icon: {
-				id: "minecraft:enchanting_table"
+				id: "apothic_enchanting:apothic_enchanting_table"
 			}
 			id: "617BBE7ACB125208"
 			rewards: [
@@ -180,7 +194,7 @@
 			tasks: [
 				{
 					id: "007FE66267DCA70E"
-					item: { count: 1, id: "minecraft:enchanting_table" }
+					item: { count: 1, id: "apothic_enchanting:apothic_enchanting_table" }
 					type: "item"
 				}
 				{
@@ -541,6 +555,7 @@
 				{
 					exclude_from_claim_all: true
 					id: "40D62447C852AD39"
+					table_id: 7655615662620160508L
 					type: "choice"
 				}
 				{
@@ -1402,6 +1417,100 @@
 			}]
 			x: -0.8999999999999999d
 			y: 0.15d
+		}
+		{
+			dependencies: ["617BBE7ACB125208"]
+			hide_dependency_lines: true
+			id: "00FA2658B4F9B420"
+			tasks: [{
+				id: "61ED057A80CE9A11"
+				item: { count: 1, id: "minecraft:pufferfish" }
+				type: "item"
+			}]
+			x: 2.1020408163265287d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"04787EFC50B743C2"
+				"4C59B30D38E10434"
+			]
+			hide_dependent_lines: true
+			id: "2CEED480C5F876D6"
+			rewards: [{
+				count: 2
+				id: "17CD24CE86185CC1"
+				item: {
+					count: 1
+					id: "apotheosis:god_fused_pearl"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "15E1FD70E6D41E6C"
+				item: { count: 1, id: "apotheosis:god_fused_pearl" }
+				type: "item"
+			}]
+			x: 12.899999999999999d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"1EE93E4C80945A97"
+				"2CEED480C5F876D6"
+			]
+			id: "446EB701F7FBEBD0"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "4A705164EC56148D"
+				item: { count: 1, id: "apothic_enchanting:raven_enchanting_table" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 1.65d
+		}
+		{
+			dependencies: ["617BBE7ACB125208"]
+			hide_dependency_lines: true
+			id: "2CEAC4ADE07EF3F6"
+			tasks: [{
+				id: "71FE44C27B3EA600"
+				item: { count: 1, id: "apothic_enchanting:flimsy_ender_lead" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -4.35d
+		}
+		{
+			dependencies: [
+				"2CEAC4ADE07EF3F6"
+				"5CF3600A45D365F5"
+			]
+			hide_dependency_lines: true
+			id: "4866D19E193A4875"
+			tasks: [{
+				id: "3F84F3E2B92CDB27"
+				item: { count: 1, id: "apothic_enchanting:ender_lead" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.3499999999999996d
+		}
+		{
+			dependencies: [
+				"4866D19E193A4875"
+				"2FE7E18D413274B6"
+			]
+			hide_dependency_lines: true
+			id: "693C3CB9113ECF53"
+			tasks: [{
+				id: "11652F0D2C067EBD"
+				item: { count: 1, id: "apothic_enchanting:occult_ender_lead" }
+				type: "item"
+			}]
+			x: 9.034013605442183d
+			y: -3.324574829931972d
 		}
 	]
 }

@@ -1,0 +1,382 @@
+{
+    "quest.02161A23ACEC1FF0.quest_desc": [
+        "As the name says, allows you to send some &bsource&r to other &djars&r.",
+        "This small change reduces the need for materials and more complex setups.",
+        "",
+        "Using the &5Dominion Wand&r, you can set the &9input&r and &6output&r. But only 1.",
+        "They have a reach of &a30 blocks&r."
+    ],
+    "quest.02161A23ACEC1FF0.quest_subtitle": "1:1",
+    "quest.12EA8624E059C93E.quest_desc": [
+        "We are almost done with &5Ars Nouveau&r progression, now for the most powerful bit,&c <shake a=1.0 f=1.0>RITUALS!!!</shake>&r",
+        "",
+        "Instead of having an &5Enchanting Apparatus&r, you have a &6Ritual Brazier&r and a &credstone&r timer. Just that.",
+        "",
+        "Some &#FFE661rituals&r, you can add extra &eitems&r to change their &aeffects&r, for example, the next quest's ritual!"
+    ],
+    "quest.12EA8624E059C93E.quest_subtitle": "The final bit",
+    "quest.12EA8624E059C93E.title": "&c<shake a=1.0 f=1.0>RITUALS!!!</shake>&r",
+    "quest.195A72B60B87427F.quest_desc": [
+        "So, you want to have a &acontrol room&r?",
+        "",
+        "Well it's possible to hit your &2tree farm&r and at the &nsame&r time your &cmob farm&r underground.",
+        "",
+        "It has a simple &#A3BE8Cmechanism&r, &bredirects&r all spells to a &6specific&r direction, which has another texture"
+    ],
+    "quest.195A72B60B87427F.quest_subtitle": "Redirect",
+    "quest.1CE4DE64296C4FE2.quest_desc": [
+        "This ritual has 2 modes, normal one and &aaugmented&r:",
+        "",
+        "- Running it normal spawns some &2wilden mobs&r near it, nothing special.",
+        "",
+        "- But if you give with right click on the &6Brazier&r before using a redstone signal some &7wilden spikes&r, &7wings&r and &7horns&r, then you will summon the &4Chimera&r, a destructive boss, when you give it a redstone signal.",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"This boss is a \"},{\"text\":\"<pulse base=0.75 a=1.0 f=1.0 w=1.0>challenging</pulse>\",\"color\":\"#FF5555\"},{\"text\":\" one, so make a \"},{\"text\":\"Mob Crusher\",\"color\":\"#FF55FF\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"industrialforegoing:mob_crusher\",\"count\":1}}},{\"text\":\" and call it a day :p\\n\\nThe boss has 3 \"},{\"text\":\"phases\",\"color\":\"#AA00AA\"},{\"text\":\", initial, with \"},{\"text\":\"spikes\",\"color\":\"#f28402\"},{\"text\":\" and with \"},{\"text\":\"spikes\",\"color\":\"#f28402\"},{\"text\":\" and <shake a=0.33 f=0.5>horns</shake>.\"}]"
+    ],
+    "quest.1CE4DE64296C4FE2.quest_subtitle": "&4Danger!!!&r",
+    "quest.1FC99D53AB93C9E2.quest_desc": [
+        "You can rotate the portal vertically, at the cost of some source, 90% of a normal source jar...",
+        "",
+        "Place a 7x7 hollow square vertically of Sourcestone, then put a 90% full (or a full one directly) touching the stone.",
+        "",
+        "After that, throw to the hole the warp scroll set with a destination, and you have a self made portal!"
+    ],
+    "quest.2970299C99099657.quest_desc": [
+        "Another important part of Ars, &d<pulse base=0.6 a=1.0 f=0.5 w=1.0>source gems</pulse>&r.",
+        "",
+        "You can get them pretty easy with some &9lapis&r or &5amethyst&r.",
+        "Make the block, place it and give some of those items and wait.",
+        "",
+        "It will take a bit, but you can &bspeed the process&r using some source, which we will learn next"
+    ],
+    "quest.2970299C99099657.quest_subtitle": "The start",
+    "quest.29B79BA6B084ED4A.quest_desc": [
+        "Well, this is the other &6way&r I was talking on the previous quest.",
+        "",
+        "This is basically a &5portal&r, &nsneak right click&r to set the &6location&r. Then go to a room that has at least &a5x5&r and right click to &#FF38C2create&r a \"permanent\" portal to that location.",
+        "",
+        "&4Breaking&r any part of the portal &cbreaks everything&r, so be careful"
+    ],
+    "quest.29B79BA6B084ED4A.quest_subtitle": "Stable TP",
+    "quest.29FC2B5E5D81ED9E.quest_desc": [
+        "It's a &6mini backpack&r, just with &a27 slots&r, like a chest.",
+        "",
+        "You can put it on the &ecurios slot&r to open like a backpack and it's pretty cheap, you should make it"
+    ],
+    "quest.29FC2B5E5D81ED9E.quest_subtitle": "The bag",
+    "quest.2B81672E7193C2FF.quest_desc": [
+        "This is a cheapo &bAE2&r system, but using &5magic&r, yeah....",
+        "",
+        "It's a bit late on the progression, but it's useful if you have started your adventure with Ars.",
+        "The &6Storage Lectern&r allows you to have different storages like chests into a centralized place.",
+        "",
+        "Using a &5Dominion Wand&r, &nsneak right click&r on a chest and then right click on the Lectern again to link it. You can link other Lecterns to extends the default &a30 block range&r, but those will not accept new storages.",
+        "",
+        "Using &aBookwyrm&r allows you to connect more inventories.",
+        "The &dWarp Index&r is your wireless terminal :p"
+    ],
+    "quest.2B81672E7193C2FF.title": "Ars' Storage",
+    "quest.2F58714652D93912.quest_desc": [
+        "The &6necklaces&r are even more simpler than rings, just gave your more &bmana capacity&r or &aregeneration&r.",
+        "",
+        "I would make them when you are starting, or just follow the quests"
+    ],
+    "quest.2F58714652D93912.quest_subtitle": "More mana",
+    "quest.30CF406EA2555881.quest_desc": [
+        "We have reach the <grad from=#FFD700 to=#FFFF00 hue=false f=1.0 sp=20.0 uni=false>most powerful spell book</grad> of all &#ff36faArs&r <wiggle a=0.75 f=0.25 w=0.5><grad from=#9812cd to=#4312cd hue=true f=0.1 sp=20.0 uni=true>Nouveau</grad></wiggle>, able to cast any spell &acombination&r in the entire mod.",
+        "",
+        "This also marks your end with &5Ars&r progression."
+    ],
+    "quest.30CF406EA2555881.quest_subtitle": "The master's toolbox",
+    "quest.32CE02C42AB8A91A.quest_desc": [
+        "If you have good spells or some &dWarp Scrolls&r, you can make 4 &evertical&r tunnels to mine a lot of materials in one go",
+        "",
+        "Put this &dritual&r somewhere that isn't your base, run it and it will start to &cmine down&r until it reaches &7bedrock&r."
+    ],
+    "quest.32CE02C42AB8A91A.quest_subtitle": "The miner",
+    "quest.32CE02C42AB8A91A.title": "Mining ritual",
+    "quest.34EB9F310E694DA9.quest_desc": [
+        "These items has some wild effects:",
+        "",
+        "- The &aJumping Ring&r allows you to do more jumps, but using a considerable amount of &bsource&r.",
+        "",
+        "- The &6Belt&r gives you random positive effects during a few seconds, not more than 10s, but it's free.",
+        "",
+        "For the jumping ring, there are some &epies and rolls&r that gives you &bMana Regeneration 2&r by just eating them, and its better than most food"
+    ],
+    "quest.34EB9F310E694DA9.quest_subtitle": "To The End",
+    "quest.34EB9F310E694DA9.title": "Weird and useful",
+    "quest.3A1E3EE6CCDBB560.quest_desc": [
+        "&nSneak right click&r to save your &abase&r location, then when you want to go &dhome&r, you can just right click one of these and you will get &dteleported back&r",
+        "",
+        "&cSingle&r use, but using an &5Enchanting Apparatus&r allows you to copy it's &elocation&r to a copy, maybe having a &#51FFDBbetter&r option or &zpassive&r would be great"
+    ],
+    "quest.3A1E3EE6CCDBB560.quest_subtitle": "TP",
+    "quest.3E11AE50D4868884.quest_desc": [
+        "Or so we thought....",
+        "",
+        "Well, the last &dpush&r to finish.",
+        "You will need to &4kill&r more time, but will be able to do now.",
+        "",
+        "Making the &cMob Crusher&r or launching at lot of &5spells&r should be feasable"
+    ],
+    "quest.3E11AE50D4868884.quest_subtitle": "Anima school",
+    "quest.436069C5DE8BE5F8.quest_desc": [
+        "This 2 rituals has 2 &zparticular&r effects:",
+        "",
+        "- Changes the &2biomes&r to the one the ritual permanently",
+        "",
+        "- Spawn some &atrees&r",
+        "",
+        "So where we have a good wood farm on the start, more if we use the &6Spell Turrets&r or &6Create mod&r"
+    ],
+    "quest.436069C5DE8BE5F8.quest_subtitle": "Changing biomes",
+    "quest.436069C5DE8BE5F8.title": "Wood rituals",
+    "quest.449C8E185512C633.quest_desc": [
+        "\"RUN RUN, WE ARE &#FF045DUNABLE&r TO MAKE <grad from=#FF028D to=#ff050a hue=true f=0.25 sp=20.0 uni=true>DAM</grad>....\" - Lost logs from the &#8603A9ancient&r era.",
+        "",
+        "The &7Wilden&r &#FFCF12Chimera&r is a &4challenging&r boss, making a lot of damage and &n&4breaking&r blocks around it.",
+        "You will have a &#FF045Dhard&r battle if you don't go prepare to defeat it"
+    ],
+    "quest.449C8E185512C633.quest_subtitle": "Destruction",
+    "quest.4845EE303D6E5DB6.quest_desc": [
+        "These little &acreatures&r allows automation and a cheapo &bAE2&r (why AE2 is everywhere?), here is a summary of what they do:",
+        "",
+        "- &5Wixie&r -> Its an automatic &6crafting&r station and a potion brewer.",
+        "",
+        "- &aWhirlisprig&r -> Generate &#FFE655resources&r from &aplants&r and crops in the world around this mob. More &cvariety&r = more &#FF4EDEresources&r",
+        "",
+        "- &6Starbuncle&r -> Its an automatic &ehopper&r that can be filtered",
+        "",
+        "- &2Drygmy&r (the dancing moose) -> It's like &#9DFF4FWhirlisprig&r but for mobs, you can use &bcontainment jars&r.",
+        "The mobs can be passive or &chostile&r.",
+        "{@pagebreak}",
+        "- &aBookwyrm&r -> Allows to access more &#FF4A45inventories&r from a &aStorage&r Lectern.",
+        "",
+        "- Any &7Golem&r -> Generate &zshards&r from their corresponding bud. &dAmethyst&r one is the only able to generate new buds.",
+        "",
+        "- &eAlakarkinos&r -> Basically a brush to &#B33FFFArchaeology&r",
+        "",
+        "- &3Siren&r -> Similar to &#97FF30Whirlisprig&r and &#FFA826Drygmy&r, but this time for aquatic mobs. Needs different species and &#2C89FFwater-based&r plants. Make an aquarium!",
+        "",
+        "- &cFlarecannon&r -> It's basically an iron golem but has homing &#FF47ADproyectiles&r that applies fire.",
+        "{@pagebreak}",
+        "To get those mobs to work, you will need a &dworking&r station (which it's basic blocks) and &bsource jar&r near and an inventory",
+        "If you &6kill&r these mobs or they are killed or you use &ddispel&r, they will turn into the &5charm&r back"
+    ],
+    "quest.4845EE303D6E5DB6.quest_subtitle": "To the rescue",
+    "quest.4845EE303D6E5DB6.title": "Charms I",
+    "quest.4C0E826CE13D9471.quest_desc": [
+        "These &#97FF30seeds&r has some interesting uses:",
+        "",
+        "- Making &dpink&r dye",
+        "",
+        "- Making &5<swing a=0.5 f=1.0 w=1.0>magic</swing>&r string -> You can &#FF418Ause&r them for multiple crafting, like new &5armours&r types or &zteleportation&r!",
+        "",
+        "- &eFood&r -> This is a good &efood&r in general, giving a lot of &#52FF7Dsaturation&r, with the benefit of giving &dMana Regeneration II&r",
+        "",
+        "You can get them as &csoon&r as you get an &#22A935emerald&r, no need for the &dEnchanting&r Apparatus!"
+    ],
+    "quest.4C0E826CE13D9471.quest_subtitle": "The food supply",
+    "quest.4D178B3F79B07236.quest_desc": [
+        "To automate this &dmachine&r, you would need to have a &6valid&r recipe on the &apedestals&r, then you can add the main &dingredient&r and start the crafting"
+    ],
+    "quest.4D178B3F79B07236.quest_subtitle": "The factory must grow",
+    "quest.4DDEB897B37E1DD3.quest_desc": [
+        "Well, a more expensive version, just to have a &6double chest&r.",
+        "",
+        "I don't &crecommend&r doing this item if you have &#7A5CFF&nstarted&r the game, there are more &eitems&r worth your initial resources"
+    ],
+    "quest.4DDEB897B37E1DD3.quest_subtitle": "The second toolbox",
+    "quest.4EB310109C1C7CFA.quest_desc": [
+        "This &#FF80F9ritual&r allows you to &bcontain&r most mobs inside a jar, making them pacific to the drygmics.",
+        "",
+        "Or if you have started with &5Occultism&r, you can use them on the &eMarid&r to get &aautomatic&r 6x ore processing!"
+    ],
+    "quest.4EB310109C1C7CFA.quest_subtitle": "On the jar you go",
+    "quest.4EB310109C1C7CFA.title": "Containing the evil",
+    "quest.511437D5945306E7.quest_desc": [
+        "These rings has some interesting effects if you use their <rainb f=0.5 w=1.0>schools</rainb>, aka elements, like fire or wind.",
+        "Or some &apassive benefits&r that you might also be interested, like &cMax Health&r"
+    ],
+    "quest.511437D5945306E7.quest_subtitle": "The wearer",
+    "quest.554390AA33A6774A.quest_desc": [
+        "Well, the &arecipe&r ask you to get 4 items, which is true, but that isn't the &#F46CFFwhole&r history.",
+        "",
+        "The recipe only &#FFDD5Aneeds&r to check if the &e3 items&r are in &7pedestals&r nearby and &cconsumes&r only the &dsource gem&r.",
+        "",
+        "Some of these &#92FF30essences&r has more uses other than &#FF8A8Acrafing&r, which you might be &dinterested&r"
+    ],
+    "quest.554390AA33A6774A.quest_subtitle": "Lies everywhere",
+    "quest.554390AA33A6774A.title": "Magical Essences",
+    "quest.5576BEE0F6A3EF10.quest_desc": [
+        "While we are at the &#FF4EDErituals&r, we will speak one of the most useful ones, &bweather rituals&r.",
+        "",
+        "It basically allows to &acontrol&r the weather as if you where using /weather.",
+        "The &9rain&r ritual can be &6augmented&r to modify it's behavior"
+    ],
+    "quest.5576BEE0F6A3EF10.quest_subtitle": "Timus in my hands",
+    "quest.5576BEE0F6A3EF10.title": "Weather rituals",
+    "quest.583875C52F398D2A.quest_desc": [
+        "We have reached the peak of &dsource&r transportation, &bAE2&r....",
+        "",
+        "Wait, &cagain&r?!?",
+        "",
+        "These 2 blocks and cells allows you to move &#FF3EE1source&r across &adimensions&r and more than 30 blocks.",
+        "",
+        "- &bME&r &dSource Jar&r -> Extract source from your network",
+        "",
+        "- &bME&r &dSource Converter&r -> Transform source into &#4AFAFFbytes&r (how is that possible?)"
+    ],
+    "quest.583875C52F398D2A.quest_subtitle": "N:M",
+    "quest.583875C52F398D2A.title": "AE2's addon",
+    "quest.5B4EF92DCC7E66F8.quest_desc": [
+        "Well, these are other type of &#FF52DBcharms&r that you might found useful, like avoiding death when falling to the &#9AC0CDvoid&r or &anight vision&r.",
+        "",
+        "There are a few &dinteresting&r ones, so check them out!"
+    ],
+    "quest.5B4EF92DCC7E66F8.quest_subtitle": "Le charmander",
+    "quest.5B4EF92DCC7E66F8.title": "Charms II",
+    "quest.5E353ADF41AFCEF2.quest_desc": [
+        "&#FFE661Second&r tier, now we are able to do a lot more &6spells&r combination.",
+        "This &#AF6747book&r allows you do use &z<neon p=10 r=1.5 a=0.15>Tier 2 Glyphs</neon>&r, which has some &5interesting&r spells.",
+        "",
+        "So here is a &ecool&r one, useful in a lot of situations"
+    ],
+    "quest.5E353ADF41AFCEF2.quest_subtitle": "The refined toolbox",
+    "quest.5EBE69501F030BF8.quest_desc": [
+        "&dSource Gems&r are the most &dused&r item in this mod, you should make some &5seeds&r or &6bees&r or &zpassive&r them.",
+        "",
+        "Its as simple as putting some &#5A83FFlapis&r or &5amethyst&r (using the block version is cheaper, even more with &#A245FFamethyst&r) on an &7Imbuement Chamber&r.",
+        "",
+        "Putting a &bsource jar&r with source will &aspeed&r up the process"
+    ],
+    "quest.5EBE69501F030BF8.quest_subtitle": "The magical gem",
+    "quest.5EBE69501F030BF8.title": "&d<fade a=0.3 f=1.0 w=0.0>Source Gems</fade>&r",
+    "quest.5EE6704B98DFCD99.quest_desc": [
+        "To start with this mod, you will need a &6special tree&r, which you can find all &baround&r your world.",
+        "Get some &asaplings&r and wood, you will need it for now.",
+        "",
+        "Also, these trees are a good &2wood farm&r for later.",
+        "",
+        "We are also giving you some &dglyphs&r, which you can use later on!"
+    ],
+    "quest.5EE6704B98DFCD99.quest_subtitle": "Starting",
+    "quest.6469409AE1328B47.quest_desc": [
+        "This is your &dmultitool&r, or more to say, the best &zmultitool&r.",
+        "",
+        "Using &5spells&r, you can hit mobs with &cdamage&r, create &bspheres&r, pass thought walls or even making light. Or travelling. Order of the &dglyphs&r matters.",
+        "",
+        "The more &eglyphs&r you have, the more &bmana&r you will have.",
+        "So make the &nbasic&r ones and tier 1.",
+        "",
+        "There are 2 &akeybinds&r to open the &#955745book&r and change spells, check them!"
+    ],
+    "quest.6469409AE1328B47.quest_subtitle": "The toolbox",
+    "quest.647C0C1123704409.quest_desc": [
+        "This &6villager&r is a wonders when it comes to &#A81EFFhard&r to find items, like sirens or dancing mooses, just using some emeralds or basic items.",
+        "",
+        "- &5Level 1&r -> Provides basic items to get &aemeralds&r or cake",
+        "",
+        "- &5Level 2&r -> Mostly &bdecoration&r and &dwarp&r scrolls, a.k.a tp",
+        "",
+        "- &5Level 3&r -> Any &eritual&r, just one sadly",
+        "",
+        "- &5Level 4&r -> &zTokens&r from the most important mobs in Ars Nouveau",
+        "",
+        "- &5Level 5&r -> A &#EBCB8Bmusic&r disc and more cake",
+        "",
+        "Needs an &bArcane Core&r as table"
+    ],
+    "quest.647C0C1123704409.quest_subtitle": "The trader",
+    "quest.647C0C1123704409.title": "Ars' Villager",
+    "quest.6774D37D0FE7FA7B.quest_desc": [
+        "Now we are talking, similar to normal &6relay&r, but this time &aallows&r multiple &eoutputs&r, but divinding the input.",
+        "",
+        "Take that into account!",
+        "",
+        "There are &#FF4AE0another&r 2 more tiers, but they have niche uses"
+    ],
+    "quest.6774D37D0FE7FA7B.quest_subtitle": "1:N",
+    "quest.68BB89C9A1644C03.quest_desc": [
+        "If you have &dfollowed&r along, you will have 2 necklaces, helping you a lot.",
+        "",
+        "Now, in many &#FF8A30situations&r, you have an &dexpensive&r ritual that needs a lot of &bsource&r.",
+        "So, we would use the &esourcelink&r to generate that source, right? &cWrong!&r",
+        "",
+        "We would use the &5sourcelink&r to generate &dsource&r, which would be stored on a &dSource Jar&r.",
+        "This small &#45FFFAchange&r makes everything more &aefficient&r on the long run, as you don't waste &#BFFF00resources&r"
+    ],
+    "quest.68BB89C9A1644C03.quest_subtitle": "Storing to the infinite",
+    "quest.692B9166D51F4B2A.quest_desc": [
+        "I will &ateach&r you from the basic to the more &#FF54EDinteresting&r ways to get into this mod",
+        "",
+        "At first glance, it looks like a normal &5Ars&r progress, which yes, it is",
+        "",
+        "I will try to make it the most interesting for you",
+        "[{\"text\":\"\"},{\"text\":\"So for now, you can go to \"},{\"text\":\"this quest\",\"color\":\"#55FFFF\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4C0E826CE13D9471\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":{\"text\":\"Click here to change quest\"}}},{\"text\":\" to see the <grad from=#b838ff to=#f303ae hue=false f=1.0 sp=10.0 uni=true>cool</grad> things!\"}]"
+    ],
+    "quest.692B9166D51F4B2A.quest_subtitle": "The magic land",
+    "quest.692B9166D51F4B2A.title": "Welcome to &#ff36faArs&r <wiggle a=0.75 f=0.25 w=0.5><grad from=#9812cd to=#4312cd hue=true f=0.1 sp=20.0 uni=true>Nouveau</grad></wiggle>",
+    "quest.69C52B5841E4CA8F.quest_desc": [
+        "\"On the vast &#10ACFFuniverse&r, there are 2 &zforces&r &4destroying&r each other, yet they can't. It seems that this &bcrystal&r is &cstopping&r them from doing so\" - &#FFAD0EArchmage&r #12",
+        "",
+        "This &ccrystal&r is needed to invoke the &#484848Universe&r itself, we need some &4sacrifices&r to do so, just to get a copy of the original form.",
+        "",
+        "If we move the &#FF0000original&r shard, we would end the &#484848universe&r as we know"
+    ],
+    "quest.69C52B5841E4CA8F.quest_subtitle": "The universe hold",
+    "quest.6C84E327A38DEF44.quest_desc": [
+        "Running this &#FF4EDEritual&r near some buds or &5Ars&r' trees will generate a new entity:",
+        "",
+        "- Near &2Ars' trees&r -> Generate an copy of an &7Iron Golem&r but can regenerate alone",
+        "",
+        "- Near &zbuds&r -> Create the corresponding &7golem&r to that bud"
+    ],
+    "quest.6C84E327A38DEF44.quest_subtitle": "Awake my child",
+    "quest.6C84E327A38DEF44.title": "Awakening rituals",
+    "quest.6E0312D6BEA4D623.quest_desc": [
+        "These rings are as simple as it can get, get you more &bmana&r in 3 ways:",
+        "",
+        "- Gives you &bmore mana capacity&r",
+        "",
+        "- &aRegenerate&r the capacity faster",
+        "",
+        "- Have a &e10% or 20% discount&r on all spells you launch"
+    ],
+    "quest.6E0312D6BEA4D623.quest_subtitle": "Less mana used",
+    "quest.703123C7E3BE8E42.quest_desc": [
+        "Generating &bsource&r it's pretty much &eeasy&r, do something and get source.",
+        "",
+        "In this case, the &cVolcanic Sourcelink&r will generate source by burning items. But will &4convert&r any stone to lava. It's the easiest one to make, but &nnot&r the best one.",
+        "",
+        "Put a &dSource Jar&r next to this block!",
+        "",
+        "If you want to &#FF8D2Egenerate&r a lot of source, use the &aAgronomic&r one, since there are &5a lot of&r ways to 1 tick growth plants and has \"no\" cooldown"
+    ],
+    "quest.703123C7E3BE8E42.quest_subtitle": "Generating initially",
+    "quest.703123C7E3BE8E42.title": "Generating source",
+    "quest.70BDE710C6EA8748.quest_desc": [
+        "If you have reached this point, you have made to the most interesting part of Ars, &5spells&r",
+        "",
+        "Each spell can have multiple combination, for example, a spell to yourself that makes you jump around and bounce, taking no fall damage.",
+        "",
+        "Well, that's what we are going to do, create the table and get some &2slime balls&r, you will need it to create the &aBounce Glyph&r.",
+        "",
+        "You can put a chest next to the table to automate it, if you need to."
+    ],
+    "quest.70BDE710C6EA8748.quest_subtitle": "Magical",
+    "quest.767909C986FE0F09.quest_desc": [
+        "To start the ritual, you would need some &7wilden drops&r, so the ritual provides a good way to get them."
+    ],
+    "quest.767909C986FE0F09.quest_subtitle": "Dangerous to the touch",
+    "quest.767909C986FE0F09.title": "Wilden Drops",
+    "quest.7D5CAE3AB604B96B.quest_desc": [
+        "We are right now &adone&r with half of Ars Nouveau progress, yes, really.",
+        "",
+        "Just make some &#00FFFFpedestals&r, and these 2 blocks. Put the &eitems&r in the pedestals and finally put the main &eitem&r on the &5Apparatus&r and wait.",
+        "",
+        "You need some &dsource&r, so just put a &dSource Jar&r near"
+    ],
+    "quest.7D5CAE3AB604B96B.quest_subtitle": "Spin!!!!!!"
+}

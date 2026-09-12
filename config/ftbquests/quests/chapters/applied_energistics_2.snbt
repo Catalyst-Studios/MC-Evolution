@@ -8,7 +8,8 @@
 		id: "ae2:controller"
 	}
 	id: "7D0096384EB81C5A"
-	order_index: 0
+	images: [ ]
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -45,7 +46,7 @@
 				id: "35C32631AAFE2B86"
 				item: {
 					count: 1
-					id: "ae2:certus_quartz_crystal"
+					id: "eternalores:gem_certus_quartz"
 				}
 				type: "item"
 			}]
@@ -91,7 +92,7 @@
 			]
 			hide_until_deps_complete: true
 			icon: {
-				id: "ae2:certus_quartz_crystal"
+				id: "eternalores:gem_certus_quartz"
 			}
 			id: "6B50E447E97394A8"
 			progression_mode: "linear"
@@ -193,7 +194,7 @@
 			]
 			hide_until_deps_complete: true
 			icon: {
-				id: "ae2:fluix_crystal"
+				id: "eternalores:gem_fluix"
 			}
 			id: "638AA96CA3E3787D"
 			rewards: [{
@@ -227,7 +228,7 @@
 			dependency_requirement: "one_completed"
 			hide_until_deps_visible: true
 			icon: {
-				id: "ae2:silicon"
+				id: "eternalores:silicon"
 			}
 			id: "545CECD192055BC0"
 			rewards: [{
@@ -239,12 +240,15 @@
 			tasks: [
 				{
 					id: "6E5A4EBB9197750F"
-					item: { count: 1, id: "ae2:certus_quartz_dust" }
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:dusts/certus_quartz)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 				{
+					icon: {
+						id: "eternalores:silicon"
+					}
 					id: "3E23F50F6C861B35"
-					item: { count: 1, id: "ae2:silicon" }
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:silicon)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 			]
@@ -254,6 +258,12 @@
 		{
 			dependencies: ["374D3F10FD46CC21"]
 			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/check_inactive.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "116BB789A12F3457"
 			tasks: [{
 				id: "0D0B21600C69185B"
@@ -409,6 +419,7 @@
 						id: "ae2:mysterious_cube"
 					}
 					id: "3EBD4602D46B06F4"
+					observation_type: "block"
 					observe_type: 0
 					optional_task: true
 					timer: 0L
@@ -547,7 +558,7 @@
 									priceMultiplier: 0.05f
 									sell: {
 										count: 4
-										id: "ae2:certus_quartz_crystal"
+										id: "eternalores:gem_certus_quartz"
 									}
 									xp: 10
 								}
@@ -588,7 +599,7 @@
 									priceMultiplier: 0.05f
 									sell: {
 										count: 4
-										id: "ae2:fluix_crystal"
+										id: "eternalores:gem_fluix"
 									}
 									xp: 14
 								}
@@ -1347,6 +1358,7 @@
 			tasks: [{
 				id: "60A6A69B2556FD13"
 				item: { components: { "productivebees:bee_type": "productivebees:spacial" }, count: 1, id: "productivebees:configurable_honeycomb" }
+				match_components: "strict"
 				type: "item"
 			}]
 			x: 4.0d
@@ -1366,6 +1378,7 @@
 			tasks: [{
 				id: "317C9FC07DA12EF5"
 				item: { components: { "productivebees:bee_type": "productivebees:fluix" }, count: 1, id: "productivebees:configurable_honeycomb" }
+				match_components: "strict"
 				type: "item"
 			}]
 			x: -4.0d
@@ -2346,6 +2359,7 @@
 			tasks: [{
 				id: "2C5156A806B9CBCD"
 				item: { components: { "productivebees:bee_type": "productivebees:redstone_crystal" }, count: 1, id: "productivebees:configurable_honeycomb" }
+				match_components: "strict"
 				type: "item"
 			}]
 			x: 11.0d
@@ -2831,7 +2845,7 @@
 				{
 					count: 32L
 					id: "6BC4F56C80150FB2"
-					item: { count: 1, id: "ae2:fluix_crystal" }
+					item: { count: 1, id: "eternalores:gem_fluix" }
 					type: "item"
 				}
 				{
@@ -3467,7 +3481,7 @@
 				id: "413CD0FC80FA21CE"
 				item: {
 					count: 1
-					id: "ae2:certus_quartz_crystal"
+					id: "eternalores:gem_certus_quartz"
 				}
 				type: "item"
 			}]
@@ -4019,6 +4033,7 @@
 			tasks: [{
 				id: "2F389339CADC4ACA"
 				item: { components: { "productivebees:bee_type": "productivebees:entro" }, count: 1, id: "productivebees:configurable_honeycomb" }
+				match_components: "strict"
 				type: "item"
 			}]
 			x: -13.5d

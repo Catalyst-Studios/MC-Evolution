@@ -1,0 +1,546 @@
+{
+    "quest.0039BEDA264F3F41.quest_desc": [
+        "Plant &2crops&r in an area. You can use up to 9 &6different&r crops and has a &drange&r, which you can increase with &5range&r addons"
+    ],
+    "quest.0039BEDA264F3F41.quest_subtitle": "Farmer",
+    "quest.00FA35F606E085BB.quest_desc": [
+        "Laser drills, maybe to get some &#b4e2e2Ether gas&r?",
+        "",
+        "Or maybe to &6speed&r things up with &claser&r base, I think this is the reason."
+    ],
+    "quest.00FA35F606E085BB.quest_subtitle": "Speeding laser bases",
+    "quest.0484C8EB60C677FF.quest_desc": [
+        "This is the &6tier&r you want to &dstart&r with, since the &bfirst&r one is basically useless",
+        "",
+        "It gives multiples &6output&r using the same &eingredients&r from 1 recipe. Not all machines can accept this upgrade.",
+        "",
+        "Only one &dupgrade&r will work, not &amultiples&r, even if it &dallows&r you to add 2 or more"
+    ],
+    "quest.0484C8EB60C677FF.quest_subtitle": "Stronger v2",
+    "quest.0541FBEFBA1DFDAB.quest_desc": [
+        "Enchants &6tools&r and &aarmors&r using essence from the Mob Crusher.",
+        "",
+        "If the &dinside&r tank is not enough, you can put &6another&r fluid tank, like &aMekanism&r tank on top of this &6machine&r, touching each other.",
+        "There is a &acap&r, you can't do level 300000000 :p",
+        "",
+        "Only level 189, which &6consumes&r 2M mb of essence...."
+    ],
+    "quest.0541FBEFBA1DFDAB.quest_subtitle": "Enchanting table v2",
+    "quest.057C99B5F125499F.quest_desc": [
+        "On &aIndustrial Foregoing&r's &6ore&r processing is usually &eunderrated&r, since it needs a &amob&r farm and a &#857E87wither&r, but it's one of the most &dpowerful&r.",
+        "",
+        "It can &cconvert&r 1 &eraw&r to 5 &aingots&r, only if the &aingot&r can be &6converted&r to &2dust&r and viceversa.",
+        "",
+        "We would need some &eraw&r ores and some &6liquid meat&r and a &dWashing Factory&r.",
+        "And &apower&r, of course :p"
+    ],
+    "quest.057C99B5F125499F.quest_subtitle": "First step",
+    "quest.061F107553FC9B32.quest_desc": [
+        "Industrial Foregoing requires a lot of logs to start with, here is the best one, in order:",
+        "",
+        "- &cMangrove&r / &6Acacia&r -> Generate 4 mb of latex per tick",
+        "- &dCherry&r / &6Dark Oak&r -> Generate 3 mb of latex per tick",
+        "- &7Spruce&r -> Generate 2 mb of latex per tick",
+        "",
+        "Place the latex extractor, then place a log on from of the machine, which is the opossite side where you place them and it will start to generate latex.",
+        "",
+        "I would get &cMangrove&r and &6Dark Oak&r for latex just for a reason, 4 &asaplings&r produce a lot of &6logs&r.",
+        "{@pagebreak}",
+        "How it works:",
+        "",
+        "- It will &aproduce&r latex while it has a &6log&r in front.",
+        "",
+        "- Slowly, it will start to &cdestroy&r the &6log&r, you won't &csave&r the log even if you &dbreak&r it and &5place&r again",
+        "",
+        "- It will &bconvert&r them to the &estripped&r version, you don't need to remove them, but will produce &cless&r latex",
+        "",
+        "- It will start &dbreaking&r the &estripped&r log until it deletes the log",
+        "",
+        "If you give a bit of &apower&r, you will get more!"
+    ],
+    "quest.061F107553FC9B32.quest_subtitle": "Extracting latex",
+    "quest.09F09BCB24E56AAC.quest_desc": [
+        "Separete &ababy&r animals from the adults"
+    ],
+    "quest.09F09BCB24E56AAC.quest_subtitle": "Give them some time....",
+    "quest.0BB6D8A60F9F4211.quest_desc": [
+        "Sorts &5enchanments&r"
+    ],
+    "quest.0BB6D8A60F9F4211.quest_subtitle": "Sorting on O(n log n)",
+    "quest.0D52FD4F4D3F30BE.quest_desc": [
+        "&7Void&r mining!",
+        "",
+        "Depending on the &alenses&r you use, the &6biome&r and the &d&nGUI height&r, you can get one ore or another.",
+        "More &6lenses&r means more &echances&r to get the ores you want.",
+        "",
+        "They don't &bproduce&r &nexactly&r 1 ore, but a &crange&r with different %"
+    ],
+    "quest.0F684223F54887E2.quest_desc": [
+        "Power from &aplants&r?"
+    ],
+    "quest.0F684223F54887E2.quest_subtitle": "Maybe some hydros will help?",
+    "quest.0F88BADEA47DDFAC.quest_desc": [
+        "This is a subtitute to &aslime&r, basically"
+    ],
+    "quest.0F88BADEA47DDFAC.quest_subtitle": "Smily",
+    "quest.106495D8162A193F.quest_desc": [
+        "Hopefully, this will &clast&r a long time, right? &lRIGHT&r?"
+    ],
+    "quest.106495D8162A193F.quest_subtitle": ":)",
+    "quest.12D67E0652C01B3F.quest_desc": [
+        "The &6final&r step needs a lot of &esand&r to get the result, which you can get &aeasily&r from multiple &dsources&r.",
+        "",
+        "Just that each &6machine&r can only accept 4 &bstacks&r of sand each..."
+    ],
+    "quest.12D67E0652C01B3F.quest_subtitle": "Falling from sky",
+    "quest.12D67E0652C01B3F.title": "Sand",
+    "quest.135F2701909EA488.quest_desc": [
+        "Fish for you",
+        "",
+        "Needs an area of 3x3x3 of &9water&r &cbelow&r it in order to work"
+    ],
+    "quest.135F2701909EA488.quest_subtitle": "Fishing on the pod",
+    "quest.13ACD101BDB6BD73.quest_desc": [
+        "Generates &cmushrooms&r",
+        "",
+        "Needs &9water&r, &apower&r and 1 &6mushroom&r to start to dupe them"
+    ],
+    "quest.13ACD101BDB6BD73.quest_subtitle": "Spores on the mushrooms?",
+    "quest.14392B1AB523E1BF.quest_desc": [
+        "Turn &eSewage&r into &6Fertilizer&r, they are used to make &dhydros&r!"
+    ],
+    "quest.14392B1AB523E1BF.quest_subtitle": "Fertilizer producer",
+    "quest.149F4C62572ECF11.quest_desc": [
+        "Although some of them have some &dspecial&r characteristics, most of them are used for one &ething&r, &6void&r &bmining&r!",
+        "",
+        "Put some &alenses&r on some &dmachines&r and you get &aresources&r for free, more on that later.",
+        "I would do one &alense&r on the &dDissolution Chamber&r and use dyes to get the others, it would be a &ebit&r faster."
+    ],
+    "quest.149F4C62572ECF11.quest_subtitle": "The lense",
+    "quest.168630C2D2A7577F.quest_desc": [
+        "Collects &9water&r.",
+        "",
+        "Needs at least 2 &9water&r sources touching it"
+    ],
+    "quest.168630C2D2A7577F.quest_subtitle": "Infinite WATER!!!",
+    "quest.18F425B48A025625.quest_desc": [
+        "Breaks &6blocks&r"
+    ],
+    "quest.18F425B48A025625.quest_subtitle": "Infinite COBBLESTONE!!!",
+    "quest.1CC9E80B9ADF7D3C.quest_desc": [
+        "You would need &emachines frames&r, the first one needs some &6logs&r, &credstone&r and iron."
+    ],
+    "quest.1CC9E80B9ADF7D3C.quest_subtitle": "First Tier",
+    "quest.1D4E7409195E5B70.quest_desc": [
+        "Now, combine the &6output&r &9liquid&r from last step and some &esand&r to get the &adusts&r",
+        "",
+        "On some &6ores&r, you want to end the &6ore&r processing here, but usually, you want the &aingot&r version"
+    ],
+    "quest.1D4E7409195E5B70.quest_subtitle": "Third step",
+    "quest.1D4E7409195E5B70.title": "Sieving",
+    "quest.1F911419B6FC32F6.quest_desc": [
+        "Stop &dmobs&r from moving and &6slow&r you down"
+    ],
+    "quest.1F911419B6FC32F6.quest_subtitle": "Stop right there!",
+    "quest.2073EE32F3217CD5.quest_desc": [
+        "Collects &6resources&r from animals, like &lwool&r, &7milk&r or &ddyes&r from squids"
+    ],
+    "quest.2073EE32F3217CD5.quest_subtitle": "Rancher v2",
+    "quest.2130A8EEC5F51105.quest_desc": [
+        "Wait a second, &a25MFE&r per &c&lTICK&r?",
+        "",
+        "And just for having all reactor from Industrial Foregoing on near this machine?"
+    ],
+    "quest.2299E953A9A2DD3F.quest_desc": [
+        "With this wonderful &eitem&r, you won't need to &ceat&r anymore, if you have &bliquid&r &6meat&r of course.",
+        "Acts as a &abucket&r",
+        "",
+        "Also used one &dmachine&r crafting"
+    ],
+    "quest.2299E953A9A2DD3F.quest_subtitle": "No more food, just souls",
+    "quest.22E2F44C5CA270E0.quest_desc": [
+        "&#b4e2e2Ether&r, probably one of &bcheapest&r fluids to produce :P"
+    ],
+    "quest.22E2F44C5CA270E0.title": "&#b4e2e2Ether gas&r bucket",
+    "quest.24DD36335F53A8E3.quest_desc": [
+        "This is the &asimulated&r version, which doesn't need the plant &6growing&r outside!",
+        "",
+        "To &astart&r, you will need some normal &dhydros&r and &bsimulation processor&r inside, with the &2plant&r you want to simulate.",
+        "",
+        "You would need a lot of &dinteractions&r to get a good rate, because it has a &6logarithmic&r growth.",
+        "",
+        "After than, you can start to &asimulate&r the growth, saving a ton of &clag&r!",
+        "{@pagebreak}",
+        "There is &ccatch&r, you won't be needing &9water&r and &#b4e2e2Ether gas&r, but you would need more &bpower&r and time.",
+        "",
+        "I will give you an &6example&r of why do you need a lot of &ainteractions&r as a reward..."
+    ],
+    "quest.24DD36335F53A8E3.quest_subtitle": "Saving the lag",
+    "quest.2502D9522831EA3E.quest_desc": [
+        "If you have ever played with &aIndustrial Foregoing&r, you would notice that most &dmachines&r and &6stuff&r are made in this &eblock&r.",
+        "",
+        "Do I need to say that you would want to make a &c&lfew&r of them?"
+    ],
+    "quest.2502D9522831EA3E.quest_subtitle": "You will need more than 1",
+    "quest.250AB1CE07085055.quest_desc": [
+        "This is the &esecond&r &atier&r of machine casing, that means more &dpowerful&r machines!"
+    ],
+    "quest.250AB1CE07085055.quest_subtitle": "Second Tier",
+    "quest.2737067F33B824AB.quest_desc": [
+        "Generate different &6materials&r using &clava&r and &9water&r"
+    ],
+    "quest.285F23F90D6EEDF6.quest_desc": [
+        "&5Wither&r for you, &5Wither&r for me",
+        "",
+        "Places all necessary elements to generate a &5Wither&r"
+    ],
+    "quest.297E2082FE572D17.quest_desc": [
+        "Collects &afluids&r that are placed in front of it"
+    ],
+    "quest.297E2082FE572D17.quest_subtitle": "Infinite WATER!!!!",
+    "quest.2A452E4F795543EE.quest_subtitle": "Hammar time!",
+    "quest.2B300A89D1239D5A.quest_subtitle": "Axe on steroids",
+    "quest.2B4ADD57AB31DD47.quest_desc": [
+        "Generate more mobs using &6liquid&r meat and power.",
+        "",
+        "Multiple &amachines&r can share one input"
+    ],
+    "quest.2BC39E600F41F587.quest_desc": [
+        "Here is the &claggy&r part of this mod, we need to make a mob farm.",
+        "",
+        "It will kill any entity it has in front, from your &edogs&r to your &bcats&r to your &6zombies&r",
+        "",
+        "This is how it works:",
+        "",
+        "- Kills an mob",
+        "",
+        "- Fills tanks and uses &aenergy&r",
+        "",
+        "But here is a thing:",
+        "",
+        "- If it kills a mob that isn't an &aanimal&r like zombie, it will fill the liquid &6meat&r faster.",
+        "",
+        "- If the mob is an &aanimal&r like a cow, it will fill faster the &dpink&r slime",
+        "",
+        "How much it fills the tanks depends on the mob &chealth&r, so take that into account"
+    ],
+    "quest.2BC39E600F41F587.quest_subtitle": "pink slime?",
+    "quest.2BCDA36E83CA7353.quest_desc": [
+        "This is probably one of the most &4dangerous&r setups you would make on the &amod&r, since, well, needs a &5Wither&r.",
+        "",
+        "But there is a &esolution&r to this problem, to make it safe, if you have &aenergy&r of course.",
+        "",
+        "Get a &dstasis chamber&r first!",
+        "",
+        "How it works:",
+        "",
+        "- The &9fluid&r &5laser base&r will need some laser drills to get progress. You can have up to &c143&r drills",
+        "",
+        "- When it get to &a100&r&e%&r, it will give some &bether&r.",
+        "",
+        "For this to work, the &6base&r needs to be on top of &5The Wither&r.",
+        "&dLaser drills&r and &dstasis chamber&r needs power."
+    ],
+    "quest.2BCDA36E83CA7353.quest_subtitle": "Time to drill The Wither",
+    "quest.2CAE57805EF8BDBB.quest_desc": [
+        "&eFarmland&r on steroids",
+        "",
+        "Needs &#b4e2e2Ether gas&r, &aenergy&r and water, but the results are impressive.",
+        "",
+        "There is also an &6upgrade&r to this &dmachine&r, but you would need to &ecollect&r some data first.",
+        "",
+        "Sneak right click to &6plant&r a crop."
+    ],
+    "quest.2CAE57805EF8BDBB.quest_subtitle": "Farming on the summer",
+    "quest.2DE3EE4DFEF85889.quest_desc": [
+        "Dupe &dmobs&r?!?",
+        "",
+        "To &6dupe&r mobs, you would need some &aEssence&r from the Mob Crusher, then, using a mob &dimprisioment&r tool with a mob &ninside&r and some &aenergy&r, you can finally start &eduping&r this mob.",
+        "",
+        "We are &cnot responsible&r for the &4lag&r this might cause if population of &6cloned&r mob is not &dcontrolled&r :p"
+    ],
+    "quest.2DE3EE4DFEF85889.quest_subtitle": "Clone #4532",
+    "quest.2E1D12B0E2593D50.quest_desc": [
+        "Step 3 of your &6ore&r processing"
+    ],
+    "quest.2E1D12B0E2593D50.quest_subtitle": "Sieving, my favorite activity",
+    "quest.2FAA099DF8EC8513.quest_desc": [
+        "Void &9fluid&r mining",
+        "",
+        "For Ether Gas, you would need to have the &8Wither&r head near, basically &atouching&r it."
+    ],
+    "quest.305F48B4B25D69EF.quest_desc": [
+        "Well, a &esmall&r lie :p",
+        "",
+        "This is the &creal&r final step, &6smelting&r the dust to get the &bingot&r. Which in &n&dsome&r&r cases you don't want to do that, since some &bmods&r uses the dust form.",
+        "",
+        "&6Congrats&r, you made your &6ore&r processing!"
+    ],
+    "quest.305F48B4B25D69EF.title": "Got it?",
+    "quest.31630C84E83890D7.quest_desc": [
+        "<pulse base=0.75 a=1.0 f=1.0 w=1.0>Industrial</pulse> &#26b7ecForegoing&r machines doesn't have a &dsaved&r status if you &cbreak&r them.",
+        "And if you don't have a &amod&r like &2Mekanism&r or &cSFM&r to &6expands&r easily your setup, this is your &bfriend&r.",
+        "",
+        "Allows you to &6copy&r the machine settings, from &bside&r configuration to &5upgrades&r, and later &dapply&r to other machines"
+    ],
+    "quest.31630C84E83890D7.quest_subtitle": "Copying the machines",
+    "quest.3189F95366CFF579.quest_desc": [
+        "Collect &aplants&r.",
+        "",
+        "You can use &drange&r addons to increase &6collection&r area. It goes one &arow&r at the time"
+    ],
+    "quest.3189F95366CFF579.quest_subtitle": "What? The wheat is missing?",
+    "quest.33C3F20CCC8C10FB.quest_desc": [
+        "Tier 3, thats means more &6powerful&r &dmachines&r, which means more &ccrazy&r setups!",
+        "",
+        "Needs the &dprevious&r tier",
+        "",
+        "Did you know that you can &cplace&r the &6Machine&r frames? The mod &bauthor&r added that :p"
+    ],
+    "quest.33C3F20CCC8C10FB.quest_subtitle": "T3",
+    "quest.341F249B7228D3CD.quest_subtitle": "Sophisticated storage?!?",
+    "quest.3689AFA62A2A1D46.quest_desc": [
+        "Generate &6Sewage&r fluid depending on the number of &cAnimals&r above it.",
+        "",
+        "Can use range &daddons&r"
+    ],
+    "quest.3689AFA62A2A1D46.quest_subtitle": "Like real life?",
+    "quest.370A83BF9CCEC3E3.quest_desc": [
+        "Yep, you are not &dgetting&r crazy, there is a &6happy&r face :) .",
+        "",
+        "Useful for 3 things:",
+        "",
+        "- &dPink&r generator",
+        "",
+        "- As a &asubstitute&r to some ingots ",
+        "",
+        "- For &6ore&r processing, just to craft 1 &5machine&r"
+    ],
+    "quest.370A83BF9CCEC3E3.quest_subtitle": ":)",
+    "quest.384F0AC89B484717.quest_desc": [
+        "Skip this upgrade"
+    ],
+    "quest.384F0AC89B484717.quest_subtitle": "Stronger",
+    "quest.3A698C3110C4E336.quest_desc": [
+        "An ingredient for Techological seeds, step 3"
+    ],
+    "quest.3CD10CDC9E59A25E.quest_desc": [
+        "Brew &2potions&r more efficiently"
+    ],
+    "quest.42ECB9AEEB5E148A.quest_desc": [
+        "These &daddons&r or &5upgrades&r are used on some &emachines&r, like Mob Crusher.",
+        "",
+        "It basically &aincreases&r the operation range, some &emachines&r don't accept them.",
+        "",
+        "They use mostly the same &6materials&r but changes 2 of them, which determine the &7range&r"
+    ],
+    "quest.42ECB9AEEB5E148A.quest_subtitle": "MOAR RANGE",
+    "quest.4331065A0DFB716A.quest_desc": [
+        "This is the &6tier&r you want to &dstart&r with, since the &bfirst&r one is basically useless",
+        "",
+        "It saves &eresources&r and &apower&r. Not all machines can accept this upgrade.",
+        "",
+        "Only one &dupgrade&r will work, not &amultiples&r, even if it &dallows&r you to add 2 or more"
+    ],
+    "quest.4331065A0DFB716A.quest_subtitle": "Better v2",
+    "quest.447A36F0D55A6587.quest_desc": [
+        "Tier 4, the most &dexpensive&r machine casing.",
+        "",
+        "While it doesn't provide a lot of &duses&r, it has one &ething&r, it's needed for &apower&r generation!",
+        "",
+        "Needs &bprevious&r tier"
+    ],
+    "quest.447A36F0D55A6587.quest_subtitle": "Cuarto Tier",
+    "quest.447A36F0D55A6587.title": "Supreme Machine Frame",
+    "quest.490D3C76D973668B.quest_desc": [
+        "[{\"text\":\"\"},{\"text\":\"This method uses a lot of Liquid \"},{\"text\":\"Meat\",\"color\":\"#9D4F2F\"},{\"text\":\" that comes from a \"},{\"text\":\"Slaugter factory\",\"color\":\"#FF55FF\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"industrialforegoing:mob_slaughter_factory\",\"count\":1}}}]",
+        "",
+        "For the &#b4e2e2Ether gas&r, there is only 1 source, &#484848The Wither&r. You would need a &bFluid&r Laser Drill with a &5Purple&r Lens.",
+        "Make sure to use a &zStasis Chamber&r"
+    ],
+    "quest.490D3C76D973668B.title": "Liquid Meat",
+    "quest.4AD7CE8419514036.quest_subtitle": "Ποσειδώνας",
+    "quest.4B5D3F2185AF84D5.quest_desc": [
+        "This is the &esecond&r &atier&r of machine casing, that means more &dpowerful&r machines!",
+        "",
+        "Did you know that you can &cplace&r the &6Machine&r frames? The mod &bauthor&r added that :p"
+    ],
+    "quest.4B5D3F2185AF84D5.quest_subtitle": "Second Tier",
+    "quest.4B6190D9B1D27545.quest_desc": [
+        "Charges your &dinfinity&r tools",
+        "",
+        "They will be &acharged&r at a rate of max int / t (which is not &benough&r to fill the infinity tools...)"
+    ],
+    "quest.4B6190D9B1D27545.quest_subtitle": "Charger 60W",
+    "quest.4FC8274D966F288E.quest_desc": [
+        "Mix &cred&r, &agreen&r and &9blue&r dye to get other &zdyes&r."
+    ],
+    "quest.4FC8274D966F288E.quest_subtitle": "Mixing dyes",
+    "quest.4FC8274D966F288E.title": "&zDye&r Mixer",
+    "quest.50FBAF1B43BC733F.quest_desc": [
+        "Gets &6drops&r and &aexperience&r from &dmobs&r",
+        "",
+        "But no Liquid Meat or Pink slime :("
+    ],
+    "quest.50FBAF1B43BC733F.quest_subtitle": "The Ender Dragon automation",
+    "quest.5120F9857859A492.quest_desc": [
+        "This is an &beasy&r tool to get, yet &6powerful&r",
+        "",
+        "Allows to &acapture&r a mob and then &drelease&r it on another place.",
+        "There is a small &7blacklist&r :p"
+    ],
+    "quest.5120F9857859A492.quest_subtitle": "Catch them ALL",
+    "quest.537FEEE440E8F2F1.quest_desc": [
+        "First step of the &6ore&r processing"
+    ],
+    "quest.537FEEE440E8F2F1.quest_subtitle": "Cleaning some ores",
+    "quest.5404F37ADFC2FB5E.quest_desc": [
+        "I think the &6pludger&r is the wrong type of &aarrow&r"
+    ],
+    "quest.5404F37ADFC2FB5E.quest_subtitle": "Bow?",
+    "quest.5580F434FC019D30.quest_desc": [
+        "These machines are the main ones for IF, but they aren't as fast as you would see on other mods, but that has an easy solution.",
+        "",
+        "More machines!",
+        "",
+        "For &binfinity&r tools, don't try to get to &cArtifact&r tier, you would need about &a7&r &4years&r to reach"
+    ],
+    "quest.55E1DAB1759592B4.quest_desc": [
+        "Detects a &amob&r"
+    ],
+    "quest.55E1DAB1759592B4.quest_subtitle": "And outputs a redstone signal!",
+    "quest.588981D06CD1A762.quest_desc": [
+        "Places &9fluids&r on the world"
+    ],
+    "quest.588981D06CD1A762.quest_subtitle": "Placing fluids",
+    "quest.5C7678525D872EFB.quest_desc": [
+        "Turn &aplants&r into &bSludge&r"
+    ],
+    "quest.5C7678525D872EFB.quest_subtitle": "Recycling",
+    "quest.5D8CEA0C5F37F92C.quest_desc": [
+        "Tier 4, the most &dexpensive&r machine casing.",
+        "",
+        "While it doesn't provide a lot of &duses&r, it has one &ething&r, it's needed for &apower&r generation!",
+        "",
+        "Needs &bprevious&r tier.",
+        "",
+        "",
+        "Did you know that you can &cplace&r the &6Machine&r frames? The mod &bauthor&r added that :p"
+    ],
+    "quest.5D8CEA0C5F37F92C.quest_subtitle": "Cuarto Tier",
+    "quest.5F9B4D92EF2291EE.quest_desc": [
+        "&aIndustrial Foregoing&r allows you to &espeed things up&r quite a bit.",
+        "",
+        "You will need the same setup as the &bEther Gas&r, but with a &3Warden&r.",
+        "The &3Warden&r will receive &cdamage&r, so make sure to have more &6stasis chambers&r.",
+        "",
+        "Put the &9blue lens&r to generate &dsouls&r, and after that, some &6pipes&r to transport them. Although &aAE2&r as transport might be good. You always need &6pipes&r!",
+        "",
+        "{@pagebreak}",
+        "Put the &5surges&r on the machine you want, and it will go &afaster&r, but each surge will only add a bit less, so if the first one adds a &ex3&r, the second surge will only add a &ex2&r, so &ex5&r and so on."
+    ],
+    "quest.5F9B4D92EF2291EE.title": "Tick Accerelation",
+    "quest.600A2047561A428B.quest_desc": [
+        "From the &6first&r step, you get some other liquid",
+        "",
+        "Pump that &9liquid&r with some &bEther&r (to get 5 ingots) or &dpink&r &aslime&r (to get 4 ingots) and some &dupgrades&r.",
+        "",
+        "Here, &dupgrades&r makes a lot of difference on &aspeed&r and &6efficiency&r, so make them!"
+    ],
+    "quest.600A2047561A428B.quest_subtitle": "Second step",
+    "quest.600A2047561A428B.title": "Fermenting",
+    "quest.647CD87765E68CED.quest_desc": [
+        "This is the &6tier&r you want to &dstart&r with, since the &bfirst&r one is basically useless.",
+        "",
+        "It &aspeeds&r recipes basically. Not all &dmachines&r can accept this upgrade.",
+        "",
+        "Only one &dupgrade&r will work, not &amultiples&r, even if it &dallows&r you to add 2 or more"
+    ],
+    "quest.647CD87765E68CED.quest_subtitle": "Faster v2",
+    "quest.6853C9783DAF95E6.quest_desc": [
+        "&dCats&r are not damaged!",
+        "",
+        "Unless there is &clava&r on the &ahole&r it makes, of course...."
+    ],
+    "quest.6853C9783DAF95E6.quest_subtitle": "The missile",
+    "quest.6903879F94810373.quest_desc": [
+        "&f<pulse base=0.75 a=1.0 f=1.0 w=1.0>Industrial</pulse> &#26b7ecForegoing&r, the Swiss Army knife of &dmods&r.",
+        "",
+        "From trapping &cenemies&r to &6ore&r processing to &aenergy&r production and more, it allows you to make &binteresting&r setups",
+        "",
+        "To start with this mod, you would need &emachines frames&r, the first one needs some &6logs&r, &credstone&r and iron."
+    ],
+    "quest.6903879F94810373.quest_subtitle": "You need to automate <grad from=#eca726 to=#26e2ec hue=true f=0.2 sp=10.0 uni=true>everything</grad>!",
+    "quest.6903879F94810373.title": "&6Welcome&r &fto <pulse base=0.75 a=1.0 f=1.0 w=1.0>Industrial</pulse> &#26b7ecForegoing&r!",
+    "quest.6B1734299D45AFD3.quest_desc": [
+        "Turns &bSludge&r to useful materials, like &cred&r sand, gravel or soulsand.",
+        "",
+        "Or clay, which is &#77D0FFclay&r balanced :p"
+    ],
+    "quest.6B1734299D45AFD3.quest_subtitle": "Clay balanced",
+    "quest.6B43DA8A8EFAC636.quest_desc": [
+        "Skip this upgrade"
+    ],
+    "quest.6B43DA8A8EFAC636.quest_subtitle": "Faster",
+    "quest.6D60F71290F3554C.quest_desc": [
+        "This is for your &5Wither&r, for it not to &arun&r away.",
+        "",
+        "Can be used for other &emobs&r too.",
+        "",
+        "If you are &dtrapped&r inside, just &6jump&r and &bmove&r at the same time"
+    ],
+    "quest.6E4A5ED78748BE12.quest_desc": [
+        "Yep, this &bliquid&r is a need to do &6ore&r processing.",
+        "",
+        "Or to &6feed&r you..."
+    ],
+    "quest.6E4A5ED78748BE12.quest_subtitle": "Ore processing",
+    "quest.6F8DBC421490EE25.quest_desc": [
+        "&cSmelt&r those latex balls and get &dplastic&r, this is your base in this mod.",
+        "",
+        "Also, you will have &anotice&r those &eplastic&r are from another mod. This is due to &6unification&r!",
+        "You can use any &#A5A0FFplastic&r, don't worry"
+    ],
+    "quest.6F8DBC421490EE25.quest_subtitle": "Finally!",
+    "quest.70443611E50881A8.quest_desc": [
+        "Skip this upgrade"
+    ],
+    "quest.70443611E50881A8.quest_subtitle": "Better",
+    "quest.72DC1F282D732727.quest_desc": [
+        "Apply enchantments, like an &canvil&r"
+    ],
+    "quest.72DC1F282D732727.quest_subtitle": "Anvil v2",
+    "quest.7596A863C942D7D6.quest_desc": [
+        "This little pick can do a lot of &amining&r on its own, just do look &cbelow&r when falling :p"
+    ],
+    "quest.7596A863C942D7D6.quest_subtitle": "Pickaxe on steroids",
+    "quest.75A711B13F99B44E.quest_desc": [
+        "Extracts &5enchantments&r from your &atools&r and &earmors&r.",
+        "",
+        "You can get the &aenchantments&r on a book (one book per &denchantment&r) or as &aessence&r.",
+        "Essence production is low."
+    ],
+    "quest.75A711B13F99B44E.quest_subtitle": "Extractor",
+    "quest.779080C05BC7DC43.quest_desc": [
+        "Step 2 of your &6ore&r processing"
+    ],
+    "quest.779080C05BC7DC43.quest_subtitle": "Fermenting iron yeast",
+    "quest.77E6C9CDC5D0BF75.quest_desc": [
+        "Tier 3, thats means more &6powerful&r &dmachines&r, which means more &ccrazy&r setups!",
+        "",
+        "Needs the &dprevious&r tier"
+    ],
+    "quest.77E6C9CDC5D0BF75.quest_subtitle": "T3",
+    "quest.77F1F397BDEAD7FB.quest_desc": [
+        "We need to &aprocess&r the latex you got from &6logs&r",
+        "",
+        "How &cbad&r can it be? Some &apower&r, &9water&r and latex, just that.",
+        "",
+        "You can get &apower&r from a &dpitiful&r generator and &9water&r using &bbuckets&r or another &dmachine&r!"
+    ],
+    "quest.77F1F397BDEAD7FB.quest_subtitle": "Another step",
+    "quest.7E3DEEDFF6803B35.quest_desc": [
+        "Fertilize some &aplants&r using &7bonemeal&r or &6Fertilizer&r"
+    ],
+    "quest.7E3DEEDFF6803B35.quest_subtitle": "On the farming side!"
+}

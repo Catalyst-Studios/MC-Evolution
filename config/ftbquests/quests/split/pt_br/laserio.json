@@ -1,0 +1,148 @@
+{
+    "quest.15466FC285B74785.quest_desc": [
+        "Basicamente, você diz quais &eitens&r, &9fluidos&r ou &dquímicos&r podem entrar ou sair de um &ainventário&r.",
+        "",
+        "Você precisará usar &eJEI / EMI&r para colocar fluidos e produtos químicos, porque você &cnão vai&r usar baldes ou tanques químicos. Eu espero...."
+    ],
+    "quest.15466FC285B74785.quest_subtitle": "O mais usado",
+    "quest.1C5A9415B7E978DD.quest_desc": [
+        "Não os de &dcomer&r, estes chips são a base para as máquinas &cLaser&r&bIO&r, crie alguns deles, você vai &eprecisar&r."
+    ],
+    "quest.1C5A9415B7E978DD.quest_subtitle": "Os chips",
+    "quest.1C5A9415B7E978DD.title": "Chips lógicos",
+    "quest.1D1B37E4BD8AB4BB.quest_desc": [
+        "Permite mover &eitens&r de um &binventário&r para outro, até 64 &eitens&r por tique.",
+        "Este é o uso mais &6comum&r de lasers.",
+        "",
+        "Você pode querer verificar os &dfiltros&r, já que você pode ter muito &clixo&r em um baú."
+    ],
+    "quest.1D1B37E4BD8AB4BB.quest_subtitle": "O caminhão",
+    "quest.1FA5EDD363983FE8.quest_desc": [
+        "Lembra daquele &dguia&r que te demos no início? Bem, você deveria olhar as informações que o autor do mod deu.",
+        "",
+        "É melhor &ccensurado&r do que eu poderia ter feito.",
+        "Você provavelmente não vai precisar deste &afiltro&r"
+    ],
+    "quest.1FA5EDD363983FE8.quest_subtitle": "Guia",
+    "quest.2D63159E471984D9.quest_desc": [
+        "Este &afiltro&r permite filtrar com base na tag que um &ditem&r possui, por exemplo, fundível ou armadura",
+        "",
+        "Ele tem uma pequena &binterface&r para selecioná-lo.",
+        "",
+        "Além disso, &9fluidos&r também têm tags!"
+    ],
+    "quest.2D63159E471984D9.quest_subtitle": "Tags, tags, tags, ...",
+    "quest.3C509BF96FC2125E.quest_desc": [
+        "É como um &dconector&r de laser, mas tem algumas diferenças importantes:",
+        "",
+        "- Só pode se &cconectar&r a 1 &econector&r de laser ou &bnó&r de laser",
+        "",
+        "- Você precisa se &dconectar&r a outro conector de laser &6avançado&r",
+        "",
+        "- Só pode se &cconectar&r a 1 &econector&r de laser &eavançado&r",
+        "",
+        "",
+        "Permite conectividade &6interdimensional&r e distância &binfinita&r, mas com um custo de &bmaterial&r maior"
+    ],
+    "quest.3C509BF96FC2125E.quest_subtitle": "O item dourado",
+    "quest.4025F0C5C41644D2.quest_desc": [
+        "O cartão &eoverclocker&r permite que seus cartões de &6itens&r, &9fluidos&r, ... fiquem mais &crápidos&r",
+        "",
+        "Você só pode colocá-los &adentro&r dos cartões e &csomente&r 4 ao mesmo tempo",
+        "",
+        "Para mudar a &bvelocidade&r e as &6quantidades&r, há um campo para fazer isso, subindo ou descendo.",
+        "As teclas \"&dShift&r\" e \"&aCtrl&r\" também afetam"
+    ],
+    "quest.4025F0C5C41644D2.quest_subtitle": "Apenas 4!",
+    "quest.5504C0B47F099F02.quest_desc": [
+        "Age como um filtro, mas para dados &dNBT&r!",
+        "",
+        "Como o filtro de &atag&r, há uma interface onde você pode selecionar os &ddados&r que deseja &efiltrar&r, como ferramentas com &cencantamentos&r, por exemplo"
+    ],
+    "quest.5504C0B47F099F02.quest_subtitle": "Não é o mesmo",
+    "quest.5B33740F16769AB9.quest_desc": [
+        "Permite mover &bfluidos&r, até 40 &9baldes&r por tique",
+        "",
+        "Por &bfluidos&r, quero dizer como &9água&r ou &clava&r ou &7vapor&r &blíquido&r"
+    ],
+    "quest.5B33740F16769AB9.quest_subtitle": "O balde",
+    "quest.5F2DA93190331483.quest_desc": [
+        "Este é um ingrediente de &6criação&r e uma &dmáquina&r, usada para mover &eitens&r, &9fluidos&r, ... por longas &cdistâncias&r (não mais que 30 - 50 blocos).",
+        "Se precisar mover por &ddistâncias&r maiores, use a versão avançada",
+        "",
+        "Permite &econectar&r nós e outros &dconectores&r que estão a uma distância de 8 blocos.",
+        "",
+        "Para &5linká-los&r, você deve usar uma &echave laser&r, primeiro &cagache&r e &dclique com o botão direito&r em um conector e depois &aclique com o botão direito&r no nó ou em outro conector"
+    ],
+    "quest.5F2DA93190331483.quest_subtitle": "Longas distâncias",
+    "quest.5F2DA93190331483.title": "Conector Laser \\& Chave",
+    "quest.5FDA7D01FC747349.quest_desc": [
+        "Permite enviar gases do &aMekanism&r, até 240 &9baldes&r por tique",
+        "",
+        "Bem, &dgases&r são a maioria das coisas que o Mekanism tem, como &eSalmoura&r ou &7Vapor&r (você também tem &7Vapor&r &bLíquido&r, que é um fluido) "
+    ],
+    "quest.5FDA7D01FC747349.quest_subtitle": "Reator Químico",
+    "quest.65054A0EF38A2273.quest_desc": [
+        "Pode mover até 100k &aFE&r por tique",
+        "",
+        "Também adiciona uma &averificação&r de %, mas só funciona com &dbaterias&r que são &emenores&r ou &biguais&r a 2147483647 &aFE&r "
+    ],
+    "quest.65054A0EF38A2273.quest_subtitle": "O cabo de cobre",
+    "quest.6AC0FB6E412D827B.quest_desc": [
+        "Basicamente &cpó de redstone&r, mas não perde &apotência&r com a distância",
+        "",
+        "Vamos explicar os &bcanais&r, porque a &credstone&r se beneficia mais.",
+        "",
+        "Um &acanal&r é um &6caminho&r separado para itens, fluidos, gases, ....",
+        "Basicamente, você pode ter 16 &diferentes&r configurações na mesma &erede&r de nós, economizando &6espaço&r na colocação de diferentes nós.",
+        "Mas ainda assim você precisaria &bencaixar&r todas essas cartas"
+    ],
+    "quest.6AC0FB6E412D827B.quest_subtitle": "Redstone sem fio",
+    "quest.6C45CC92E552B738.quest_desc": [
+        "Os &bNós&r de &cLaser&r fazem todo o &etrabalho&r basicamente.",
+        "",
+        "Eles podem fazer 6 &coperações&r ao &b&nmesmo&r tempo por padrão (1 para &5cada&r lado), mas você pode &eaprimorar&r isso usando algumas melhorias. Mais &2informações&r mais tarde",
+        "",
+        "Ele pode se &aconectar&r a outros &bnós&r de &claser&r e &dconectores&r em um raio de 8 blocos e pode &3conter&r 9 cartas por lado.",
+        "",
+        "Além disso, você pode mudar sua &cc&r&do&r&6r&r&bc&r&eo&r&rr&r no menu de &bconfigurações&r, &dpropagando&r para outros nós e conectores"
+    ],
+    "quest.6C45CC92E552B738.quest_subtitle": "Trabalhando, por favor espere",
+    "quest.6C6E3917998083C9.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em qualquer pacote público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões do &bLaserIO&r feita por: &cTito&ep&c54&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição e provavelmente trapaceando."
+    ],
+    "quest.6C6E3917998083C9.quest_subtitle": "Estas missões incríveis foram feitas para a &4Catalyst Studios&r",
+    "quest.6C6E3917998083C9.title": "&l&4Missões da Catalyst Studios",
+    "quest.6DAD38C07B38B143.quest_desc": [
+        "Este nó &boverclocker&r permite que você coloque mais &ecartas&r no lado do nó.",
+        "Você só pode colocar 8 em &dcada&r lado, para um total de &n&654&r cartas."
+    ],
+    "quest.6DAD38C07B38B143.quest_subtitle": "Mais cartas",
+    "quest.6F377F024A7D17B4.quest_desc": [
+        "Bem, um filtro, mas para mods inteiros, como &6Minecraft&r, &aMekanism&r, &cLaser&r&bIO&r, ..."
+    ],
+    "quest.6F377F024A7D17B4.quest_subtitle": "O id do mod!!!!",
+    "quest.75D7E8E78327DB45.quest_desc": [
+        "A desvantagem do &cLaser&r&bIO&r é que os cartões não &eacumulam&r e é &atedioso&r copiar as configurações de cartão para cartão.",
+        "",
+        "Bem, isso meio que &cresolve&r o problema:",
+        "",
+        "- &dPorta-Cartões&r -> &aGuarda&r cartões, filtros e melhorias. Você pode &cagachar&r e &6clicar com o botão direito&r &aenquanto&r olha para o ar para &eativar&r um vácuo automático para coletar todos os cartões em seu &cinventário&r dentro deste item.",
+        "",
+        "- &dClonador de Cartões&r -> &6Copia&r a &econfiguração&r de um cartão e pode colar em outro do mesmo tipo. Enquanto estiver em seu &dinventário&r, &apegue&r o clonador, &bcoloque-o sobre&r o cartão e &eclique com o botão esquerdo&r para copiar as configurações e &5com o botão direito&r para colar a configuração que ele possui. Ele não copiará configurações &cparcialmente&r.",
+        "",
+        "Além disso, o &dclonador de cartões&r pode colocar melhorias e filtros do seu &6porta-cartões&r!"
+    ],
+    "quest.75D7E8E78327DB45.quest_subtitle": "O salvador",
+    "quest.770D5933A5EF28E1.quest_desc": [
+        "&cLaser&r&bIO&r é um &dmod&r poderoso, permitindo que você mova &eitens&r, &9fluidos&r, &credstone&r, &aenergia&r e até mesmo &dquímicos&r de longe ou até mesmo de &eoutras&r dimensões!",
+        "",
+        "Eles são meio &6modulares&r, com cartões que têm 16 &5canais&r com diferentes funções. Mais &2informações&r mais tarde."
+    ],
+    "quest.770D5933A5EF28E1.quest_subtitle": "Lasers podem mover coisas?",
+    "quest.770D5933A5EF28E1.title": "Bem-vindo ao &cLaser&bIO&r"
+}

@@ -1,0 +1,45 @@
+{
+  "values": {
+    "#c:ingots/uranium": {
+      "fuelAmount": 75,
+      "temperature": 1200
+    },
+    "#c:ingots/uraninite": {
+      "fuelAmount": 100,
+      "temperature": 700
+    },
+    "#c:nuggets/uraninite": {
+      "fuelAmount": 12,
+      "temperature": 700
+    },
+    "#c:storage_blocks/uraninite": {
+      "fuelAmount": 900,
+      "temperature": 700
+    },
+    "#c:raw_materials/uraninite": {
+      "fuelAmount": 50,
+      "temperature": 300
+    },
+    "eternalores:catalyrium_block": {
+      "fuelAmount": 9000,
+      "temperature": 2000
+    },
+    "eternalores:catalyrium_ingot": {
+      "fuelAmount": 1000,
+      "temperature": 2000
+    },
+    "eternalores:catalyrium_dust": {
+      "fuelAmount": 500,
+      "temperature": 1500
+    },
+    "eternalores:plutonium_ingot": {
+      "fuelAmount": 250,
+      "temperature": 1000
+    },
+    "eternalores:nethersteel_ingot": {
+      "fuelAmount": 250,
+      "temperature": 1250
+    }
+
+  }
+}

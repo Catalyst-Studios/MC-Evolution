@@ -5,7 +5,7 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 MMREvents.machines(catalyst => {
     catalyst.create("mmr:abyssal_pump")
         .color('#FF1d1d20')
-        .name('Abyssal Pump')
+        .name(Component.translatable("catalyst.mmr.machine.abyssal_pump"))
         .structure(
             MMRStructureBuilder.create()
                 .pattern([

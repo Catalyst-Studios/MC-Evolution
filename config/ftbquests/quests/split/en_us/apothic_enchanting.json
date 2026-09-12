@@ -1,0 +1,353 @@
+{
+    "quest.00FA2658B4F9B420.quest_desc": [
+        "Purferfish has been given a few other recipes to make it more accesible than regular fishing, check them out!"
+    ],
+    "quest.00FA2658B4F9B420.quest_subtitle": "Fishing method!",
+    "quest.01B5A1E674D7AF1E.quest_desc": [
+        "Having trouble getting a Trident from Ocean Monuments or Drowned? Well now you can craft an &bInert Trident&r and infuse it to a normal Trident!",
+        "",
+        "You'll need &94x Echoing Sculkshelf&r, &a1x Melonshelf&r, and &21x Normal Bookshelf&r and be at least &blevel 40&r."
+    ],
+    "quest.01B5A1E674D7AF1E.quest_subtitle": "Plastic fork",
+    "quest.02D23779EC7C72E4.quest_desc": [
+        "Just like &4Hellshelves&r, &9Soul-Touched Deepshelves&r provide higher &aEterna&r and &cQuanta&r! ",
+        "",
+        "You'll need to craft &95x Soul-Touched Deepshelves&r."
+    ],
+    "quest.02D23779EC7C72E4.quest_subtitle": "Hellshelf 2.0",
+    "quest.02D23779EC7C72E4.title": "&9Soul-Touched Deepshelf",
+    "quest.04787EFC50B743C2.quest_desc": [
+        "The &dDraconic Endshelf&r is the last piece of the perfect enchanting setup puzzle. ",
+        "",
+        "It only provides &a+20 Eterna&r but it can provide up to a max of &a100 Eterna&r! The highest Eterna amount possible!"
+    ],
+    "quest.04787EFC50B743C2.quest_subtitle": "Off with her head!",
+    "quest.04787EFC50B743C2.title": "&dDraconic Endshelf",
+    "quest.0539774D6FEBD2D4.quest_desc": [
+        "Ever wanted to know what you are going to get when you enchant? ",
+        "",
+        "The &3Hellshelf of Sight&r allows you to preview &b1 enchant&r. You can place as many as you'd like in a setup."
+    ],
+    "quest.0539774D6FEBD2D4.title": "&3Enchanting Clues",
+    "quest.06193F4FCFE796C6.quest_desc": [
+        "You can craft the &9Soul-Touched Sculkshelf&r only after you defeat the hardest vanilla Minecraft boss, the &9Warden&r! ",
+        "",
+        "You'll need to upgrade all 5 of your &9Soul-Touched Deepshelves&r into this &9Sculkshelf&r variant.",
+        "",
+        "The &9Sculkshelf&r variant also provides &3+1 Enchanting Clues&r as well as having a max &aEterna&r of &a80&r!"
+    ],
+    "quest.06193F4FCFE796C6.quest_subtitle": "Its Warden Time",
+    "quest.06193F4FCFE796C6.title": "&o&9Soul-Touched Sculkshelf",
+    "quest.091E5C879772310D.quest_desc": [
+        "Have you ever gotten an &bUnbreaking X&r, &bThorns V&r, and &4Curse of Binding&r netherite chestplate that was impossible to break because you can't take it off? &oNo? Just me?&r",
+        "",
+        "Well now you can combine that cursed item with a &bPrismatic Cobweb&r in an &banvil&r to remove the curse!"
+    ],
+    "quest.091E5C879772310D.quest_subtitle": "Get that outta here!",
+    "quest.0DB2F08E593B2B93.quest_desc": [
+        "Now we'll need a &dBudding Amethyst&r, luckily Apothic Enchanting gives us an infusion recipe! ",
+        "",
+        "Put down &b10x Crystalline Seashelf&r and &25x Normal Bookshelves&r then infuse a &dBlock of Amethyst&r!"
+    ],
+    "quest.0DB2F08E593B2B93.title": "&5Budding Amethyst",
+    "quest.0E96A0AEBFCAD34D.quest_desc": [
+        "The &5Geode-Encased Bookcase of Stability&r provides &6Quantic Stability&r which means that you're pretty much &oguaranteed&r to get high level enchants!"
+    ],
+    "quest.0E96A0AEBFCAD34D.quest_subtitle": "Low level enchants, begone!",
+    "quest.0E96A0AEBFCAD34D.title": "&5Geode-Encased Bookcase of Stability",
+    "quest.102001E8C574EFD3.quest_subtitle": "Metal fork",
+    "quest.162694C7F0BA16A9.quest_desc": [
+        "&9Dormant Deepshelves&r are pretty much useless on their own, so you'll need to \"awaken\" them (aka infuse them)",
+        "",
+        "Craft &910x Dormant Deepshelves&r and move onto the next step."
+    ],
+    "quest.162694C7F0BA16A9.quest_subtitle": "&oYawn...",
+    "quest.162694C7F0BA16A9.title": "&9Dormant Deepshelf",
+    "quest.170499F17B55FDCD.quest_desc": [
+        "&bSpirit Attuned Crystals&r from Occultism give &a+3 Eterna&r up to a max of &a45 Eterna&r."
+    ],
+    "quest.170499F17B55FDCD.quest_subtitle": "Crystals really do give you powers...",
+    "quest.170499F17B55FDCD.title": "&aMore Eterna!",
+    "quest.1B7D92A34E8743E2.quest_desc": [
+        "&oWait, that's not how the saying goes...&r",
+        "",
+        "Anyway, &aMelonshelves&r give a &a-2 Eterna&r and &c-10% Quanta&r debuff, perfect for dialing in those values."
+    ],
+    "quest.1B7D92A34E8743E2.quest_subtitle": "When life gives you melons...",
+    "quest.1C2725141CCA39D7.quest_desc": [
+        "The &bTome of Superior Scrapping&r extracts all enchants, but &odestroys&r the item.",
+        "",
+        "You'll need &93x Soul-Touched Sculkshelf&r and &d1x Draconic Endshelf&r for this infusion setup and be at least &blevel 50&r."
+    ],
+    "quest.1C2725141CCA39D7.quest_subtitle": "I can always craft another...",
+    "quest.1C2725141CCA39D7.title": "Tome of Superior Scrapping",
+    "quest.1EE93E4C80945A97.quest_desc": [
+        "Now that you have all the shelves, its time ot make the best enchanting setup. ",
+        "",
+        "It'll have &95x Soul-Touched Sculkshelf&r, &95x Echoing Sculkshelf&r, &d1x Draconic Endshelf&r, &61x Deepshelf of Arcane Treasures&r, and &51x Geode-Encased Bookshelf of Stability&r.",
+        "",
+        "&e&oRemember that this setup will also includes curses!&r",
+        "",
+        "&bOptional:&r You can filter out any enchantment by slotting their book in a ",
+        "{ \"text\": \"Seashelf of Aquatic Filtration\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"55B5FB4DF51A59B7\" } }"
+    ],
+    "quest.1EE93E4C80945A97.quest_subtitle": "Only the best enchants!",
+    "quest.1EE93E4C80945A97.title": "&a&l&oMax Enchanting Setup",
+    "quest.254B7CA3BF8C296B.quest_desc": [
+        "The &6Beeshelf&r gives a &a-30 Eterna&r debuff, but in return gives &c+100% Quanta&r! ",
+        "",
+        "You can always balance out the &aEterna&r with more bookshelves."
+    ],
+    "quest.254B7CA3BF8C296B.quest_subtitle": "Buzz Buzz",
+    "quest.2818BDCD7EDDDDDB.quest_desc": [
+        "The &bHeart-Forged Seashelf&r gives lots of &aEterna&r and &5Arcana&r and can be used in other enchanting setups. ",
+        "",
+        "Feel free to experiment with other setups if you'd like!"
+    ],
+    "quest.2818BDCD7EDDDDDB.quest_subtitle": "Shot through the heart!",
+    "quest.2818BDCD7EDDDDDB.title": "&bHeart-Forged Seashelf",
+    "quest.29ABE9033578C179.quest_desc": [
+        "You can craft the &9Echoing Sculkshelf&r only after you defeat the hardest vanilla Minecraft boss, the &9Warden&r! ",
+        "",
+        "You'll need to upgrade all 5 of your &9Echoing Deepshelves&r into this &9Sculkshelf&r variant.",
+        "",
+        "The &9Sculkshelf&r variant also provides &3+1 Enchanting Clues&r as well as having a max &aEterna&r of &a80&r!"
+    ],
+    "quest.29ABE9033578C179.quest_subtitle": "Its Warden Time",
+    "quest.29ABE9033578C179.title": "&o&9Echoing Sculkshelf",
+    "quest.2CEED480C5F876D6.quest_desc": [
+        "This is a new item, meant to be an extra step for a better setup. Or maybe some magical stuff hides behind it"
+    ],
+    "quest.2CEED480C5F876D6.quest_subtitle": "The power of the infinity",
+    "quest.2FE7E18D413274B6.quest_desc": [
+        "Now you're on to the highest tier of shelves, &dEndshelves&r. However these shelves need a spcial ingredient, &dInfused Dragon's Breath&r. ",
+        "",
+        "You can infuse the normal Dragon's Breath using &95x Echoing Sculkshelf&r, &a5x Melonshelf&r, &25x Normal Bookshelf&r, &92x Soul-Touched Sculkshelf&r, and &51x Geode-Encased Bookcase of Stability&r."
+    ],
+    "quest.2FE7E18D413274B6.quest_subtitle": "You need to see a dentist",
+    "quest.2FE7E18D413274B6.title": "&dInfused Dragon's Breath",
+    "quest.3292668B69E6A25D.quest_desc": [
+        "&dEndshelves&r are the top tier of shelves and provide a max of &a90 Eterna&r, perfect for everyday enchanting.",
+        "",
+        "You can also use them to craft &dDraconic Endshelves&r."
+    ],
+    "quest.3292668B69E6A25D.quest_subtitle": "The End?",
+    "quest.3292668B69E6A25D.title": "&dEndshelf",
+    "quest.35052C9371FE6843.quest_desc": [
+        "The &4Blazing Hellshelf&r is not usually used in normal enchanting since it has a &c-1 Enchanting Clue debuff&r. It's normally used in infusion setups. ",
+        "",
+        "We will not be using it in this questline, but you are free to experiment with other setups using this shelf!"
+    ],
+    "quest.35052C9371FE6843.quest_subtitle": "&oLets go gambling!",
+    "quest.35052C9371FE6843.title": "&6Blazing Hellshelf",
+    "quest.35570C818FB1333F.quest_desc": [
+        "To get the &bLibrary of Alexandria&r you'll need to infuse it rather than crafting it. It can hold more enchants than the Enchantment Library.",
+        "",
+        "You'll need &96x Echoing Sculkshelf&r, &a3x Melonshelf&r, &d2x Draconic Endshelf&r, and &b2x Infused Seashelf&r and be at least &blevel 100&r."
+    ],
+    "quest.35570C818FB1333F.quest_subtitle": "&oHopefully this one doesn't catch fire...",
+    "quest.3A651E06C7FBF861.quest_desc": [
+        "&cQuanta&r is the main stat of &4Hellshelves,&r you'll need to craft &412x Hellshelves&r."
+    ],
+    "quest.3A651E06C7FBF861.quest_subtitle": "It's getting hot in here",
+    "quest.3A651E06C7FBF861.title": "&4Hellshelves",
+    "quest.3DF1A6F2F4DE5EA3.quest_desc": [
+        "I'm pretty sure crafting these are much easier but...",
+        "",
+        "If you want to infuse them you'll need &25x Normal Bookshelves&r and &61x Blazing Hellshelf&r."
+    ],
+    "quest.3DF1A6F2F4DE5EA3.quest_subtitle": "&oWouldn't crafting this be easier?",
+    "quest.413527F17F167F3F.quest_desc": [
+        "You can convert a &bBottle of Honey&r into &bXP Bottles&r! ",
+        "",
+        "There are 3 different setups but all of these only require &b1x Bottle of Honey&r.",
+        "",
+        "1x Bottle: &92x Echoing Sculkshelf&r",
+        "",
+        "8x Bottles: &95x Echoing Sculkshelf&r and &91x Soul-Touched Sculkshelf&r",
+        "",
+        "32x Bottles: &95x Echoing Sculkshelf&r, &93x Soul-Touched Sculkshelf&r, and &d1x Draconic Endshelf&r"
+    ],
+    "quest.413527F17F167F3F.quest_subtitle": "Alchemy at its finest",
+    "quest.43A8D8D6947220F4.quest_desc": [
+        "The &dPearlescent Endshelf&r provides &a+10 Eterna&r to a max of &a90&r, &c+7.5% Quanta&r and &5+7.5% Arcana&r.",
+        "",
+        "This is the better version of the &dEndshelf&r and can be used for everyday enchanting if you want!"
+    ],
+    "quest.43A8D8D6947220F4.quest_subtitle": "Almost perfect",
+    "quest.43A8D8D6947220F4.title": "&dPearlescent Endshelf",
+    "quest.446EB701F7FBEBD0.quest_desc": [
+        "Allows to select a specific arcane, quanta and eterna in slicer bar"
+    ],
+    "quest.484B493059391887.quest_desc": [
+        "The &bTome of Extraction&r will extract all enchants &oand&r keep your item.",
+        "",
+        "You'll need &94x Soul-Touched Sculkshelf&r and &d1x Draconic Endshelf&r for this infusion setup and be at least &blevel 60&r."
+    ],
+    "quest.484B493059391887.quest_subtitle": "I want it all!",
+    "quest.484B493059391887.title": "Tome of Extraction",
+    "quest.4DCBA85D24DFDC5C.quest_desc": [
+        "Need some extra &cQuanta?&r Put some &bskulls&r around to increase it!",
+        "",
+        "&bNormal skulls&r give &c+5% Quanta&r while &0Wither skulls&r gives &c+10% Quanta&r."
+    ],
+    "quest.4DCBA85D24DFDC5C.quest_subtitle": "Off with their heads!",
+    "quest.4DCBA85D24DFDC5C.title": "&cMore Quanta!",
+    "quest.4EC0AED4959AB074.quest_desc": [
+        "&5Arcana&r is the main stat of &bSeashelves,&r you'll need to craft &b15x Seashelves&r and then place them down."
+    ],
+    "quest.4EC0AED4959AB074.quest_subtitle": "Fishy!",
+    "quest.4EC0AED4959AB074.title": "&bSeashelves",
+    "quest.514B2D0B6F8E1E04.quest_desc": [
+        "Now take your extra &bSeashelf&r and infuse it. You should see an infusion option for &b3 EXP&r. ",
+        "",
+        "Now replace one of the uninfused &bSeashelf&r with your &bInfused Seashelf&r. ",
+        "",
+        "Repeat this until all 15 &bSeashelf&r are &bInfused Seashelf&r."
+    ],
+    "quest.514B2D0B6F8E1E04.quest_subtitle": "Even fishier!",
+    "quest.514B2D0B6F8E1E04.title": "&bInfused Seashelves",
+    "quest.51970F01EFF7AA39.quest_desc": [
+        "Ever want more &bEcho Shards&r? Now you can duplicate them &b4x&r!",
+        "",
+        "You'll need &95x Echoing Sculkshelf&r and &d1x Draconic Endshelf&r."
+    ],
+    "quest.51970F01EFF7AA39.quest_subtitle": "&7&oHello?&r &8&oHello?&r &0&oHello?&r ",
+    "quest.51B99D1198D30855.quest_desc": [
+        "Now that you have all your &bInfused Seashelves&r, you'll need to craft &b12x Crystalline Seashelf&r so you can make the next shelf!"
+    ],
+    "quest.51B99D1198D30855.title": "&bCrystalline Seashelf",
+    "quest.51EF51862695FB96.quest_desc": [
+        "The &3Hellshelf of Masterful Sight&r is even better and gives you the ability to preview &b2 enchants&r!"
+    ],
+    "quest.51EF51862695FB96.title": "&3Enchanting Clues 2.0",
+    "quest.55B5FB4DF51A59B7.quest_desc": [
+        "Want to filter out annoying/useless enchants like &bKnockback&r, &bRebounding,&r or &4Curses&r? ",
+        "",
+        "The &bSeashelf of Aquatic Filtration&r allows you to slot up to &b6 single-enchantment books&r to add them to your enchantment blacklist.",
+        "",
+        "&aRemember:&r There can only be &o&61 enchantment&r per book for it to work!"
+    ],
+    "quest.55B5FB4DF51A59B7.quest_subtitle": "Picky enchanter",
+    "quest.55B5FB4DF51A59B7.title": "&bEnchantment Filtering",
+    "quest.5CF3600A45D365F5.quest_desc": [
+        "You'll want to make &912x Deepshelves&r ",
+        "",
+        "If you went the &bSeashelf&r route, place down &b12x Crystalline Seashelves&r and infuse them",
+        "",
+        "If you went the &4Hellshelf&r route, place down &412x Glowing Hellshelves&r and infuse them.",
+        "",
+        "The next step has 2 parts."
+    ],
+    "quest.5CF3600A45D365F5.quest_subtitle": "Now that it's awake...",
+    "quest.5CF3600A45D365F5.title": "&9Deepshelf",
+    "quest.617BBE7ACB125208.quest_desc": [
+        "&bApothic Enchanting&r overhauls the entire enchanting system, allowing you to get exactly what you want. It also introduces a mechanic called &bInfusion&r which you can use to make more powerful items!",
+        "",
+        "There are &b3&r different enchanting stats:",
+        "",
+        "&aEterna&r is the main enchanting stat and increases the maximum enchanting level.",
+        "",
+        "&cQuanta&r controls how low or high the enchantment level gets.",
+        "",
+        "&5Arcana&r controls how often rare enchantments show up.",
+        "",
+        "You can always click the &b'?' in the top right of the enchantment screen&r to see all possible enchants and rarities!"
+    ],
+    "quest.61EE5D51D5CB807B.quest_desc": [
+        "The Stoneshelf gives a &a-3 Eterna&r and &5-7.5% Arcana&r debuff."
+    ],
+    "quest.61EE5D51D5CB807B.quest_subtitle": "Rock, Paper, Scissors!",
+    "quest.69A81468F8BB8871.quest_desc": [
+        "&bApothic Enchanting&r adds special tomes that fit any given armor, weapon, or tool category. ",
+        "",
+        "This allows you to enchant &o\"risk-free\"&r by allowing you to throw away (or split) any enchants that you do not want."
+    ],
+    "quest.69A81468F8BB8871.quest_subtitle": "Pick and choose!",
+    "quest.69A81468F8BB8871.title": "Enchantable Tomes",
+    "quest.69D74428BB9CC623.quest_desc": [
+        "Ever want &bMending,&r &bSwift Sneak&r, or &bFrost Walker&r? The &6Deepshelf of Arcane Treasures&r enables all treasure enchants like them! ",
+        "",
+        "&oBut beware&r, this means &4curses&r will also be on that list! ",
+        "",
+        "See the next page for a list of all valid enchants!",
+        "{@pagebreak}",
+        "Here's a list of all treasure enchants in Little Bit Large!",
+        "",
+        "- Mending",
+        "- Swift Sneak",
+        "- Frost Walker",
+        "- Soul Speed",
+        "- Windburst",
+        "- &4Curse of Binding&r",
+        "- &4Curse of Vanishing&r",
+        "- Poison Tip",
+        "- Life Steal",
+        "- Unusing"
+    ],
+    "quest.69D74428BB9CC623.quest_subtitle": "X marks the spot!",
+    "quest.69D74428BB9CC623.title": "&6Getting Treasure Enchants",
+    "quest.6C10C757F924E1DD.quest_desc": [
+        "The &bEnchantment Library&r allows you to store enchantment books. ",
+        "",
+        "The &6Level Capacity&r refers to the highest level of enchantment it can store, in this case it's &blevel XVI (16)&r. &oHowever,&r this doesn't matter in &bLittle Bit Large&r because the enchantment levels do not go that high.",
+        "",
+        "You can can only take out the &bhighest level&r enchant that you put in. For example if you put a &bSharpness V&r book in, you &ocan't&r take out a Sharpness VI book, only level V and below",
+        "",
+        "You can &bShift-Click&r to take out the highest level of enchantment."
+    ],
+    "quest.6C10C757F924E1DD.quest_subtitle": "Enchantment Storage!",
+    "quest.6D00948588B44926.quest_desc": [
+        "Vanilla &bcandles&r give &5+1.25% Arcana&r per candle while Occultism &blarge candles&r give &5+4% Arcana&r per candle."
+    ],
+    "quest.6D00948588B44926.quest_subtitle": "What is pink sand even supposed to smell like?",
+    "quest.6D00948588B44926.title": "&5More Arcana!",
+    "quest.6D4FB5CE5BA905D2.quest_desc": [
+        "Just like &bSeashelves&r, &9Echoing Deepshelves&r provide higher &aEterna&r and &5Arcana&r! ",
+        "",
+        "You'll need to craft &95x Echoing Deepshelves&r."
+    ],
+    "quest.6D4FB5CE5BA905D2.quest_subtitle": "Seashelf 2.0",
+    "quest.6D4FB5CE5BA905D2.title": "&9Echoing Deepshelf",
+    "quest.6D8AF09174D7779D.quest_desc": [
+        "Now you're going to make &412x Infused Hellshelves&r. ",
+        "",
+        "Place &215x Normal Bookshelves&r and &45x Hellshelves&r down so you can infuse the rest of the &4Hellshelves.&r ",
+        "",
+        "You can replace the uninfused shelves with infused ones as you go."
+    ],
+    "quest.6D8AF09174D7779D.quest_subtitle": "Its even hotter!",
+    "quest.6D8AF09174D7779D.title": "&4Infused Hellshelf",
+    "quest.6D93652BDFA881F0.quest_desc": [
+        "Now that you've infused all your shelves into &412x Infused Hellshelves&r, craft them all into &4Glowing Hellshelves&r, you should have 12 in the end."
+    ],
+    "quest.6D93652BDFA881F0.quest_subtitle": "At least we have light?",
+    "quest.6D93652BDFA881F0.title": "&4Glowing Hellshelf",
+    "quest.70B9826E828AF96C.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&bApothic Enchanting&r questline made by: &5ArcTrooper&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.70B9826E828AF96C.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.70B9826E828AF96C.title": "&l&4Catalyst Studios Quests",
+    "quest.76C1268FC04633AD.quest_desc": [
+        "Little Bit Large has a few ways to disenchant items.",
+        "",
+        "The cheapest way to disenchant is to drop an &bAnvil&r on your item and some &bbooks&r onto &bobsidian&r like in the image below.",
+        "{image:catalyst:textures/quest_images/apotheosis/anvil_example.png width:200 height:200 align:center}",
+        "",
+        "The &bDis-Enchanting Table&r is another easy choice.",
+        "",
+        "&bApothic Enchanting&r also has &btomes&r that will extract enchants."
+    ],
+    "quest.76C1268FC04633AD.quest_subtitle": "I don't want that one",
+    "quest.76C1268FC04633AD.title": "Disenchanting",
+    "quest.774EF435A320B705.quest_desc": [
+        "&bApothic Attributes&r adds potion charms that are very convient and break pretty easily, but you can &binfuse&r them to make them &bUnbreakable.&r",
+        "",
+        "You'll need &d5x Draconic Endshelf&r, &92x Echoing Deepshelf&r, &a1x Melonshelf&r, and &d1x Endshelf&r."
+    ],
+    "quest.774EF435A320B705.quest_subtitle": "Infinite potions effects!"
+}

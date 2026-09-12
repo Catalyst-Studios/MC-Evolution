@@ -1,0 +1,14 @@
+errors.txt
+imgui.ini
+logs.txt
+packwiz*
+Questi*
+mods/**
+resourcepacks/**
+pack.toml
+index.toml
+quest_editor.json
+settings.json
+Little*
+mani.json
+pretty.json

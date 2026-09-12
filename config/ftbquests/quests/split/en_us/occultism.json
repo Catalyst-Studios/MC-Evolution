@@ -1,0 +1,272 @@
+{
+    "quest.04BA44C84D598B0C.quest_desc": [
+        "The divination rod makes the process of finding Iesnium significantly easier.",
+        "",
+        "In order to attune it to Iesnium you simply shift right click any netherrack and it will be attuned.",
+        "",
+        "You can now use right click and it should shoot out a pink particle stream to the closest Iesnium.",
+        "",
+        "if for some reason this doesn't work the rod animation will operate like a game of hot and cold."
+    ],
+    "quest.04BA44C84D598B0C.quest_subtitle": "prospecting",
+    "quest.078639E7470871B6.quest_desc": [
+        "If you are tired of seeing this world in normal colors then these are the glasses for you they will add a pink tint to your vision.",
+        "",
+        "&4They do have the side effect of giving you the third eye effect.&r",
+        "",
+        "This allows you to interact with Otherstone and otherworld trees without ingesting the demon's dream.",
+        "however there is still a ressource left which requires stronger means in order to be brought back home to our world"
+    ],
+    "quest.078639E7470871B6.quest_subtitle": "Pink glasses",
+    "quest.078639E7470871B6.title": "special glasses",
+    "quest.09AA28D69D0D696E.quest_desc": [
+        "Candles are used in most if not all rituals"
+    ],
+    "quest.09AA28D69D0D696E.title": "Organic candles",
+    "quest.0AE1D9E720C989FD.quest_desc": [
+        "The satchels are a way of storing all your ritual materials. There are 3 tiers where each brings an increasing level of functionality.",
+        "",
+        "The first tier however is purely just storage."
+    ],
+    "quest.0AE1D9E720C989FD.quest_subtitle": "Too much chalk?",
+    "quest.0CF08FDDD9D56E04.quest_desc": [
+        "This satchel much like it previous tier allows you to store all your ritual materials this one however allows you to click on the ritual preview you place with the book and the satchel will place the right candle skull chalk or crystal."
+    ],
+    "quest.11AD62DE17CEDB14.quest_desc": [
+        "Otherworld logs are required for making chalk.",
+        "",
+        "To be able to get this log you first need to get other world trees. To do this you need to toss an oak sapling in a spirit fire and grow it.",
+        "",
+        "Once the tree is grown it will look like a regular oak tree till you enter the demon dream state (Third eye) by eating a demon's dream seed or fruit.",
+        "",
+        "&4NOTE! (other world logs will only drop while the third eye status is active) &r"
+    ],
+    "quest.11AD62DE17CEDB14.quest_subtitle": "Oak but different",
+    "quest.11AD62DE17CEDB14.title": "Otherwood",
+    "quest.12CAFBD9C7290E95.quest_desc": [
+        "created by tossing andesite in the spirit fire"
+    ],
+    "quest.12CAFBD9C7290E95.quest_subtitle": "Smells burnt",
+    "quest.1AD0B6FC4101DE41.quest_desc": [
+        "This item acts like a remote terminal and allows you to access your storage from anywhere in your world."
+    ],
+    "quest.1AD0B6FC4101DE41.title": "Remote Access",
+    "quest.1D15906567D49376.quest_desc": [
+        "The rituals can be a bit more tricky to automate than the fire but it is not all that hard.",
+        "",
+        "The normal sacrificial bowls can be piped into; they only hold a single item each so you don't need to worry about  items bunching up.",
+        "",
+        "The golden bowl however needs to have its item clicked on after the other items have been piped in. for this you can use a router or player sim ect.",
+        "",
+        "If you are utilizing AE system for these crafts or similar you may or may not encounter a nbt issue with the books where it does not recognise the book if this is the case the book can be bound on site with something like a Rft crafter or similar.",
+        "",
+        "If you are using a subnet to deliver the items, putting the provider in block mode should be sufficient if not it's advised to utilize locking mode till the result has been returned.",
+        "",
+        "note the pattern provider respects item order in pattern so you can use this to your advantage to make sure items go inn in the right order (book being last) you can read more about this in ae section",
+        "",
+        "Lastly the item will be dropped when finished so an item collector can be used to collect the result.",
+        "{@pagebreak}",
+        "",
+        "The ritual that's used in the example is a crusher summoning ritual but is applicable to any ritual granted larger rituals may require you to use a controller on the subnet",
+        "example setup:",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_front.png width:100 height:100 align:center fit:true}",
+        "Simple subnetwork with interface on the provider don't forget the quartz fiber for power more info check ae quests.",
+        "&4Make sure you enable block or lock mode in the pattern provider&r",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_side.png width:100 height:100 align:center fit:true}",
+        "The storage bus on the chest is set to lower priority and has a blacklist for the ritual items you may try to do a whitelist although nbt data might make that difficult alternatively a tag or mod storage bus could work.",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_storage_bus_pri.png width:150 height:100 align:center fit:true}",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_player_sim_config.png width:200 height:100 align:center}",
+        "The player simulator requires no programing or configuring however if you want it placed remotely like in the example you need part enhancement:offset to upgrade the player sim range and set the location in the menu thats marked",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_player_sim_visualiser.png width:100 height:100 align:center fit:true}",
+        "The Integrated dynamics wrench allows you to see the location that the simulator is working on.",
+        "&4If you haven't already make sure to enable fake players in ftb teams.&r",
+        "{image:catalyst:textures/quest_images/occultism/ritual_automation_pattern.png width:200 height:100 align:center}",
+        "Lastly the ae patterns respect the order you put the items in priority: left->right top->bottom so when using a low priority bus you want the book last.",
+        "&6If you experience nbt issues with the books you can replace the book with a unbound on and replace the chest with something like a Rft crafter set to bind the books.&r"
+    ],
+    "quest.1D15906567D49376.quest_subtitle": "MRI Machine ritual Interface",
+    "quest.1D15906567D49376.title": "Auto Rituals",
+    "quest.20A79BCC4B9EC78B.quest_desc": [
+        "Spirit Attuned gems are made by tossing a diamond into a spirit fire.",
+        "",
+        "The crystal is made by combining 4 in a crafting grid",
+        "",
+        "these are used in some of the rituals"
+    ],
+    "quest.20A79BCC4B9EC78B.quest_subtitle": "shiny",
+    "quest.20A79BCC4B9EC78B.title": "Spirit attuned Crystal",
+    "quest.2281F1237556660F.quest_desc": [
+        "When looking at a ritual in the spirite guide book the preview will have a small eye icon in the bottom left corner which you can click to enable in world preview for you to follow"
+    ],
+    "quest.2281F1237556660F.quest_subtitle": "This is where you messed up",
+    "quest.2281F1237556660F.title": "3d projector",
+    "quest.234A684181B4B277.quest_desc": [
+        "This is the highest tier of satchel and will construct the entire ritual if you click on the preview it will also allow you to instantly clean up the ritual by clicking on the ritual bowl"
+    ],
+    "quest.2BFA19AD4DCEC687.quest_desc": [
+        "Books of binding are used as the final ingredient in a ritual.",
+        "",
+        "However for the book to be functional you first need to bind it to a spirit by crafting it with a spirit guide book."
+    ],
+    "quest.3171E159C4D05AD4.quest_desc": [
+        "Creating spirit fire is as simple as tossing a Demon's Dream Fruit on the ground and lighting it on fire"
+    ],
+    "quest.3171E159C4D05AD4.title": "Creating Demonic fire",
+    "quest.35F498CAE76F3C31.quest_desc": [
+        "Occultism is based around doing rituals and summoning these rituals can be found in the spirit guide and provide a build guide for you to follow.",
+        "",
+        "These rituals must contain one golden sacrificial bowl and however many sacrificial bowls your ritual requires.",
+        "",
+        "Golden sacrificial bowl always goes in the middle while the normal bowls can go everywhere within a 8 block radius of the center (13x13 area)",
+        "",
+        "If your ritual requires a sacrifice, it is performed after the book is placed in the bowl."
+    ],
+    "quest.35F498CAE76F3C31.quest_subtitle": "No turning back",
+    "quest.35F498CAE76F3C31.title": "Rituals for beginners",
+    "quest.3DFD32A1A229E04F.quest_desc": [
+        "One of the kinds of candles you can use in Occultism is the tallow candle.",
+        "",
+        "Tallow is procured by killing cows, pigs, horses, lamas or sheep with a butchers knife"
+    ],
+    "quest.3DFD32A1A229E04F.quest_subtitle": "now where did that trader go",
+    "quest.3DFD32A1A229E04F.title": "local butcher",
+    "quest.3E884D06714017F1.quest_desc": [
+        "The crushers are used for ore multiplication.",
+        "",
+        "The most basic crusher makes 2 dust per raw ore and improves per rank going all the way up to 6 per raw ore for the Marid.",
+        "",
+        "The lifespan and speed of the demons also increase with the tier where the Marid will last forever."
+    ],
+    "quest.3E884D06714017F1.quest_subtitle": "Ore multiplication",
+    "quest.4821A8015B2F5FA1.quest_desc": [
+        "One of the 4 chalks used in rituals."
+    ],
+    "quest.48A0DC661D3F37C7.quest_desc": [
+        "Alternatively candles can be made with wax or comb from bees "
+    ],
+    "quest.4BE9FE70FD274586.quest_desc": [
+        "Automatic way of gathering ores from nothing see jei/emi for ressources higher tiers have better ores and the top tier can even get Iesnium.",
+        "",
+        "The lamps function off of a loot pool where it will randomly generate ores based on their weight.",
+        "",
+        "Automatic repair of the miner lamp can be done with something capable of reading durability like integrated dynamics."
+    ],
+    "quest.4C3233E2F465F5C7.quest_desc": [
+        "One of the 4 chalks used in rituals"
+    ],
+    "quest.4C3233E2F465F5C7.quest_subtitle": "its Gold",
+    "quest.4DA0BC20061D0D9A.quest_desc": [
+        "Where the lamp does its work"
+    ],
+    "quest.4EB2763EB94E73AB.quest_desc": [
+        "This pickaxe is required in order to be able to mine Iesnium.",
+        "",
+        "Your regular hallucinations just aren't enough anymore."
+    ],
+    "quest.4EB2763EB94E73AB.title": "Fragile extraction",
+    "quest.5604B8154E8EF7CE.quest_desc": [
+        "Since summoning a demon for the single purpose of making a single crushed end stone is no fun let's do a trade and skip the middle demon."
+    ],
+    "quest.5604B8154E8EF7CE.title": "Backroom deal",
+    "quest.562FCF662B270719.quest_desc": [
+        "This pack has Ars Nouveau Occultism integration meaning you can put some spirits in jars instead of having them in world as entities",
+        "read ars nouveau worn notebook under ars Ocultas for more info"
+    ],
+    "quest.562FCF662B270719.title": "Bottled Demons",
+    "quest.56E3D43BA11853B0.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&dOccultism&r questline made by: &aApex&r &dSlayer&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.56E3D43BA11853B0.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.56E3D43BA11853B0.title": "&l&4Catalyst Studios Quests",
+    "quest.5A83782E4EB80DB5.quest_desc": [
+        "The Spiritual Guide book is both a keeper of knowledge and a tool to bind spirits to your binding books.",
+        "",
+        "It can be created by combining a Demon's Dream Seed and a book "
+    ],
+    "quest.5A83782E4EB80DB5.quest_subtitle": "Forbidden knowledge",
+    "quest.5A83782E4EB80DB5.title": "Spiritual Guide",
+    "quest.5D6F17D952C6BAEB.quest_desc": [
+        "Now that you have the otherworld glasses and the infused pickaxe you can get your hands on some Iesnium which is a material that is required for the most end game rituals this mod has to offer.",
+        "",
+        "It is recommended that you use the divination for this though it is not strictly required."
+    ],
+    "quest.5D6F17D952C6BAEB.title": "strange metal",
+    "quest.5E01C4D06EB98F26.quest_desc": [
+        "This block acts like a terminal and can be placed anywhere to allow you to access your network."
+    ],
+    "quest.5E01C4D06EB98F26.title": "terminals",
+    "quest.5F4141ED4F80C8B6.quest_desc": [
+        "Components for chalk",
+        "",
+        "Otherworld ashes created by tossing other world logs into spirit fire",
+        "",
+        "Burnt Otherstone created by smelting Otherstone"
+    ],
+    "quest.610462533974587C.quest_desc": [
+        "This section will explain how you may automate your forbidden arts"
+    ],
+    "quest.610462533974587C.quest_subtitle": "For those allergic to manual labor",
+    "quest.610462533974587C.title": "Autocrafting",
+    "quest.64185463F33F5F35.quest_desc": [
+        "White Chalk the most basic and fundamental of the 4 functional chalks.",
+        "The White Chalk is used in most of the rituals this mod has to offer.",
+        "",
+        "All chalk is purified in the spirit fire",
+        "",
+        "Chalk can be enchanted to extend life"
+    ],
+    "quest.64185463F33F5F35.quest_subtitle": "Novice Occultist",
+    "quest.648EA810839EEB7F.quest_desc": [
+        "If you want to do rituals containing red runes you need to fight afrit",
+        "",
+        "afrit can be summoned using the Abras open conjur",
+        "",
+        "Look up ritual in spirit guide book"
+    ],
+    "quest.648EA810839EEB7F.title": "summoning Afrit",
+    "quest.6609A4E0D6EE9C8D.quest_desc": [
+        "useful for removing chalk"
+    ],
+    "quest.6609A4E0D6EE9C8D.quest_subtitle": "Get scrubbing",
+    "quest.6E829868DFC46DB8.quest_desc": [
+        "The spirit fire can be automated simply by putting a chute, open crate, or formation plane subnetwork on the side of your pattern provider and an item collector to bring the  items back.",
+        "",
+        "automation example:",
+        "{image:catalyst:textures/quest_images/occultism/automation_spirit_fire.png width:200 height:200 align:center}"
+    ],
+    "quest.6E829868DFC46DB8.title": "Auto Fire",
+    "quest.6EBB0FDF36D7CC3A.quest_desc": [
+        "Occultism comes with its very own storage system.",
+        "",
+        "This block allows you to store a large amount of items and comes with a crafting grid and can later on be remotely accessed through the stable wormholes or storage accsessor.",
+        "",
+        "for more info on function and upgrading see dictionary of spirits."
+    ],
+    "quest.75AA4C3AD7901E39.quest_desc": [
+        "For those of you who want to get right to the point the book has a button on the top right side where you can mark all open tabs as read.",
+        "",
+        "shift click to unlock the entire book."
+    ],
+    "quest.75AA4C3AD7901E39.quest_subtitle": "No time to waste",
+    "quest.75AA4C3AD7901E39.title": "Skip ahead",
+    "quest.781D98EE5538B3F8.quest_desc": [
+        "you now possess all the chalks necessary for the rituals in Occultism"
+    ],
+    "quest.781D98EE5538B3F8.title": "Master Occultist",
+    "quest.7903FA4DBF99A4D6.quest_desc": [
+        "More robust version of the infused pickaxe"
+    ],
+    "quest.7ACE109B69EDE436.quest_desc": [
+        "The Demon`s Dream Fruit is essential for starting off occultism.",
+        "",
+        "It allows you to interact with the Otherworld at the most basic level.",
+        "",
+        "Its seed can be acquired through breaking grass."
+    ],
+    "quest.7ACE109B69EDE436.quest_subtitle": "Unholy influence",
+    "quest.7ACE109B69EDE436.title": "Entering the Demon Dream"
+}

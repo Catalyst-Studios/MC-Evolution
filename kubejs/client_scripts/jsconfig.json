@@ -2,9 +2,9 @@
     "include": [
         "./**/*.js",
         "./**/*.ts",
-        "jei/recipe_viewer_add.js"
     ],
     "compilerOptions": {
+        "ignoreDeprecations": "6.0",
         "module": "none",
         "moduleResolution": "node",
         "allowJs": true,

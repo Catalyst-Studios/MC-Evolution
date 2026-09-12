@@ -1,15 +1,21 @@
 {
   "mod_priorities": [
     "minecraft",
-    "kubejs",
     "eternalores",
+    "kubejs",
     "mekanism",
     "railcraft",
     "forcecraft",
     "pneumaticcraft",
     "immersiveengineering",
+    "extendedae",
     "oritech",
-    "create"
+    "create",
+    "powah",
+    "enderio",
+    "energizedpower",
+    "actuallyadditions",
+    "modular_machinery_reborn"
   ],
   "priority_overrides": {},
   "stone_variants": [
@@ -33,20 +39,39 @@
     "c:storage_blocks/raw_{material}",
     "c:storage_blocks/{material}",
     "c:wires/{material}",
-    "c:ingots/plutonium",
-    "c:nuggets/plutonium",
-    "c:dusts/plutonium",
-    "c:pellets/plutonium",
-    "c:plastics",
-    "c:ingots/uraninite",
-    "c:flours/wheat"
+    "c:clumps/{material}",
+    "c:small_clumps/{material}",
+    "c:small_dusts/{material}",
+    "c:tiny_dusts/{material}",
+    "c:ore_gems/{material}",
+    "c:fuels/{material}",
+    "c:fuels/block/{material}",
+    "c:shards/{material}",
+    "c:crystals/{material}",
+    "c:dirty_dusts/{material}",
+    "c:enriched/{material}",
+    "c:pellets/{material}",
+    "c:blends/{material}",
+    "c:pebbles/{material}",
+    "c:silicon",
+    "c:coal_coke",
+    "c:flours/{material}",
+    "c:dust_blocks/{material}",
+    "catalyst:tiny_coal",
+    "catalyst:tiny_charcoal"
   ],
   "ignored_tags": [],
-  "ignored_items": [],
+  "ignored_items": [
+    "ae2:charged_certus_quartz_crystal",
+    "eternalores:prismarine_dust"
+  ],
   "ignored_recipe_types": [
     "cucumber:shaped_tag"
   ],
-  "ignored_recipe_ids": [],
+  "ignored_recipe_ids": [
+    "eternalores:crushing/ore_proc/.*",
+    "eternalores:compat/enderio/sag_milling/ore_proc/.*"
+  ],
   "recipe_viewer_hiding": true,
   "loot_unification": true,
   "ignored_loot_tables": []

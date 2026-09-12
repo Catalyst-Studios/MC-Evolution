@@ -248,7 +248,7 @@ ServerEvents.recipes(catalyst => {
     assembly(
       'catalystcore:bound_voidspawn',
       1,
-      'kubejs:incomplete_imperfect_ingot',
+      'catalystcore:incomplete_imperfect_ingot',
       [
         fill("minecraft:lava", 1000),
         deploy({ item: 'reliquary:void_tear' }),
@@ -256,7 +256,7 @@ ServerEvents.recipes(catalyst => {
         deploy({ item: 'actuallyadditions:empowered_void_crystal' }),
         press,
         cut,
-        fill("kubejs:liquid_darkness", 250)
+        fill("catalystcore:liquid_darkness", 250)
       ],
       [{ id: 'eternalores:eternal_dark_ingot', chance: 120.0 }]
     )
@@ -264,7 +264,7 @@ ServerEvents.recipes(catalyst => {
     assembly(
     'catalystcore:concentrated_radiance',
     1,
-    'kubejs:incomplete_imperfect_ingot',
+    'catalystcore:incomplete_imperfect_ingot',
     [
             fill("minecraft:lava", 1000),
             deploy({ item: 'minecraft:nether_star' }),
@@ -272,7 +272,7 @@ ServerEvents.recipes(catalyst => {
             deploy({ item: 'evilcraft:lightning_grenade' }),
             press,
             cut,
-            fill("kubejs:liquid_light", 250)
+            fill("catalystcore:liquid_light", 250)
           ],
           [{ id: 'eternalores:eternal_light_ingot', chance: 120.0 }]
     )
@@ -280,7 +280,7 @@ ServerEvents.recipes(catalyst => {
     assembly(
         'ars_nouveau:mob_jar',
         6,
-        'ars_nouveau:mob_jar',
+        'catalystcore:incomplete_containment_ingot',
         [
                 deploy({ item: 'eternalores:rod_netherite' }),
                 deploy({ item: 'eternalores:rod_netherite' }),
@@ -293,7 +293,7 @@ ServerEvents.recipes(catalyst => {
     SequencedAssemblyBuilder(catalyst)
         .withIngredient("catalystcore:empty_containment_vessel")
         .withLoops(3)
-        .withTransitionalItem('kubejs:incomplete_containment_ingot')
+        .withTransitionalItem('catalystcore:incomplete_containment_ingot')
         .withSequence([
             deploy('enderio:vibrant_crystal'),
             deploy('mysticalagriculture:mystical_seeds'),
@@ -306,7 +306,7 @@ ServerEvents.recipes(catalyst => {
     SequencedAssemblyBuilder(catalyst)
         .withIngredient("catalystcore:empty_containment_vessel")
         .withLoops(3)
-        .withTransitionalItem('kubejs:incomplete_containment_ingot')
+        .withTransitionalItem('catalystcore:incomplete_containment_ingot')
         .withSequence([
             deploy('enderio:pulsating_crystal'),
             deploy('mysticalagriculture:darkness_seeds'),
@@ -327,6 +327,8 @@ ServerEvents.recipes(catalyst => {
             deploy('#c:nuggets/iron')
         ])
         .withResults('create:precision_mechanism', 100)
+
+    console.log("[CatJS] Finished Create Sequencial recipes")
 })
 
 /* 

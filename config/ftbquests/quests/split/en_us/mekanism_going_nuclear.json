@@ -1,0 +1,230 @@
+{
+    "quest.00A4BAA33D1DA358.quest_desc": [
+        "&dFirst&r step (or &asecond&r) to get &5Fissile fuel&r, the &efission&r reactor's fuel.",
+        "",
+        "Put some &esulfur&r on a &dchemical&r oxidizer"
+    ],
+    "quest.092873428BF87547.quest_desc": [
+        "You would &cneed&r some &bwater&r to start with"
+    ],
+    "quest.0C2DE3DDB6BFD375.title": " ",
+    "quest.0CA10AE04D6AEA7B.quest_desc": [
+        "The &efission&r reactor's &dinside&r consists on a &bchess&r board pattern, one &cfill&r and another one &dempty&r.",
+        "",
+        "There are 6 &5things&r you should &aconsider&r:",
+        "",
+        "- If you have &eplans&r to do more than 700 mb/t, use &7sodium&r, if not, &9water&r",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"- If you use \"},{\"text\":\"sodium\",\"color\":\"#AAAAAA\"},{\"text\":\", \"},{\"text\":\"don't\",\"color\":\"#FF5555\"},{\"text\":\" \"},{\"text\":\"fill\",\"color\":\"#55FF55\"},{\"text\":\" completely the \"},{\"text\":\"reactor\",\"color\":\"#FF55FF\"},{\"text\":\" or you might do a \"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\" explosion\"}]",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"- If \"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\" waste tank is \"},{\"text\":\"full\",\"color\":\"#FF55FF\"},{\"text\":\", it will be \"},{\"text\":\"released\",\"color\":\"#FFAA00\"},{\"text\":\" into the \"},{\"text\":\"air\",\"color\":\"#55FF55\"},{\"text\":\".\"}]",
+        "",
+        "- If the &7steam&r tank is &dfull&r, it will not &cstop&r the reactor",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"- In case of a \"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\" explosion, you \"},{\"text\":\"might\",\"color\":\"#FF55FF\"},{\"text\":\" have to \"},{\"text\":\"wait\",\"color\":\"#55FF55\"},{\"text\":\" 14H in real life to get back to the \"},{\"text\":\"area\",\"color\":\"#FFAA00\"},{\"text\":\" if you don't \"},{\"text\":\"cheat\",\"color\":\"#55FFFF\"}]",
+        "",
+        "- You &5might&r want to add a &cfailsafe&r just in case, but if you did a &agood&r setup, you won't &eneed&r it"
+    ],
+    "quest.11DABCC90AF0B4DF.quest_desc": [
+        "On a &dchemical&r infuser, put some &cdeuterium&r and some &atritium&r"
+    ],
+    "quest.12F9EC1494D192A6.quest_desc": [
+        "&dFissile Fuel&r is the fuel for your &eFission&r Reactor, only problem is that you &buse&r a lot of it, unless you keep your &6production&r low"
+    ],
+    "quest.12F9EC1494D192A6.title": "&dFission Fuel",
+    "quest.17715EC2B27B20A4.quest_desc": [
+        "With a bit of &3fluorite&r, you can get &7Hydrofluric&r Acid.",
+        "",
+        "I &drecommend&r using 9B of &6Sulfuric Acid&r and 1 block of &3fluorite&r"
+    ],
+    "quest.17715EC2B27B20A4.title": "Hydrofluric Acid",
+    "quest.1F0FFB21D724CF6C.quest_desc": [
+        "Basically steam"
+    ],
+    "quest.20E53823E7DF68A4.quest_desc": [
+        "On some &dEvaporation&r Tower, put some &9water&r to get &eBrine&r, you need to heat it:",
+        "",
+        "- By using &6solar&r panels (only works during the day)",
+        "",
+        "- By using a &bresistive&r heater on a &evalve&r port"
+    ],
+    "quest.31E43273BF407641.quest_desc": [
+        "You would &cneed&r some &bwater&r from some &dsource&r, doesn't matter if its water or heavy water"
+    ],
+    "quest.32381A77968498FB.quest_desc": [
+        "&7Hydrofluric&r Acid and some &eyellow cake&r to get a &agreen&r liquid....",
+        "",
+        "&4GROSS&r!"
+    ],
+    "quest.3DB72482CFC08930.quest_desc": [
+        "&bElectrolize&r some &9water&r to get some &aoxygen&r, you are going to &duse&r it a lot"
+    ],
+    "quest.3FB4008DC4FE767C.quest_desc": [
+        "The best &5fusion&r reactor can give you 400Mfe per tick, but it &dneeds&r a lot of &bturbines&r to &6process&r all that &7steam&r it can produce.",
+        "",
+        "The only &6thing&r that can &bconsume&r that much amount is an &dSPS&r, which you &aprobably&r have by now.",
+        "",
+        "Now for &cstorage&r, there are 2 ways:",
+        "",
+        "- &bApplied&r&aFlux&r -> Stores a lot of &aenergy&r, specially with the 256M &eversion&r",
+        "",
+        "- &5Induction&r Matrix -> Stores &aenergy&r, has energy in / out &dlimits&r and a &cvariable&r capacity, it dependes on the &ainside&r. You can &abypass&r the in / out limit with &cSFM&r"
+    ],
+    "quest.40501DAE73600660.quest_desc": [
+        "Put an &aelectric&r pump with a &dfilter&r upgrade above &9water&r"
+    ],
+    "quest.474762067F687EC6.quest_desc": [
+        "&dElectrolize&r some &9heavy&r water"
+    ],
+    "quest.4A047F5899833C2A.title": " ",
+    "quest.4BE4DEF7BE609CED.quest_desc": [
+        "The &dmain&r uses are the following:",
+        "",
+        "- Getting &5fissile fuel&r with a bit of a loss, useful when you only want &apower&r",
+        "",
+        "- &eQIO&r drive related",
+        "",
+        "- &5SPS&r"
+    ],
+    "quest.4F09224ECBE6AF12.quest_desc": [
+        "You would &cneed&r some &bwater&r to start with.",
+        "",
+        "And some &abig&r &dmachines&r!"
+    ],
+    "quest.4F74130EBAF02EFF.quest_desc": [
+        "[{\"text\":\"\"},{\"text\":\"On an \"},{\"text\":\"enrichment\",\"color\":\"#FF55FF\"},{\"text\":\" chamber, throw some \"},{\"text\":\"uranium\",\"color\":\"#48cf63\"},{\"text\":\" to get \"},{\"text\":\"uranium cake\",\"color\":\"#FFFF55\"},{\"text\":\".\"}]",
+        "",
+        "&4Don't&r eat it, I know they looks &6delicious&r"
+    ],
+    "quest.4F74130EBAF02EFF.title": "[{\"text\":\"\"},{\"text\":\"Yellow\",\"color\":\"#FFFF55\"},{\"text\":\" \"},{\"text\":\"Uranium\",\"color\":\"#48cf63\"},{\"text\":\" Cake\"}]",
+    "quest.50015003F884A788.quest_desc": [
+        "[{\"text\":\"\"},{\"text\":\"The \"},{\"text\":\"easiest\",\"color\":\"#FF55FF\"},{\"text\":\" way to \"},{\"text\":\"delete\",\"color\":\"#FF5555\"},{\"text\":\" \"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\" waste or spent \"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\" waste is to put in on a \"},{\"text\":\"barrel\",\"color\":\"#FFAA00\"},{\"text\":\" and \"},{\"text\":\"break\",\"color\":\"#FF55FF\"},{\"text\":\" it, place the \"},{\"text\":\"barrel\",\"color\":\"#FF55FF\"},{\"text\":\" again and repeat.\"}]",
+        "",
+        "This should be done in a &apocket&r &ddimension&r or &cfar away&r from your base....",
+        "",
+        "&oOr &c&lbelow&r&o your &efriend&r&o's base :)&r"
+    ],
+    "quest.50015003F884A788.quest_subtitle": "Extra point if the base if yours",
+    "quest.50015003F884A788.title": "Dumping the content on your friend's base!",
+    "quest.51B8F9EF2A2DD4F1.quest_desc": [
+        "It need &ddirect&r &6sun&r and must be &eday&r time to use it.",
+        "",
+        "Its a &cpain&r, I know.",
+        "",
+        "It produces &aPolonium&r, which doesn't &5decay&r on a barrel"
+    ],
+    "quest.51B8F9EF2A2DD4F1.quest_subtitle": "Solarium",
+    "quest.51DB91041E12EBA6.quest_desc": [
+        "Put some &eBrine&r into another &devaporation&r tower"
+    ],
+    "quest.61B1A8BE38F9B61C.quest_desc": [
+        "On another &dchemical&r infuser, combine &9Water&r Vapor and some &cSulfur Trioxide&r to get &6Sulfuric Acid&r.",
+        "",
+        "Probably would be a &5good&r idea to &bscale&r this setup"
+    ],
+    "quest.652F6C54857044E4.quest_desc": [
+        "It needs &aenergy&r to run. just that.",
+        "",
+        "It produces &3Plutonium&r, which doesn't &ddecay&r on a barrel"
+    ],
+    "quest.652F6C54857044E4.quest_subtitle": "&4UHV&r centrifuge",
+    "quest.657AB7296D5DF24B.quest_desc": [
+        "[{\"text\":\"\"},{\"text\":\"Uranium\",\"color\":\"#48cf63\"},{\"text\":\", the most \"},{\"text\":\"powerful\",\"color\":\"#FFFF55\"},{\"text\":\" elements....\"}]",
+        "",
+        "If it wasn't because &dAntimatter&r is better.",
+        "",
+        "You are going to &ause&r this ingot a lot, more than &6anything&r else"
+    ],
+    "quest.657AB7296D5DF24B.title": "[{\"text\":\"\"},{\"text\":\"Uranium\",\"color\":\"#48cf63\"},{\"text\":\" Ingot\"}]",
+    "quest.65AAE405AC91FB85.quest_desc": [
+        "&dBasically&r, a way to have less &dmachines&r, just useful for &aenergy&r"
+    ],
+    "quest.6DC5821F6D927EDA.quest_desc": [
+        "&aPolonium&r is like iron, used in many &6crafting&r related stuff, but the &dmain&r uses are:",
+        "",
+        "- &dAntimatter&r",
+        "",
+        "- &5SPS&r",
+        "",
+        "- &aMeka&rSuit ",
+        "",
+        "- &cFusion&r",
+        "",
+        "- &eQIO&r stuff related"
+    ],
+    "quest.6DC5821F6D927EDA.title": "Polonium Pellet",
+    "quest.73693A4E319A9E8F.quest_desc": [
+        "This &dquestline&r guides you across the &cendgame&r of &aMekanism&r, &efission&r and &5fusion&r.",
+        "",
+        "They are quite &bexpensive&r, I would &3recommend&r to have a base and at least a decent &cstorage&r system ready.",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"Specially a good \"},{\"text\":\"uranium\",\"color\":\"#48cf63\"},{\"text\":\" supply......\"}]"
+    ],
+    "quest.73693A4E319A9E8F.quest_subtitle": "A true GregTech experience?",
+    "quest.77AEFEB65AA226B9.quest_desc": [
+        "&eSulfur&r can be obtained from some &asources&r, like &6bees&r or &dseeds&r"
+    ],
+    "quest.78F14ACE6B96AB31.quest_desc": [
+        "While you can &dmix&r &cdeuterium&r and &atritium&r on the &5fusion&r reactor, it gives less &aenergy&r or you would need to build more &ereactors&r for the same &3output&r as a &5DT Fuel&r one.",
+        "",
+        "You can &bstart&r it in 2 ways:",
+        "",
+        "- &5Lasers&r -> More &aenergy&r efficient but takes a bit of &atime&r",
+        "",
+        "[{\"text\":\"\"},{\"text\":\"- \"},{\"text\":\"Heat\",\"color\":\"#FF5555\"},{\"text\":\" -> Using a \"},{\"text\":\"resistive heater\",\"color\":\"#55FFFF\",\"underlined\":true,\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"mekanism:resistive_heater\",\"count\":1}}},{\"text\":\" and 1 GFe, you can \"},{\"text\":\"start\",\"color\":\"#FF55FF\"},{\"text\":\" a \"},{\"text\":\"reactor\",\"color\":\"#FFFF55\"},{\"text\":\" (8 basic \"},{\"text\":\"melon\",\"color\":\"#55FF55\"},{\"text\":\" power gives enough \"},{\"text\":\"energy\",\"color\":\"#55FF55\"},{\"text\":\" for this)\"}]",
+        "",
+        "This &ereactor&r is a bit tricky because you need to keep a &aconstant&r &cheat&r inside or you would need to &4start&r it again, so don't pump &9water&r as fast as you can!",
+        "",
+        "You can get &apower&r directly from the &ereactor&r, but it's less effective.",
+        "{@pagebreak}",
+        "This is the &bgeneral&r structure:",
+        "&eReactor glass&r can be changed to &aports&r or other fusion component (except &bcontroller&r)",
+        "",
+        "{image:catalyst:textures/quest_images/mekanism/fusion_1.png width:100 height:100 align:center fit:true}",
+        "",
+        "If the &6controller&r has this texture, it means that it's &con&r:",
+        "",
+        "{image:catalyst:textures/quest_images/mekanism/fusion_2.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.78F14ACE6B96AB31.quest_subtitle": "The future",
+    "quest.78F14ACE6B96AB31.title": "Fusion Reactor",
+    "quest.7AA0505F34FBEFD7.quest_desc": [
+        "This is the &5minimum&r size for a &efission&r reactor.",
+        "You can go up to &a18x18x18&r &d&noutside&r.",
+        "",
+        "There are a few &ethings&r you need to &aconsider&r:",
+        "",
+        "- How much &5Fissile Fuel&r you can feed to it",
+        "",
+        "- &9Water&r or &7Sodium&r?",
+        "",
+        "- &bProcessing&r &dnuclear waste&r or dump it?",
+        "",
+        "- &eFission&r for &aenergy&r?",
+        "{@pagebreak}",
+        "The &ainside&r is a &dchess&r board pattern, with the top being a &aControl&r Rod",
+        "",
+        "This is &dhow&r it &blooks&r like:",
+        "",
+        "",
+        "{image:catalyst:textures/quest_images/mekanism/min_fission.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.7AA0505F34FBEFD7.quest_subtitle": "Happy &cKaboom&r",
+    "quest.7AA0505F34FBEFD7.title": "Fission Reactor",
+    "quest.7E750D68728A7049.quest_desc": [
+        "This is one of the &d&lmost&r &apower-hungry&r multiblock in the &6entire&r game, able to consume 400Mfe in no &etime&r",
+        "",
+        "Here are all &5blocks&r needed to &bbuild&r it!",
+        "&aPower&r goes in the &dSPS&r port where the &6coils&r are",
+        "",
+        "{image:catalyst:textures/quest_images/mekanism/sps.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.7E750D68728A7049.quest_subtitle": "&aGreen&r for input, &cred&r for output!",
+    "quest.7E750D68728A7049.title": "Construct a SPS",
+    "quest.7F6855051CEBDDF2.quest_desc": [
+        "On a &6Solar&r Activated &dNeutron&r, put some &6lithium&r inside"
+    ],
+    "quest.7F83596D79A438C7.quest_desc": [
+        "On a &dchemical&r infuser, combine &7Sulfur Dioxide&r and some &boxygen&r to get &cSulfur Trioxide&r"
+    ]
+}

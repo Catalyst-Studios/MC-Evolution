@@ -1,0 +1,472 @@
+{
+    "quest.021B7A0E87A969AD.title": "Abelha Dracônica",
+    "quest.022A6FCC033F4FA1.title": "Abelha Cortadeira",
+    "quest.0263BA792A5781AC.quest_desc": [
+        "Vá para um bioma de Rio com uma vara de pescar e comece a pescar.",
+        "",
+        "Após algumas tentativas, uma abelha d'água aparecerá e te atacará, então capture-a rapidamente.",
+        "",
+        "Essas abelhas têm o gene &dQualquer&r que estamos procurando, para fazer as abelhas trabalharem em qualquer &9clima&r"
+    ],
+    "quest.0263BA792A5781AC.quest_subtitle": "Hora de pescar",
+    "quest.0263BA792A5781AC.title": "Gene de Clima",
+    "quest.06D93FEF99C1385C.title": "Abelha Suspeita",
+    "quest.071FE397CB2E98E4.title": "Abelha Peixe",
+    "quest.073DE2F2007E5403.quest_desc": [
+        "Você obtém genes das abelhas dentro da colmeia, mas é muito lento, vá para o outro método"
+    ],
+    "quest.073DE2F2007E5403.quest_subtitle": "Genes",
+    "quest.083604B3D2850E53.quest_desc": [
+        "Apenas uma versão mais rápida, mas não funciona em colmeias"
+    ],
+    "quest.083604B3D2850E53.quest_subtitle": "Sonic, o filme",
+    "quest.0925EFA03EAFF209.quest_desc": [
+        "Esta é a sua principal forma de processar favos do mod Productive Bees.",
+        "",
+        "&cNão processe favos de abelhas normais.&r",
+        "",
+        "Temos 3 centrífugas, a primeira só pode ser usada pelo jogador, então vamos pular essa.",
+        "",
+        "As outras 2 centrífugas precisam de energia e podem ser usadas por outros sistemas de automação, como &cS&r&eF&r&cM&r ou &bAE2&r.",
+        "",
+        "Embora sejam basicamente as mesmas, existem 3 diferenças principais:",
+        "",
+        "- A &dcentrífuga&r &caquecida&r funciona mais rápido",
+        "",
+        "- A &dcentrífuga&r &caquecida&r não renderiza favos (menos lag)",
+        "",
+        "- A &dcentrífuga&r &caquecida&r não gera cera"
+    ],
+    "quest.0925EFA03EAFF209.quest_subtitle": "SFM ativado",
+    "quest.0B590548E1FA4E1A.title": "Abelha Mineradora de Chocolate",
+    "quest.0C47A37CB3C4FE67.quest_desc": [
+        "Você quer obter mais &eabelhas&r sem sofrer?",
+        "",
+        "Esta é a maneira de fazer isso, você precisa de 1 câmara de criação e 1 incubadora + algumas &6guloseimas de mel&r e &cflores&r / &dpós dracônicos&r.",
+        "",
+        "Ambas as máquinas precisam ser alimentadas. Aqui estou usando &aPipez&r e &cFunctional Drawers&r, mas você pode usar qualquer coisa que possa mover coisas como &bAE2&r.",
+        "",
+        "",
+        "{image:catalyst:textures/quest_images/productive_bees/breeder.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.0C47A37CB3C4FE67.quest_subtitle": "Mais abelhas, por favor",
+    "quest.0CA42C4E6040517E.quest_desc": [
+        "Traga algumas &eabelhas&r em gaiolas, precisamos de abelhas adultas, não bebês.",
+        "Pontos extras se você as trouxer em &6gaiolas&r de uso único.",
+        "",
+        "Coloque a &eabelha&r no &adispensador&r, clique na alavanca do dispensador e a &eabelha&r sairá.",
+        "Coloque algumas &7garrafas&r no engarrafador, ative o pistão e a abelha morrerá.",
+        "Mas você receberá uma &dgarrafa cheia&r, que usaremos mais tarde",
+        "{image:catalyst:textures/quest_images/productive_bees/bottler.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.0CA42C4E6040517E.quest_subtitle": "ESMAGAR",
+    "quest.0CEB2FA613B63E28.quest_desc": [
+        "Útil apenas em &bapanhadores&r, para fazê-lo pegar abelhas mais longe"
+    ],
+    "quest.0CEB2FA613B63E28.quest_subtitle": "Ninhos maiores",
+    "quest.0DB34FF7DC6B31CC.title": "Abelha de Faixa Azul",
+    "quest.0DB992CAB5B99494.quest_desc": [
+        "Em vez de favos, você obtém blocos, que são 4 favos, mas eles também são bem caros"
+    ],
+    "quest.0DB992CAB5B99494.quest_subtitle": "Em blocos",
+    "quest.0E2D84ED1157150E.quest_desc": [
+        "Você precisa estar em um &bioma frio&r, e &6guloseimas de mel&r"
+    ],
+    "quest.0E2D84ED1157150E.quest_subtitle": "O verdadeiro açúcar",
+    "quest.10F497A089F5764D.quest_desc": [
+        "Fragmentos de &1Eco&r.....",
+        "",
+        "Mas pelo menos você pode trocar sua melhoria de simulação por esta, fazendo suas abelhas produzirem muito mais.",
+        "",
+        "Se quiser, você pode fazer 1 destes e 3 do primeiro nível, por enquanto."
+    ],
+    "quest.10F497A089F5764D.quest_subtitle": "Você não pode pular esta",
+    "quest.1173CD14614D1F08.title": "ABELHA!",
+    "quest.11CED3F925F56C8D.quest_desc": [
+        "Você precisa de &6guloseimas de mel&r"
+    ],
+    "quest.11CED3F925F56C8D.quest_subtitle": "Sujo",
+    "quest.16B81EAF3EE2090F.title": "Obtenha uma Abelha de Ouro",
+    "quest.1C966B51149B598F.title": "Abelha Magmática",
+    "quest.1D94E0177CCC9F42.quest_desc": [
+        "Você vai precisar disso, ou pelo menos do &dpó Dracônico&r.",
+        "",
+        "Eles serão muito usados para fazer aprimoramentos."
+    ],
+    "quest.1D94E0177CCC9F42.quest_subtitle": "Muitas abelhas",
+    "quest.1D94E0177CCC9F42.title": "Pedaços Dracônicos",
+    "quest.1E9DEB2861DAE355.quest_desc": [
+        "Agora, é quando você pode se considerar iniciado neste madbees"
+    ],
+    "quest.1E9DEB2861DAE355.quest_subtitle": "Sim, começamos o mod",
+    "quest.1E9DEB2861DAE355.title": "Doce de Mel",
+    "quest.20B8574EE918C8B3.quest_desc": [
+        "As abelhas não gostam de trabalhar durante a noite, mas queremos que elas trabalhem 24/7.",
+        "",
+        "Pegue 12 abelhas ou mais e algumas coleiras e deixe-as em uma cerca. &cNão coloque uma colmeia perto delas&r",
+        "",
+        "Todos os dias, elas têm a chance de mudar de genes, de &aDiurno&r para &9Noturno&r.",
+        "Com esse gene, nossas abelhas agora só trabalharão durante a noite....",
+        "",
+        "Deixe-as um pouco mais e você obterá &dMetanocturnal&r, o gene 24/7.",
+        "Elas recebem &cdano&r quando deixadas sem uma colmeia, então dê a elas alguns &6guloseimas de mel&r para curá-las"
+    ],
+    "quest.20B8574EE918C8B3.quest_subtitle": "O difícil e longo",
+    "quest.20B8574EE918C8B3.title": "Gene de comportamento",
+    "quest.216C0477A265FD2E.title": "Abelha Carpinteira Verde",
+    "quest.2172EDCAEFA96592.quest_desc": [
+        "Útil apenas se você tiver abelhas do ender sem simulação, o que você não deveria ter"
+    ],
+    "quest.2172EDCAEFA96592.quest_subtitle": "Apenas abelhas do ender",
+    "quest.21C7D7343A8677DE.title": "Observe uma KamikazBee",
+    "quest.22B285D439CCF4B5.quest_desc": [
+        "Se você não quer lag de centenas de abelhas, você precisa colocar um destes em cada colmeia, a menos que você tenha &aMelhorias&r &9Omega&r ou o terceiro tier de produtividade",
+        "",
+        "As Melhorias Omega atuam como uma melhoria de simulação"
+    ],
+    "quest.22B285D439CCF4B5.quest_subtitle": "Proibido",
+    "quest.232345A9C9EFDC9B.quest_desc": [
+        "Bem, bem, bem....",
+        "",
+        "Se você está aqui, provavelmente não sabe como começar com este mod.",
+        "",
+        "Será uma &6longa&r jornada, e não estou brincando, você visitará seu &amundo&r"
+    ],
+    "quest.232345A9C9EFDC9B.quest_subtitle": "Desculpe, não sei fazer piadas de abelha",
+    "quest.232345A9C9EFDC9B.title": "Iniciando a abelhantura",
+    "quest.237B43D294790EC9.quest_desc": [
+        "Para esta abelha, você precisa usar glowstone e estar no &4Nether&r"
+    ],
+    "quest.237B43D294790EC9.quest_subtitle": "Apague a luz",
+    "quest.244F413E5C160D25.quest_desc": [
+        "Não, você pode obter uma quarta abelha, mas esta é muito mais complicada, mais informações depois.",
+        "",
+        "Você precisa de &6guloseimas de mel&r"
+    ],
+    "quest.244F413E5C160D25.quest_subtitle": "3 abelhas de uma vez?",
+    "quest.248DA2D28459D050.quest_desc": [
+        "Você vai querer um pouco de &bmadeira&r ou material para suas &6colmeias&r.",
+        "",
+        "1 colmeia &davançada&r precisa de cerca de 6 toras para ser feita, isso sem a &eexpansão&r"
+    ],
+    "quest.248DA2D28459D050.quest_subtitle": "Colmeias",
+    "quest.248DA2D28459D050.title": "Toras",
+    "quest.252CC4B31AA8EA09.quest_desc": [
+        "Sim, este é o caminho.",
+        "",
+        "Por que precisamos de outro &amod&r para fazer o que o mod deveria fazer? Porque inicialmente, as abelhas são &clentas&r.",
+        "",
+        "Você vai querer obter 1 semente ou mais e produzir &dessências&r em massa"
+    ],
+    "quest.252CC4B31AA8EA09.quest_subtitle": "Mel em escala industrial",
+    "quest.26726F3439B381DD.quest_desc": [
+        "Creme de magma... e o &4Nether&r, combinação perfeita para esta abelha"
+    ],
+    "quest.26726F3439B381DD.quest_subtitle": "Apague o fogo POR FAVOR",
+    "quest.271ED85A73CCEAF5.title": "Abelha de Sculk",
+    "quest.27B08107951639AF.quest_desc": [
+        "Você fez o chapéu bobo? Não? Espero que saiba correr.",
+        "",
+        "Esta abelha é agressiva, e vai te atacar. Se você for atingido, ela morrerá.",
+        "",
+        "Precisa de &dHálito de Dragão&r e estar no &dEnd&r"
+    ],
+    "quest.27B08107951639AF.quest_subtitle": "Traga uma bala de menta",
+    "quest.2A4E391D344BCAEA.quest_desc": [
+        "Novamente, no &4Nether&r, e esta abelha também adora barras de ouro"
+    ],
+    "quest.2A4E391D344BCAEA.quest_subtitle": "Corrida do Ouro",
+    "quest.2D00BD62F5A81EF6.quest_desc": [
+        "A primeira coisa que precisamos encontrar são abelhas.",
+        "",
+        "Não as abelhas Produtivas, mas as vanilla, abelhas normais",
+        "",
+        "Porque as outras abelhas não são normais, como elas podem produzir diamantes do nada :D"
+    ],
+    "quest.2D00BD62F5A81EF6.quest_subtitle": "Vamos precisar de mel",
+    "quest.2D7DDADE52D33142.title": "Abelha Carpinteira Amarela",
+    "quest.300ED33E1226CF44.quest_desc": [
+        "Você também precisará disto para mais tarde, apenas 1 apanhador"
+    ],
+    "quest.300ED33E1226CF44.quest_subtitle": "Quem é essa abelha",
+    "quest.32B17FE87968D864.quest_desc": [
+        "Caro.....",
+        "",
+        "Mas produz mais? Não? Ah, bem, você pode pular este nível se quiser, até a próxima melhoria"
+    ],
+    "quest.32B17FE87968D864.quest_subtitle": "Nível mais alto?",
+    "quest.34296A48E28FE4F8.quest_desc": [
+        "Agora, digamos que queremos mover nossas abelhas, o que você fará, como posso fazer isso?",
+        "",
+        "Existem toneladas de mods que já podem fazer isso, mas você precisará dessas gaiolas para interagir com as máquinas deste mod.",
+        "",
+        "Existem 2 tipos de gaiolas, todas funcionam da mesma forma:",
+        "",
+        "",
+        "- &dGaiola de abelha&r: Gaiola de uso único, mas é fabricável",
+        "",
+        "- &dGaiola de abelha resistente&r: Usos \"infinitos\", mas você precisa encontrá-las em estruturas",
+        "",
+        "",
+        "Qual devo tentar obter? Se você pode fazer a primeira sem usar muitos recursos, vá em frente.",
+        "",
+        "Se não, hora de explorar um pouco"
+    ],
+    "quest.34296A48E28FE4F8.quest_subtitle": "É assim que se captura elas",
+    "quest.34E20FB41656A81A.quest_desc": [
+        "Certifique-se de ter muitos &6guloseimas de mel&r antes de começar.",
+        "",
+        "Usar apenas 1 &6guloseima de mel&r nas colmeias das missões a seguir iniciará uma contagem regressiva.",
+        "Algumas colmeias precisam de outros materiais, como ouro.",
+        "",
+        "Por padrão, 1 &6guloseima de mel&r produzirá 1 abelha em 20 minutos. Isso não é bom.",
+        "",
+        "{@pagebreak}",
+        "",
+        "Então, como podemos acelerar esse processo? Usando mais guloseimas de mel!",
+        "",
+        "Esta é a maneira pretendida no mod, mas você sabe, isso fica entre nós, você pode usar aceleradores de tique, como o &aDyre things&r ;)",
+        "",
+        "Além disso, verifique as outras missões primeiro, elas serão úteis mais tarde"
+    ],
+    "quest.34E20FB41656A81A.quest_subtitle": "Antes de começar....",
+    "quest.36C15F3B3A08A36B.quest_desc": [
+        "Se você não tem Hostile Neural Networks ou Reliquary, esta é uma das abelhas mais difíceis. Também precisa estar no &4Nether&r"
+    ],
+    "quest.36C15F3B3A08A36B.quest_subtitle": "\"Por que há um fantasma atrás de você\"",
+    "quest.398E698C66EAA005.quest_desc": [
+        "Como a Abelha de Neon, mas desta vez com uma Abelha Mineradora Cinzenta"
+    ],
+    "quest.398E698C66EAA005.quest_subtitle": "OUTRA?!?",
+    "quest.3BB43614E1AD8E65.quest_desc": [
+        "Ok, isso é muito caro, a menos que você tenha Mystical Agriculture.",
+        "",
+        "Eles agem como melhorias de &aProdutividade&r, melhorias de &ebloco&r e melhorias de simulação, e você pode colocar 4 em cada colmeia.",
+        "",
+        "Eles são os melhores que você pode fazer e não, não use melhorias de &bvelocidade&r, não vale a pena"
+    ],
+    "quest.3BB43614E1AD8E65.quest_subtitle": "CORAÇÃO DO MAR?!?",
+    "quest.3BD9E192B040E27E.quest_desc": [
+        "Eu não acho que preciso dizer que você quer uma abelha &epacifista&r, não?"
+    ],
+    "quest.3BD9E192B040E27E.quest_subtitle": "Você as quer normais, pelo menos",
+    "quest.3CDBC61BD4DAA7F6.quest_desc": [
+        "Esta é uma colmeia \"multibloco\" simples.",
+        "",
+        "Pode ser colocada em qualquer lado, mas a laje de alimentação deve estar 1 bloco abaixo da saída da colmeia ou da face",
+        "",
+        "",
+        "{image:catalyst:textures/quest_images/productive_bees/hives.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.3CDBC61BD4DAA7F6.quest_subtitle": "Atualizações",
+    "quest.3E044FFF56666C0A.title": "Abelha Saco-de-Açúcar",
+    "quest.421B57E27B2E9F61.quest_desc": [
+        "Você pode usar uma vara em uma colmeia para fazer as abelhas saírem, mas elas não vão gostar....",
+        "",
+        "Você precisa usar o clique esquerdo"
+    ],
+    "quest.421B57E27B2E9F61.quest_subtitle": "\"BATE NELA, BATE NELA\"",
+    "quest.424808BE0E48D8C7.quest_desc": [
+        "Assim que você tiver 2 deste gene, pode marcar esta missão.",
+        "Por que 2? Porque você não consegue obter abelhas &dMetanoturnas&r se um dos pais tiver o gene noturno ou diurno e o outro &dMetanoturno&r"
+    ],
+    "quest.424808BE0E48D8C7.quest_subtitle": "CONSEGUI",
+    "quest.424808BE0E48D8C7.title": "Metanoturno",
+    "quest.43282721A9578C0D.title": "Abelha Fantasmagórica",
+    "quest.43C7A0AFDBCB1D06.quest_desc": [
+        "Você precisa de &6guloseimas de mel&r"
+    ],
+    "quest.43C7A0AFDBCB1D06.quest_subtitle": "Atordoante",
+    "quest.49968399FA309A2C.quest_desc": [
+        "A primeira melhoria para suas colmeias, isso faz com que suas abelhas produzam mais"
+    ],
+    "quest.49968399FA309A2C.quest_subtitle": "Dá mais",
+    "quest.499D9BD47A14B0F4.quest_desc": [
+        "Para esta abelha, você precisa de bolas de slime"
+    ],
+    "quest.499D9BD47A14B0F4.quest_subtitle": "Gosmenta",
+    "quest.49BCF1CF622DE723.quest_desc": [
+        "Filtra entidades, útil para fazer abelhas &2desperdiçadas&r",
+        "",
+        "Acho que esse é o único uso...."
+    ],
+    "quest.49BCF1CF622DE723.quest_subtitle": "Filtro?",
+    "quest.4B3C04533F58F6C7.quest_desc": [
+        "Sim, uma abelha é como um porco ou um cavalo, você pode montá-las.",
+        "",
+        "Mas apenas algumas delas, como a carpinteira amarela"
+    ],
+    "quest.4B3C04533F58F6C7.quest_subtitle": "Montando uma abelha",
+    "quest.4D71091DD793653C.quest_desc": [
+        "Você precisa de mel em quantidades industriais.....",
+        "",
+        "Então, talvez você queira fazer algumas &dsementes&r ;D",
+        "",
+        "Ou mais abelhas...."
+    ],
+    "quest.4D71091DD793653C.quest_subtitle": "Desculpe pelas piadas de abelha",
+    "quest.4D71091DD793653C.title": "Coletar mel",
+    "quest.4D89C29C788AB9AD.title": "Abelha Pedreira",
+    "quest.5338D9D37F86C754.quest_desc": [
+        "O gene de Resistência basicamente muda a &cvida&r das abelhas.",
+        "Você normalmente os tem na colmeia com a &amelhoria&r de &asimulação&r ou &9Melhorias&r &aOmega&r, então não é tão importante"
+    ],
+    "quest.5338D9D37F86C754.quest_subtitle": "Forte!!!!!",
+    "quest.5338D9D37F86C754.title": "Gene de Resistência",
+    "quest.5343F5A2A4DD6FD5.quest_desc": [
+        "A abelha do suor, ela precisa de &6guloseimas de mel&r"
+    ],
+    "quest.5343F5A2A4DD6FD5.quest_subtitle": "Açúcar!",
+    "quest.54A3EA30D6865F70.quest_desc": [
+        "Você precisa de &6guloseimas de mel&r, e aqui temos 2 abelhas, a abelha de resina é a que estamos procurando"
+    ],
+    "quest.54A3EA30D6865F70.quest_subtitle": "Abelhas",
+    "quest.54DAFDE5553EA2E5.quest_desc": [
+        "Genes são uma forma de melhorar suas abelhas",
+        "",
+        "Para obter &dgenes&r, você precisa &mesmagar&r suas abelhas com um pistão e um engarrafador abaixo",
+        "Verifique as &amissões&r no meio para obter mais informações.",
+        "",
+        "Com esses genes em uma mesa de trabalho e uma &6guloseima de mel&r, você pode obter uma guloseima de mel com genes.",
+        "Alimente uma abelha com isso e ela terá uma % de chance de mudar os genes.",
+        "",
+        "Se você não quer arriscar com genes, você tem que obter um indexador de genes para combinar genes do mesmo tipo e obter uma % maior, até 100%",
+        "Você precisa de pelo menos &c6&r &eabelhas&r para obter 100%"
+    ],
+    "quest.54DAFDE5553EA2E5.quest_subtitle": "Traga um pistão",
+    "quest.577615D670CC3BF1.quest_desc": [
+        "Agora, vamos melhorar suas abelhas, talvez você queira fazer algumas abelhas dracônicas, porque vamos precisar delas, novamente, em quantidades industriais....."
+    ],
+    "quest.577615D670CC3BF1.quest_subtitle": "Espero que você tenha feito",
+    "quest.57D04ED4D6D227E8.quest_desc": [
+        "Poderosas, porém perigosas.",
+        "",
+        "Estas &eabelhas&r têm o melhor gene para Resistência, mas...",
+        "Por que você está matando suas abelhas dracônicas para obter um gene?"
+    ],
+    "quest.57D04ED4D6D227E8.quest_subtitle": "NÃO FAÇA ISSO",
+    "quest.57DC578CF4D74936.title": "Abelha Escavadora",
+    "quest.5B4289D140387AC8.title": "Abelha Nômade",
+    "quest.5BBC3C0F5B59E7F8.quest_desc": [
+        "Dê um sinal de redstone como uma alavanca para esta máquina e ela começará a fundir genes.",
+        "",
+        "Mais informações depois, quando tivermos todas as colmeias e abelhas"
+    ],
+    "quest.5BBC3C0F5B59E7F8.quest_subtitle": "Filtrando",
+    "quest.5E81A419306A7840.quest_desc": [
+        "Quartzo + &4O Nether&r, combinação perfeita"
+    ],
+    "quest.5E81A419306A7840.quest_subtitle": "A abelha brilhante",
+    "quest.63483D4671E7EB94.quest_desc": [
+        "Muito texto na dica de ferramenta",
+        "",
+        "- Em uma &acolmeia&r, produzirá uma abelha bebê se a abelha puder ser reproduzida",
+        "",
+        "- Em um &bapanhador&r, só pegará abelhas bebês"
+    ],
+    "quest.63483D4671E7EB94.quest_subtitle": "Novo bebê?",
+    "quest.638F2647D6429630.quest_desc": [
+        "Você precisa que uma abelha de faixa azul saia da colmeia e você terá uma chance de obter uma abelha bebê"
+    ],
+    "quest.638F2647D6429630.quest_subtitle": "SAIA DAQUI",
+    "quest.6698EBDC4EE4D39A.title": "Abelha de Neon",
+    "quest.67E648AD068CAB9E.quest_desc": [
+        "Para as próximas missões, para obtê-las, você precisa estar &cperto&r do ninho quando pegar uma abelha ou olhar para elas",
+        "",
+        "Além disso, algumas abelhas são um pouco difíceis de obter, leia a descrição da &cmissão&r.",
+        "",
+        "E, finalmente, você quer obter pelo menos 2 de cada abelha, elas podem ser reproduzidas em mais usando o reprodutor"
+    ],
+    "quest.67E648AD068CAB9E.quest_subtitle": "Proximidade",
+    "quest.6AF6F200251C478B.quest_desc": [
+        "Esta abelha é geralmente encontrada no &dO End&r, nas ilhas após derrotar &eJean&r, também conhecida como a &5Dragão Ender&r.",
+        "",
+        "Você não precisa fazer este ninho, apenas procure por ele, eles são abundantes"
+    ],
+    "quest.6AF6F200251C478B.quest_subtitle": "/tp @e 0 0 0",
+    "quest.6C8BF92697A6F3AF.quest_desc": [
+        "Nota: você pode adicionar &dmelhorias&r no lado de cima da &6colmeia&r ou &emáquinas&r usando &aPipez&r ou similar."
+    ],
+    "quest.6C8BF92697A6F3AF.quest_subtitle": "Baseando",
+    "quest.6E61B46B3646181E.title": "Pegue uma Abelha Fantasmagórica",
+    "quest.6F25B3D78143ED1E.quest_desc": [
+        "Isso poderia ser mais compacto, mas acho que você entende a ideia.",
+        "",
+        "- Faça 2 &eabelhas&r com genes máximos, depois comece a fazer bebês sem parar.",
+        "",
+        "- Envie esses &ebebês&r para a incubadora, que retorna abelhas &eadultas&r.",
+        "",
+        "- Então envie essas abelhas para o &adispensador&r e esmague-as com um &dpistão&r. O pistão pode estar sempre ligado.",
+        "",
+        "- Você precisa de um coletor de itens &csem fio&r, como a &aGaveta Funcional&r ou &bRoteadores Modulares&r, para pegar a garrafa com a abelha.",
+        "",
+        "- Envie essa garrafa para uma &6centrífuga&r e o resultado para um indexador com um sinal de redstone.",
+        "",
+        "Você quer armazenar todos os genes, exceto aquele que muda o tipo da abelha, que tem texto em laranja ou diz &6productivebees:<algo aqui>&r.",
+        "Além disso, certifique-se de ter &aenergia&r em suas máquinas. Veja a próxima &2página&r.",
+        "",
+        "",
+        "{@pagebreak}",
+        "",
+        "{image:catalyst:textures/quest_images/productive_bees/genes.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.6F25B3D78143ED1E.quest_subtitle": "Tudo de uma vez",
+    "quest.6F25B3D78143ED1E.title": "Configuração completa",
+    "quest.6F5B6AFAD2038ADA.quest_desc": [
+        "Certifique-se de colocar &ainquebrável&r e &dreparação&r pelo menos.",
+        "",
+        "Vamos precisar deste mais tarde"
+    ],
+    "quest.6F5B6AFAD2038ADA.quest_subtitle": "Você me ouviu",
+    "quest.6F5B6AFAD2038ADA.title": "O Chapéu Bobo™",
+    "quest.73413868FF107681.quest_desc": [
+        "E finalmente, como fazer abelhas em escala industrial.....",
+        "",
+        "Porque nós precisamos.....",
+        "",
+        "Coloque 2 abelhas do mesmo tipo + algumas flores (algumas abelhas precisam de outros materiais de reprodução) e algumas gaiolas, espere alguns segundos e BOOM, você tem uma abelha &ebebê&r.",
+        "",
+        "&eAviso&r, nem todas as abelhas podem ser reproduzidas, verifique no JEI"
+    ],
+    "quest.73413868FF107681.quest_subtitle": "Obtendo mais abelhas",
+    "quest.7830E3A72E9DB4C3.quest_desc": [
+        "Esta é uma maneira de fazer &6abelhas adultas&r em escala industrial, que você precisa para não esperar 50 anos....",
+        "",
+        "Coloque uma abelha bebê em uma gaiola e um pouco de guloseima de mel e você obterá, depois de um tempo, menos do que voando por aí, uma abelha adulta.",
+        "",
+        "Você deve sempre ter &6guloseima de mel&r no &acriador&r"
+    ],
+    "quest.7830E3A72E9DB4C3.quest_subtitle": "É assim que se faz",
+    "quest.7858ED4167EE74F1.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em qualquer pacote público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões &bProductive Bees&r feita por: &cTito&ep&c54&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.7858ED4167EE74F1.quest_subtitle": "Estas missões incríveis foram feitas para a &4Catalyst Studios&r",
+    "quest.7858ED4167EE74F1.title": "&l&4Missões da Catalyst Studios",
+    "quest.7BEE8EE60FBFF628.quest_desc": [
+        "Prenda uma criatura hostil que não cause muito dano, como um zumbi.",
+        "",
+        "Coloque o chapéu bobo e seja atingido pelo zumbi.",
+        "Você tem 30% de chance de obter uma &dKamikazBee&r.",
+        "",
+        "Estas abelhas são &amuitopequenas&r e &erápidas&r, você não as pegará, então use o apanhador com melhorias de &avelocidade&r.",
+        "Você precisa de 6 abelhas para obter 100%",
+        "",
+        "Elas contêm o gene &cMuito Produtivo&r, o que significa que suas abelhas &centregarão mais&r favos no mesmo período de tempo"
+    ],
+    "quest.7BEE8EE60FBFF628.quest_subtitle": "Zumbi / Esqueleto",
+    "quest.7BEE8EE60FBFF628.title": "Gene da Produtividade",
+    "quest.7C2EAAFC6414BA33.quest_desc": [
+        "O apanhador só pegará abelhas adultas, útil para fazer abelhas &2desperdiçadas&r, já que elas só podem ser produzidas a partir de abelhas &aradioativas&r adultas."
+    ],
+    "quest.7C2EAAFC6414BA33.quest_subtitle": "Apenas adultos",
+    "quest.7DB4270301980965.title": "Abelha Mineradora Cinzenta",
+    "quest.7DD1FD32851C81F5.quest_desc": [
+        "Você vai querê-las em todas as máquinas, exceto nas colmeias",
+        "Por quê? Porque as colmeias se beneficiam muito mais de outras melhorias"
+    ],
+    "quest.7DD1FD32851C81F5.quest_subtitle": "Sonic"
+}

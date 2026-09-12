@@ -11,13 +11,22 @@ ServerEvents.recipes(catalyst => {
     const base_production_essence= 4
     const fertelizer_production_multiplier= 1
     let modifiedItemNames = [];
-    let tagItems = cropRegistry3.getInstance().getCrops()
+    let crops = cropRegistry3.getInstance().getCrops()
 
-    tagItems.forEach(item => {
-        if(!item.isEnabled()) return;
+    let seeds = [
+        "cobalt", 
+        "lumium", 
+        "signalum", 
+        "rose_gold", 
+        "pig_iron", 
+        "enderium"
+    ]
+
+    crops.forEach(crop => {
+        if(!crop.isEnabled() && !seeds.includes(crop.getName())) return;
         
-        // Get the item name (using the 'id' or 'registry name' of the item)
-        let itemName = `${item.getId().toString()}`;  // This gives you the raw ID like 'mysticalagriculture:x_seeds'
+        // Get the crop name (using the 'id' or 'registry name' of the crop)
+        let itemName = `${crop.getId().toString()}`;  // This gives you the raw ID like 'mysticalagriculture:x_seeds'
         // Remove specific parts of the name (e.g., removing 'seeds' from the name)
         let modifiedName = itemName.replace('seeds', '').replace('mysticalcustomization', 'mysticalagriculture')
                                     .replace('mysticalagradditions', 'mysticalagriculture'); // Modify name (e.g., "seeds" => "")

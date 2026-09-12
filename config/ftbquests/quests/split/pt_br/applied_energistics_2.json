@@ -1,0 +1,1097 @@
+{
+    "quest.003142001F6FDC93.quest_desc": [
+        "Agora que você tem &aExtendedAE&r, você deve verificar as receitas do &dprocessador&r e mudar sua configuração antiga para uma melhor e mais rápida"
+    ],
+    "quest.003142001F6FDC93.quest_subtitle": "MELHORIAS - algum jogador mediano de GregTech",
+    "quest.00FF8AAFCC2E4533.quest_desc": [
+        "Eles são usados no &aExtendedAE&r, então você provavelmente vai querer fazer alguns.",
+        "Eles também podem ser usados para pintar &dcabos&r ou fazer singularidades com menos quantidade de água"
+    ],
+    "quest.00FF8AAFCC2E4533.quest_subtitle": "Pequenas singularidades",
+    "quest.01BBE3BF6F5EAE35.quest_desc": [
+        "Em vez de os filtros atuarem como lista de permissão, agora eles atuam como lista de bloqueio"
+    ],
+    "quest.01BBE3BF6F5EAE35.quest_subtitle": "oʇɹǝʌuᴉ",
+    "quest.02286BA0F16600B1.quest_desc": [
+        "Esta será uma longa jornada, mas tentarei ser o mais simples que puder.",
+        "",
+        "&bAE2&r é para ser uma ferramenta poderosa, mas um pouco &cdifícil&r de começar.",
+        "Você precisa ter alguns &amateriais&r para começar, então talvez queira obter alguns recursos e um pouco de energia.",
+        "",
+        "As missões estão aqui para tentar te ajudar, não para ser uma tarefa, elas fornecerão &crecompensas&r que escalam.",
+        "",
+        "Algumas missões estão &docultas&r até que você as complete (para que você se concentre) e você tem missões para 5 addons ;)",
+        "",
+        "Olhe ao redor desta página ou diminua o zoom"
+    ],
+    "quest.02286BA0F16600B1.quest_subtitle": "Esta será longa",
+    "quest.02286BA0F16600B1.title": "&dO começo de uma jornada",
+    "quest.024A2075F924FE1C.quest_desc": [
+        "Imagine que você tem sua base no &aMundo Superior&r e você tem uma configuração no &dEnd&r e precisa mudar um &6padrão&r.",
+        "",
+        "Você teria que ir até lá e mudar os &6padrões&r manualmente, mas não mais com este terminal!"
+    ],
+    "quest.024A2075F924FE1C.quest_subtitle": "Acesso sem fio a padrões",
+    "quest.0492F1947C0D0901.quest_desc": [
+        "O frasco é usado para obter source da sua rede"
+    ],
+    "quest.0492F1947C0D0901.quest_subtitle": "Em um frasco",
+    "quest.060E4B2A707CF6E5.quest_desc": [
+        "Ok, este não é necessário, a menos que você queira, porque &6abelhas&r e &dsementes&r são muito mais fáceis de fazer, mas eu tenho que te contar.",
+        "",
+        "Vá para a altura máxima de construção, e plante o seguinte olhando para cima e pegue pó de pedra do céu.",
+        "Você precisa fundi-lo ou deixá-lo como está.",
+        "Além disso, você precisa de uma maneira de levar o pó do &7céu&r para sua base",
+        "",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/sky_stone_farm.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.060E4B2A707CF6E5.quest_subtitle": "Minerando o céu",
+    "quest.060E4B2A707CF6E5.title": "Fazenda de pó de pedra do céu",
+    "quest.07C07D7DB62F2A27.quest_desc": [
+        "Liga metálica usada para carcaças de produtos químicos do &aMekanism&r, não permite coisas nucleares"
+    ],
+    "quest.07C07D7DB62F2A27.quest_subtitle": "Armazenamento do Mekanism",
+    "quest.086F96B893CA021F.quest_desc": [
+        "Por que preciso deletar minhas configurações antigas?",
+        "",
+        "Porque a nova é muito mais &crápida&r de fazer e economiza alguns &acanais&r, pois faz o trabalho de alguns &dinscritores&r em apenas 2 blocos."
+    ],
+    "quest.086F96B893CA021F.quest_subtitle": "EFICIÊNCIA - provavelmente algum jogador de GregTech",
+    "quest.092767A2A7AC588C.quest_desc": [
+        "Necessário para a carcaça, basicamente"
+    ],
+    "quest.092767A2A7AC588C.quest_subtitle": "Carcaça concluída?",
+    "quest.09491BB900209FF2.quest_desc": [
+        "Basicamente uma &bInterface&r &aEstendida&r, mas cada slot permite armazenar mais, 16 vezes mais!"
+    ],
+    "quest.09491BB900209FF2.quest_subtitle": "Agora estamos falando",
+    "quest.0AB09FA4A1BDFED8.quest_desc": [
+        "Usando um &etriturador&r do &aMekanism&r ou um &dinscritor&r, você pode obter o pó"
+    ],
+    "quest.0AB09FA4A1BDFED8.quest_subtitle": "Hora de esmagar essa singularidade",
+    "quest.0AE5D4C43C7C4C8C.quest_desc": [
+        "Bem, parabéns!",
+        "",
+        "Você fez o maior componente de &carmazenamento&r que podia.",
+        "Como recompensa, você pode &n&bescolher&r 1 item em cada grupo de recompensas"
+    ],
+    "quest.0AE5D4C43C7C4C8C.quest_subtitle": "NAS Final: &cLIGADO&r",
+    "quest.0AE5D4C43C7C4C8C.title": "Componente de Armazenamento de 256M",
+    "quest.0B6D864866C886A0.quest_desc": [
+        "Embora estas sejam máquinas do AE2, elas precisam de apenas 1 canal, mas agora temos um pequeno problema, se você fez a versão de bloco inteiro, pode ser usada em cabos densos, se não, apenas em cabos inteligentes.",
+        "",
+        "Elas são feitas para manter &eitens&r, &9fluidos&r, &cgás&r, ... em estoque e inserir muitas coisas rapidamente na sua &drede&r, mas com um custo de &aenergia&r.",
+        "",
+        "Elas podem mover 9 packs de &eitens&r por tique, então são rápidas"
+    ],
+    "quest.0B6D864866C886A0.quest_subtitle": "Como mover coisas rápido",
+    "quest.0B6D864866C886A0.title": "Interface",
+    "quest.0C7B1EBED4C008AC.quest_desc": [
+        "Imagine que você quer ter sempre 500 tijolos de pedra na sua &brede&r.",
+        "",
+        "Você poderia usar configurações complicadas ou apenas colocar um destes.",
+        "Eles têm 4 slots por linha:",
+        "",
+        "- &dAtivar&r: É uma caixa de seleção para ligar/desligar o item a ser solicitado",
+        "",
+        "- Item a ser &dcriado&r",
+        "",
+        "- &aQuantidade&r a ter em estoque",
+        "",
+        "- Quantos ele &esolicitará&r de cada vez",
+        "",
+        "Você precisa &caplicar&r, senão não salvará a configuração, este é um &cproblema&r comum com o solicitador.",
+        "O &bterminal&r é para gerenciar vários solicitadores ao mesmo tempo."
+    ],
+    "quest.0C7B1EBED4C008AC.quest_subtitle": "Solicitadores.... SOB DEMANDA",
+    "quest.0CA9BFCE2BDE798A.quest_desc": [
+        "Eles são baratos e poderosos.",
+        "Dá a você muito pedregulho e água em apenas 2 células, vale a pena fazê-los"
+    ],
+    "quest.0CA9BFCE2BDE798A.quest_subtitle": "Infinito? Duvido",
+    "quest.0D052E525AAEE0E2.quest_desc": [
+        "Estas missões incríveis foram feitas para a &l&4Catalyst Studios&r e fazem parte de seu projeto e pertencem a eles.",
+        "",
+        "Missões de AE2 feitas por: &cTito&ep&c54&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição. E você está &4trapaceando&r, então não é legal"
+    ],
+    "quest.0D052E525AAEE0E2.quest_subtitle": "Trapacear não é legal",
+    "quest.0D052E525AAEE0E2.title": "Missões",
+    "quest.0D1919E6F8066E9E.quest_desc": [
+        "Você precisa de todos os itens para fazer corretamente.",
+        "Coloque o &5ponto de acesso sem fio&r em algum lugar da sua &drede principal&r e vincule seu terminal de criação sem fio dentro do &5ponto de acesso&r.",
+        "",
+        "Depois disso, coloque o &acartão quântico&r e depois a &esingularidade vinculada&r no canto superior direito.",
+        "",
+        "Agora, quebre o &5ponto de acesso&r, carregue o terminal sem fio e você terá o melhor terminal sem fio.",
+        "",
+        "Se você conectou o &danel quântico&r da última missão à sua rede principal, é claro...."
+    ],
+    "quest.0D1919E6F8066E9E.quest_subtitle": "Finalmente, &cSem Fio",
+    "quest.0D20B269523C1B70.quest_desc": [
+        "Usando o &dmétodo&r de 1 bloco para 9 circuitos impressos, estamos economizando muito tempo!"
+    ],
+    "quest.0D20B269523C1B70.quest_subtitle": "Verifique as missões do ExtendedAE também",
+    "quest.0D20B269523C1B70.title": "Circuito Quântico Impresso",
+    "quest.0D7F28967280B814.quest_desc": [
+        "Se você seguiu as missões das &6abelhas&r, você só precisa de 2 &6abelhas&r para conseguir esta e alguns materiais ;)"
+    ],
+    "quest.0D7F28967280B814.quest_subtitle": "Apenas 3 abelhas",
+    "quest.0FEF062F9D5B30FF.quest_desc": [
+        "Esta é provavelmente uma das coisas mais fáceis que você encontrará para automatizar certus.",
+        "&aPlante&r, dê &9água&r, colete e repita."
+    ],
+    "quest.0FEF062F9D5B30FF.quest_subtitle": "Por que a terra tem tantas coisas?",
+    "quest.0FFFD7F307112518.quest_desc": [
+        "Agora, estamos falando de &elimpar&r suas células.",
+        "",
+        "De tempos em tempos, é uma coisa &drecomendada&r limpar suas células de itens antigos ou daqueles que você não usa mais, como armaduras velhas.",
+        "",
+        "Depois disso, você passa suas células por uma dessas &amáquinas&r para juntar todos os &eitens&r do mesmo tipo em uma única célula, para economizar em tipos."
+    ],
+    "quest.0FFFD7F307112518.quest_subtitle": "Mover conteúdo das células",
+    "quest.1143463EE2721A35.quest_desc": [
+        "Agora, ele pode ignorar dados NBT para exportar coisas, como arcos!"
+    ],
+    "quest.1143463EE2721A35.quest_subtitle": "Sem dados NBT",
+    "quest.116BB789A12F3457.quest_desc": [
+        "Acho que você quer continuar com &bAE2&r, mas eu sugiro que você faça algumas configurações antes.",
+        "",
+        "Por exemplo, você precisará de muitos &bdiamantes&r, &eouro&r, &bcertus&r, &5fluix&r, &credstone&r, &fquartzo&r, ...",
+        "",
+        "E energia, isso também é importante. Talvez alguns geradores eólicos resolvam por enquanto."
+    ],
+    "quest.116BB789A12F3457.quest_subtitle": "Antes de continuar",
+    "quest.116BB789A12F3457.title": "Leia isto",
+    "quest.11A6DBC0DA07DA74.quest_desc": [
+        "Agora sim. O outro uso para &aMEGA&r, seus &dco-processadores&r.",
+        "",
+        "Em vez de adicionar 1, eles adicionam 4, o que economiza muito espaço."
+    ],
+    "quest.11A6DBC0DA07DA74.quest_subtitle": "Mais",
+    "quest.13734C22DB105837.quest_desc": [
+        "Agora, faça 1 &5anel quântico&r e coloque-o em qualquer lugar da sua &drede&r principal.",
+        "Depois, coloque dentro uma daquelas &dsingularidades vinculadas&r."
+    ],
+    "quest.13734C22DB105837.quest_subtitle": "Precisaremos de 1 canal",
+    "quest.13734C22DB105837.title": "Anel Quântico",
+    "quest.13CA67D14B62120B.quest_desc": [
+        "Esta seção fala sobre outros &aaddons&r do &bAE2&r.",
+        "Também coisas interessantes do &bAE2&r que não se encaixam na &2árvore&r principal."
+    ],
+    "quest.13CA67D14B62120B.quest_subtitle": "Mais = &cmelhor",
+    "quest.13CA67D14B62120B.title": "Outros mods",
+    "quest.13E38108EE8D35E6.quest_desc": [
+        "Este tipo de componente de &carmazenamento&r é usado para armazenar muitos &dtipos&r, pois eles fornecem um equilíbrio entre &dtipos&r e a quantidade de itens que podem &carmazenar&r."
+    ],
+    "quest.13E38108EE8D35E6.quest_subtitle": "NASv.3: LIGADO",
+    "quest.14BF651B802A685A.quest_desc": [
+        "Outro multiblock, ótimo....",
+        "Você precisa disso para autocrafting e cada CPU usa 1 canal e pode ser conectada a qualquer cabo.",
+        "",
+        "Eles também têm restrições:",
+        "",
+        "- Eles têm &carmazenamento&r, então se você solicitar algo grande, talvez precise aprimorar sua CPU.",
+        "",
+        "- Eles podem causar &4lag&r se você colocar muitos &3co-processadores&r, na ordem de 1K, esteja ciente disso. ",
+        "",
+        "- Eles precisam ser uma estrutura &eretangular&r.",
+        "",
+        "- Precisa estar &dpreenchido&r, não vazio por dentro.",
+        "",
+        "{@pagebreak}",
+        "A &bCPU&r a seguir é bem básica, apenas para fazer você pegar o jeito do &bAE2&r um pouco mais rápido.",
+        "Agora preciso explicar algo mais, o &dco-processador&r.",
+        "",
+        "Por padrão, a CPU do &bAE2&r só pode fazer 1 &atarefa&r por vez, como derreter 1 pedregulho, e isso não é bom.",
+        "Para isso, se adicionarmos &dco-processadores&r, adicionamos 1 tarefa, e agora podemos derreter 3 pedregulhos.",
+        "",
+        "Normalmente, você quer ter algumas &bCPU&rs para sua rede criar sob demanda e 1 ou mais &bCPU&rs grandes para você criar coisas.",
+        "Existem configurações na &bCPU&r se você clicar com o botão direito nela depois de formada.",
+        "",
+        "&2Foto da CPU na próxima página&r",
+        "{@pagebreak}",
+        "{image:catalyst:textures/quest_images/applied_energetic/simple_cpu.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.14BF651B802A685A.quest_subtitle": "A CPU",
+    "quest.14BF651B802A685A.title": "CPU",
+    "quest.14CB7FBA94CA9F72.quest_desc": [
+        "Esta é a única geração de energia que você encontrará neste mod e, infelizmente, elas não podem ser usadas com outros mods.",
+        "",
+        "- &dcâmara de vibração&r: Gera 80 &aFe&r por tique queimando combustível. Pode ser aprimorada.",
+        "",
+        "- &dcâmara de ressonância de cristal&r: Gera 40 &aFe&r por tique de graça. Apenas 1 por &crede&r.",
+        "",
+        "Mais tarde, explicarei o que é uma rede."
+    ],
+    "quest.14CB7FBA94CA9F72.quest_subtitle": "Poderoso, mas não",
+    "quest.14CB7FBA94CA9F72.title": "Geração de energia",
+    "quest.1893C08C4FA72DCC.quest_desc": [
+        "Você precisa fazer uma abelha de pedreira e definir a flor para um bloco de pedra do céu.",
+        "Depois de algum tempo (talvez muito tempo), ela irá gerar alguns blocos.",
+        "",
+        "Verifique também as &dsementes&r e o &aXyCraft&r."
+    ],
+    "quest.1893C08C4FA72DCC.quest_subtitle": "O jeito fácil",
+    "quest.1AF3E9F16A147816.quest_desc": [
+        "Agora, a armadura tem muitos &3aprimoramentos&r que você pode colocar, semelhante à armadura da &aMystical Agriculture&r ou ao Mekasuit do &aMekanism&r."
+    ],
+    "quest.1AF3E9F16A147816.quest_subtitle": "Aprimoramentos",
+    "quest.1CC084EAB233E5FE.quest_desc": [
+        "Não tão quebrado quanto &aExtendedAE&r, mas ainda assim, permite algumas configurações insanas, especialmente o método de &dduplicação&r ou a &bCPU&r.",
+        "",
+        "E nem vamos falar da &4armadura&r...."
+    ],
+    "quest.1CC084EAB233E5FE.quest_subtitle": "Por que você é tão avançado?",
+    "quest.1CC084EAB233E5FE.title": "AdvancedAE",
+    "quest.1E81D0EC96EAD719.quest_desc": [
+        "Você não deveria se preocupar com armazenamento de energia em configurações de grande escala com uma dessas.",
+        "Além disso, se você planeja usar o &dIO Espacial&r, use estas células."
+    ],
+    "quest.1E81D0EC96EAD719.quest_subtitle": "loucura....",
+    "quest.1F94352650044208.quest_desc": [
+        "Para usar o &dAdvanced&r &aExtended&r &6Pattern provider&r (quem colocou nomes aqui?), você precisa usar esta ferramenta para convertê-los"
+    ],
+    "quest.1F94352650044208.quest_subtitle": "Novos padrões",
+    "quest.1F99B65BF9354923.quest_desc": [
+        "A fundação para &carmazenamento&r....",
+        "",
+        "O uso principal é para a Peça de Armazenamento de 1K, mas vamos continuar, mais sobre isso depois"
+    ],
+    "quest.1F99B65BF9354923.quest_subtitle": "Fizemos um sanduíche",
+    "quest.1F99B65BF9354923.title": "Processador Lógico",
+    "quest.20A95AA83B74EDBB.quest_desc": [
+        "É assim que você armazena material nuclear do &aMekanism&r.",
+        "",
+        "Além disso, eles valem por 4 &ebarris de lixo&r"
+    ],
+    "quest.20A95AA83B74EDBB.quest_subtitle": "Radioativo",
+    "quest.213712F8CA65B2ED.quest_desc": [
+        "Este dispositivo sem fio permite que você, na mesma &ndimensão&r, tenha uma rede sem fio barata e compacta, mas há um problema.",
+        "",
+        "Eles consomem muita &aenergia&r quanto mais distantes estiverem um do outro. Uma maneira de resolver esse problema é usando &dCartões de Energia&r, mas ainda assim, o consumo cresce a uma taxa exponencial."
+    ],
+    "quest.213712F8CA65B2ED.quest_subtitle": "Sem fio? Mais ou menos",
+    "quest.215E69CFA0425ADF.quest_subtitle": "NASv8: LIGADO",
+    "quest.215E69CFA0425ADF.title": "Componente de Armazenamento de 16M",
+    "quest.2300B53ADEFB2636.quest_desc": [
+        "Esta será a última missão com texto.",
+        "",
+        "Existem as células mais caras que o &bAE2&r pode fornecer, então, o mod &5MEGA&r entra na conversa"
+    ],
+    "quest.2300B53ADEFB2636.quest_subtitle": "NASv6: LIGADO",
+    "quest.2300B53ADEFB2636.title": "Componente de Armazenamento de 256K",
+    "quest.242A717797D292A4.quest_desc": [
+        "Eles são usados muito em setups, então você vai querer muitos deles.",
+        "Eles aceleram as coisas.",
+        "",
+        "Por exemplo, em um &dexport bus&r, permite enviar mais &eitens&r ao mesmo tempo, mas também envia mais itens em menos tempo"
+    ],
+    "quest.242A717797D292A4.quest_subtitle": "Um bocado",
+    "quest.2574C8E53EFD83E1.quest_desc": [
+        "Itens e circuitos, boa combinação"
+    ],
+    "quest.2574C8E53EFD83E1.quest_subtitle": "Itens",
+    "quest.261C1726C965B33F.quest_desc": [
+        "São basicamente &3inúteis&r, já que você tem o &aMekanism&r para o enlatador e não usa o reparo para brotos, já que você tem &6abelhas&r ou &dduplicação&r para o cristal de &aEntro&r ou broto &eperfeito&r para o &bcertus&r"
+    ],
+    "quest.26D88FF9A22A338E.quest_desc": [
+        "No início, você vai usar muitos destes, porque é necessário em &6autocriação&r e &binterfaces&r.",
+        "",
+        "Mais sobre isso depois."
+    ],
+    "quest.26D88FF9A22A338E.quest_subtitle": "Multibloco formado!",
+    "quest.26D88FF9A22A338E.title": "Núcleo de Formação",
+    "quest.26FCC70341995D39.quest_desc": [
+        "Bem, bem, bem....",
+        "",
+        "Outro &dterminal&r, mas desta vez ele permite que você encontre &6padrões&r mais rápido, seja usando materiais de &eentrada&r ou o resultado de &asaída&r.",
+        "",
+        "Também localiza &6provedores de padrão&r!"
+    ],
+    "quest.28904D17FA902B9C.quest_desc": [
+        "Este é um daqueles &aaddons&r que você usará muito, mas quando digo muito, é muito.",
+        "",
+        "Este é provavelmente um dos addons mais &cquebrados&r para &bAE2&r que existem, e isso é bom, para nós :P"
+    ],
+    "quest.28904D17FA902B9C.quest_subtitle": "Concorrência ou paralelismo?",
+    "quest.28904D17FA902B9C.title": "ExtendeAE",
+    "quest.289EAB703FB95F5F.quest_desc": [
+        "Armazenamento na &bnuvem&r? Onde? Ah...",
+        "",
+        "Hora de você pegar seu &carmazenamento&r e esquecer esses &ebaús&r e &abarris&r e ga...",
+        "Bem, podemos viver com &egavetas&r, por enquanto....",
+        "Eles permitem que você armazene 10 &dcélulas&r por máquina. Mais informações na próxima missão",
+        "",
+        "Estas &bmáquinas AE2&r usam 1 &acanal&r e podem ser conectadas em &eambos&r os tipos de &dcabos&r."
+    ],
+    "quest.289EAB703FB95F5F.quest_subtitle": "Seu armazenamento local",
+    "quest.28BF9F410AEC0FEE.quest_desc": [
+        "Carregue o &ccristal&r em um &dcarregador&r ou similar ;)"
+    ],
+    "quest.28BF9F410AEC0FEE.quest_subtitle": "Passo 2",
+    "quest.2919FB8C84AD69F9.quest_subtitle": "NASv5: LIGADO",
+    "quest.2919FB8C84AD69F9.title": "Componente de Armazenamento de 4M",
+    "quest.295DFE93EE139200.quest_desc": [
+        "Basicamente, uma versão mais rápida"
+    ],
+    "quest.2A30ED06F03EAD50.quest_desc": [
+        "Com 10 desses &cComponentes&r de &6Armazenamento&r de 1K, você deve ser capaz de acomodar a maior parte do seu &carmazenamento&r inicial e, em seguida, pode atualizá-lo facilmente para uma capacidade maior.",
+        "",
+        "Agora, para a parte \"difícil\", &dtipos&r.",
+        "",
+        "Tipos existem por uma razão principal, &4corrupção&r. Não permite que você armazene todo o lixo da sua &afazenda de criaturas&r, como armaduras ou armas danificadas.",
+        "Essas ferramentas ou armaduras em grande quantidade podem causar um &cban&r do seu mundo.",
+        "",
+        "Como eu sei o que é considerado um &dtipo&r? Se você pode empilhar a mesma coisa em uma mochila com uma melhoria de pilha, então é o mesmo tipo, se não, é diferente."
+    ],
+    "quest.2A30ED06F03EAD50.quest_subtitle": "NAS: LIGADO",
+    "quest.2A30ED06F03EAD50.title": "Componente de Armazenamento de 1K",
+    "quest.2A31D8850389D929.quest_desc": [
+        "Eu menti, desculpe :P",
+        "",
+        "Estes são um pouco caros, mas podem substituir as gavetas. E qual a capacidade e quantos tipos?",
+        "",
+        "Bem, apenas 1 &dtipo&r, e você precisa usar uma &aBancada de Células&r para usá-lo.",
+        "",
+        "Para &ecapacidade&r? Bem... O número não cabe em todo o &euniverso&r &4observável&r....."
+    ],
+    "quest.2A31D8850389D929.quest_subtitle": "Eu menti",
+    "quest.2A40F0513524BA89.quest_desc": [
+        "Este é o conjunto básico, mas você pode &5melhorá-lo&r!",
+        "",
+        "Isso é como vestir sua &brede&r &dAE2&r.",
+        "A armadura tem opções para &cligar&r e &4desligar&r as melhorias, então se você adicionou altura de pulo, pode desativá-la"
+    ],
+    "quest.2A46F5B21C3B8949.quest_desc": [
+        "Bem, bem, bem....",
+        "",
+        "Este mod permite que você armazene coisas sem &4tipos&r.",
+        "",
+        "Embora isso pareça interessante, eu te pergunto, você realmente precisa de 500 arcos &n&cdanificados&r?",
+        "E eles também funcionam de forma diferente, 1 &eitem&r = 1 &abyte&r, ao contrário dos 8 &eitens&r = 1 &abyte&r que as células normais permitem"
+    ],
+    "quest.2A46F5B21C3B8949.quest_subtitle": "\"Armazenamento para leigos\" - &bAE2&r Things",
+    "quest.2D8961C4A79889EB.quest_desc": [
+        "Sementes de &dFluix&r....",
+        "",
+        "Muito sério agora, elas são bem baratas.... espere um segundo, &bTIER 4&r?!?"
+    ],
+    "quest.2D8961C4A79889EB.quest_subtitle": "Fluixium",
+    "quest.2D92C00760C8EB09.quest_desc": [
+        "Como mover energia.... espere um segundo, isso é &eenergia&r &bP2P&r.",
+        "",
+        "É assim que se &carmazena&r energia em células.",
+        "Você provavelmente vai querer alguns &2cactos&r"
+    ],
+    "quest.2D92C00760C8EB09.title": "&cAppliedFlux",
+    "quest.2E02D184863D55B8.quest_desc": [
+        "Esta é uma ferramenta &aútil&r que mostra visualmente como os &ecanais&r são roteados, mesmo com redes P2P &d&r.",
+        "",
+        "Além disso, se houver algum erro, ele informará com cores"
+    ],
+    "quest.2E02D184863D55B8.quest_subtitle": "Vendo a rede?",
+    "quest.2FF33C9923F3A56C.quest_subtitle": "NASv9: LIGADO",
+    "quest.2FF33C9923F3A56C.title": "Componente de Armazenamento de 64M",
+    "quest.3006700ADFA33FAE.quest_desc": [
+        "Permite que máquinas suportadas &4criem&r itens sob demanda se precisarem, porque não há mais na &drede&r"
+    ],
+    "quest.3006700ADFA33FAE.quest_subtitle": "Sob demanda",
+    "quest.30290B4FDEF77D4C.quest_subtitle": "O mesmo que o Terminal de Codificação de Padrões",
+    "quest.312977962EF7DFA3.quest_desc": [
+        "Ok, se você ainda não fez um &acontrolador&r, não vai querer desperdiçar &arecursos&r aqui ainda.",
+        "",
+        "Estes blocos podem ser colocados em qualquer lugar da sua &brede&r e armazenarão um pouco de energia.",
+        "Por exemplo, quando você fica sem combustível na sua geração de energia principal, estes fornecerão um pequeno buffer para você conseguir mais combustível.",
+        "",
+        "Outra coisa útil deles é permitir &doperações&r mais rápidas.",
+        "Quando você insere toneladas de itens, como 9 packs por tique, em uma interface, ela usará muita energia, então pode ajudar muito nesse tipo de cenário"
+    ],
+    "quest.312977962EF7DFA3.quest_subtitle": "Armazenando energia?",
+    "quest.313E0224222B0EAD.quest_desc": [
+        "Mais &bcertus&r? ",
+        "",
+        "Você fez pelo menos uma fazenda de &bcertus&r?"
+    ],
+    "quest.313E0224222B0EAD.quest_subtitle": "&bFundo&r",
+    "quest.313E0224222B0EAD.title": "&bCircuito de Cálculo Impresso",
+    "quest.3180C949D125E7DA.quest_desc": [
+        "Bem, outra maneira de mover coisas.",
+        "",
+        "P2P, o que são eles? Simples, você conhece o jogo &5Portal&r? Bem, basicamente esses portais.",
+        "",
+        "Uma coisa entra por um lado e sai pelo outro.",
+        "Eles precisam de 1 &acanal&r cada e apenas em &dcabos inteligentes&r.",
+        "",
+        "Além disso, exceto o P2P de &bME&r, eles têm 1 &eentrada&r mas &6múltiplas&r saídas.",
+        "Para o P2P de ME, eles podem ter múltiplas entradas, mas um cabo denso pode carregar mais de 32 canais?"
+    ],
+    "quest.3180C949D125E7DA.quest_subtitle": "A coisa mais temida no &bAE2",
+    "quest.3180C949D125E7DA.title": "P2P",
+    "quest.325AD48FA7A279AB.quest_desc": [
+        "Quando você tiver 32 cristais de &aentro&r, poderá duplicá-los ou obter uma &6abelha&r, o que preferir.",
+        "A mais fácil é a &6abelha&r.",
+        "",
+        "Por enquanto, precisamos fazer o processo de &abrotamento&r começar, e vamos modificar uma &b&nfazenda simples de certus&r",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/entro_farm.png width:150 height:100 align:center fit:true}",
+        "{image:catalyst:textures/quest_images/applied_energetic/entro_farm_2.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.325AD48FA7A279AB.quest_subtitle": "Primeiro passo, Entropia",
+    "quest.342249E9DEEF064F.quest_desc": [
+        "Isso é basicamente um &eímã&r, que pode &4inserir&r na &drede&r ou inventário, e também &afiltrar&r para atrair itens!"
+    ],
+    "quest.342249E9DEEF064F.quest_subtitle": "Na Rede",
+    "quest.3424FC422A8736E1.quest_desc": [
+        "No começo, você vai usar muitos destes, porque são necessários em &6autocrafting&r e &binterfaces&r.",
+        "",
+        "Mais sobre isso depois."
+    ],
+    "quest.3424FC422A8736E1.quest_subtitle": "Multibloco destruído!",
+    "quest.3424FC422A8736E1.title": "Núcleo de Aniquilação",
+    "quest.344B395FE7CEE575.quest_desc": [
+        "Com este &dmonitor&r, você pode verificar quantos recursos está produzindo por segundo!"
+    ],
+    "quest.344B395FE7CEE575.quest_subtitle": "Quanto?",
+    "quest.359C9083E3B69D29.quest_desc": [
+        "&cAviso&r! Choque &eelétrico&r"
+    ],
+    "quest.359C9083E3B69D29.quest_subtitle": "&cFundo&r",
+    "quest.359C9083E3B69D29.title": "&cCircuito de Energia Impresso",
+    "quest.362FA7CD5737380B.quest_desc": [
+        "Combine 2 &dterminais sem fio&r em um &6terminal&r de &ecriação&r, e você obterá um &5terminal sem fio universal&r.",
+        "",
+        "Agora, esse &5terminal universal&r e o outro &dterminal&r em um &6terminal&r de &ecriação&r para juntar todos em um.",
+        "",
+        "Eles têm mais &aespaços&r para melhorias e agora você pode mudar de terminal para terminal com 1 clique ou ainda usar os &catallhos de teclado&r se os usava"
+    ],
+    "quest.362FA7CD5737380B.quest_subtitle": "Tudo em um",
+    "quest.374D3F10FD46CC21.quest_desc": [
+        "Isso é um loop? Ou eu tive um Déjà vu?",
+        "",
+        "Bem, lembre-se do que eu disse antes, &cquebra&r tudo &cexceto&r os &bbrotos de certus perfeitos&r.",
+        "",
+        "Além disso, colete um pouco de pedra do céu, precisaremos mais tarde"
+    ],
+    "quest.374D3F10FD46CC21.quest_subtitle": "O começo",
+    "quest.37729D29364F83F5.quest_desc": [
+        "Confie em mim, você vai, apenas comece o método de duplicação"
+    ],
+    "quest.37729D29364F83F5.quest_subtitle": "Você vai precisar",
+    "quest.37729D29364F83F5.title": "Cristal de Entropia",
+    "quest.377756F8402AEEB7.quest_desc": [
+        "Já que a outra boneca não tem uma receita, aqui está uma missão para você obtê-la ;)"
+    ],
+    "quest.3834D00BCA561CB7.quest_desc": [
+        "Esta é a principal maneira de produzir muitas &6barras&r e &eligas&r durante sua jogatina, apenas para materiais relacionados ao &bAE2&r!"
+    ],
+    "quest.3834D00BCA561CB7.quest_subtitle": "Passo 1, Misture o ingrediente",
+    "quest.385E5459FF7FB65E.quest_desc": [
+        "Adicione &9água&r e o &cPó Infundido Quanticamente&r em uma câmara de reação para obter Infusão Quântica, então você pode usar um balde para &ecompletar&r a missão."
+    ],
+    "quest.385E5459FF7FB65E.quest_subtitle": "Eu sei, eu sei",
+    "quest.387EBA2C53658344.quest_desc": [
+        "Basicamente, carcaças são inúteis quando se trata de fazer células, já que existe outra receita que faz o mesmo em 1 passo."
+    ],
+    "quest.387EBA2C53658344.quest_subtitle": "Opcional",
+    "quest.387EBA2C53658344.title": "Carcaças de Célula",
+    "quest.38926CA5889429A9.quest_desc": [
+        "Mega, o addon que permite armazenar &cquantidades&r &4enormes&r&4 de coisas.",
+        "",
+        "Só que eles são um pouco caros...."
+    ],
+    "quest.38926CA5889429A9.quest_subtitle": "Grande = melhor",
+    "quest.38926CA5889429A9.title": "MEGA",
+    "quest.3AC9DB065D667EAF.quest_desc": [
+        "Liga usada para carcaça de fluido, permite todos os fluidos"
+    ],
+    "quest.3AC9DB065D667EAF.quest_subtitle": "Fluidos",
+    "quest.3B4945EAEAC2C822.quest_desc": [
+        "Isso permite uma distribuição igual de capacidade nas células para todos os tipos, como fazer capacidade / total de tipos"
+    ],
+    "quest.3B4945EAEAC2C822.quest_subtitle": "Não mais!",
+    "quest.3BD9B2308B282F3C.quest_desc": [
+        "Basicamente um &cCondensador de Matéria&r em uma célula, pode apagar seus itens!"
+    ],
+    "quest.3BD9B2308B282F3C.quest_subtitle": "&cAviso&r: Lixeira",
+    "quest.3C5127DBF60F0B95.quest_desc": [
+        "Como conseguimos mais de 8 &acanais&r? &dControladores&r!!!",
+        "Eles fornecem 32 &acanais&r por lado.",
+        "Então... ele só pode fazer 192 &acanais&r no total? Não. Podemos expandir nosso controlador.",
+        "",
+        "Este é um &dmultibloco&r com algumas regras, mas são fáceis:",
+        "",
+        "- Não pode ser maior que &n&c7 blocos&r em cada direção.",
+        "",
+        "- Só pode haver &n&c1 multibloco de controlador&r em cada rede.",
+        "",
+        "- Só pode ter &n&c2 controladores adjacentes&r em 1 eixo.",
+        "",
+        "{@pagebreak}",
+        "Mas como vamos transportar os &acanais&r? Usando cabos densos, claro. Eles devem ser baratos se você fez sua lição de casa.",
+        "",
+        "Você vai querer usar &dcabos densos&r para transportar &acanais&r do ponto A ao ponto B, como do seu controlador na base para sua fazenda de ferro.",
+        "",
+        "Então, quando você tiver seu &dcabo denso&r no local, você deve usar &5cabos inteligentes&r para conectar a cada &bmáquina AE2&r que precise dele.",
+        "",
+        "Idealmente, você deve dedicar 1 ou mais cabos densos por configuração.",
+        "Por exemplo, você precisa de 34 &acanais&r na sua fazenda de ferro (de alguma forma), você deve dedicar 2 &dcabos densos&r para toda a configuração e &cnão usar&r os outros &acanais&r para outras configurações.",
+        "Por quê? Porque pode ficar uma &4bagunça&r muito rápido em grandes configurações. Mas se você quiser, pode fazer.",
+        "",
+        "{@pagebreak}",
+        "Agora, para o &dcontrolador&r, um cubo oco de 3x3x3 deve ser mais do que suficiente para a maioria das pessoas, como o seguinte:",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/initial_controller.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.3C5127DBF60F0B95.quest_subtitle": "Por que 20?",
+    "quest.3C5127DBF60F0B95.title": "&bControlador ME",
+    "quest.3C8046AB0A97EAF5.quest_subtitle": "Fizemos um sanduíche",
+    "quest.3FA9E1842C9810EB.quest_desc": [
+        "Isto é basicamente um solicitador caro"
+    ],
+    "quest.3FA9E1842C9810EB.quest_subtitle": "Basicamente um solicitador",
+    "quest.402002D607F79B06.quest_desc": [
+        "Existem missões de &carmazenamento&r nas missões principais do &bAE2&r"
+    ],
+    "quest.402002D607F79B06.quest_subtitle": "Armazenamento",
+    "quest.402002D607F79B06.title": "Armazenamento",
+    "quest.4276CB4072A6F022.quest_desc": [
+        "Embora você possa usar picaretas para minerar cabos, você gasta &edurabilidade&r (na maioria dos casos).",
+        "Com estas chaves inglesas, você pode minerá-los sem usar durabilidade.",
+        "",
+        "- Agachar + clique direito para pegar o item.",
+        "",
+        "- Clique direito para girar as &bmáquinas do AE2&r"
+    ],
+    "quest.4276CB4072A6F022.quest_subtitle": "A coisa mais útil",
+    "quest.448F99A9197C7EAD.quest_subtitle": "Não use estes",
+    "quest.448F99A9197C7EAD.title": "Cabo Coberto",
+    "quest.455950B18235B335.quest_desc": [
+        "Permite mais 10 espaços para células, só que você não pode vê-los no modelo do bloco"
+    ],
+    "quest.455950B18235B335.quest_subtitle": "Mais espaço",
+    "quest.460CB2F19CF27EAA.quest_desc": [
+        "É assim que você interage com sua &drede&r no começo.",
+        "Cada terminal precisa de &dcabos inteligentes&r e 1 &acanal&r.",
+        "",
+        "Permite que você &acrie&r coisas do terminal, &bcoloque&r coisas do seu inventário ou &etire&r coisas para o seu inventário.",
+        "Também tem &dfunções&r legais ao lado, confira-as!",
+        "",
+        "E você encontrará um &cmartelo&r no canto superior direito, se clicar nele, mostrará suas &bCPU&rs e o que elas estão fazendo."
+    ],
+    "quest.460CB2F19CF27EAA.quest_subtitle": "Agora sim estamos falando sério",
+    "quest.477D1FD7543A473E.quest_desc": [
+        "O &7Silício&r é muito usado no &bAE2&r, já que a maioria das máquinas usa algum tipo de processador.",
+        "",
+        "Seria uma boa ideia tê-lo de forma &epassiva&r ou, pelo menos, fazer muitos deles em &6lotes&r, por exemplo, 200 de cada vez.",
+        "",
+        "Além disso, o &7silício impresso&r é usado em todo e qualquer &aprocessador&r, então você provavelmente vai querer &ddobrar&r ou até &ctriplicar&r seu &7silício impresso&r.",
+        "",
+        "Embora as missões peçam apenas 5 &dinscritores&r, você realmente precisará de mais a longo prazo, a menos que verifique os &aaddons&r do &bAE2&r ;)"
+    ],
+    "quest.477D1FD7543A473E.quest_subtitle": "Leia isto",
+    "quest.477D1FD7543A473E.title": "Silício",
+    "quest.49286C762F383267.quest_desc": [
+        "&bDiamantes.&r...",
+        "",
+        "Bem, eu te disse que precisaríamos deles."
+    ],
+    "quest.49286C762F383267.quest_subtitle": "&bFundo&r",
+    "quest.49286C762F383267.title": "&bCircuito de Engenharia Impresso",
+    "quest.4B09BF91C8CBFBD3.quest_desc": [
+        "[ \"Você provavelmente vai querer começar as \", { \"text\": \"missões das abelhas\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"232345A9C9EFDC9B\" } }, \", antes de fazer esta.\" ]",
+        "",
+        "Mas se você fez, parabéns, você tem outra maneira poderosa de gerar &bcertus&r e &bpó de certus&r, que precisaremos em quantidades industriais ;)"
+    ],
+    "quest.4B09BF91C8CBFBD3.quest_subtitle": "bzzzzzzzz",
+    "quest.4CB758202B13207D.quest_desc": [
+        "Estes &dcabos&r são uma das principais formas de transportar &acanais&r pela sua base.",
+        "Eles têm algumas limitações, como só poderem se conectar a &bmáquinas do AE2&r que usam o &cbloco inteiro&r, como interfaces ou provedores de padrões.",
+        "",
+        "Aqui está um exemplo:",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/dense_cable_example.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.4CB758202B13207D.quest_subtitle": "Grande, maior, melhor",
+    "quest.4CB758202B13207D.title": "Cabo Inteligente Denso",
+    "quest.4D34F7914A316C16.quest_desc": [
+        "Permite que máquinas sejam controladas por &credstone&r"
+    ],
+    "quest.4D34F7914A316C16.quest_subtitle": "&cRedstone&r ligada",
+    "quest.4DE741EB46FCCEAD.quest_desc": [
+        "Você está cansado de mudar 500 &6padrões&r e todos os seus ingredientes um por um? Não?",
+        "",
+        "Bem, este é o item que você quer usar para mudar muitos &6padrões&r rapidamente, como em vez de fazer 1 pedregulho para 1 pedra, você pode fazer 100 pedregulhos para 100 pedras em um instante, mais rápido do que usar o terminal para mudar a taxa"
+    ],
+    "quest.4E4EB5E9324A5432.quest_desc": [
+        "Isso é o mais simples possível. Você deve sempre enviar &bcertus&r para o baú de cima",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/charged_certus.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.4E4EB5E9324A5432.quest_subtitle": "Certeza carregada",
+    "quest.4EBBCFC689A62689.quest_desc": [
+        "Estes são muito usados em algumas situações.",
+        "",
+        "- &eÂncoras de cabo&r separam os cabos se eles estiverem conectados",
+        "",
+        "- &aFibras de quartzo&r fazem o mesmo que as âncoras de cabo, mas permitem a passagem de energia. Use isso apenas quando necessário",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/cables.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.4EBBCFC689A62689.quest_subtitle": "Fundamentos",
+    "quest.4FDE9B1603E03F07.quest_desc": [
+        "Sim, esta é uma das melhores maneiras de gerá-lo.",
+        "",
+        "Verifique também as &6abelhas&r e o &aXyCraft&r"
+    ],
+    "quest.4FDE9B1603E03F07.quest_subtitle": "O jeito fácil",
+    "quest.5039AE0EED4C0CE4.quest_desc": [
+        "Primeiro, precisamos deste cristal, talvez um pouco de &credstone&r, &5fluix&r e &9água&r seja suficiente? Não?"
+    ],
+    "quest.5039AE0EED4C0CE4.quest_subtitle": "Primeiro passo",
+    "quest.5054E284525D0EEF.quest_desc": [
+        "Bem, vamos duplicar o &acristal&r.",
+        "",
+        "Primeiro, precisamos transformá-lo em pó, e depois com &5fluix&r em uma &dcâmara de reação&r, obtemos 64 cristais &aentro&r.",
+        "",
+        "Estamos basicamente ganhando 32 de graça."
+    ],
+    "quest.5054E284525D0EEF.quest_subtitle": "AdvancedAE",
+    "quest.506BF99DA7D09C35.quest_desc": [
+        "Apenas permite mudar as cores dos seus cabos sem quebrá-los.",
+        "Precisa de uma célula para funcionar.",
+        "Mais informações no &bguia do AE2&r"
+    ],
+    "quest.506BF99DA7D09C35.quest_subtitle": "Cor sob demanda",
+    "quest.506BF99DA7D09C35.title": "Aplicador de Cor",
+    "quest.50975CD6F96E5A96.quest_desc": [
+        "Necessário para a &5CPU&r, certifique-se de ter alguns deles"
+    ],
+    "quest.50975CD6F96E5A96.quest_subtitle": "Fizemos um sanduíche",
+    "quest.5154EABFFD85F34D.quest_desc": [
+        "Agora, você está pensando, por que precisamos fazer isso?",
+        "",
+        "Bem, vou te mostrar uma maneira de ter energia &dsem fio&r basicamente de graça e interdimensional com alcance basicamente infinito.",
+        "",
+        "Mas primeiro, comece a bombear um pouco de &9água&r para um condensador de matéria configurado para fazer &dsingularidades&r",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/singularities.png width:150 height:100 align:center fit:true}"
+    ],
+    "quest.5154EABFFD85F34D.quest_subtitle": "Use &9água&r!!!!",
+    "quest.5154EABFFD85F34D.title": "Caminho do terminal &dsem fio",
+    "quest.51FE6BCEA111CD86.quest_desc": [
+        "Existem 2 diferenças &cprincipais&r entre a versão &aEstendida&r e a regular:",
+        "",
+        "- A &aEstendida&r pode te dizer onde exatamente está um &6provedor de padrões&r",
+        "",
+        "- Você pode pesquisar nos padrões com a &aEstendida&r"
+    ],
+    "quest.51FE6BCEA111CD86.quest_subtitle": "A melhor de todas",
+    "quest.53643D15A00F2F56.quest_desc": [
+        "Estas &bmáquinas do AE2&r usam 1 &acanal&r cada e só podem ser colocadas em &dcabos inteligentes&r.",
+        "",
+        "Elas permitem &aimportar&r coisas para o &carmazenamento&r da &drede&r ou &esaída&r de coisas do &carmazenamento&r da &drede&r.",
+        "",
+        "São como interfaces, mas piores.",
+        "A única coisa boa é que permitem mais &afiltros&r."
+    ],
+    "quest.53643D15A00F2F56.quest_subtitle": "Operações de E/S",
+    "quest.53643D15A00F2F56.title": "Barramento de Importação / Exportação",
+    "quest.544A7541FE5D1A8D.quest_desc": [
+        "Para que você possa codificar &6padrões&r, você precisa deste terminal.",
+        "",
+        "Aqui vai uma &adica&r, clique em &cpermitir substituição&r e &bfluidos&r (barra de ferro e balde), isso economizará alguns passos se puder ;)"
+    ],
+    "quest.544A7541FE5D1A8D.quest_subtitle": "Padrões codificados",
+    "quest.545CECD192055BC0.quest_desc": [
+        "Use um pouco do seu &bcertus&r em um gravador ou em um &atriturador&r do &aMekanism&r para obter &bpó de certus&r.",
+        "",
+        "Então, derreta um pouco dele em uma &efornalha&r, e pronto, você obtém &7silício&r.",
+        "Você provavelmente vai querer fazer um pack de ambos."
+    ],
+    "quest.545CECD192055BC0.quest_subtitle": "Silex, 14",
+    "quest.54F0F61ECC99DA21.quest_desc": [
+        "Agora, podemos considerar começar o &bAE2&r.",
+        "Você pode ter visto palavras como rede, canais e sistema nas missões.",
+        "Hora de explicar.",
+        "",
+        "Uma &drede&r é uma série de &bmáquinas do AE2&r conectadas umas às outras. Pode consistir em &bmáquinas&r, &carmazenamento&r e &etelas&r.",
+        "",
+        "Essas &dredes&r podem ser grandes ou pequenas, mas elas têm alguns \"limites\", os &acanais&r.",
+        "O que é um &acanal&r? É quantas máquinas você pode conectar a um cabo.",
+        "Podem ser 8 &bmáquinas&r ou 32 &bmáquinas&r.",
+        "",
+        "Você pode desativar os &acanais&r, precisaria de OP, mas assim que entender como eles funcionam, se tornarão fáceis. Mais informações depois."
+    ],
+    "quest.54F0F61ECC99DA21.quest_subtitle": "O começo.... outro &5Déjà vu&r?",
+    "quest.54F0F61ECC99DA21.title": "Cabos de &5Fluix",
+    "quest.55DB4A314B7F2DCA.quest_desc": [
+        "Apenas permite que você &carmazene&r mais &aenergia&r nos itens permitidos"
+    ],
+    "quest.55DB4A314B7F2DCA.quest_subtitle": "Maior",
+    "quest.55E29E9A46EE9A16.quest_desc": [
+        "Está aqui apenas porque é necessário no &aExtendedAE&r para 1 multiblock ;)"
+    ],
+    "quest.55E29E9A46EE9A16.quest_subtitle": "Paintballs",
+    "quest.568CB75768EE2157.quest_desc": [
+        "Estes são o ingrediente principal para muitos &eitens&r neste &aaddon&r, então provavelmente é uma boa ideia ter &dsingularidades&r sob demanda ;)"
+    ],
+    "quest.568CB75768EE2157.quest_subtitle": "Isso não é uma singularidade",
+    "quest.5735C6D3BF055470.quest_desc": [
+        "Agora, precisamos de todas as prensas que a missão pede para continuar com o &bAE2&r, quebre o &8cubo misterioso&r no centro do meteorito ou faça-as ou compre-as.",
+        "",
+        "Depois disso, precisamos de pelo menos 5 &dgravadores&r, um para cada prensa que temos e 1 para combinar.",
+        "{@pagebreak}",
+        "Este é um exemplo de como você pode configurar sua Automação de Gravadores!",
+        "{image:catalyst:textures/quest_images/applied_energetic/basic_inscriber_setup.png width:200 height:150 align:center}"
+    ],
+    "quest.5735C6D3BF055470.quest_subtitle": "Prensando, prensando, ....",
+    "quest.5735C6D3BF055470.title": "Presses",
+    "quest.5888EC05989B8B92.quest_subtitle": "Não use estes",
+    "quest.5888EC05989B8B92.title": "Cabo Coberto Denso",
+    "quest.5A9877BE128E8A85.quest_desc": [
+        "Isso é apenas para quando você não consegue encontrar um meteoro, o que é um problema bastante comum.",
+        "",
+        "Eles permitem obter &bcertus&r e &dfluix&r facilmente no início, mas não escalam muito bem mais tarde"
+    ],
+    "quest.5A9877BE128E8A85.quest_subtitle": "Fazenda inicial",
+    "quest.5A9877BE128E8A85.title": "&aAldeão",
+    "quest.5BB1C96280007519.quest_desc": [
+        "Este bloco permite que você armazene qualquer coisa, de itens a produtos químicos, exceto coisas nucleares."
+    ],
+    "quest.5BB1C96280007519.quest_subtitle": "SFM: &cAtivado",
+    "quest.5BBF553C6FB4A625.quest_desc": [
+        "Ele deleta itens quando um inventário está cheio"
+    ],
+    "quest.5BBF553C6FB4A625.quest_subtitle": "&cAviso",
+    "quest.5BC01A68BD6802A7.quest_desc": [
+        "Agora, precisamos de uma maneira de armazenar as receitas.",
+        "",
+        "Elas são colocadas dentro de &6provedores de padrões&r e existem diferentes tipos:",
+        "",
+        "- &dPadrões de criação&r: Precisam de um montador molecular para criá-los",
+        "",
+        "- &6Padrões de processamento&r: Precisam de uma máquina de outro mod, como uma fornalha.",
+        "",
+        "- &aPadrão de corte&r: Precisa de um montador molecular (&meles disseram que não vale a pena fazer de outra forma&r)",
+        "",
+        "- &7Padrão de ferraria&r: Você adivinhou, montador molecular também"
+    ],
+    "quest.5BC01A68BD6802A7.quest_subtitle": "Dominação da árvore de &6criação&r",
+    "quest.5BC01A68BD6802A7.title": "Padrões",
+    "quest.5CE2A10C711EC3C9.quest_desc": [
+        "É o mesmo que o anterior, mas inclui 9 slots para melhorias.",
+        "",
+        "Se você tiver esta ferramenta no seu &ainventário&r (&cnão&r na mochila ou na sua rede), ela mostrará todas as melhorias. É um pequeno toque agradável ao fazer configurações massivas.",
+        "",
+        "Além disso, se você clicar com o botão direito em qualquer &dcabo&r, verá uma aba com informações, como energia usada ou gerada"
+    ],
+    "quest.5CE2A10C711EC3C9.quest_subtitle": "Chave v2",
+    "quest.5D07E1630119890C.quest_desc": [
+        "Sim, podemos automatizar &5fluix&r agora sem usar &dsementes&r ou &6abelhas&r.",
+        "",
+        "Estas máquinas precisam de 1 &bcanal&r para funcionar e de um inventário para armazenar blocos.",
+        "[ \"Há uma \", { \"text\": \"configuração\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2992DF31EA2F37F1\" } }, \" explicando mais.\" ]"
+    ],
+    "quest.5D07E1630119890C.quest_subtitle": "Automação de &5Fluix&r",
+    "quest.5D4D3DB66B0E09C6.quest_desc": [
+        "Agora, antes de continuar para a próxima parte, só quero dizer que vale a pena mudar sua configuração de gravador para esta.",
+        "",
+        "Além disso, você fez a &aabelha&r &6Entro&r? Ou pelo menos &dduplicou&r o cristal?"
+    ],
+    "quest.5D4D3DB66B0E09C6.quest_subtitle": "Temos algumas, sim",
+    "quest.5D4D3DB66B0E09C6.title": "O começo.... outro &5Déjà vu&r?",
+    "quest.5DB2AD4CE960445A.quest_desc": [
+        "O mesmo de antes, mas com um buffer maior.",
+        "Você só deve precisar de 1 destes em configurações de média escala, a menos que use &dE/S Espacial&r"
+    ],
+    "quest.5DB2AD4CE960445A.quest_subtitle": "Maior = melhor?",
+    "quest.5E011689613A583E.quest_desc": [
+        "Agora, você pode filtrar suas células in situ"
+    ],
+    "quest.5E011689613A583E.quest_subtitle": "Chega de blocos",
+    "quest.5E65F944050BD507.quest_desc": [
+        "Os &aProvedores de Padrões&r &6Estendidos&r são os mesmos que os antigos, mas fornecem &c&mais&r 27 slots para &apadrões&r!",
+        "",
+        "Para os &dmontadores moleculares&r... Eles são outra história:",
+        "",
+        "- Eles podem fazer 4 &dreceitas&r ao mesmo tempo",
+        "",
+        "- Eles são mais &erápidos&r que a versão normal, x2 para ser exato",
+        "",
+        "- Você &cnão pode&r colocar padrões dentro",
+        "",
+        "Para os provedores de padrões, há uma melhoria que você pode usar caso não queira quebrá-los"
+    ],
+    "quest.5E65F944050BD507.quest_subtitle": "Agora, hora de aprimorar sua &6criação automática",
+    "quest.5F8B4DA147FFBF10.quest_desc": [
+        "Por exemplo, você insere pó de redstone em sua rede e este cartão o converte em blocos de redstone"
+    ],
+    "quest.5F8B4DA147FFBF10.quest_subtitle": "Comprimir",
+    "quest.60A2AE588A7D600C.quest_desc": [
+        "Energia: &cLIGADA&r",
+        "Capacidade necessária: &4ERRO&r",
+        "",
+        "Sim, basicamente isso, você precisa de muitos &acanais&r e &eenergia&r, muitos mesmo",
+        "",
+        "O guia tem mais informações sobre como essa mecânica funciona, eu tentei, mas ficou mais longo e pior.",
+        "Além disso, se você tem amigos, pode prendê-los lá dentro ;)"
+    ],
+    "quest.60A2AE588A7D600C.quest_subtitle": "É uma armadilha!!!",
+    "quest.62FF49268DF92CDB.quest_desc": [
+        "Felizmente, estes &bprocessadores&r são os mais usados, o que os torna basicamente gratuitos.",
+        "",
+        "Embora eu peça 16, você provavelmente vai querer fazer 32 ou 64"
+    ],
+    "quest.62FF49268DF92CDB.quest_subtitle": "Fizemos um sanduíche",
+    "quest.62FF49268DF92CDB.title": "Processador de Cálculo",
+    "quest.638AA96CA3E3787D.quest_desc": [
+        "Isso é muito usado, então você provavelmente vai querer fazer uma fazenda de &bcertus&r primeiro, e uma de quartzo, e uma de &credstone&r....",
+        "",
+        "Jogue todos esses ingredientes na &9água&r, espere e colete o &5fluix&r.",
+        "Embora eu peça apenas os ingredientes para fazer 2, você deve fazer 4 packs de &5fluix&r, que serão usados mais tarde"
+    ],
+    "quest.638AA96CA3E3787D.quest_subtitle": "Fluixium aurium",
+    "quest.638AA96CA3E3787D.title": "&5Fluix",
+    "quest.65C2A7ACDD2D9947.quest_desc": [
+        "Você deve usar estes &dcabos&r para suas configurações. Por quê? Simples, eles mostram quantos &acanais&r você usa, no cabo e, se você olhar para eles, eles também lhe dirão.",
+        "",
+        "Mas ainda não falamos sobre como obter &acanais&r, apenas que as &bmáquinas&r usam &acanais&r.",
+        "Bem, é fácil, coloque 8 cabos e um aceitador de energia, dê-lhe energia e você terá 8 canais livres.",
+        "Agora, você só pode colocar 8 &bmáquinas AE2&r, se tentar colocar 9 máquinas, a rede irá parar.",
+        "",
+        "{@pagebreak}",
+        "Entããão... como &cescalamos&r as coisas? &dControladores&r! Eles são uma parte fundamental deste mod, então você deve fazê-los. As &eMissões&r irão guiá-lo e dizer quais &bmáquinas&r usam &acanais&r.",
+        "",
+        "&dCabos inteligentes&r e &5cabos de fluix&r só podem se conectar a 8 máquinas. Você deve verificar os &dcabos densos&r.",
+        "Além disso, uma dica aqui, use cores diferentes, pelo menos 2 cores e cores de fluix. Dessa forma, eles não se conectam uns aos outros.",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/cables.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.65C2A7ACDD2D9947.quest_subtitle": "Agora estamos conversando",
+    "quest.65C2A7ACDD2D9947.title": "Cabos Inteligentes",
+    "quest.66D36EAA72C8C2E0.quest_desc": [
+        "Agora, podemos nos considerar iniciados no mod &aExtendedAE&r.",
+        "",
+        "Esta é a &abarra&r &afundamental&r deste mod, pois é necessária para os processadores, que você deve verificar nas missões principais do AE2 ;)"
+    ],
+    "quest.66D36EAA72C8C2E0.quest_subtitle": "A barra",
+    "quest.6744017ED4BEE958.quest_subtitle": "&0Inferior",
+    "quest.6744017ED4BEE958.title": "&0Circuito de Acumulação Impresso",
+    "quest.68F03CFFA6A021A8.quest_desc": [
+        "Basicamente, adiciona uma maior capacidade de energia às ferramentas suportadas"
+    ],
+    "quest.68F03CFFA6A021A8.quest_subtitle": "ENERGIA!!!!",
+    "quest.690BCDCCE7DCDF19.quest_desc": [
+        "O mesmo que uma &binterface&r normal, mas te dá mais 27 espaços!"
+    ],
+    "quest.690BCDCCE7DCDF19.quest_subtitle": "A mesma coisa",
+    "quest.697A5E53CC53ADDB.quest_desc": [
+        "Você está começando a ficar de saco cheio de tanta criação manual.",
+        "Bem, hora de mudar isso.",
+        "Existem toneladas de configurações para &6autocriação&r, mas vou pedir para você fazer uma das mais simples.",
+        "",
+        "Você pode expandir mais tarde com &cmais&r &atorres&r ou outras configurações. Para isso, você precisa de 8 canais, então basicamente, um &dcabo inteligente&r.",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/pattern_provider.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.697A5E53CC53ADDB.quest_subtitle": "Como automatizar as coisas",
+    "quest.697A5E53CC53ADDB.title": "&6Autocriação",
+    "quest.69E5E1E33F978ABE.quest_desc": [
+        "Isto é usado para armaduras, basicamente"
+    ],
+    "quest.69E5E1E33F978ABE.quest_subtitle": "Caro",
+    "quest.6AE86F948D9A4472.quest_desc": [
+        "Agora, é hora de um pouco de &bmágica&r &dreal&r.",
+        "Precisamos de uma bússola de meteoro, para a qual você precisa de uma bússola e um &dcarregador&r (reutilizado mais tarde)",
+        "Por enquanto, faça uma manivela.",
+        "",
+        "Ela apontará para o meteorito mais próximo com um cubo misterioso (necessário para mais tarde) e alguns brotos de certus.",
+        "",
+        "&cQuebre&r todos os brotos &cexceto&r os brotos perfeitos, nos quais você precisa usar a caixa.",
+        "Os &bBrotos perfeitos&r não se degradam com o tempo se você não os quebrar."
+    ],
+    "quest.6AE86F948D9A4472.quest_subtitle": "Você precisa de ambos",
+    "quest.6B50E447E97394A8.quest_desc": [
+        "Precisamos de uma &bfazenda de certus&r, mas como fazemos isso?",
+        "Você pode ir com &6abelhas&r, &dsementes&r ou o método de &cduplicação&r do AdvancedAE, mas esta é a maneira pretendida no AE2. (Provavelmente mais fácil usar sementes e abelhas)",
+        "",
+        "Esta missão vem do guia, que tem uma visão &e3D&r da fazenda. Procure em exemplos e &b&nfazenda de certus simples&r. Mas estamos fazendo uma pequena modificação para fazê-la produzir um pouco mais.",
+        "",
+        "Desta forma, podemos encaixar 3 planos de aniquilação para mais produção.",
+        "",
+        "&2Foto na próxima página&r",
+        "",
+        "{@pagebreak}",
+        "",
+        "{image:catalyst:textures/quest_images/applied_energetic/first_farm_certus.png width:100 height:100 align:center fit:true}"
+    ],
+    "quest.6B50E447E97394A8.quest_subtitle": "Você consegue ir mais alto?",
+    "quest.6B50E447E97394A8.title": "&bFazenda de Certus",
+    "quest.6B552B61C702C105.quest_desc": [
+        "Você já ouviu falar em paralelismo? Não? Bem, você vai ouvir"
+    ],
+    "quest.6B552B61C702C105.quest_subtitle": "&bInferior&r",
+    "quest.6B552B61C702C105.title": "&bCircuito Concorrente Impresso",
+    "quest.6C6D6015BDFF4BD3.quest_desc": [
+        "Esta é a &bmáquina AE2&r que permite usar &carmazenamento&r de outros mods.",
+        "Ela usa 1 &acanal&r e só pode ser colocada em &dcabos inteligentes&r.",
+        "",
+        "Eles têm funcionalidades legais na GUI, então dê uma olhada, mas as importantes são:",
+        "",
+        "- &aFiltragem&r: Para que 500 coisas diferentes não vão para a mesma coisa",
+        "",
+        "- &dExtração&r: Você pode configurá-los para apenas extrair ou apenas inserir ou ambos"
+    ],
+    "quest.6C6D6015BDFF4BD3.quest_subtitle": "Armazenando em outros mods? Você está me traindo?",
+    "quest.6D20BEE603706F69.quest_desc": [
+        "Sim, estamos usando muitas &dsingularidades&r, e &9água&r porque você está fazendo elas com &9água&r, &1&lcerto&r?",
+        "",
+        "O fluido de antes e alguns materiais, e você obtém 1 barra.",
+        "Agora, por que precisamos de 9 barras? Para &5processadores&r!"
+    ],
+    "quest.6D20BEE603706F69.quest_subtitle": "Conta de água: 9999999999€",
+    "quest.6FBE162F8B5157F3.quest_desc": [
+        "Embora você nunca precise usar esta ferramenta, preciso te contar.",
+        "",
+        "Converte alguns materiais em outros, como lava em obsidiana.",
+        "Útil apenas para obter bolas de neve ou gelo no início, até você conseguir &6abelhas&r ou &dsementes&r"
+    ],
+    "quest.6FBE162F8B5157F3.quest_subtitle": "Principalmente inútil, mas tenho que te dizer",
+    "quest.6FF0A677B6BDD946.quest_desc": [
+        "Sim, podemos automatizar o &5fluix&r agora sem usar &dsementes&r ou &6abelhas&r.",
+        "",
+        "Estas máquinas precisam de 1 &bcanal&r para funcionar e não podem colocar blocos sozinhas.",
+        "[ \"Há uma \", { \"text\": \"configuração\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2992DF31EA2F37F1\" } }, \" explicando mais.\" ]"
+    ],
+    "quest.6FF0A677B6BDD946.quest_subtitle": "Automação de &5Fluix&r",
+    "quest.704E87C0BBB8172A.quest_desc": [
+        "Inútil se você tiver a &5câmara de reação&r do &dAdvancedAE&r, já que estes carregadores são lentos.",
+        "",
+        "Mas em comparação com o &dcarregador&r normal, eles podem carregar 4 itens ao mesmo tempo"
+    ],
+    "quest.72D771A50AF4DA84.quest_desc": [
+        "Faça a prensa do &dinsculpidor&r e verifique novamente as missões principais do &bAE2&r"
+    ],
+    "quest.72E88C43AB28C4AF.quest_desc": [
+        "Basicamente, 2 interfaces em 1 bloco, não vale a pena fazê-los"
+    ],
+    "quest.72E88C43AB28C4AF.quest_subtitle": "Mais espaços",
+    "quest.73BDA8383A3F8E97.quest_desc": [
+        "Embora eu só peça 16, você provavelmente usará muito mais."
+    ],
+    "quest.73BDA8383A3F8E97.quest_subtitle": "&8Superior",
+    "quest.73BDA8383A3F8E97.title": "&8Silício Impresso",
+    "quest.73E9E699F0159BDE.quest_desc": [
+        "&6Ouro&r? &ePiglins&r não vão te atacar? Só há uma maneira de testar isso"
+    ],
+    "quest.73E9E699F0159BDE.quest_subtitle": "&6Inferior&r",
+    "quest.73E9E699F0159BDE.title": "&6Circuito Lógico Impresso",
+    "quest.745CFBC93B74DDC0.quest_desc": [
+        "Agora, eles funcionam exatamente como o Barramento de Armazenamento Preciso ME, mas exportam coisas da &drede&r"
+    ],
+    "quest.745CFBC93B74DDC0.quest_subtitle": "Competição com o SFM? Não",
+    "quest.758C5531BE35B33A.quest_desc": [
+        "Como o nome diz, eles importam e exportam, mas como?",
+        "Bem, você tem que selecionar um ou mais espaços do seu inventário para funcionar:",
+        "",
+        "- &dCarta de importação&r: Importa coisas do seu inventário para a rede. Basicamente uma carta de &aímã&r",
+        "",
+        "- &dCarta de exportação&r: É como uma opção de estoque quando você está construindo"
+    ],
+    "quest.758C5531BE35B33A.quest_subtitle": "Ação sem fio",
+    "quest.758C5531BE35B33A.title": "Carta de Importação / Exportação",
+    "quest.76606EA7D4EC4D64.quest_desc": [
+        "Eles são basicamente &credstone&r em um cabo",
+        "Se uma condição for atendida, como ter mais de 5000 pedregulhos em uma &arede&r, então ele ligará.",
+        "",
+        "Eles têm mais opções, mas esta é a ideia geral."
+    ],
+    "quest.76606EA7D4EC4D64.quest_subtitle": "Redstone no cabo",
+    "quest.76B53E4955C5CE8D.quest_desc": [
+        "Agora, você já ficou &cfrustrado&r com os lados? Como nas máquinas do &aMekanism&r?",
+        "",
+        "Bem, não mais, com esta maravilhosa &bmáquina&r, você pode selecionar o lado onde o ingrediente será inserido"
+    ],
+    "quest.771543603CFE5506.quest_desc": [
+        "O guia tem uma explicação mais simples de como usá-los."
+    ],
+    "quest.771543603CFE5506.title": "Mais Portas de Exportação",
+    "quest.7743458DF29237C3.quest_desc": [
+        "Agora, o que é um &abyte&r?",
+        "",
+        "Um &abyte&r são 8 itens do mesmo tipo. Então, não, uma célula de 1k não são 1k itens.",
+        "",
+        "Agora, uma dica, se você quer armazenamento &cem massa&r de algo no &bAE2&r, você vai querer uma célula usando apenas 1 &dtipo&r, ela terá mais espaço no geral"
+    ],
+    "quest.7743458DF29237C3.quest_subtitle": "NASv.2: LIGADO",
+    "quest.7743458DF29237C3.title": "Componente de Armazenamento de 4K",
+    "quest.77544FB030619A81.quest_desc": [
+        "Coloque qualquer barra (você vai querer usar a mais barata, como a de &6cobre&r) e esta ferramenta em uma &amesa de trabalho&r e você obterá âncoras de cabo, mais informações depois.",
+        "",
+        "Além disso, se você clicar com o botão direito em uma &bmáquina do AE2&r, poderá renomeá-la sem usar uma &abigorna&r."
+    ],
+    "quest.77544FB030619A81.quest_subtitle": "Âncora de cabo",
+    "quest.77F4898316628800.quest_desc": [
+        "Permite adicionar mais opções de filtros às &bmáquinas do AE2&r"
+    ],
+    "quest.77F4898316628800.quest_subtitle": "Mais filtros",
+    "quest.79EB6D948B0779CD.quest_desc": [
+        "Sim, devemos pular esta e ir para a próxima missão.",
+        "",
+        "Faça este terminal e eu explicarei mais tarde."
+    ],
+    "quest.79EB6D948B0779CD.quest_subtitle": "Não é o bom, próximo",
+    "quest.79FF22CAEE62FF38.quest_subtitle": "NASv7: LIGADO",
+    "quest.79FF22CAEE62FF38.title": "Componente de Armazenamento de 1M",
+    "quest.7AFCF59B8827E96E.quest_desc": [
+        "Isso deve ser mais do que suficiente para suas necessidades na maioria dos &emodpacks&r.",
+        "",
+        "Se você precisar de mais &carmazenamento&r, continue fazendo missões, e você encontrará um substituto para as &agavetas&r"
+    ],
+    "quest.7AFCF59B8827E96E.quest_subtitle": "NASv.4: LIGADO",
+    "quest.7AFCF59B8827E96E.title": "Componente de Armazenamento de 64K",
+    "quest.7B0F658E2D3D4A37.quest_desc": [
+        "Agora estamos conversando.",
+        "",
+        "Este é basicamente o ingrediente principal para todas as máquinas."
+    ],
+    "quest.7B0F658E2D3D4A37.quest_subtitle": "A base",
+    "quest.7B1F9C4F3E3A5504.quest_desc": [
+        "Basicamente, permite &ccopiar&r e &acolar&r configurações de uma máquina para outra ou configurar P2P.",
+        "Também &6receitas&r se você tiver padrões em branco no seu inventário!"
+    ],
+    "quest.7B1F9C4F3E3A5504.quest_subtitle": "Lembre-se",
+    "quest.7BC38AFED126D412.quest_desc": [
+        "Usando um pouco do seu &5fluix&r em um gravador ou em um &atriturador&r do &aMekanism&r para obter &5pó de fluix&r.",
+        "",
+        "Você vai precisar dele, então provavelmente é uma boa ideia fazer um pack."
+    ],
+    "quest.7BC38AFED126D412.quest_subtitle": "Fluixium dustum",
+    "quest.7DAFF96A46DCEB6D.quest_desc": [
+        "Eu não preciso te dizer por que, preciso?"
+    ],
+    "quest.7DAFF96A46DCEB6D.quest_subtitle": "&6Abelhas",
+    "quest.7DF7DE4654985DE5.quest_desc": [
+        "&aArmazenamento&r de &cSource&r do &dArs Nouveau&r, o que no mundo precisa de 50000000000000 de &dsource&r?"
+    ],
+    "quest.7DF7DE4654985DE5.quest_subtitle": "Espera, source também?",
+    "quest.7E4EF758E4B3C965.quest_desc": [
+        "\"&bParalelismo&r\", estamos usando &econcorrência&r. Acho que os computadores mentiram para você... ou não?",
+        "",
+        "Este processador é muito usado no mod &aExtendedAE&r, que você estará usando"
+    ],
+    "quest.7E4EF758E4B3C965.quest_subtitle": "Fizemos um sanduíche",
+    "quest.7E612BBEFD799749.quest_desc": [
+        "O guia tem uma explicação mais simples de como usá-los."
+    ],
+    "quest.7E612BBEFD799749.title": "Mais Portas de Armazenamento",
+    "quest.7E85802387BC7ECE.quest_subtitle": "Fizemos um sanduíche",
+    "quest.7F1A9B044B5F9703.quest_desc": [
+        "Estes &bprocessadores&r não são muito usados, em comparação com os outros, 16 devem ser suficientes para começar"
+    ],
+    "quest.7F1A9B044B5F9703.quest_subtitle": "Fizemos um sanduíche",
+    "quest.7F1A9B044B5F9703.title": "Processador de Engenharia"
+}

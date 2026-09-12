@@ -1,6 +1,6 @@
 {
 	icon: {
-		id: "ae2:fluix_crystal"
+		id: "eternalores:gem_fluix"
 	}
 	id: "3E409B0EABC7C677"
 	loot_size: 1

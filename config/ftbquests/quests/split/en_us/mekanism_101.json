@@ -1,0 +1,389 @@
+{
+    "quest.01B44B93CB2A52ED.quest_desc": [
+        "[{\"text\":\"Welcome\",\"color\":\"#FF55FF\"},{\"text\":\" to \",\"color\":\"#FFFFFF\"},{\"text\":\"Mekanism\",\"color\":\"#55FF55\"},{\"text\":\", a \",\"color\":\"#FFFFFF\"},{\"text\":\"mod\",\"color\":\"#9553e0\"},{\"text\":\" about \",\"color\":\"#FFFFFF\"},{\"text\":\"everything \",\"color\":\"#FFFFFF\",\"obfuscated\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"Energy, Storage, Factories, Armor, Nuclear Disasters, ...\"}}}]",
+        "",
+        "In this &dmod&r, your mission is to expand your &afactory&r!",
+        "",
+        "[{\"text\":\"There are \",\"color\":\"#FFFFFF\"},{\"text\":\"several\",\"color\":\"#FFAA00\"},{\"text\":\" path you can \",\"color\":\"#FFFFFF\"},{\"text\":\"take\",\"color\":\"#f9ff54\"},{\"text\":\" to do so, but you will get to handle a \",\"color\":\"#FFFFFF\"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\" \",\"color\":\"#FFFFFF\"},{\"text\":\"disaster\",\"color\":\"#FF55FF\"}]"
+    ],
+    "quest.01B44B93CB2A52ED.quest_subtitle": "Powah generacion",
+    "quest.0209C80BAC1B7D62.quest_desc": [
+        "This is &auseful&r with the &bDigital&r &eMiner&r if you want to avoid &bempty&r holes on the ground (which can &creduce&r mob &aspawning&r)"
+    ],
+    "quest.026BC7F25AAF107D.quest_desc": [
+        "Another &dtier&r, you will need some &bdiamonds&r to progress.",
+        "",
+        "You &ashould&r look at generating &bdiamods&r, like &eusing&r some &dseeds&r or &6bees&r ;)"
+    ],
+    "quest.026BC7F25AAF107D.quest_subtitle": "Im &9blue&r ....",
+    "quest.03DE539ACCBB0BFA.quest_desc": [
+        "Produces some &aenergy&r from &clava&r.",
+        "",
+        "You can &4lavalogged&r (similar to &bwaterlogged&r) this &dmachine&r to get even more &apower&r out of your &clava&r bucket"
+    ],
+    "quest.03DE539ACCBB0BFA.quest_subtitle": "&cLava&r fueled",
+    "quest.04767C8AEFF2E6B8.quest_desc": [
+        "Your first &acircuit&r, able to make some &emachines&r and &dupgrades&r!",
+        "",
+        "You would need some &credstone&r and some &bosmium&r ingots.",
+        "",
+        "[ { \"text\": \"Take a look at this quest here!\", \"underlined\": true,\"color\":\"#fffc4d\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"768CEB709FDFAF1F\" } } ]"
+    ],
+    "quest.04767C8AEFF2E6B8.quest_subtitle": "First time, LV",
+    "quest.050FD0FD25FB652B.quest_desc": [
+        "&bDiamonds&r are usually one of the &dmost&r used materials in any &amod&r, so you &dprobably&r want to get a lot of &dfarms&r or increase &a&nefficiency&r!",
+        "",
+        "1 &bdiamond&r turns into 8 &bdiamonds&r for &6infusion&r!"
+    ],
+    "quest.050FD0FD25FB652B.quest_subtitle": "Another x8?",
+    "quest.0922550FAAE06AD9.quest_desc": [
+        "First tier of &6solar&r, and its a &bgood&r start for this &amod&r and others.",
+        "",
+        "Do I &dneed&r to say that they &cdon't&r work during the &enight&r?"
+    ],
+    "quest.0922550FAAE06AD9.quest_subtitle": "Solar power",
+    "quest.0AA2F1EDDCA7808C.quest_desc": [
+        "Not quite &duniversal&r, but almost.",
+        "",
+        "These &acables&r has some particular &ethings&r you should remember:",
+        "",
+        "- More &acables&r &dconnected&r, more &6capacity&r they have",
+        "",
+        "- They can move more &benergy&r per tick if you &6connect&r more cables",
+        "",
+        "They are pretty &dcheap&r and provides &bbetter&r functions than other &ebasic&r cables from other &amods&r"
+    ],
+    "quest.0AA2F1EDDCA7808C.quest_subtitle": "&aPower&r cable, don't &ctouch&r",
+    "quest.0AE483A66A53A852.quest_desc": [
+        "Needs &abiofuel&r to generate 200 &6FE/t&r",
+        "",
+        "I &3recommend&r you to use some &emelon&r slices and a &bcompacting&r drawer"
+    ],
+    "quest.0AE483A66A53A852.quest_subtitle": "From seeds to &aenergy",
+    "quest.0BEF4D86A933CE47.quest_desc": [
+        "This is &6almost&r a &cmandatory&r item to &6use&r, because of the &eamount&r used in recipes.",
+        "",
+        "In this &5tier&r, you will be used a lot of &5refined&r &dobsidian&r, maybe it's time to increase &a&nefficiency&r?"
+    ],
+    "quest.0BEF4D86A933CE47.quest_subtitle": "yet another one?",
+    "quest.0C1518E8ACA4B462.quest_desc": [
+        "Mines &dores&r for you.",
+        "",
+        "Needs to specify a ta&ag&r or &eitem&r to mine"
+    ],
+    "quest.0C1518E8ACA4B462.quest_subtitle": "Miner",
+    "quest.0EFA5C6A4F54A33D.quest_desc": [
+        "Second &6circuit&r to the list, unlocking some &dnew&r &bmachines&r and the second &5tier&r of &aMekanism&r",
+        "",
+        "Between you and me, the &6crafting&r recipe is far &dbetter&r than the other &aalternative&r!"
+    ],
+    "quest.0EFA5C6A4F54A33D.quest_subtitle": "Second Tier, MV",
+    "quest.101511A7211057CA.quest_desc": [
+        "Get more &eplanks&r for your logs.",
+        "",
+        "Or more &6chicken&r legs...."
+    ],
+    "quest.101511A7211057CA.quest_subtitle": "Sawmill, &cwarning&r",
+    "quest.14878991CFDDC64D.quest_desc": [
+        "Unlike the others, this &bmaterial&r needs tier 3 to make.",
+        "",
+        "You would need some &bdiamond&r and &dobsidian&r dust to start with.",
+        "Later, you can &6convert&r that &5refined&r &dobsidian&r into a gas"
+    ],
+    "quest.14878991CFDDC64D.quest_subtitle": "Last one?",
+    "quest.149709E58A23B4BE.quest_desc": [
+        "Acts as an &eelectrical&r tool of a Paxel, it has some &dinteresting&r modes:",
+        "",
+        "- &cSlow&r -> Acts as a &bdiamond&r tool",
+        "",
+        "- &6Normal&r -> Acts as a &bdiamond&r tool with &defficiency&r 2",
+        "",
+        "- &eFast&r -> Acts as a &bdiamond&r tool with &defficiency&r 5",
+        "",
+        "- &7Off&r -> Doesn't &6mine&r or do anything, but you can still &buse&r it as an axe to &cattack&r"
+    ],
+    "quest.149709E58A23B4BE.quest_subtitle": "Electrical paxel",
+    "quest.14F0BAE920CD792C.quest_desc": [
+        "Turns some &6ores&r to their &dfinal&r form like &credstone&r ore.",
+        "",
+        "It also &5allows&r you to &eimprove&r your factory with the &denriched&r version of the chemicals"
+    ],
+    "quest.14F0BAE920CD792C.quest_subtitle": "Faster ore processing",
+    "quest.157B2B9583F18AB7.quest_desc": [
+        "&aTransporters&r don't have a &credstone&r control built-in like the &eothers&r, but you can &6change&r them by this one.",
+        "",
+        "They have the same &epriority&r, but they can be &bcontrolled&r by &credstone&r on any side.",
+        "",
+        "To &dconfigure&r them, you would need a &5Configurator&r and to sneak right-click with the &a&ncorrect&r option"
+    ],
+    "quest.157B2B9583F18AB7.quest_subtitle": "&cRedstone&r controlled",
+    "quest.18C0DACF162F84E7.quest_desc": [
+        "Basically, a &7furnace&r"
+    ],
+    "quest.18C0DACF162F84E7.quest_subtitle": "Furnace",
+    "quest.190A7DE08C550C97.quest_desc": [
+        "Please, use other thing more &dreliable&r than these."
+    ],
+    "quest.19846B3A3240F6B9.quest_desc": [
+        "It adds 4 &dmore&r &aslots&r to &bprocess&r items, a &ehigher&r &aenergy&r capacity and can have &dauto&r sorting to &6balance&r",
+        "",
+        "Can be used on &6machines&r that has a &dfactory&r version"
+    ],
+    "quest.19846B3A3240F6B9.quest_subtitle": "Starting the factory",
+    "quest.1B70EA2CE277C30D.quest_desc": [
+        "Basically, you can &amove&r almost everything in the &egame&r with these.",
+        "",
+        "From an &anuclear&r bomb called &dDraconic&r Reactor to &bFlawless&r Certus Bud."
+    ],
+    "quest.1B70EA2CE277C30D.quest_subtitle": "Move stuff",
+    "quest.1C8DEA9A74F3CB11.quest_desc": [
+        "Increase &aenergy&r &dcapacity&r and reduce &aenergy&r &6usage&r"
+    ],
+    "quest.1C8DEA9A74F3CB11.quest_subtitle": "Solar panels",
+    "quest.1CC0910D3314264C.quest_desc": [
+        "Well, there are a few &dways&r to get your &bfirst&r steel ingots.",
+        "",
+        "- You can get 3 &7steel&r dust by using 2 iron dust and 3 coal dust",
+        "",
+        "- Make a &ePrimitive&r &aAlloy Maker&r to do &7steel&r ingot, they have different &6recipes&r.",
+        "",
+        "Later on, you can make some &dseeds&r or &6bees&r to make them &bfaster&r"
+    ],
+    "quest.1CC0910D3314264C.quest_subtitle": "The first alloy?",
+    "quest.21840AA523363D90.quest_desc": [
+        "Just &areduce&r the sound on the &dsetting&r menu.",
+        "",
+        "There is also a &bspeaker&r on your &cinventory&r that do the same but for &6individual&r sounds"
+    ],
+    "quest.21840AA523363D90.quest_subtitle": "No music",
+    "quest.3405073B9E93AC70.quest_desc": [
+        "This is your &dfirst&r way of &atransporting&r &cheat&r, but it's not very &eefficient&r.",
+        "",
+        "[{\"text\":\"But there are a \",\"color\":\"#FFFFFF\"},{\"text\":\"simpler\",\"color\":\"#18ffea\"},{\"text\":\" and better way to \",\"color\":\"#FFFFFF\"},{\"text\":\"transport\",\"color\":\"#FF55FF\"},{\"text\":\" heat, touching! \",\"color\":\"#FFFFFF\"},{\"text\":\"Mekanism\",\"color\":\"#55FF55\"},{\"text\":\"'s \",\"color\":\"#FFFFFF\"},{\"text\":\"multiblocks\",\"color\":\"#AA00AA\"},{\"text\":\" can have their \",\"color\":\"#FFFFFF\"},{\"text\":\"inputs\",\"color\":\"#b1ff18\"},{\"text\":\" and \",\"color\":\"#FFFFFF\"},{\"text\":\"outputs\",\"color\":\"#ff186a\"},{\"text\":\" next to each other, having 0 \",\"color\":\"#FFFFFF\"},{\"text\":\" looses\",\"color\":\"#ff1818\",\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"Basically, you have 100% efficiency!\"}}}]"
+    ],
+    "quest.3405073B9E93AC70.quest_subtitle": "[{\"text\":\"First\",\"color\":\"#FF55FF\"},{\"text\":\" law of \",\"color\":\"#FFFFFF\"},{\"text\":\"thermodynamics\",\"color\":\"#18ff92\"}]",
+    "quest.34F729363576DB9C.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&aMekanism&r questline made by: &bJonh&r&e09&r and &cTito&ep&c54&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.34F729363576DB9C.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.34F729363576DB9C.title": "&l&4Catalyst Studios Quests",
+    "quest.35DF9A15779E8AE4.quest_desc": [
+        "This is the most &dimportant&r tool from the &emod&r, allowing you to &binteract&r with all kind of &5machines&r and pipes.",
+        "",
+        "You don't need &aenergy&r to use it"
+    ],
+    "quest.35DF9A15779E8AE4.quest_subtitle": "Master key",
+    "quest.38676DCAAC53414A.quest_desc": [
+        "It &dproduces&r 6 &6solar&r panels worth of &apower&r, and only cost 4 &6solar&r panels.",
+        "",
+        "But 7 &6solar&r panels &eproduces&r more than this &badvanced&r version.",
+        "",
+        "If you place 4 &dadvanced&r &6solar&r panels at the top of a &5thermal&r &bevaporation&r, you can produce some &cheat&r, reducing &aenergy&r cost during the day"
+    ],
+    "quest.38676DCAAC53414A.quest_subtitle": "Worst version?",
+    "quest.3934666E7A2FDD80.quest_desc": [
+        "If you have played &aMekanism&r before &61.21.1&r (this version), &drecipes&r has changed a bit.",
+        "",
+        "Now, it requires some &6copper ingots&r and &credstone&r, which makes it &5cheaper&r!"
+    ],
+    "quest.3934666E7A2FDD80.quest_subtitle": "Second to the list",
+    "quest.39525632F59E9C24.quest_desc": [
+        "Unlike &dtubes&r or &bcables&r, they have a &6fixed&r speed and can't go &afaster&r unless you &5upgrade&r.",
+        "",
+        "Also you cant &econtrol&r how the items are &3sent&r without some external help, like with a &dLogistical Sorter&r.",
+        "",
+        "If an &cinventory&r fills while &eitems&r are going there, the items will go &bback&r to their original inventory.",
+        "",
+        "If that &cinventory&r is also filled or &dcan't&r be accessed, well, you will have &eitems&r going around and if you &bbreak&r that &atransporter&r, you will have &eitems&r on the &5ground&r"
+    ],
+    "quest.39525632F59E9C24.quest_subtitle": "&eItems&r goes everywhere",
+    "quest.3BA8F117E4B326FC.quest_desc": [
+        "Acts as a &bpickaxe&r, &aaxe&r and &eshovel&r at the same time"
+    ],
+    "quest.3BA8F117E4B326FC.quest_subtitle": "3 in 1",
+    "quest.3BFAB6A6C6AB3B2A.quest_desc": [
+        "They produce &aenergy&r all &dday&r, but &5depends&r on where you place them to &egenerate&r &aenergy&r.",
+        "",
+        "If you &aplace&r them on the &5bottom&r of the world, they produce &cless&r than if you &6place&r them on the &dtop&r"
+    ],
+    "quest.3BFAB6A6C6AB3B2A.quest_subtitle": "The Y level",
+    "quest.3D49AD0E6EE75487.quest_desc": [
+        "This is &bprobably&r the &asecond&r best tool of the mod.",
+        "",
+        "It allows you to &cdelete&r &9fluids&r and &dchemical&r from a &bmachine&r that had a little accident :p",
+        "",
+        "It &cdoesn't&r remove &anuclear&r-related &dchemicals&r"
+    ],
+    "quest.3D49AD0E6EE75487.quest_subtitle": "The second tool",
+    "quest.3DBAA257C46638CA.quest_desc": [
+        "Copy &dsettings&r from one &amachine&r to another. Needs to be the same &dmachine&r (or higher &5tiers&r)"
+    ],
+    "quest.3DBAA257C46638CA.quest_subtitle": "Copy and paste",
+    "quest.42D3909E8BE7B719.quest_desc": [
+        "This is the &6famous&r &amelon&r power.",
+        "",
+        "Needs some &dEthene&r (previously known as &dEthylene&r) to produce a lot of &apower&r, enough until you can get a &efission&r reactor or something else &amore&r powerful"
+    ],
+    "quest.42D3909E8BE7B719.quest_subtitle": "Melon power",
+    "quest.431DDAD227FF3809.quest_desc": [
+        "They can &estore&r a lot of &aenergy&r in a single block, and has &bunlimited&r input, but they have some problems.",
+        "",
+        "The &aenergy&r output is &dlimited&r (based on tier) unless you &6use&r a &amod&r such as &cSuper Factory&r Manager.",
+        "",
+        "Another &6solution&r is to use &amultiple&r &dsides&r for output and &done&r side for input if you don't want to learn &6another&r mod"
+    ],
+    "quest.431DDAD227FF3809.quest_subtitle": "Powah battery",
+    "quest.4B61203AA93F9E46.quest_desc": [
+        "You can move an &dinsane&r amount of chemicals like &esulfuric&r acid or some &6dirty&r slurry.",
+        "",
+        "Like &acables&r or &bpipes&r, more tubes = better"
+    ],
+    "quest.4B61203AA93F9E46.quest_subtitle": "&dChemicals&r!!!",
+    "quest.4D3922AE72FBECC7.quest_desc": [
+        "It adds 8 &dmore&r &aslots&r to &bprocess&r items, a &ehigher&r &aenergy&r capacity and can have &dauto&r sorting to &6balance&r. This is the last &5tier&r.",
+        "",
+        "Can be used on &6machines&r that has a &dfactory&r version"
+    ],
+    "quest.4D3922AE72FBECC7.quest_subtitle": "EV unlocked, full power",
+    "quest.4DB20110D20F250B.quest_desc": [
+        "Combine some &ematerials&r (as &dcatalyst&r) with other &6materials&r to get more!",
+        "",
+        "This is useful when doing &aHNN&r"
+    ],
+    "quest.4DB20110D20F250B.quest_subtitle": "Automatic combinator",
+    "quest.4E07AA67AC4C3929.quest_desc": [
+        "Convert 1 coal into 8, just for &5infusion&r recipes.",
+        "",
+        "Totally &6worth&r it!"
+    ],
+    "quest.4E07AA67AC4C3929.quest_subtitle": "x8",
+    "quest.500377ECEB5852A8.quest_desc": [
+        "Convert some &6materials&r into their &dchemical&r version"
+    ],
+    "quest.500377ECEB5852A8.quest_subtitle": "Item to gas",
+    "quest.5127C2BF115CBE35.quest_desc": [
+        "80mb of &5refined&r &dobsidian&r vs 240 mb of &5refined&r &dobsidian&r? I guess that &6crafting&r table is superior.",
+        "",
+        "Unlocks the best &dmachines&r (and the most &eexpensive&r) and the last &5tier&r of &aMekanism&r to go faster!"
+    ],
+    "quest.5127C2BF115CBE35.quest_subtitle": "Wait, this isn't gregtech",
+    "quest.553C413C83C66580.quest_desc": [
+        "It adds 6 &dmore&r &aslots&r to &bprocess&r items, a &ehigher&r &aenergy&r capacity and can have &dauto&r sorting to &6balance&r",
+        "",
+        "Can be used on &6machines&r that has a &dfactory&r version"
+    ],
+    "quest.553C413C83C66580.quest_subtitle": "More power",
+    "quest.5F20D723D9E6CE02.quest_desc": [
+        "The most &6painful&r material to get in your &ahand&r, just because of nuclear.",
+        "",
+        "[{\"text\":\"There is an \",\"color\":\"#FFFFFF\"},{\"text\":\"entire\",\"color\":\"#FF55FF\"},{\"text\":\" chapter around this \",\"color\":\"#FFFFFF\"},{\"text\":\"concept\",\"color\":\"#55FF55\"},{\"text\":\" and why I said about a \",\"color\":\"#FFFFFF\"},{\"text\":\"nuclear\",\"color\":\"#48cf63\"},{\"text\":\" \",\"color\":\"#FFFFFF\"},{\"text\":\"disaster\",\"color\":\"#FF55FF\"},{\"text\":\"!\",\"color\":\"#FFFFFF\"}]"
+    ],
+    "quest.5F20D723D9E6CE02.quest_subtitle": "Why is there more matter than &danti-matter&r?",
+    "quest.64163FDB951C3A73.quest_desc": [
+        "It adds 2 &dmore&r &aslots&r to &bprocess&r stuff, a &ehigher&r &aenergy&r capacity and can have &dauto&r sorting to &6balance&r",
+        "",
+        "Can be used on &6machines&r that has a &dfactory&r version"
+    ],
+    "quest.64163FDB951C3A73.quest_subtitle": "More items",
+    "quest.689253F327B57437.quest_desc": [
+        "If you need a &dchemical&r storage, there are &ebasically&r 2 options:",
+        "",
+        "- &bApplied Energistics 2&r with the chemical cells",
+        "",
+        "- These &6tanks&r",
+        "",
+        "While &bAE2&r has a lot of &aadvantages&r, a well placed &dchemical&r &6tank&r can also &5function&r.",
+        "Did I said that they have &5voiding&r option, but can't store &anuclear&r stuff?"
+    ],
+    "quest.689253F327B57437.quest_subtitle": "The second best ",
+    "quest.68E0FE577DC5DBC3.quest_desc": [
+        "Like before, this &5tier&r unlocks some &6new&r machines and the 3rd tier of &aMekanism&r's &dmachines&r!",
+        "",
+        "At this &dpoint&r, you know that the &6crafting&r table recipe is &dfar&r better, it uses less &bmaterials&r for the same &eoutput&r!"
+    ],
+    "quest.68E0FE577DC5DBC3.quest_subtitle": "Third tier, HV",
+    "quest.6995F60A94673332.quest_desc": [
+        "Crush some &eitems&r into other.",
+        "",
+        "Usually from &bingot&r to &ddust&r"
+    ],
+    "quest.6995F60A94673332.quest_subtitle": "Steam Powered Crusher",
+    "quest.6ABCA0BC4B6164E6.quest_desc": [
+        "Please, use other thing more &dreliable&r than these."
+    ],
+    "quest.6D367B4E977C72E9.quest_desc": [
+        "Like &aUniversal&r cables, more &bpipes&r = better &6capacity&r and better &dthroughtput&r"
+    ],
+    "quest.6D367B4E977C72E9.quest_subtitle": "Moving &9fluids&r",
+    "quest.6DA9DA660374DDAC.quest_desc": [
+        "This is a regular &ecrafter&r from &aMinecraft&r but with a small &dchange&r, power!!!!",
+        "",
+        "You need to set a &bpattern&r using the &6Crafting&r Formula"
+    ],
+    "quest.6DA9DA660374DDAC.quest_subtitle": "Auto crafter",
+    "quest.70C4ED66442ACA07.quest_desc": [
+        "Allows you to get &5Refined&r Obsi&ddian&r and &5Refined&r &eGlowstone&r"
+    ],
+    "quest.70C4ED66442ACA07.quest_subtitle": "Osmium based",
+    "quest.71E6AC1A2D4ACBF4.quest_desc": [
+        "Makes &dmachines&r goes &bfaster&r but uses more &aenergy&r (because you are going &bfaster&r :D )"
+    ],
+    "quest.71E6AC1A2D4ACBF4.quest_subtitle": "Speedy",
+    "quest.735E22D294EF8E7A.quest_desc": [
+        "This is a &6multiblock&r that can store any &9fluid&r or &dchemical&r, but only one type.",
+        "",
+        "Usually, this is skipped because &bAE2&r provides a &abetter&r &cstorage&r method"
+    ],
+    "quest.735E22D294EF8E7A.quest_subtitle": "The big tank",
+    "quest.7517C073F602BEA2.quest_desc": [
+        "Like the &dchemical&r tanks, &bAE2&r and these &atanks&r are the best options."
+    ],
+    "quest.7517C073F602BEA2.quest_subtitle": "The second",
+    "quest.7647E9D270B9F4EC.quest_desc": [
+        "Using some &7hydrogen&r, you can get a &acheap&r jetpack"
+    ],
+    "quest.7647E9D270B9F4EC.quest_subtitle": "Water-powered machine",
+    "quest.768CEB709FDFAF1F.quest_desc": [
+        "1 &credstone&r dust into 8 &credstone&r? And are you &atelling&r me that I will &bneed&r a &6lot&r of it?"
+    ],
+    "quest.768CEB709FDFAF1F.quest_subtitle": "8x",
+    "quest.7953782C40BA20A4.quest_desc": [
+        "&aUseful&r when you want to add an &coverflow&r system or &5voiding&r systems.",
+        "",
+        "&eItems&r will go across this &atransporter&r as a last resort."
+    ],
+    "quest.7953782C40BA20A4.quest_subtitle": "The last on the line",
+    "quest.7A1436784F39477B.quest_desc": [
+        "Please, use other thing more &dreliable&r than these."
+    ],
+    "quest.7BACC188EB91F02A.quest_desc": [
+        "You will &cneed&r these if you are going to &euse&r &aMekanims&r's &6ore&r processing.",
+        "",
+        "Basically, it &dsaves&r a lot of &6chemicals&r, like oxygen and similar"
+    ],
+    "quest.7BACC188EB91F02A.quest_subtitle": "Ore processing",
+    "quest.7D3AB979C6115C5F.quest_desc": [
+        "Using &dchemicals&r, it can infuse some gases to some &bmaterials&r to &5transform&r them into more &euseful&r ones"
+    ],
+    "quest.7D3AB979C6115C5F.quest_subtitle": "Infuser?",
+    "quest.7EAA17257EBFE806.quest_desc": [
+        "While 4k &eitems&r seems more than the base &bFunctional&r Drawer's drawer base, there are multiple &dcatches&r:",
+        "",
+        "- When you &aupgrade&r them, &bFunctional&r's drawers are simple &dbetter&r (more items)",
+        "",
+        "- You &ccan't&r link as &6easy&r unless you use 500 &estorage&r buses",
+        "",
+        "- Do I &aneed&r to talk about the cost? &6Wood&r vs &7Stone&r and &dmining&r"
+    ],
+    "quest.7EAA17257EBFE806.quest_subtitle": "Like a Drawer!!!",
+    "quest.7EEBC24F85F89601.quest_desc": [
+        "Using a &aelectric&r &bpump&r, you can get &9&lheavy&r water, used for &dDT fuel&r, fusion fuel!",
+        "",
+        "There will be a &5multiblock&r to solve the spam on the &6future&r"
+    ],
+    "quest.7EEBC24F85F89601.quest_subtitle": "NUCLEAR!!!!"
+}

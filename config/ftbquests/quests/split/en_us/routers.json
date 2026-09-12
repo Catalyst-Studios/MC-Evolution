@@ -1,0 +1,182 @@
+{
+    "quest.003C69131CD0DA79.quest_desc": [
+        "Modules control what your router does. Each router can hold up to 9 modules, allowing for quite advanced behavior.",
+        "",
+        "You can set the modules to always run one after another, or only run if the previous module did or didn’t do something.",
+        "",
+        "For cards with a destination, you can set it by shift-right-clicking the block. Note that these destinations are side-specific. To remove a destination, simply shift-right-click the destination again on the correct side.",
+        "",
+        "&6Note &r",
+        "Provided you haven't added any augments to your modules, they can be mass-configured by stacking."
+    ],
+    "quest.023AEAAD31B7C79F.quest_desc": [
+        "The muffler upgrade helps conceal the router's presence. It has 3 levels:",
+        "",
+        "1 upgrade: Removes sound effects",
+        "2 upgrades: Removes particle effects",
+        "3 upgrades: Removes active animations"
+    ],
+    "quest.03F4B189616EDCBC.quest_desc": [
+        "Adds more nuanced distribution options. Allows for Round Robin configuration, Nearest First, Furthest First, and Random distribution."
+    ],
+    "quest.05FAEBA8E296FE54.quest_desc": [
+        "increases the pickup delay by 10 ticks per augment."
+    ],
+    "quest.0BC89903FE272EF2.quest_desc": [
+        "Upgrades are used to enhance the performance of the entire router. All applicable modules will receive the effect, as long as they don't have an augment that overrides it."
+    ],
+    "quest.109871D7E0FD1BF3.quest_desc": [
+        "The stack upgrade increases the number of items sent per operation and applies to all compatible modules in the router (granted the module doesn't have stack augments). Each upgrade doubles the amount of items that can be sent per operation, meaning the maximum effective upgrades are 6 (2⁶)."
+    ],
+    "quest.116C2B35680E1C72.quest_desc": [
+        "This module links your inventory to the router and can serve various purposes, such as removing clutter or supplying armor slots, offhand slots, hotbar, and the normal inventory.",
+        "",
+        "To link it, shift-right-click on the ground.",
+        "",
+        "It’s recommended to use a Regulation Upgrade to avoid overfilling your inventory."
+    ],
+    "quest.1355A1B5306B2105.quest_desc": [
+        "Increases the force applied to any entity in the path of the router when either an MK1 or MK2 extruder activates. (Can stack)."
+    ],
+    "quest.19D0C7D63BE701A7.quest_desc": [
+        "This can only be applied to the Extruder Module MK2. When applied, it gives the extruded blocks the actual properties of the block, such as obsidian being explosion-resistant, redstone blocks emitting redstone signals, and glowstone emitting light.",
+        "",
+        "&eeven bedrock works (i give no gurantee for the durability of your fake bedrock)&r"
+    ],
+    "quest.1F9003B2E0134DEF.quest_desc": [
+        "Allows the router to place blocks. It can also be used to plant crops, such as sugar cane, cocoa pods, and Ars fruits."
+    ],
+    "quest.206CAE3AFA9F0339.quest_desc": [
+        "Increases the maximum reach of the specified module. The maximum number of augments depends on the module; see the book for more information."
+    ],
+    "quest.252B224EE93878E6.quest_desc": [
+        "The speed upgrade reduces the time between activations. The default interval is once every 20 ticks (1 second), and each upgrade shortens this interval by 2 ticks. With a maximum of 9 upgrades, the interval can be shortened to as little as once every 2 ticks (10 times per second)."
+    ],
+    "quest.252B224EE93878E6.quest_subtitle": "I am speed",
+    "quest.286161478F4107E8.quest_desc": [
+        "Augments are used to enhance or modify the behavior of individual modules."
+    ],
+    "quest.2AE4D5671C45025B.quest_desc": [
+        "Works like both a Builder and a Breaker module. When given a redstone signal (behavior can be altered), it places blocks in the configured direction from the router's buffer. These are actual blocks, not ghost blocks like MK2. It can also be used for farming, such as planting rows of cocoa or other fruits on logs, etc.",
+        "",
+        "&4Note!: Mining level and enchantments are inherited from the Breaker module.&r"
+    ],
+    "quest.2BF5E236F6A8F252.quest_desc": [
+        "Allows for the transfer of items from the router's own buffer to the target inventory. It comes in 3 tiers, with each tier offering different capabilities.",
+        "",
+        "MK1: Transfers to the first available inventory in the direction set in the GUI. It typically has an 8-block range, which can be increased to 16. It will not transfer through non-transparent blocks.",
+        "",
+        "MK2: Transfers to any target within its range (normally 24 blocks, which can be increased to 48). It is not limited by line of sight.",
+        "",
+        "MK3: Has no range limitation and can transfer to any dimension, provided the target is loaded."
+    ],
+    "quest.363B4216992BD094.quest_desc": [
+        "The energy upgrade provides the router with an internal energy buffer and increases the maximum energy transfer per operation &4(not per tick)&r.",
+        "",
+        "Each upgrade adds 50kFE of storage and boosts the transfer rate by 1,000 FE per operation, with a maximum of 64 upgrades. This results in a maximum storage of 3.2MFE and a maximum transfer rate of 64kFE per operation (32kFE per tick with 9 speed upgrades)."
+    ],
+    "quest.363B4216992BD094.quest_subtitle": "Exciting",
+    "quest.3C33DFE38E9097FA.quest_desc": [
+        "The camo upgrade lets you disguise the router as almost any block (yes, even cake). ",
+        "",
+        "To set the block to copy, right-click the camo upgrade on the block you want to mimic, then place the upgrade in the router.",
+        "",
+        "(It works for half-eaten cake as well)"
+    ],
+    "quest.3F779B1EEE12810E.quest_desc": [
+        "Makes the Vacuum Module pick up items almost instantly."
+    ],
+    "quest.3F779B1EEE12810E.quest_subtitle": "MINE!!!",
+    "quest.44A632CEC21C79E1.quest_desc": [
+        "This makes the router immune to explosions and boss damage."
+    ],
+    "quest.44A632CEC21C79E1.quest_subtitle": "Invincible",
+    "quest.47B034CFFDCDED24.quest_desc": [
+        "Routers are an extremely powerful tool to have in your arsenal, capable of performing almost any task you throw at them.",
+        "",
+        "This guide will primarily cover the basics. If you're curious about more advanced behaviors, the guidebook and tooltips are excellent resources, providing detailed descriptions of both usage and function."
+    ],
+    "quest.48D68895FF14804B.quest_desc": [
+        "If you've ever wanted an item catapult, here you go! It flings items based on the values you set in the GUI."
+    ],
+    "quest.4AB321ECCDB35CDB.quest_desc": [
+        "Will attempt to push FE to adjacent energy-storing devices in its configured direction. It can push from the router's internal buffer if you have energy upgrades, or from any battery placed in its buffer."
+    ],
+    "quest.500D56B1B6C45B6F.quest_desc": [
+        "Allows the module to have its own redstone behavior overruling the routers behavior."
+    ],
+    "quest.54A17337948A2448.quest_desc": [
+        "If you want all your routers to activate at the exact same tick, this is the upgrade for you. Not only does it ensure simultaneous activation, but it also offers 19 different ticks to choose from. All routers with the same sync upgrade value (and the same number of speed upgrades) will activate at the same time.",
+        "",
+        "set the value by right clicking with the upgrade in hand"
+    ],
+    "quest.55D8A20CBD2262BA.quest_desc": [
+        "Voids any item matching its filter use with extreme care."
+    ],
+    "quest.569825486A9EA6FD.quest_desc": [
+        "",
+        "The security upgrade prevents players not listed on the security card from interacting with the router. Additionally, if you have an activator module that is set to attack, the upgrade ensures it won't target players listed on the card. Finally, it helps the router function in claimed areas.",
+        "",
+        "Players can be added by right-clicking and removed by shift-right-clicking."
+    ],
+    "quest.58D0DF58E56F6CBC.quest_desc": [
+        "Allows for breaking of blocks.",
+        "The mining level of the module is determined by the pick used in the craft, so an iron pick will not be able to break obsidian. The enchantments on the pick are also applied.",
+        "",
+        "&4WARNING!: The pick is consumed during crafting.&r"
+    ],
+    "quest.5A15961FC3022333.quest_desc": [
+        "Will attempt to pull from any adjacent inventory in the configured direction."
+    ],
+    "quest.66092D43BCF44F05.quest_desc": [
+        "Works a bit differently than MK1. The MK2 uses ghost blocks instead of actual blocks. By default, these blocks do not have any of their original properties, but this can be altered with the Mimic augment.",
+        "",
+        "You can create any pattern that fits within the 9 slots on the right-hand side of the GUI and choose any blocks (even bedrock) for it to extrude when given a redstone signal.",
+        "",
+        "You can drag from JEI or use inventory items to set the slots."
+    ],
+    "quest.68BD90AE2185792E.quest_desc": [
+        "Works exactly the same as the Stack Upgrade. This will override the Stack Upgrade, and the maximum items per operation will now be determined by the augment. The maximum useful upgrades are 6 (2⁶)."
+    ],
+    "quest.6EBC601FCA2AC5DF.quest_desc": [
+        "If an item that matches the module's filter is detected, the router will emit a redstone signal in the configured direction. This can be either a weak or strong signal, depending on the settings."
+    ],
+    "quest.6F528C4E7165806F.quest_desc": [
+        "Used to regulate how many items are sent to or taken from an inventory. See the guidebook for more specific information on each module. It works on a per-item type basis."
+    ],
+    "quest.7053E4EEA04089E0.quest_desc": [
+        "Allows the Vacuum Module to handle experience. The experience will be converted into any form you select in the GUI. Bottles of enchanting do not require bottles in the buffer. However, for other liquids, a bucket or tank in the buffer is required, or an adjacent tank with the card set to eject.",
+        " "
+    ],
+    "quest.7130B6B820483A59.quest_desc": [
+        "Drops items from its buffer into the world in the configured direction. Unlike a normal dropper, it does not give the items any velocity."
+    ],
+    "quest.739BB0F55324322F.quest_desc": [
+        "",
+        "This module allows for various player actions, such as shearing, milking, and capturing zombies in an aerial pearl. It can be set to shift-click or normal click, it can even an attack (requires energy upgrades).",
+        "",
+        "&4note!&r",
+        "&4will not break or place blocks&r"
+    ],
+    "quest.76ED2E2F59D4E7BB.quest_desc": [
+        "Works similarly to the Sender MK2 with the same range limitations. However, this version can have up to 8 targets."
+    ],
+    "quest.774CE2BD7D113C3C.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&bModular Router&r questline made by: &aApex&r &dSlayer&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.774CE2BD7D113C3C.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.774CE2BD7D113C3C.title": "&l&4Catalyst Studios Quests",
+    "quest.7760C341D49250BE.quest_desc": [
+        "Sucks up items within its range and can have various augments applied to adjust its speed or make it work with experience."
+    ],
+    "quest.779918B7EF072B1A.quest_desc": [
+        "Works like the Distributor Module, but with FE. Its base range is 8 blocks instead of 24, though it can still be increased up to a maximum of 48. The maximum throughput is determined by energy upgrades."
+    ],
+    "quest.7A545D85BF794497.quest_desc": [
+        "Reduces the range of the module by 1 block per augment. Useful for vacuum modules that you want to work in a smaller area."
+    ]
+}

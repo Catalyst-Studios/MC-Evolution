@@ -1,6 +1,0 @@
-{
-    "type": "neoforge:none",
-    "biomes": "#minecraft:is_overworld",
-    "features": "eternalores:amber_ore_placed",
-    "step": "underground_ores"
-}

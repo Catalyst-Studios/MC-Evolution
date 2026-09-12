@@ -31,10 +31,29 @@ ServerEvents.recipes(catalyst => {
         'occultism:otherworld_sapling_natural': { log: 'occultism:otherworld_log', leaves: 'occultism:otherworld_leaves' },
 
         // Twilight Forest
-        'twilightforest:darkwood_sapling': { log: 'twilightforest:dark_log', leaves: 'twilightforest:dark_leaves' }, // Darkwood -> Dark Log
-        'twilightforest:rainbow_oak_sapling': { log: 'twilightforest:twilight_oak_log', leaves: 'twilightforest:rainbow_oak_leaves' }, // Rainbow Oak usa tronco de Twilight Oak
-        'twilightforest:hollow_oak_sapling': { log: 'twilightforest:twilight_oak_log', leaves: 'twilightforest:twilight_oak_leaves' }  // Hollow usa tronco normal
+        'twilightforest:darkwood_sapling': { log: 'twilightforest:dark_log', leaves: 'twilightforest:dark_leaves' },
+        'twilightforest:rainbow_oak_sapling': { log: 'twilightforest:twilight_oak_log', leaves: 'twilightforest:rainbow_oak_leaves' },
+        'twilightforest:hollow_oak_sapling': { log: 'twilightforest:twilight_oak_log', leaves: 'twilightforest:twilight_oak_leaves' },
+        
+        
+        'malum:azure_runewood_sapling': { log: 'malum:runewood_log', leaves: 'malum:azure_runewood_leaves' }
     };
+
+    let special_recipies = {
+        'minecraft:crimson_fungus':{ log: 'minecraft:crimson_stem', leaves: 'minecraft:nether_wart_block'},
+        'minecraft:warped_fungus':{ log: 'minecraft:warped_stem', leaves: 'minecraft:warped_wart_block'},
+        'malum:soulwood_sapling':{ log: 'malum:soulwood_log', leaves: 'malum:soulwood_leaves'},
+        'pastel:weeping_gala_sprig':{ log: 'pastel:weeping_gala_log', leaves: 'pastel:weeping_gala_leaves'},
+        'pastel:slate_noxshroom': { log: 'pastel:slate_noxcap_stem', leaves: 'pastel:slate_noxcap_block' },
+        'pastel:ebony_noxshroom': { log: 'pastel:ebony_noxcap_stem', leaves: 'pastel:ebony_noxcap_block' },
+        'pastel:ivory_noxshroom': { log: 'pastel:ivory_noxcap_stem', leaves: 'pastel:ivory_noxcap_block' },
+        'pastel:chestnut_noxshroom': { log: 'pastel:chestnut_noxcap_stem', leaves: 'pastel:chestnut_noxcap_block' }
+    }
+
+    let blacklisted = [
+        "pastel:weeping_gala_sprig",
+        "pastel:ominous_sapling"
+    ]
 
     let createArboretumRecipe = (saplingId, logId, leavesId) => {
         if(!Item.exists(logId))
@@ -99,10 +118,29 @@ ServerEvents.recipes(catalyst => {
         } 
         else
         {
+            if(blacklisted.includes(saplingId)) return;
             console.warn(`[CatJS] Tree ${saplingId} can't be created (Unknown naming format & not in special list). Please report this`);
             return;
         }
-        try {
+        try
+        {
+            if(blacklisted.includes(saplingId)) return;
+            createArboretumRecipe(saplingId, logId, leavesId);
+        }
+        catch(e)
+        {
+            console.warn("[CatJS] Error on tree: " + saplingId + " --> " + e)
+        }
+        
+    });
+
+    Object.keys(special_recipies).forEach(item => {
+        let saplingId = item;
+        let logId = special_recipies[saplingId].log;
+        let leavesId = special_recipies[saplingId].leaves;
+
+        try
+        {
             createArboretumRecipe(saplingId, logId, leavesId);
         }
         catch(e)

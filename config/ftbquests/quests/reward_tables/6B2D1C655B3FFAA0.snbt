@@ -16,7 +16,7 @@
 		{ id: "52CDEC230644B323", item: { count: 1, id: "ars_nouveau:abjuration_essence" } }
 		{ id: "0CA99ADF2C52A874", item: { count: 1, id: "ars_nouveau:conjuration_essence" } }
 		{ id: "7FE5746E142D6E82", item: { count: 1, id: "ars_nouveau:fire_essence" } }
-		{ id: "1B08EE8DD5615005", item: { count: 1, id: "ars_elemental:anima_essence" } }
+		{ id: "1B08EE8DD5615005", item: { count: 1, id: "sauce:anima_essence" } }
 		{ id: "20ADE822019BAD37", item: { count: 1, id: "ars_nouveau:water_essence" } }
 		{ id: "403D225375159148", item: { count: 1, id: "ars_nouveau:manipulation_essence" } }
 		{ id: "09635504EEAC83B6", item: { count: 1, id: "ars_nouveau:earth_essence" } }

@@ -1,0 +1,182 @@
+{
+    "quest.003C69131CD0DA79.quest_desc": [
+        "Módulos controlam o que seu router faz. Cada router pode conter até 9 módulos, permitindo um comportamento bastante avançado.",
+        "",
+        "Você pode configurar os módulos para sempre rodarem um após o outro, ou para rodar apenas se o módulo anterior fez ou não fez algo.",
+        "",
+        "Para cartões com um destino, você pode defini-lo clicando com shift + botão direito no bloco. Note que esses destinos são específicos para cada lado. Para remover um destino, simplesmente clique com shift + botão direito no destino novamente no lado correto.",
+        "",
+        "&6Nota&r",
+        "Desde que você não tenha adicionado nenhum augment aos seus módulos, eles podem ser configurados em massa ao empilhá-los."
+    ],
+    "quest.023AEAAD31B7C79F.quest_desc": [
+        "A melhoria do silenciador ajuda a ocultar a presença do router. Possui 3 níveis:",
+        "",
+        "1 melhoria: Remove efeitos sonoros",
+        "2 melhorias: Remove efeitos de partículas",
+        "3 melhorias: Remove animações ativas"
+    ],
+    "quest.03F4B189616EDCBC.quest_desc": [
+        "Adiciona opções de distribuição mais detalhadas. Permite configuração Round Robin, Mais Próximo Primeiro, Mais Distante Primeiro e distribuição Aleatória."
+    ],
+    "quest.05FAEBA8E296FE54.quest_desc": [
+        "aumenta o atraso de coleta em 10 tiques por augment."
+    ],
+    "quest.0BC89903FE272EF2.quest_desc": [
+        "As melhorias são usadas para aprimorar o desempenho de todo o router. Todos os módulos aplicáveis receberão o efeito, desde que não tenham um augment que o anule."
+    ],
+    "quest.109871D7E0FD1BF3.quest_desc": [
+        "O Aprimoramento de Pilha aumenta o número de itens enviados por operação e se aplica a todos os módulos compatíveis no roteador (desde que o módulo não tenha aumentos de pilha). Cada aprimoramento dobra a quantidade de itens que podem ser enviados por operação, o que significa que o número máximo de aprimoramentos eficazes é 6 (2⁶)."
+    ],
+    "quest.116C2B35680E1C72.quest_desc": [
+        "Este módulo conecta seu inventário ao roteador e pode servir a vários propósitos, como remover bagunça ou fornecer para os slots de armadura, mão secundária, hotbar e o inventário normal.",
+        "",
+        "Para vinculá-lo, clique com o botão direito do mouse no chão enquanto segura shift.",
+        "",
+        "É recomendado usar um Aprimoramento de Regulação para evitar encher demais o seu inventário."
+    ],
+    "quest.1355A1B5306B2105.quest_desc": [
+        "Aumenta a força aplicada a qualquer entidade no caminho do roteador quando um extrusor MK1 ou MK2 é ativado. (Pode acumular)."
+    ],
+    "quest.19D0C7D63BE701A7.quest_desc": [
+        "Isso só pode ser aplicado ao Módulo Extrusor MK2. Quando aplicado, ele dá aos blocos extrudados as propriedades reais do bloco, como obsidiana sendo resistente a explosões, blocos de redstone emitindo sinais de redstone e glowstone emitindo luz.",
+        "",
+        "&eaté mesmo a bedrock funciona (não dou garantia da durabilidade da sua bedrock falsa)&r"
+    ],
+    "quest.1F9003B2E0134DEF.quest_desc": [
+        "Permite que o roteador posicione blocos. Também pode ser usado para plantar culturas, como cana-de-açúcar, vagens de cacau e frutas do Ars."
+    ],
+    "quest.206CAE3AFA9F0339.quest_desc": [
+        "Aumenta o alcance máximo do módulo especificado. O número máximo de aumentos depende do módulo; veja o livro para mais informações."
+    ],
+    "quest.252B224EE93878E6.quest_desc": [
+        "A melhoria de velocidade reduz o tempo entre as ativações. O intervalo padrão é uma vez a cada 20 tiques (1 segundo), e cada melhoria encurta este intervalo em 2 tiques. Com um máximo de 9 melhorias, o intervalo pode ser encurtado para até uma vez a cada 2 tiques (10 vezes por segundo)."
+    ],
+    "quest.252B224EE93878E6.quest_subtitle": "Eu sou a velocidade",
+    "quest.286161478F4107E8.quest_desc": [
+        "Aumentos são usados para aprimorar ou modificar o comportamento de módulos individuais."
+    ],
+    "quest.2AE4D5671C45025B.quest_desc": [
+        "Funciona como um módulo Construtor e um Quebrador. Quando recebe um sinal de redstone (o comportamento pode ser alterado), ele coloca blocos na direção configurada a partir do buffer do roteador. Estes são blocos reais, não blocos fantasmas como o MK2. Também pode ser usado para agricultura, como plantar fileiras de cacau ou outras frutas em troncos, etc.",
+        "",
+        "&4Nota!: O nível de mineração e os encantamentos são herdados do módulo Quebrador.&r"
+    ],
+    "quest.2BF5E236F6A8F252.quest_desc": [
+        "Permite a transferência de itens do próprio buffer do roteador para o inventário de destino. Ele vem em 3 tiers, com cada tier oferecendo capacidades diferentes.",
+        "",
+        "MK1: Transfere para o primeiro inventário disponível na direção definida na GUI. Geralmente tem um alcance de 8 blocos, que pode ser aumentado para 16. Não transferirá através de blocos não transparentes.",
+        "",
+        "MK2: Transfere para qualquer alvo dentro de seu alcance (normalmente 24 blocos, que pode ser aumentado para 48). Não é limitado pela linha de visão.",
+        "",
+        "MK3: Não tem limitação de alcance e pode transferir para qualquer dimensão, desde que o alvo esteja carregado."
+    ],
+    "quest.363B4216992BD094.quest_desc": [
+        "A melhoria de energia fornece ao roteador um buffer de energia interno e aumenta a transferência máxima de energia por operação &4(não por tique)&r.",
+        "",
+        "Cada melhoria adiciona 50kFE de armazenamento e aumenta a taxa de transferência em 1.000 FE por operação, com um máximo de 64 melhorias. Isso resulta em um armazenamento máximo de 3.2MFE e uma taxa de transferência máxima de 64kFE por operação (32kFE por tique com 9 melhorias de velocidade)."
+    ],
+    "quest.363B4216992BD094.quest_subtitle": "Empolgante",
+    "quest.3C33DFE38E9097FA.quest_desc": [
+        "A melhoria de camuflagem permite disfarçar o roteador como quase qualquer bloco (sim, até mesmo bolo).",
+        "",
+        "Para definir o bloco a ser copiado, clique com o botão direito na melhoria de camuflagem no bloco que você quer imitar, depois coloque a melhoria no roteador.",
+        "",
+        "(Funciona para bolo meio comido também)"
+    ],
+    "quest.3F779B1EEE12810E.quest_desc": [
+        "Faz o Módulo de Vácuo pegar itens quase instantaneamente."
+    ],
+    "quest.3F779B1EEE12810E.quest_subtitle": "MEU!!!",
+    "quest.44A632CEC21C79E1.quest_desc": [
+        "Isso torna o roteador imune a explosões e dano de chefes."
+    ],
+    "quest.44A632CEC21C79E1.quest_subtitle": "Invencível",
+    "quest.47B034CFFDCDED24.quest_desc": [
+        "Os roteadores são uma ferramenta extremamente poderosa para ter em seu arsenal, capazes de realizar quase qualquer tarefa que você lhes atribua.",
+        "",
+        "Este guia cobrirá principalmente o básico. Se você estiver curioso sobre comportamentos mais avançados, o guia e as dicas de ferramentas são excelentes recursos, fornecendo descrições detalhadas tanto do uso quanto da função."
+    ],
+    "quest.48D68895FF14804B.quest_desc": [
+        "Se você sempre quis uma catapulta de itens, aqui está! Ela arremessa itens com base nos valores que você define na GUI."
+    ],
+    "quest.4AB321ECCDB35CDB.quest_desc": [
+        "Tentará empurrar FE para dispositivos de armazenamento de energia adjacentes em sua direção configurada. Ele pode empurrar do buffer interno do roteador se você tiver melhorias de energia, ou de qualquer bateria colocada em seu buffer."
+    ],
+    "quest.500D56B1B6C45B6F.quest_desc": [
+        "Permite que o módulo tenha seu próprio comportamento de redstone, sobrepondo-se ao comportamento dos roteadores."
+    ],
+    "quest.54A17337948A2448.quest_desc": [
+        "Se você quer que todos os seus roteadores sejam ativados no mesmo tique exato, esta é a melhoria para você. Não só garante a ativação simultânea, mas também oferece 19 tiques diferentes para escolher. Todos os roteadores com o mesmo valor de melhoria de sincronização (e o mesmo número de melhorias de velocidade) serão ativados ao mesmo tempo.",
+        "",
+        "defina o valor clicando com o botão direito com a melhoria na mão"
+    ],
+    "quest.55D8A20CBD2262BA.quest_desc": [
+        "Anula qualquer item que corresponda ao seu filtro, use com extremo cuidado."
+    ],
+    "quest.569825486A9EA6FD.quest_desc": [
+        "",
+        "A melhoria de segurança impede que jogadores não listados no cartão de segurança interajam com o roteador. Além disso, se você tiver um módulo ativador configurado para atacar, a melhoria garante que ele não atacará jogadores listados no cartão. Finalmente, ajuda o roteador a funcionar em áreas reivindicadas.",
+        "",
+        "Jogadores podem ser adicionados clicando com o botão direito e removidos com shift + botão direito."
+    ],
+    "quest.58D0DF58E56F6CBC.quest_desc": [
+        "Permite a quebra de blocos.",
+        "O nível de mineração do módulo é determinado pela picareta usada na fabricação, então uma picareta de ferro não será capaz de quebrar obsidiana. Os encantamentos na picareta também são aplicados.",
+        "",
+        "&4AVISO!: A picareta é consumida durante a fabricação.&r"
+    ],
+    "quest.5A15961FC3022333.quest_desc": [
+        "Tentará puxar de qualquer inventário adjacente na direção configurada."
+    ],
+    "quest.66092D43BCF44F05.quest_desc": [
+        "Funciona um pouco diferente do MK1. O MK2 usa blocos fantasmas em vez de blocos reais. Por padrão, esses blocos não têm nenhuma de suas propriedades originais, mas isso pode ser alterado com o aumento Mímico.",
+        "",
+        "Você pode criar qualquer padrão que se encaixe nos 9 slots do lado direito da GUI e escolher quaisquer blocos (até mesmo bedrock) para que ele se projete quando receber um sinal de redstone.",
+        "",
+        "Você pode arrastar do JEI ou usar itens do inventário para definir os slots."
+    ],
+    "quest.68BD90AE2185792E.quest_desc": [
+        "Funciona exatamente da mesma forma que a Melhoria de Pilha. Isto substituirá a Melhoria de Pilha, e o máximo de itens por operação será agora determinado pelo aumento. O máximo de melhorias úteis é 6 (2⁶)."
+    ],
+    "quest.6EBC601FCA2AC5DF.quest_desc": [
+        "Se um item que corresponde ao filtro do módulo for detectado, o roteador emitirá um sinal de redstone na direção configurada. Este pode ser um sinal fraco ou forte, dependendo das configurações."
+    ],
+    "quest.6F528C4E7165806F.quest_desc": [
+        "Usado para regular quantos itens são enviados para ou retirados de um inventário. Consulte o guia para informações mais específicas sobre cada módulo. Funciona por tipo de item."
+    ],
+    "quest.7053E4EEA04089E0.quest_desc": [
+        "Permite que o Módulo de Vácuo lide com experiência. A experiência será convertida em qualquer forma que você selecionar na GUI. Garrafas de encantamento não requerem garrafas no buffer. No entanto, para outros líquidos, um balde ou tanque no buffer é necessário, ou um tanque adjacente com a carta configurada para ejetar.",
+        " "
+    ],
+    "quest.7130B6B820483A59.quest_desc": [
+        "Larga itens do seu buffer no mundo na direção configurada. Ao contrário de um ejetor normal, ele não dá velocidade aos itens."
+    ],
+    "quest.739BB0F55324322F.quest_desc": [
+        "",
+        "Este módulo permite várias ações do jogador, como tosquiar, ordenhar e capturar zumbis em uma pérola aérea. Pode ser configurado para shift-clique ou clique normal, pode até mesmo atacar (requer melhorias de energia).",
+        "",
+        "&4nota!&r",
+        "&4não vai quebrar ou colocar blocos&r"
+    ],
+    "quest.76ED2E2F59D4E7BB.quest_desc": [
+        "Funciona de forma semelhante ao Sender MK2 com as mesmas limitações de alcance. No entanto, esta versão pode ter até 8 alvos."
+    ],
+    "quest.774CE2BD7D113C3C.quest_desc": [
+        "Você &lnão&r tem permissão para usar estas missões em qualquer modpack público sem &4&npermissão explícita&r da Catalyst Studios.",
+        "",
+        "Linha de missões do &bModular Router&r feita por: &aApex&r &dSlayer&r",
+        "",
+        "Se você está vendo isso, significa que está no modo de edição."
+    ],
+    "quest.774CE2BD7D113C3C.quest_subtitle": "Estas missões incríveis foram feitas para a &4Catalyst Studios&r",
+    "quest.774CE2BD7D113C3C.title": "&l&4Missões da Catalyst Studios",
+    "quest.7760C341D49250BE.quest_desc": [
+        "Aspira itens dentro de seu alcance e pode ter vários aumentos aplicados para ajustar sua velocidade ou fazê-lo funcionar com experiência."
+    ],
+    "quest.779918B7EF072B1A.quest_desc": [
+        "Funciona como o Módulo Distribuidor, mas com FE. Seu alcance base é de 8 blocos em vez de 24, embora ainda possa ser aumentado até um máximo de 48. A vazão máxima é determinada pelas melhorias de energia."
+    ],
+    "quest.7A545D85BF794497.quest_desc": [
+        "Reduz o alcance do módulo em 1 bloco por aumento. Útil para módulos de vácuo que você deseja que funcionem em uma área menor."
+    ]
+}

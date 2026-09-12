@@ -8,10 +8,10 @@ ServerEvents.recipes(catalyst => {
         .width(110)
         .height(60)
         .requireEnergy(30000, 0, 4)
-        .produceFluid('10000x mekanism:heavy_water', 75, 20)
+        .produceFluid(Fluid.of("mekanism:heavy_water", 10000000), 75, 20)
         .id('catalyst:mmr/abyssal_pump/heavy_water')
+    
     console.log("[CatJS] Added MMR heavy water recipe");
-
 })
 /* 
 This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.

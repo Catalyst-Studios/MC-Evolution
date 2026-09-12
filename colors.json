@@ -1,0 +1,115 @@
+[
+    {
+        "colors": [
+            "#000000",
+            "#0000AA",
+            "#00AA00",
+            "#00AAAA",
+            "#AA0000",
+            "#AA00AA",
+            "#FFAA00",
+            "#AAAAAA",
+            "#555555",
+            "#5555FF",
+            "#55FF55",
+            "#55FFFF",
+            "#FF5555",
+            "#FF55FF",
+            "#FFFF55",
+            "#FFFFFF"
+        ],
+        "name": "Default"
+    },
+    {
+        "colors": [
+            "#FF0000",
+            "#FF7F00",
+            "#FFFF00",
+            "#00FF00",
+            "#0000FF",
+            "#4B0082",
+            "#9400D3"
+        ],
+        "name": "Rainbow"
+    },
+    {
+        "colors": [
+            "#FFB3BA",
+            "#FFDFBA",
+            "#FFFFBA",
+            "#BAFFC9",
+            "#BAE1FF",
+            "#D0BAFF",
+            "#FFB3E6",
+            "#EAC4D5"
+        ],
+        "name": "Pastel"
+    },
+    {
+        "colors": [
+            "#FF003C",
+            "#00FFFF",
+            "#FCEE09",
+            "#B900FF",
+            "#00FF9F",
+            "#FF00AA",
+            "#7109AA",
+            "#050A30"
+        ],
+        "name": "Cyberpunk"
+    },
+    {
+        "colors": [
+            "#03045E",
+            "#023E8A",
+            "#0077B6",
+            "#0096C7",
+            "#00B4D8",
+            "#48CAE4",
+            "#90E0EF",
+            "#CAF0F8"
+        ],
+        "name": "Ocean"
+    },
+    {
+        "colors": [
+            "#2A0845",
+            "#6441A5",
+            "#FF512F",
+            "#F09819",
+            "#FF9966",
+            "#FFB75E",
+            "#FFE259",
+            "#FFA751"
+        ],
+        "name": "Sunset"
+    },
+    {
+        "colors": [
+            "#081C15",
+            "#1B4332",
+            "#2D6A4F",
+            "#40916C",
+            "#52B788",
+            "#74C69D",
+            "#95D5B2",
+            "#B7E4C7"
+        ],
+        "name": "Forest"
+    },
+    {
+        "colors": [
+            "#000000",
+            "#1C1C1C",
+            "#383838",
+            "#555555",
+            "#717171",
+            "#8D8D8D",
+            "#AAAAAA",
+            "#C6C6C6",
+            "#E2E2E2",
+            "#FFFFFF"
+        ],
+        "name": "Monochrome"
+    }
+]

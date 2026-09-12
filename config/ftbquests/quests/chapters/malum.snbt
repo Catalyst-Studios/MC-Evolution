@@ -1,0 +1,1841 @@
+{
+	autofocus_id: "2E5535BD9EF7C252"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "malum"
+	group: "7DB43C7557896446"
+	icon: {
+		components: {
+			"malum:geas_effect": {
+				geasEffectType: "gaze:pact_of_encroaching"
+				isCreative: 0b
+			}
+		}
+		id: "malum:geas"
+	}
+	id: "670D99477C92AAE8"
+	images: [ ]
+	order_index: 6
+	quest_links: [{
+		id: "0D83A177A6D94C93"
+		linked_quest: "6B170BA05FDF56BF"
+		shape: "diamond"
+		x: 8.392857142857139d
+		y: 2.5535714285714306d
+	}]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/check_inactive.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2E5535BD9EF7C252"
+			rewards: [{
+				id: "34DBC9C2914BF22A"
+				item: {
+					count: 1
+					id: "malum:encyclopedia_arcana"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "10EBB1A7D60224EF"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"0C5575BAC9933656"
+				"11CE5976BD92B743"
+			]
+			id: "4921A22866F9253C"
+			rewards: [{
+				id: "6749FD6FD27AA00E"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"malum:spirit_plunder": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1927E821093633C9"
+				item: { count: 1, id: "malum:crude_scythe" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2E5535BD9EF7C252"]
+			id: "11CE5976BD92B743"
+			rewards: [{
+				count: 2
+				id: "36E8AA1F4693EC23"
+				item: {
+					count: 1
+					id: "malum:refined_soulstone"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0E82CEC10AB496E3"
+					item: { count: 1, id: "malum:runewood_sapling" }
+					type: "item"
+				}
+				{
+					id: "22D1669EC2A41174"
+					item: { count: 1, id: "malum:azure_runewood_sapling" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2E5535BD9EF7C252"]
+			icon: {
+				id: "malum:refined_soulstone"
+			}
+			id: "0C5575BAC9933656"
+			rewards: [{
+				id: "74749C388AEB0614"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "6EE77D8D964EF5C8"
+					item: { count: 1, id: "malum:refined_soulstone" }
+					type: "item"
+				}
+				{
+					id: "5802265198885D9F"
+					item: { count: 1, id: "malum:raw_brilliance" }
+					type: "item"
+				}
+				{
+					id: "3643067E286F3BA1"
+					item: { count: 1, id: "malum:blazing_quartz" }
+					type: "item"
+				}
+				{
+					id: "3EBCF47E55332FA4"
+					item: { count: 1, id: "malum:cthonic_gold_fragment" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			hide_dependency_lines: true
+			id: "7D4ECB54B96AFCA8"
+			rewards: [{
+				count: 5
+				id: "0678E0295CDD9922"
+				item: {
+					count: 1
+					id: "malum:sacred_spirit"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1646F7D53733E04F"
+				item: { count: 1, id: "malum:sacred_spirit" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			hide_dependency_lines: true
+			id: "3686980DC39E762A"
+			rewards: [{
+				count: 5
+				id: "218AF35DEB35FAF8"
+				item: {
+					count: 1
+					id: "malum:infernal_spirit"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "43FFD68EDDBEECFA"
+				item: { count: 1, id: "malum:infernal_spirit" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			hide_dependency_lines: true
+			id: "59B7B59384B13029"
+			rewards: [{
+				count: 5
+				id: "224B694D7E185D7A"
+				item: {
+					count: 1
+					id: "malum:earthen_spirit"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6E73ECDD84779656"
+				item: { count: 1, id: "malum:earthen_spirit" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			hide_dependency_lines: true
+			id: "35EEAC9C37B1EEB4"
+			rewards: [{
+				count: 5
+				id: "76B80BF2FFD7B479"
+				item: {
+					count: 1
+					id: "malum:aqueous_spirit"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "58D21F0100B4625F"
+				item: { count: 1, id: "malum:aqueous_spirit" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			hide_dependency_lines: true
+			id: "53F10B6BED6A9E77"
+			rewards: [{
+				count: 5
+				id: "2B9F1D3AB401D98C"
+				item: {
+					count: 1
+					id: "malum:wicked_spirit"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "100C72D89209FD4A"
+				item: { count: 1, id: "malum:wicked_spirit" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			hide_dependency_lines: true
+			id: "4ED1D6EA1C603BE0"
+			rewards: [{
+				count: 5
+				id: "66A088F4EE6FED61"
+				item: {
+					count: 1
+					id: "malum:arcane_spirit"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "455EC7AAB81C9E4D"
+				item: { count: 1, id: "malum:arcane_spirit" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			hide_dependency_lines: true
+			id: "0270173E2FE25CCA"
+			rewards: [{
+				count: 5
+				id: "4D1B2C04263561C6"
+				item: {
+					count: 1
+					id: "malum:eldritch_spirit"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7994918D3850ECC0"
+				item: { count: 1, id: "malum:eldritch_spirit" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			hide_dependency_lines: true
+			id: "1C54667EE66C6BCE"
+			rewards: [{
+				count: 5
+				id: "4FE59FA0264F0E79"
+				item: {
+					count: 1
+					id: "malum:aerial_spirit"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "52CF572C4CC1AFE4"
+				item: { count: 1, id: "malum:aerial_spirit" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			icon: {
+				id: "malum:spirit_altar"
+			}
+			id: "29369B6D0959E962"
+			rewards: [{
+				count: 16
+				id: "4D1403B219AE6350"
+				item: {
+					count: 1
+					id: "malum:runewood_log"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "451396BDE9B04FFD"
+					item: { count: 1, id: "malum:spirit_altar" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "12679196A28413A1"
+					item: { count: 1, id: "malum:runewood_item_pedestal" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["77822FE077DEBE01"]
+			id: "44B9580A098565F4"
+			rewards: [{
+				id: "7DF9F2A95DA9E819"
+				item: {
+					count: 1
+					id: "malum:block_of_rotting_essence"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1AB527C6C4CE2C00"
+				item: { count: 1, id: "malum:rotting_essence" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["77822FE077DEBE01"]
+			id: "77D8CD1FB883BC36"
+			rewards: [{
+				id: "599B241D91D0904D"
+				item: {
+					count: 1
+					id: "malum:block_of_grim_talc"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "54AA65BE5D991988"
+				item: { count: 1, id: "malum:grim_talc" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["77822FE077DEBE01"]
+			id: "44B9A82A07B42089"
+			rewards: [{
+				count: 2
+				id: "359862F0AF43AAAA"
+				item: {
+					count: 1
+					id: "malum:block_of_astral_weave"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "43D09D8E46EDBA7E"
+				item: { count: 1, id: "malum:astral_weave" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["77822FE077DEBE01"]
+			id: "69868BBC56DA8F95"
+			rewards: [{
+				count: 9
+				id: "3360930B3CD5CA48"
+				item: {
+					count: 1
+					id: "malum:wind_nucleus"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2C9D399B7FC720AA"
+				item: { count: 1, id: "malum:wind_nucleus" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["77822FE077DEBE01"]
+			id: "22A1DC5C3DBFF918"
+			rewards: [{
+				id: "393431141CC77109"
+				item: {
+					count: 1
+					id: "malum:block_of_warp_flux"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7E2F2FCA9660FCF0"
+				item: { count: 1, id: "malum:warp_flux" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["29369B6D0959E962"]
+			id: "4088AEBAA544523C"
+			rewards: [
+				{
+					count: 2
+					id: "7B2F7D5BA934BF75"
+					item: {
+						count: 1
+						id: "malum:infernal_spirit"
+					}
+					type: "item"
+				}
+				{
+					id: "7502566431FD42AB"
+					item: {
+						count: 1
+						id: "malum:arcane_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6D1D73320E2660EC"
+				item: { count: 1, id: "malum:ether" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["29369B6D0959E962"]
+			id: "162F527B22AE40DD"
+			rewards: [
+				{
+					id: "6FB132516030FA91"
+					item: {
+						count: 1
+						id: "malum:arcane_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5E7D3268965F8339"
+					item: {
+						count: 1
+						id: "malum:wicked_spirit"
+					}
+					type: "item"
+				}
+				{
+					id: "775FD523A42F7840"
+					item: {
+						count: 1
+						id: "malum:earthen_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0084457D1D6E2199"
+				item: { count: 1, id: "malum:soul_stained_steel_ingot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["29369B6D0959E962"]
+			id: "25EACF69F4AA5C28"
+			rewards: [
+				{
+					count: 2
+					id: "14708CF38E0460AA"
+					item: {
+						count: 1
+						id: "malum:sacred_spirit"
+					}
+					type: "item"
+				}
+				{
+					id: "50F57AA12E4CDD0C"
+					item: {
+						count: 1
+						id: "malum:arcane_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "469F7A3E9290ABBD"
+				item: { count: 1, id: "malum:hallowed_gold_ingot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"25EACF69F4AA5C28"
+				"162F527B22AE40DD"
+				"4088AEBAA544523C"
+			]
+			icon: {
+				id: "malum:runewood_obelisk"
+			}
+			id: "77822FE077DEBE01"
+			rewards: [{
+				count: 3
+				id: "1FD8ECE193B522ED"
+				item: {
+					count: 1
+					id: "malum:hallowed_gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3188DF4B3A1AC64D"
+					item: { count: 1, id: "malum:spirit_jar" }
+					type: "item"
+				}
+				{
+					id: "05576E8252479B66"
+					item: { count: 1, id: "malum:runewood_obelisk" }
+					type: "item"
+				}
+				{
+					id: "694A07D97262EA08"
+					item: { count: 1, id: "malum:brilliant_obelisk" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["08DD86F92927595D"]
+			id: "4F4F69C0FE90C33B"
+			tasks: [
+				{
+					id: "178B6307E72C4122"
+					item: { count: 1, id: "malum:spirit_crucible" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "01416E1EDE252F2E"
+					item: { count: 1, id: "malum:spirit_catalyzer" }
+					type: "item"
+				}
+				{
+					id: "426088136ABCA8FF"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(malum:impetus)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["77822FE077DEBE01"]
+			id: "3C0B42313844B4A1"
+			rewards: [{
+				count: 4
+				id: "64EC6B32D6AED86D"
+				item: {
+					count: 1
+					id: "malum:living_flesh"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2BE69C135A01B37C"
+				item: { count: 1, id: "malum:living_flesh" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["77822FE077DEBE01"]
+			id: "3AF33E5437866CED"
+			rewards: [{
+				count: 16
+				id: "6946E125AFF4D307"
+				item: {
+					count: 1
+					id: "malum:alchemical_calx"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "75FDDA31D847F7C0"
+				item: { count: 1, id: "malum:alchemical_calx" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["77822FE077DEBE01"]
+			id: "4117824973AB97C3"
+			rewards: [{
+				count: 32
+				id: "0BD1C09641A30442"
+				item: {
+					count: 1
+					id: "malum:hex_ash"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "58288999DB41CDB2"
+				item: { count: 1, id: "malum:hex_ash" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["77822FE077DEBE01"]
+			id: "7B507766424DD877"
+			rewards: [{
+				count: 8
+				id: "7CEEA6AF362BB183"
+				item: {
+					count: 1
+					id: "malum:soulwoven_silk"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F4EAD129CD572D7"
+				item: { count: 1, id: "malum:soulwoven_silk" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5B92ED10BCDB1CC6"]
+			id: "7B243684405FFB35"
+			rewards: [
+				{
+					count: 8
+					id: "7A5A798C9F3D83E0"
+					item: {
+						count: 1
+						id: "malum:eldritch_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "7EEA66CC0448A5F5"
+					item: {
+						count: 1
+						id: "malum:arcane_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7F2AD76F3CC68586"
+				item: { count: 1, id: "malum:paracausal_flame" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["33DA16E3CFBAE1BD"]
+			hide_dependency_lines: true
+			id: "5B92ED10BCDB1CC6"
+			rewards: [{
+				id: "6FD0228F623A6878"
+				item: {
+					count: 1
+					id: "malum:ether"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2519F9CB36CF4EBD"
+				item: { count: 1, id: "malum:soulbinding_brazier" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1DE9B2DB4E187973"]
+			id: "0FE9246E2A50B993"
+			rewards: [{
+				count: 2
+				id: "357F52DD8AF41927"
+				item: {
+					count: 1
+					id: "malum:block_of_hallowed_gold"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "337A78B8190C0D69"
+				item: { count: 1, id: "malum:runic_brooch" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0FE9246E2A50B993"]
+			id: "7727303A95715645"
+			rewards: [{
+				count: 64
+				id: "0005E5E1382D6793"
+				item: {
+					count: 1
+					id: "malum:aqueous_spirit"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "36045C32A5111A8B"
+				item: { count: 1, id: "malum:glass_brooch" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2E5535BD9EF7C252"]
+			hide_dependency_lines: true
+			id: "1DE9B2DB4E187973"
+			rewards: [
+				{
+					count: 16
+					id: "4491841205907AD5"
+					item: {
+						count: 1
+						id: "malum:aqueous_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "56F093D8ECA0A202"
+					item: {
+						count: 1
+						id: "malum:sacred_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "39666289F8E6EB3B"
+					item: {
+						count: 1
+						id: "malum:arcane_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "221173F2CFA44157"
+				item: { count: 1, id: "malum:runic_workbench" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"7727303A95715645"
+				"54B65FE4F8B29E9D"
+			]
+			dependency_requirement: "one_completed"
+			id: "256819E8EA869BF7"
+			rewards: [{
+				id: "4AEBA37694B5594C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6D55F4498F1DCA0E"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(curios:rune)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["29369B6D0959E962"]
+			hide_dependency_lines: true
+			id: "08DD86F92927595D"
+			rewards: [
+				{
+					count: 32
+					id: "6473838E5AF1B7EF"
+					item: {
+						count: 1
+						id: "malum:tainted_rock"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "56B5B36783141FD0"
+					item: {
+						count: 1
+						id: "malum:twisted_rock"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "182F665FFAA3F114"
+					item: { count: 1, id: "malum:tainted_rock" }
+					type: "item"
+				}
+				{
+					id: "427D1BF9C0D1D480"
+					item: { count: 1, id: "malum:twisted_rock" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["08DD86F92927595D"]
+			id: "357A15AEF6A75E24"
+			rewards: [
+				{
+					count: 16
+					id: "254336FA7236F920"
+					item: {
+						count: 1
+						id: "malum:cthonic_gold"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1A7325C2B3AEB9BE"
+					item: {
+						count: 1
+						id: "malum:aqueous_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7DF896E3BE4A2D5B"
+					item: {
+						count: 1
+						id: "malum:infernal_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "777DF95F75FE3ED6"
+				item: { count: 1, id: "malum:repair_pylon" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4F4F69C0FE90C33B"]
+			id: "4A4F5DE5D43DE5E9"
+			rewards: [
+				{
+					count: 8
+					id: "5365D949C88C2FD9"
+					item: {
+						count: 1
+						id: "malum:arcane_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "547E8D884F71F70D"
+					item: {
+						count: 1
+						id: "malum:aqueous_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "2EE6F977D4CB5FE0"
+					item: {
+						count: 1
+						id: "malum:eldritch_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "25F45820C0720417"
+				item: { count: 1, id: "malum:tuning_fork" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4A4F5DE5D43DE5E9"]
+			id: "3D147F258BF7975E"
+			rewards: [{
+				id: "1F0BE2F888067D19"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "4F9291897878DE79"
+					item: { count: 1, id: "malum:sympathy_drive" }
+					type: "item"
+				}
+				{
+					id: "6C8422381A8F4F97"
+					item: { count: 1, id: "malum:suspicious_device" }
+					type: "item"
+				}
+				{
+					id: "4B0018E3EF115AD7"
+					item: { count: 1, id: "malum:resonance_tuner" }
+					type: "item"
+				}
+				{
+					id: "5194AFEDE5A30B10"
+					item: { count: 1, id: "malum:caustic_catalyst" }
+					type: "item"
+				}
+				{
+					id: "1CD13FB1CF9D8988"
+					item: { count: 1, id: "malum:stellar_mechanism" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["4A4F5DE5D43DE5E9"]
+			id: "363581A91656F58E"
+			rewards: [{
+				id: "14562B4C74A27797"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "35EFE132AE5D4D8B"
+					item: { count: 1, id: "malum:blazing_diode" }
+					type: "item"
+				}
+				{
+					id: "0738C835143EAB4E"
+					item: { count: 1, id: "malum:shielding_apparatus" }
+					type: "item"
+				}
+				{
+					id: "4543646A1CFC5AE7"
+					item: { count: 1, id: "malum:warping_engine" }
+					type: "item"
+				}
+				{
+					id: "02E3617192A2AEFC"
+					item: { count: 1, id: "malum:impurity_stabilizer" }
+					type: "item"
+				}
+				{
+					id: "24F9E8866E38C9CB"
+					item: { count: 1, id: "malum:mending_diffuser" }
+					type: "item"
+				}
+				{
+					id: "77CAA40CC91FDAA4"
+					item: { count: 1, id: "malum:prismatic_focus_lens" }
+					type: "item"
+				}
+				{
+					id: "4A142A6BC8A76315"
+					item: { count: 1, id: "malum:intricate_assembly" }
+					type: "item"
+				}
+				{
+					id: "0DE3B57B089C8BF1"
+					item: { count: 1, id: "malum:accelerating_inlay" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["4A4F5DE5D43DE5E9"]
+			id: "5E9BF96FD602AD97"
+			rewards: [{
+				id: "11933BAFFAD143EC"
+				item: {
+					count: 1
+					id: "malum:block_of_soul_stained_steel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C7079459FDD05A5"
+				item: { count: 1, id: "malum:spellweaving_pickaxe" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["4A4F5DE5D43DE5E9"]
+			id: "564418D6BFA07392"
+			rewards: [{
+				id: "684D1EFFBB6569E6"
+				item: {
+					count: 1
+					id: "malum:block_of_soul_stained_steel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2749D58395A43737"
+				item: { count: 1, id: "malum:spellweaving_axe" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"564418D6BFA07392"
+				"5E9BF96FD602AD97"
+			]
+			id: "236F1EFEBED1B2E3"
+			rewards: [{
+				id: "589E7529366923FD"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "152373AE907FDAE6"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "malum:weavers_propagation": 8 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+				{
+					id: "4234E7604A918E07"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "malum:weavers_haste": 8 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -11.0d
+		}
+		{
+			dependencies: [
+				"4117824973AB97C3"
+				"3AF33E5437866CED"
+				"7B507766424DD877"
+				"3C0B42313844B4A1"
+			]
+			icon: {
+				id: "malum:runewood_totem_base"
+			}
+			id: "7F5D4C74576F702E"
+			rewards: [{
+				count: 5
+				id: "383B82254371D7F4"
+				item: {
+					count: 1
+					id: "malum:arcane_spirit"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "19221B1D18320EA4"
+					item: { count: 1, id: "malum:runewood_totem_base" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "170DC1CC620269AE"
+					item: { count: 1, id: "malum:runewood_log" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "2396C4AA2528039C"
+					item: { count: 1, id: "malum:arcane_spirit" }
+					type: "item"
+				}
+			]
+			x: -10.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7F5D4C74576F702E"]
+			icon: {
+				id: "malum:soulwood_sapling"
+			}
+			id: "68F0F12785C2DE8A"
+			rewards: [
+				{
+					count: 4
+					id: "22430D21FC78AEC6"
+					item: {
+						count: 1
+						id: "malum:soulwood_sapling"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "22847FA7EB87747B"
+					item: {
+						count: 1
+						id: "malum:mass_of_blighted_gunk"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "59353D40C97FCCE5"
+					item: { count: 1, id: "malum:soulwood_sapling" }
+					type: "item"
+				}
+				{
+					id: "1CA9A3F2425FEB0B"
+					item: { count: 1, id: "malum:blighted_gunk" }
+					type: "item"
+				}
+				{
+					id: "0A93BDE08A828B91"
+					item: { count: 1, id: "malum:blighted_earth" }
+					type: "item"
+				}
+				{
+					id: "274F254C892EFBE9"
+					item: { count: 1, id: "malum:blighted_soulwood" }
+					type: "item"
+				}
+				{
+					id: "28037B0AD726B56D"
+					item: { count: 1, id: "malum:soulwood_log" }
+					type: "item"
+				}
+				{
+					id: "653A7A096251A14B"
+					item: { count: 1, id: "malum:scarstone" }
+					type: "item"
+				}
+				{
+					id: "53B2F847B1069E54"
+					item: { count: 1, id: "malum:large_strange_crystal" }
+					type: "item"
+				}
+				{
+					id: "77C0E5F9193E3065"
+					item: { count: 1, id: "malum:strange_crystal" }
+					type: "item"
+				}
+			]
+			x: -12.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["68F0F12785C2DE8A"]
+			icon: {
+				id: "malum:arcana_pylon"
+			}
+			id: "1A372024C6D4839A"
+			rewards: [
+				{
+					count: 6
+					id: "2C5B2C78CE861F35"
+					item: {
+						count: 1
+						id: "malum:aerial_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "2064ADFBF6C63668"
+					item: {
+						count: 1
+						id: "malum:aqueous_spirit"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					count: 6
+					id: "39A942008EC7DE85"
+					item: {
+						count: 1
+						id: "malum:earthen_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "0C0071020AE55007"
+					item: {
+						count: 1
+						id: "malum:infernal_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 4L
+					id: "1D1718E1384B2964"
+					item: { count: 1, id: "malum:arcana_pylon" }
+					type: "item"
+				}
+				{
+					id: "23EE93E8A14FE5D0"
+					item: { count: 1, id: "malum:arcane_spirit" }
+					type: "item"
+				}
+			]
+			x: -13.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["08DD86F92927595D"]
+			hide_dependency_lines: true
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "51682E42C94E35C2"
+			tasks: [{
+				id: "35ACA89A567FD0AC"
+				item: { count: 1, id: "malum:the_device" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["1A372024C6D4839A"]
+			icon: {
+				id: "malum:encyclopedia_esoterica"
+			}
+			id: "33DA16E3CFBAE1BD"
+			rewards: [{
+				id: "56621FCDBC1672C7"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "0507D10F7C3DEBFE"
+					item: { count: 1, id: "malum:encyclopedia_esoterica" }
+					type: "item"
+				}
+				{
+					id: "614FBD5ADA126C13"
+					item: { components: { "ftbfiltersystem:filter": "or(item(explorerscompass:explorerscompass)item(structurecompass:structure_compass))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -15.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4D66D768235961E9"]
+			id: "7061DB6C61BD30AA"
+			rewards: [{
+				id: "52FA54DF345CC7F6"
+				item: {
+					count: 1
+					id: "gaze:spirit_channel_pouch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "556F5879DD296410"
+				item: { count: 1, id: "gaze:encyclopedia_unveiled" }
+				type: "item"
+			}]
+			x: -22.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["33DA16E3CFBAE1BD"]
+			id: "7AB051138D982881"
+			rewards: [{
+				count: 6
+				id: "028C928018536492"
+				item: {
+					count: 1
+					id: "malum:null_slate"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7025742DF4175982"
+				item: { count: 1, id: "malum:null_slate" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["33DA16E3CFBAE1BD"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "510473AF470648A4"
+			rewards: [{
+				count: 9
+				id: "4AD4F9501D3B5FEB"
+				item: {
+					count: 1
+					id: "malum:malignant_lead"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "070BBD6C0BDBD5D6"
+				item: { count: 1, id: "malum:malignant_lead" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["33DA16E3CFBAE1BD"]
+			hide_dependency_lines: true
+			id: "60DFA72F65DCB947"
+			rewards: [{
+				count: 6
+				id: "076E675489131CCC"
+				item: {
+					count: 1
+					id: "malum:mnemonic_fragment"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5FABEF6ECE08D7CE"
+				item: { count: 1, id: "malum:mnemonic_fragment" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["33DA16E3CFBAE1BD"]
+			hide_dependency_lines: true
+			id: "4AE4D91089DA1035"
+			rewards: [{
+				count: 9
+				id: "455F88F256CEF373"
+				item: {
+					count: 1
+					id: "malum:auric_embers"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "293BFB57D40A92CA"
+				item: { count: 1, id: "malum:auric_embers" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["33DA16E3CFBAE1BD"]
+			hide_dependency_lines: true
+			id: "65614D7709B70C71"
+			rewards: [{
+				count: 2
+				id: "69FB5E8979F7A375"
+				item: {
+					count: 1
+					id: "malum:anomalous_design"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2F154D48BE4628C0"
+				item: { count: 1, id: "malum:anomalous_design" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["33DA16E3CFBAE1BD"]
+			hide_dependency_lines: true
+			id: "0A00C8C55DE2D39C"
+			rewards: [{
+				count: 4
+				id: "680FDA2FFD1EEDBC"
+				item: {
+					count: 1
+					id: "malum:fused_consciousness"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3214E3D1577D5780"
+				item: { count: 1, id: "malum:fused_consciousness" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"51682E42C94E35C2"
+				"33DA16E3CFBAE1BD"
+			]
+			hide_dependency_lines: true
+			hide_details_until_startable: true
+			hide_lock_icon: true
+			hide_until_deps_complete: true
+			id: "332901797E57E045"
+			tasks: [{
+				id: "3808B62DCD5C806E"
+				item: { count: 1, id: "malum:the_vessel" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2D58912C15CC42AF"]
+			id: "4D66D768235961E9"
+			rewards: [{
+				id: "75DEF85A2B2A78A9"
+				item: {
+					count: 1
+					id: "malum:umbral_spirit"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C1C721051B5CB05"
+				item: { count: 1, id: "malum:umbral_spirit" }
+				type: "item"
+			}]
+			x: -21.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["162F527B22AE40DD"]
+			id: "416F14D42D4E6685"
+			rewards: [{
+				id: "230FFC3E6A157EFB"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"malum:spirit_plunder": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "137B104498723F06"
+				item: { count: 1, id: "malum:soul_stained_steel_scythe" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"7AB051138D982881"
+				"510473AF470648A4"
+			]
+			id: "39437666EFEFA72C"
+			rewards: [{
+				count: 2
+				id: "0CCB6CFBBF583A63"
+				item: {
+					count: 1
+					id: "malum:block_of_malignant_pewter"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7EC0DFD5F7E1C98F"
+				item: { count: 1, id: "malum:malignant_pewter_ingot" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["39437666EFEFA72C"]
+			id: "2D58912C15CC42AF"
+			rewards: [{
+				id: "35BAA0BCAC3C48DF"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"malum:spirit_plunder": 6
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3554BCE9C6452A74"
+				item: { count: 1, id: "malum:edge_of_deliverance" }
+				type: "item"
+			}]
+			x: -19.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7061DB6C61BD30AA"]
+			id: "62DE9781C6440899"
+			rewards: [
+				{
+					id: "7DE58C467EAA46D9"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "03A2B91CA16FDBB4"
+					item: {
+						count: 1
+						id: "malum:umbral_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "1A8C737AD9D03085"
+					item: {
+						count: 1
+						id: "malum:ornate_soulwood_item_pedestal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "391BD0B0E2514AC6"
+				item: { count: 1, id: "gaze:enchantment_workbench" }
+				type: "item"
+			}]
+			x: -24.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4921A22866F9253C"]
+			id: "79E2FB0410825C47"
+			tasks: [{
+				id: "5668133CE866C8F5"
+				item: { components: { "minecraft:stored_enchantments": { levels: { "malum:spirit_plunder": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["33DA16E3CFBAE1BD"]
+			hide_dependency_lines: true
+			id: "3398E8F5A62508E3"
+			rewards: [{
+				count: 6
+				id: "1FEEDD08E519260B"
+				item: {
+					count: 1
+					id: "malum:void_salts"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "666A5B5140C74903"
+				item: { count: 1, id: "malum:void_salts" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0FE9246E2A50B993"]
+			id: "54B65FE4F8B29E9D"
+			rewards: [{
+				id: "248D40EA7338CC92"
+				item: {
+					count: 1
+					id: "malum:runic_brooch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6C54EABBDACA38B2"
+				item: { count: 1, id: "gaze:sluggish_brooch" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["4D66D768235961E9"]
+			hide_until_deps_complete: true
+			id: "521E589CAE9151B0"
+			rewards: [
+				{
+					count: 64
+					id: "5DE39265B595A2F5"
+					item: {
+						count: 1
+						id: "malum:sacred_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "74A64F58E51E6401"
+					item: {
+						count: 1
+						id: "malum:wicked_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "5CD9658A37EBD9CE"
+					item: {
+						count: 1
+						id: "malum:arcane_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "760AAF7C9A79FA65"
+					item: {
+						count: 1
+						id: "malum:eldritch_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "2C4544F39F9209B2"
+					item: {
+						count: 1
+						id: "malum:aerial_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "2045722DAE7E6D16"
+					item: {
+						count: 1
+						id: "malum:aqueous_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "0E677486333EEF5D"
+					item: {
+						count: 1
+						id: "malum:earthen_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "62DA0BE9B97D1D5D"
+					item: {
+						count: 1
+						id: "malum:infernal_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2F835843689A4777"
+				item: { count: 1, id: "gaze:veil_dagger" }
+				type: "item"
+			}]
+			x: -21.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["11CE5976BD92B743"]
+			id: "1A45200047BC1937"
+			rewards: [{
+				count: 6
+				id: "1E81CE33CF15415B"
+				item: {
+					count: 1
+					id: "malum:runic_sapball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7DCB0DAA69C34868"
+				item: { count: 1, id: "malum:runic_sapball" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4AE4D91089DA1035"]
+			hide_until_deps_complete: true
+			id: "6D1ED42DEA8ECA02"
+			rewards: [
+				{
+					count: 16
+					id: "42B866AD51AA359D"
+					item: {
+						count: 1
+						id: "malum:auric_embers"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "5C2154F84DAEAFEE"
+					item: {
+						count: 1
+						id: "malum:aqueous_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "6B02BA6ED4F19EBE"
+					item: {
+						count: 1
+						id: "malum:infernal_spirit"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "57EAC8B07A96B561"
+					item: {
+						count: 1
+						id: "malum:eldritch_spirit"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2764E920A25E3242"
+				item: { count: 1, id: "malum:catalyst_lobber" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: -0.5d
+		}
+	]
+}

@@ -8,7 +8,8 @@
 		id: "ae2:controller"
 	}
 	id: "184FD88EB54E4E86"
-	order_index: 1
+	images: [ ]
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{
@@ -147,6 +148,11 @@
 					count: 10L
 					id: "483DDBF80A675854"
 					item: { count: 1, id: "advanced_ae:quantum_storage_256" }
+					type: "item"
+				}
+				{
+					id: "781AEED96115E2C2"
+					item: { count: 1, id: "advanced_ae:data_entangler" }
 					type: "item"
 				}
 			]

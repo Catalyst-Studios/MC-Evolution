@@ -12,11 +12,11 @@ MMREvents.machines(catalyst => {
          * #AlphaAlphaRedRedGreenGreenBlueBlue
          * color in int number format
          */
-        .color('#00131313')
+        .color('#ff1AFF00')
         /**
          * The name that the machine should display in the controller item and in the controller GUI -> default localized with the id of the creation
          */
-        .name('Arboretum')
+        .name(Component.translatable("catalyst.mmr.machine.arboretum"))
         /**
          * The multiblock definition
          */
@@ -42,19 +42,49 @@ MMREvents.machines(catalyst => {
                 ["               ","               ","               ","               ","               ","               ","               ","               ","      pp       ","      pp       ","               ","               ","               ","               ","               "]
             ])
             .keys({
-                "b": ["modular_machinery_reborn:casing_plain"],
+                "b": ['chipped:quartz_block_bricks'],
                 "c": ["#minecraft:dirt"],
                 "d": ["minecraft:oak_wood"],
-                "e": ['#modular_machinery_reborn:energyinputhatch',
-                      "modular_machinery_reborn:casing_plain"],
-                "i": ['#modular_machinery_reborn:fluidinputhatch',
-                      "modular_machinery_reborn:casing_plain"],
-                "j": ['#modular_machinery_reborn:fluidoutputhatch',
-                      "modular_machinery_reborn:casing_plain"],
-                "k": ['#modular_machinery_reborn:itembus',
-                      "modular_machinery_reborn:casing_plain"],
-                "l": ['#modular_machinery_reborn:outputbus',
-                      "modular_machinery_reborn:casing_plain"],
+                "e": [
+                        'chipped:quartz_block_bricks',
+                        '#modular_machinery_reborn:energyinputhatch',
+                        '#modular_machinery_reborn:parallelhatch',
+                        '#modular_machinery_reborn:fluidinputhatch',
+                        '#modular_machinery_reborn:fluidoutputhatch',
+                        '#modular_machinery_reborn:itembus'
+                  ],
+                "i": [
+                        'chipped:quartz_block_bricks',
+                        '#modular_machinery_reborn:energyinputhatch',
+                        '#modular_machinery_reborn:parallelhatch',
+                        '#modular_machinery_reborn:fluidinputhatch',
+                        '#modular_machinery_reborn:fluidoutputhatch',
+                        '#modular_machinery_reborn:itembus'
+                  ],
+                "j": [
+                        'chipped:quartz_block_bricks',
+                        '#modular_machinery_reborn:energyinputhatch',
+                        '#modular_machinery_reborn:parallelhatch',
+                        '#modular_machinery_reborn:fluidinputhatch',
+                        '#modular_machinery_reborn:fluidoutputhatch',
+                        '#modular_machinery_reborn:itembus'
+                  ],
+                "k": [
+                        'chipped:quartz_block_bricks',
+                        '#modular_machinery_reborn:energyinputhatch',
+                        '#modular_machinery_reborn:parallelhatch',
+                        '#modular_machinery_reborn:fluidinputhatch',
+                        '#modular_machinery_reborn:fluidoutputhatch',
+                        '#modular_machinery_reborn:itembus'
+                  ],
+                "l": [
+                        'chipped:quartz_block_bricks',
+                        '#modular_machinery_reborn:energyinputhatch',
+                        '#modular_machinery_reborn:parallelhatch',
+                        '#modular_machinery_reborn:fluidinputhatch',
+                        '#modular_machinery_reborn:fluidoutputhatch',
+                        '#modular_machinery_reborn:itembus'
+                  ],
                 "n": ["minecraft:oak_slab[type=bottom]"],
                 "o": ["minecraft:oak_slab[type=top]"],
                 "p": ["minecraft:oak_leaves[persistent=true]"],

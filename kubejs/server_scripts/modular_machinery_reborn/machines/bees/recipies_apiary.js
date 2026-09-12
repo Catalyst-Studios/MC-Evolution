@@ -25,6 +25,8 @@ let JsonParser = Java.loadClass('com.google.gson.JsonParser');
 
 ServerEvents.recipes(catalyst => {
 
+    let honey_tag = TagKey.create(BuiltInRegistries.FLUID.key(), ResourceLocation.fromNamespaceAndPath("c", "honey"));
+    let honey = SizedFluidIngredient.of(honey_tag, 1000);
     /**
      * @param {string} beeId - The ID suffix of the bee (e.g., 'phil' for 'productivebees:phil').
      * @param {Array} resultItems - Array of output objects { chance, item: {item/tag: id}, max, min }.
@@ -41,8 +43,8 @@ ServerEvents.recipes(catalyst => {
         catalyst.custom({
             type: "productivebees:centrifuge",
             fluid: {
-                amount: 40,
-                fluid: "productivebees:honey"
+                amount: 400,
+                fluid: "create:honey"
             },
             ingredient: {
                 type: "productivebees:component",
@@ -54,6 +56,23 @@ ServerEvents.recipes(catalyst => {
             outputs: allOutputs,
             processingTime: 20
         }).id(`catalyst:productivebees/centrifuge/${beeId}_comb`);
+
+        catalyst.custom({
+            type: "productivebees:centrifuge",
+            fluid: {
+                amount: 100,
+                fluid: "create:honey"
+            },
+            ingredient: {
+                type: "productivebees:component",
+                components: {
+                    "productivebees:bee_type": `productivebees:${beeId}`
+                },
+                items: "productivebees:configurable_honeycomb"
+            },
+            outputs: allOutputs,
+            processingTime: 20
+        }).id(`catalyst:productivebees/centrifuge/${beeId}_honeycomb`);
     };
     
     let skip = [
@@ -193,17 +212,21 @@ ServerEvents.recipes(catalyst => {
                     "type": `productivebees:${keyword}`
                 }
             });
+
             if(!skip.includes(keyword))
             {
                 //The commented one works, but no hearth on emi
                 //let outputComb = `64x productivebees:configurable_comb[productivebees:bee_type="productivebees:${keyword}"]`
-                let outputComb = Item.of('productivebees:configurable_comb', 64, { "productivebees:bee_type": `productivebees:${keyword}` })
+                let outputComb = Item.of('productivebees:configurable_comb', 64, {
+                        "productivebees:bee_type": `productivebees:${keyword}`
+                })
+                
                 catalyst.recipes.modular_machinery_reborn.machine_recipe("mmr:advanced_apiary", time)
                 .progressData(ProgressData.create().x(54).y(20))
                 .width(110)
                 .height(60)
                 .requireEnergyPerTick(20000, 0, 4)
-                .requireFluid('1000x productivebees:honey', 25, 40)
+                .requireFluid(honey, 25, 40)
                 .requireItem(inputEgg, 0, 25, 0)
                 .requireItem(`32x minecraft:honeycomb`, 25, 20)
                 .produceItem(outputComb, 90, 0)
@@ -219,7 +242,7 @@ ServerEvents.recipes(catalyst => {
                 .width(110)
                 .height(60)
                 .requireEnergy(20000, 0, 4)
-                .requireFluid('1000x productivebees:honey', 25, 40)
+                .requireFluid(honey, 25, 40)
                 .requireItem(inputEgg, 0, 25, 0)
                 .requireItem(`32x minecraft:honeycomb`, 25, 20)
                 .produceItem('1x minecraft:rotten_flesh', 90, 0)
@@ -234,7 +257,7 @@ ServerEvents.recipes(catalyst => {
                     .progressData(ProgressData.create().x(54).y(20))
                     .width(110).height(60)
                     .requireEnergy(ENERGY_COST, 0, 4)
-                    .requireFluid('1000x productivebees:honey', 25, 40)
+                    .requireFluid(honey, 25, 40)
                     .requireItem(inputEgg, 0, 25, 0)
                     .requireItem('32x minecraft:honeycomb', 25, 20)
                     .produceItem('1x minecraft:stone', 90, 0)
@@ -286,7 +309,7 @@ ServerEvents.recipes(catalyst => {
         .width(110)
         .height(60)
         .requireEnergy(20000, 0, 4)
-        .requireFluid('1000x productivebees:honey', 25, 40)
+        .requireFluid(honey, 25, 40)
         .requireItem(`1x ${recipe.beeType}`, 0, 25, 0)
         .requireItem(`32x minecraft:honeycomb`, 25, 20)
         .requireFunctionEachTick("apiary_recipe_each")
@@ -345,7 +368,61 @@ ServerEvents.recipes(catalyst => {
         { chance: 1.0, item: { item: "productivebees:sugarbag_honeycomb" }, max: 4, min: 2 }
     ]);
 
+    centrifuge('monazite', [
+        { chance: 1.0, item: { item: "eternalores:gem_monazite" }, max: 4, min: 1 }
+    ]);
+
+    centrifuge('stellarium', [
+        { chance: 0.05, item: { item: "eternalores:stellarium_ingot" }, max: 2, min: 1 }
+    ]);
+
+    centrifuge('biosteel', [
+        { chance: 1.0, item: { item: "eternalores:biosteel_ingot" }, max: 4, min: 1 }
+    ]);
+
+    centrifuge('chromium', [
+        { chance: 1.0, item: { item: "eternalores:chromium_ingot" }, max: 4, min: 1 }
+    ]);
+
+    centrifuge('beryllium', [
+        { chance: 1.0, item: { item: "eternalores:beryllium_ingot" }, max: 4, min: 1 }
+    ]);
+
+    centrifuge('silicon', [
+        { chance: 1.0, item: { item: "eternalores:silicon" }, max: 16, min: 4 }
+    ]);
+
+    centrifuge('graphite', [
+        { chance: 1.0, item: { item: "eternalores:graphite_ingot" }, max: 1, min: 1 }
+    ]);
+
+    centrifuge('coal', [
+        { chance: 0.6, item: { item: "minecraft:coal" }, max: 12, min: 1 },
+        { chance: 0.25, item: { item: "minecraft:charcoal" }, max: 8, min: 1 },
+        { chance: 0.125, item: { item: "eternalores:anthracite_coal" }, max: 4, min: 1 },
+        { chance: 0.125, item: { item: "eternalores:bituminous_coal" }, max: 4, min: 1 },
+        { chance: 0.075, item: { item: "eternalores:coke_coal" }, max: 4, min: 1 },
+        { chance: 0.075, item: { item: "eternalores:lignite_coal" }, max: 2, min: 1 },
+        { chance: 0.075, item: { item: "eternalores:peat_coal" }, max: 2, min: 1 }
+    ]);
+
     console.log("[CatJS] Finished centrifuges recipes")
+})
+
+MMREvents.extraTooltips(event => {
+    event.create("mmr:advanced_apiary", 'item')
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.item.1"))
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.item.2"))
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.item.3"))
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.item.4"))
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.item.5"))
+
+    event.create("mmr:advanced_apiary", 'gui')
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.gui.1"))
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.gui.2"))
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.gui.3"))
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.gui.4"))
+    .add(Component.translatable("catalyst.mmr.tooltip.advanced_apiary.gui.5"))
 })
 
 MMREvents.recipeFunction("apiary_recipe_each", catalyst => {
@@ -379,14 +456,12 @@ MMREvents.recipeFunction("apiary_recipe_each", catalyst => {
                     let attribute = geneGroup.attribute();
                     let value = geneGroup.value();
                     let purity = geneGroup.purity();
-                    
                     if(purity.equals($Integer.valueOf("100")))
                     {
                         let traitValue = value.includes(".") 
                             ? value.toString().split("[.]")[1] 
                             : value;
-                            
-                        switch(attribute)
+                        switch(attribute.getSerializedName())
                         {
                             case "weather_tolerance":
                                 weatherTrait = traitValue;
@@ -471,45 +546,59 @@ function calculateCombBonus(inputItems, values)
     for(let i = 0; i < inputItems.size(); i++)
     {
         let item = inputItems.get(i);
-        if (!item || item.isEmpty()) continue;
+        if(!item || item.isEmpty()) continue;
 
-        // Count productivity upgrades
-        if (upgradeCount < 4 && item.id == 'productivelib:upgrade_productivity_4') {
+        // 1. Conteo de Upgrades (máximo 4)
+        if(upgradeCount < 4 && item.id == 'productivelib:upgrade_productivity_4')
+        {
             let countToAdd = Math.min(item.count, 4 - upgradeCount);
             upgradeCount += countToAdd;
         }
 
         //Sugarbag boost
-        if (item.id == 'productivebees:sugarbag_honeycomb')
+        if(item.id == 'productivebees:sugarbag_honeycomb')
         {
             hasSugarbag = true;
         }
 
-        // 3. Detectar Genes (Honey Treat)
-        if(item.id == 'productivebees:honey_treat' && item.componentMap.has("productivebees:gene_group_list"))
+        //Genes
+        if(item.id == 'productivebees:honey_treat')
         {
             let geneGroupList = item.componentMap.get("productivebees:gene_group_list");
-            for(let j = 0; j < geneGroupList.size(); j++)
+            if(geneGroupList)
             {
-                let gene = geneGroupList.get(j);
-                if(gene.attribute() == "productivity" && gene.purity().equals($Integer.valueOf("100")))
+                for(let j = 0; j < geneGroupList.size(); j++)
                 {
-                    let val = gene.value().toString();
-                    productivityTrait = val.includes(".") ? val.split(".")[1] : val;
+                    let geneGroup = geneGroupList.get(j);
+                    let attribute = geneGroup.attribute();
+                    let value = geneGroup.value();
+                    let purity = geneGroup.purity();
+
+                    if(purity.equals($Integer.valueOf("100")))
+                    {
+                        let traitValue = value.includes(".") 
+                            ? value.toString().split("[.]")[1] 
+                            : value;
+                            
+                        if(attribute.getSerializedName() == "productivity")
+                        {
+                            productivityTrait = traitValue;
+                        }
+                    }
                 }
             }
         }
     }
-
-    if (upgradeCount > 0) combBonus += upgradeCount * 16;
-    if (hasSugarbag) combBonus += values.sugarbag;
     
-    if(productivityTrait)
+    //Upgrades
+    if(upgradeCount > 0) combBonus += (upgradeCount * 16);
+    
+    //Sugarbag 
+    if(hasSugarbag) combBonus += values.sugarbag;
+
+    if(productivityTrait && values[productivityTrait])
     {
-        if(values[productivityTrait])
-        {
-            combBonus += values[productivityTrait];
-        }
+        combBonus += values[productivityTrait];
     }
 
     return combBonus;

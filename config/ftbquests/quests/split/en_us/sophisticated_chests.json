@@ -1,0 +1,220 @@
+{
+    "quest.0380208C7651BFAE.quest_desc": [
+        "Similar to &6chests&r, you need to convert your old &a&rbarrels&r to &dupgraded&r versions, which is just a &credstone&r torch.",
+        "",
+        "There is a &6copper&r version, but it isn't worth it, go for iron &bdirectly&r!",
+        "",
+        "Unlike &6chests&r, these can acts as a &adrawer&r too, but they are a bit &5worse&r"
+    ],
+    "quest.0380208C7651BFAE.title": "Before the disaster",
+    "quest.05AB87A66A21B3AB.quest_desc": [
+        "A &eStonecutter&r inside a &6chest&r/&abarrel&r? We need a &dfurnace&r too!"
+    ],
+    "quest.05AB87A66A21B3AB.quest_subtitle": "Cutting?",
+    "quest.0939481C74A10264.quest_desc": [
+        "This is sadly only 2 &adouble&r &6chests&r.",
+        "",
+        "But at least you have 4 &dupgrades&r"
+    ],
+    "quest.0939481C74A10264.quest_subtitle": "Storing the universe",
+    "quest.0AA62BB30D9DD1BC.quest_desc": [
+        "Basically &binput&r and &coutput&r all the needed &eitems&r or &5results&r"
+    ],
+    "quest.0AA62BB30D9DD1BC.quest_subtitle": "Auto smoking furnace",
+    "quest.0E77237CFA4F41F5.quest_desc": [
+        "This acts like 2 &abarrels&r but only on 1 block, &ehandy&r if you tell me.",
+        "",
+        "It just &bcosts&r some &7iron&r ingots or if you want to &asave&r a few of them, you can use that &6copper&r chest if you have lots of &6copper&r"
+    ],
+    "quest.0E77237CFA4F41F5.quest_subtitle": "The fish farm",
+    "quest.14D304CB811AF739.quest_desc": [
+        "Some &6planks&r and &7iron&r ingots give you the &dbases&r for tremendous &cstorages&r"
+    ],
+    "quest.14D304CB811AF739.quest_subtitle": "The universe at your hand",
+    "quest.15A332FAA18CB017.quest_desc": [
+        "More &6filtering&r and &dallows&r you to compress 3x3 and 2x2 like &bice&r or &damethyst&r!"
+    ],
+    "quest.15A332FAA18CB017.quest_subtitle": "&amelon&r.zip",
+    "quest.19A215B0F2B8A946.quest_desc": [
+        "&cFaster&r!!!!"
+    ],
+    "quest.1A1243998651F777.quest_desc": [
+        "Compress &eitems&r, &conly&r those who has a 2x2 version, like &damethyst&r"
+    ],
+    "quest.1A1243998651F777.quest_subtitle": "&damethyst&r.zip",
+    "quest.1BA34FB110F0EA0F.quest_desc": [
+        "Yep, a &ecrafting&r table inside a &6chest&r/&abarrel&r"
+    ],
+    "quest.1BA34FB110F0EA0F.quest_subtitle": "Crafting in a chest?",
+    "quest.1CC6B4A6A81F0540.quest_desc": [
+        "More &dfiltering&r!"
+    ],
+    "quest.1DA250D8C7194C82.quest_desc": [
+        "This is similar to &bLinking&r Tool and &aConfiguration&r Tool from &aFunctional&r Drawers"
+    ],
+    "quest.1DA250D8C7194C82.quest_subtitle": "Linker",
+    "quest.22CD879855746D48.quest_desc": [
+        "Similar to &abarrels&r, you need to convert your old &6chests&r to &dupgraded&r versions, which is just a &credstone&r torch.",
+        "",
+        "There is a &6copper&r version, but it isn't worth it, go for iron &bdirectly&r!"
+    ],
+    "quest.22CD879855746D48.quest_subtitle": "Entering the mod",
+    "quest.22CD879855746D48.title": "Before the madness",
+    "quest.22D36F1F66FE6082.quest_desc": [
+        "This is sadly only 4 &abarrels&r.",
+        "",
+        "But at least you have 4 &dupgrades&r"
+    ],
+    "quest.22D36F1F66FE6082.quest_subtitle": "A family can live here",
+    "quest.237F1340DB1B1FEE.quest_desc": [
+        "Allows you to &binput&r and &coutput&r items from all connected &dstorages&r",
+        "",
+        "There are also only &binput&r blocks and &coutput&r blocks if you are &ainterested&r, no &dextra&r cost"
+    ],
+    "quest.237F1340DB1B1FEE.quest_subtitle": "In and out",
+    "quest.28DBC2EA4DEB13C1.quest_desc": [
+        "More &dfiltering&r!"
+    ],
+    "quest.28F7E7830637F31D.quest_desc": [
+        "Basically, it &dallows&r you to &cstore&r 4 times more in each &6slots&r"
+    ],
+    "quest.28F7E7830637F31D.quest_subtitle": "Even more?",
+    "quest.2B58BBF81515DD48.quest_desc": [
+        "This mod is about &cstorage&r, this time around &6chests&r and &abarrels&r.",
+        "",
+        "They provide &dupgrades&r, like more &eitems&r in a slot, &bfiltering&r and &cvoiding&r!",
+        "",
+        "There are a lot of &5upgrades&r and &dstorage&r, check them out!"
+    ],
+    "quest.2B58BBF81515DD48.quest_subtitle": "Storing the world",
+    "quest.2B58BBF81515DD48.title": "The other &cstorage",
+    "quest.2EFCF9D468B4807E.quest_desc": [
+        "In order to &dmove&r your &6chests&r/&abarrels&r with no mess, you will need to &duse&r the almighty &bpacking tape&r on it first."
+    ],
+    "quest.2EFCF9D468B4807E.quest_subtitle": "Packing the world",
+    "quest.32E928CCA34C266B.quest_desc": [
+        "You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios.",
+        "",
+        "&bSoph Storage&r questline made by: &dHancock4903&r and &cTito&ep&c54&r",
+        "",
+        "If you are seeing this, it means you are in editing mode."
+    ],
+    "quest.32E928CCA34C266B.quest_subtitle": "These amazing quests were made for &4Catalyst Studios&r",
+    "quest.32E928CCA34C266B.title": "&l&4Catalyst Studios Quests",
+    "quest.33CDF889D6BEA2E3.quest_desc": [
+        "Basically &binput&r and &coutput&r all the needed &eitems&r or &5results&r"
+    ],
+    "quest.33CDF889D6BEA2E3.quest_subtitle": "Auto furnace",
+    "quest.33F13B95FF0DB5E1.quest_desc": [
+        "This is the new &6chest&r, the &abarrel&r.",
+        "",
+        "If has some &dimprovements&r over the &6chest&r, cheaper but can't be &bexpanded&r"
+    ],
+    "quest.33F13B95FF0DB5E1.quest_subtitle": "Storing the dirt?",
+    "quest.37C2435E327EFF1B.quest_desc": [
+        "3 &abarrels&r in 1 blocks? And only some &egold&r?"
+    ],
+    "quest.37C2435E327EFF1B.quest_subtitle": "A lot of space",
+    "quest.37FEFBA176B0E030.quest_desc": [
+        "This is &dprobably&r your first &cstorage&r, if you haven't found another while &aexploring&r.",
+        "",
+        "This is your best &efriend&r, and probably one of the &6most&r used &eitems&r in the entire &5game&r"
+    ],
+    "quest.37FEFBA176B0E030.quest_subtitle": "Old school",
+    "quest.3DCC894DDE82C6DD.quest_desc": [
+        "This acts like a &ddouble&r &6chest&r but only on 1 block, &ehandy&r if you tell me.",
+        "",
+        "It just &bcosts&r some &7iron&r ingots or if you want to &asave&r a few of them, you can use that &6copper&r chest if you have lots of &6copper&r"
+    ],
+    "quest.3DCC894DDE82C6DD.quest_subtitle": "The first real storage",
+    "quest.40732110998F3FF3.quest_desc": [
+        "Basically, it &dallows&r you to &cstore&r 2 times more in each &6slots&r"
+    ],
+    "quest.40732110998F3FF3.quest_subtitle": "More?",
+    "quest.425AD25A26199AD6.quest_desc": [
+        "The &6chest&r/&abarrel&r starts to act as a &7hopper&r"
+    ],
+    "quest.425AD25A26199AD6.quest_subtitle": "Hopperium",
+    "quest.442CEC2F432D28A7.quest_desc": [
+        "&dBasically&r a blasting &7furnace&r on a &6chest&r"
+    ],
+    "quest.442CEC2F432D28A7.quest_subtitle": "A blast furnace on a chest?",
+    "quest.44E4EDC88E6809F6.quest_desc": [
+        "&6Feeding&r the player with &afood&r? What is this? A &dbackpack&r?"
+    ],
+    "quest.44E4EDC88E6809F6.quest_subtitle": "Feeder",
+    "quest.4815C1536BE93552.quest_desc": [
+        "&6Chests&r/&abarrels&r can pick &eitems&r near them?"
+    ],
+    "quest.4815C1536BE93552.quest_subtitle": "Picker",
+    "quest.52B20ACD72693EAE.quest_desc": [
+        "&dSadly&r, this is not 5 &6chests&r, its just 4.888888... &6chests&r, but still you have more &5upgrades&r, maybe using some &cstack&r &bupgrades&r?"
+    ],
+    "quest.52B20ACD72693EAE.quest_subtitle": "Storing reality",
+    "quest.539D1A0A0DBD8361.quest_desc": [
+        "Basically &binput&r and &coutput&r all the needed &eitems&r or &5results&r"
+    ],
+    "quest.539D1A0A0DBD8361.quest_subtitle": "Auto blasting furnace",
+    "quest.5429848AD5250CF6.quest_desc": [
+        "Connects &cstorages&r out of the range to the same &dcontroller&r"
+    ],
+    "quest.5429848AD5250CF6.quest_subtitle": "Connector",
+    "quest.56A68BF3F4021002.quest_desc": [
+        "Acts similar to a &aFunctional&r Drawers' &dcontroller&r"
+    ],
+    "quest.56A68BF3F4021002.quest_subtitle": "Controller",
+    "quest.5955BACB5F4570FA.quest_desc": [
+        "Basically, it &dallows&r you to &cstore&r 8 times more in each &6slots&r"
+    ],
+    "quest.5955BACB5F4570FA.quest_subtitle": "MOAR?!?!",
+    "quest.5C5FFD4BD4FE34A2.quest_desc": [
+        "You need a &ctorch&r to craft the Soph &6chests&r/&6barrels&r"
+    ],
+    "quest.5C5FFD4BD4FE34A2.quest_subtitle": "&cRedstone&r = &dON",
+    "quest.5E073AF14CFEA0D9.quest_desc": [
+        "&dSadly&r, this is not 5 &abarrels&r, its just 4.888888... &abarrels&r, but still you have more &5upgrades&r, maybe using some &cstack&r &bupgrades&r?"
+    ],
+    "quest.5E073AF14CFEA0D9.quest_subtitle": "The universe can live here",
+    "quest.609A6A3D7542871A.quest_desc": [
+        "Allows you to &dcompress&r and &6decompress&r automatically, like you needing &credstone&r dust but you only have &credstone&r &6blocks&r or viceversa"
+    ],
+    "quest.609A6A3D7542871A.quest_subtitle": "Best friend?",
+    "quest.60BCCB2B8C9E42AB.quest_desc": [
+        "Basically, it &dallows&r you to &cstore&r 16 times more in each &6slots&r"
+    ],
+    "quest.60BCCB2B8C9E42AB.quest_subtitle": "Yes, more",
+    "quest.6403DA4C09139414.quest_desc": [
+        "Plays any &emusic&r discs"
+    ],
+    "quest.6403DA4C09139414.quest_subtitle": "The annoying",
+    "quest.641BB1F13CF4F48A.quest_desc": [
+        "Basically, it &dallows&r you to &cstore&r 32 times more in each &6slots&r"
+    ],
+    "quest.641BB1F13CF4F48A.quest_subtitle": "Yes, the best",
+    "quest.66BC6A0B809EABCA.quest_desc": [
+        "With this &dupgrade&r, you have a vaccum but in a &6chest&r/&abarrel&r"
+    ],
+    "quest.66BC6A0B809EABCA.quest_subtitle": "Wireless walking",
+    "quest.6E07DFE51AA6C86F.quest_desc": [
+        "More &dfiltering&r!"
+    ],
+    "quest.7004FCBFA061310B.quest_desc": [
+        "&dBasically&r a smoking &7furnace&r on a &6chest&r"
+    ],
+    "quest.7004FCBFA061310B.quest_subtitle": "A smokin furnace on a chest?",
+    "quest.752F656ED9169978.quest_desc": [
+        "Filter which &eitems&r can go &bin&r / &cout&r from a &6chest&r/&abarrel&r"
+    ],
+    "quest.752F656ED9169978.quest_subtitle": "********",
+    "quest.759A9E106F6E1F0E.quest_desc": [
+        "&dBasically&r a &7furnace&r on a &6chest&r"
+    ],
+    "quest.759A9E106F6E1F0E.quest_subtitle": "The furnace",
+    "quest.7BB5B079FA01B7D3.quest_desc": [
+        "More &dfiltering&r!"
+    ],
+    "quest.7F64B800348E4694.quest_desc": [
+        "3 &6chests&r in 1 blocks? And only some &egold&r?"
+    ],
+    "quest.7F64B800348E4694.quest_subtitle": "Storing the world"
+}

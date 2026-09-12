@@ -5,7 +5,7 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 MMREvents.machines(catalyst => {
     catalyst.create("mmr:multismelter")
         .color('#0016161A')
-        .name('MultiSmelter')
+        .name(Component.translatable("catalyst.mmr.machine.multismelter"))
         .structure(
         MMRStructureBuilder.create()
         .pattern([
@@ -22,23 +22,23 @@ MMREvents.machines(catalyst => {
         '#modular_machinery_reborn:itembus',
         '#modular_machinery_reborn:energyhatch'],
         "b":"create_new_age:reactor_casing",
-        "c":"modular_machinery_reborn:casing_reinforced[connect_textures=true]",
-        "d":"mekanism:superheating_element[active=false]",
+        "c":"modular_machinery_reborn:casing_reinforced",
+        "d":"mekanism:superheating_element",
         "e":"minecraft:blue_ice",
         "f":"minecraft:polished_blackstone_wall[east=none+north=none+south=none+up=true+waterlogged=false+west=none]",
-        "h":"sophisticatedstorage:barrel[facing=east+flat_top=false+open=false+ticking=false]",
+        "h":"#c:barrels",
         "i":"rechiseled:blackstone_polished_stairs_connecting[facing=north+half=bottom+shape=straight+waterlogged=false]",
         "j":"minecraft:air]",
         "k":"rechiseled:blackstone_polished_stairs_connecting[facing=west+half=bottom+shape=straight+waterlogged=false]",
-        "l":"minecraft:lava[level=0]",
+        "l":"minecraft:magma_block",
         "n":"factory_blocks:fan_on[facing=east]",
-        "o":"modular_machinery_reborn:casing_vent[connect_textures=true]",
+        "o":"modular_machinery_reborn:casing_vent",
         "p":"factory_blocks:fan_on[facing=west]",
         "q":"rechiseled:blackstone_polished_stairs_connecting[facing=east+half=bottom+shape=straight+waterlogged=false]",
         "r":"rechiseled:blackstone_polished_stairs_connecting[facing=south+half=bottom+shape=straight+waterlogged=false]",
         "s":"immersiveengineering:steel_catwalk[dye=white+east=false+north=false+south=false+waterlogged=false+west=false]",
-        "t":"modular_machinery_reborn:energyinputhatch_ultimate[connect_textures=true]",
-        "u":"modular_machinery_reborn:casing_firebox[connect_textures=true]",
+        "t":"#modular_machinery_reborn:energyhatch",
+        "u":"modular_machinery_reborn:casing_firebox",
         "v":"minecraft:tinted_glass",
         "w":"minecraft:polished_blackstone_wall",
         "x":"minecraft:polished_blackstone_wall",
